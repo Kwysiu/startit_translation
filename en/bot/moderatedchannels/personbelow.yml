@@ -1,0 +1,12 @@
+# send_message
+185_815_931: "Yes"
+185_991_859: "No"
+
+# on_message_component_personbelow
+185_398_051: "You can't respond to your own message."
+185_854_876: "New Yes/No question"
+185_119_687: "Question to ask user below"
+
+# on_message_component_personbelow_form
+185_888_678: "No"
+185_679_423: "Yes"
