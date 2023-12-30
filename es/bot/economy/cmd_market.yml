@@ -1,31 +1,31 @@
 # on_message_component_v1_market
-185_942_777: "No permission"
+185_942_777: "Sin permiso"
 
 # send_market
-185_499_261: "There are no items on the market."
-185_076_062: "Market"
-185_180_286: "{0} for {1}"
+185_499_261: "No hay artículos en el mercado."
+185_076_062: "Mercado"
+185_180_286: "{0} por {1}"
 185_709_604: "－ {1}
- － Seller: {0} "
-185_864_883: "Page {0}/{1}"
+ － Vendedor: {0} "
+185_864_883: "Página {0}/{1}"
 
 # market_sell
-185_700_840: "Invalid syntax"
-185_775_783: "You can only remove 50 items at once"
-185_821_485: "User doesn't have enough items."
-185_777_210: "Unknown item."
-185_372_552: "This item cannot be sold."
-185_503_256: "User doesn't have this item."
-185_473_986: "Item put on the market"
-185_298_170: "You put {0}x {1} for {2}."
+185_700_840: "Sintaxis inválida"
+185_775_783: "Solo puedes eliminar 50 artículos a la vez"
+185_821_485: "El usuario no tiene suficientes artículos."
+185_777_210: "Artículo desconocido."
+185_372_552: "Este artículo no puede ser vendido."
+185_503_256: "El usuario no tiene este artículo."
+185_473_986: "Artículo puesto en el mercado"
+185_298_170: "Has puesto {0}x {1} por {2}."
 
 # market_buy
-185_435_705: "Item not found."
-185_028_873: "Item not found."
-185_338_522: "You don't have **{0}** to buy this item."
-185_233_369: "Money has been transferred to <@{0}>
-You can get list of all your items by typing ` {1}backpack `."
-185_587_333: "New item added to your backpack:"
+185_435_705: "Artículo no encontrado."
+185_028_873: "Artículo no encontrado."
+185_338_522: "No tienes **{0}** para comprar este artículo."
+185_233_369: "El dinero ha sido transferido a <@{0}>
+Puedes obtener una lista de todos tus artículos escribiendo ` {1}backpack `."
+185_587_333: "Nuevo artículo añadido a tu mochila:"
 
 # market
-185_202_890: "Market commands"
+185_202_890: "Comandos de mercado"
