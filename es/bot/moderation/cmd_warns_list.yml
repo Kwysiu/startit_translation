@@ -2,18 +2,18 @@
 185_883_509: "### {0}. {1}"
 185_994_899: " - **{1} p**, <t:{0}> "
 185_534_293: " - Mod: {0}"
-185_996_026: " - Ends at: {0}"
+185_996_026: " - Termina en: {0}"
 
 # send_embed
-185_009_963: "This user doesn't exists in our database."
-185_314_635: "Last warnings{0}"
-185_705_420: "{0} has no warnings."
+185_009_963: "Este usuario no existe en nuestra base de datos."
+185_314_635: "Últimas advertencias{0}"
+185_705_420: "{0} no tiene advertencias."
 
 # warns
-185_098_277: "Commands"
-185_674_739: "`{0}warns clear-all <user>` - Clear all warns from user
-`{0}warns clear <user> <no>` - Clear warn from user
-`{0}warns edit-reason <user> <no> <reason>` - Edit warn reason
-`{0}warns info <user> <no>` - Show warn info
-`{0}warns list <user>` - Show warns list
+185_098_277: "Comandos"
+185_674_739: "`{0}warns clear-all <user>` - Borrar todas las advertencias del usuario
+`{0}warns clear <user> <no>` - Borrar advertencia del usuario
+`{0}warns edit-reason <user> <no> <reason>` - Editar razón de advertencia
+`{0}warns info <user> <no>` - Mostrar información de advertencia
+`{0}warns list <user>` - Mostrar lista de advertencias
 "
