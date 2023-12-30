@@ -1,9 +1,10 @@
 # on_message_component_v1_eco_change_nickname
-185_212_193: "You can't change someone else's nickname"
-185_616_443: "Edit nickname"
-185_823_767: "New nickname"
+185_212_193: "No puedes cambiar el apodo de otra persona"
+185_616_443: "Editar apodo"
+185_823_767: "Nuevo apodo"
 
 # on_message_component_v1_eco_change_nickname_modal
-185_604_116: "You can't change someone else's nickname"
-185_750_749: "You cannot use this command for: {0}."
-185_763_457: "Your nickname has been changed"
+185_604_116: "No puedes cambiar el apodo de otra persona"
+185_750_749: "No puedes usar este comando para: {0}."
+185_763_457: "Tu apodo ha sido cambiado"
+
