@@ -1,0 +1,18 @@
+# on_task_roulette_end
+185_368_884: "Udany zakład w ruletce"
+185_522_579: "Zwycięzcy:"
+185_875_406: "Nikt nie wygrał :("
+185_411_612: "zielonym"
+185_477_076: "czerwonym"
+185_414_441: "czarnym"
+185_876_294: "Piłka wylądowała na: **{0} {1}**"
+
+# roulette
+185_461_366: "Nieprawidłowy argument \"space\". Spróbuj: `{0}`"
+185_068_271: "Minimalna kwota zakładu to {0}"
+185_143_928: "Maksymalna kwota zakładu to {0}"
+185_455_300: "Nie możesz grać w ruletkę przez: {0}."
+185_362_343: "Zakład w ruletce"
+185_193_182: "Postawiłeś zakład o wartości {0} na `{1}`."
+185_612_740: "Czas do końca:"
+185_884_816: "sek."

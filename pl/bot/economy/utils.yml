@@ -1,0 +1,25 @@
+# translate_error
+185_515_417: "Próbujesz wysłać negatywną wartość pieniędzy"
+185_470_969: "Nie masz wystarczająco pieniędzy"
+
+# custom_reply
+185_647_835: "
+
+Spróbuj jeszcze raz <t:{0}:R>
+Saldo: {1}"
+185_190_040: "
+
+Zarób więcej <t:{0}:R>
+Saldo: {1}"
+
+# modlog_send
+185_126_692: "Nieznany kanał"
+185_418_752: "Zaktualizowano saldo"
+185_759_074: "**Użytkownik:** {0}
+**Ilość:** Gotówka: {1} | Bank: {2}
+**Kanał:** {3}
+**Powód:** {4}"
+
+# iter_buttons
+185_267_959: "Poprzednia Strona"
+185_042_437: "Następna Strona"

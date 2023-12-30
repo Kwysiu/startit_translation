@@ -1,0 +1,105 @@
+# cmd_lookup
+185_406_672: "Befehle: "
+185_596_417: "Falsche Nutzung"
+
+# cmd_lookup_user
+185_646_831: "<:information:868952803006091264> {} - Information"
+185_437_421: "<@!{0}>
+**Link zu einem Profilbild: **[Klick hier]({1})"
+185_613_780: "Benutzer hat StartIT Plus"
+185_549_858: "BENUTZER ID"
+185_694_868: "Discord beigetreten"
+185_412_467: "Server beigetreten"
+185_505_613: "Rollen"
+185_578_313: "Bewertungen ({})"
+185_375_274: "Bewertung an ReviewDB schreiben"
+
+# on_message_component_post_review
+185_017_006: "Bewertung an ReviewDB veröffentlichen"
+185_178_820: "Bewertung"
+185_913_187: "Spammen und verfassen von aggressiven Bewertungen endet in einem Bann. Sei bitte respektvoll zu anderen Menschen."
+
+# on_message_component_post_review_submit
+185_890_920: "Bewertung aktualisiert"
+185_686_076: "Bewertung veröffentlicht"
+185_961_539: "Fehler"
+
+# cmd_lookup_role
+185_770_494: "Ja"
+185_206_382: "Nein"
+185_235_743: "Rolleninformation - {}"
+185_804_978: "<@&{0}>
+**Rollen-ID: **{1}
+**Rollenposition: **{2}
+**Seperat sichtbar: **{3}
+**Erwähnbar: **{4}
+**Gemanaged: **{5}
+**ERstellt am: **{6}"
+185_819_703: "
+**Rollenfarbe: **{0}"
+185_837_487: "Berechtigungen"
+185_662_834: "
+Boosrolle des Servers"
+185_004_705: "
+**Botrolle:** {}"
+
+# cmd_lookup_channel
+185_793_407: "Text"
+185_928_780: "DM"
+185_053_722: "Voice"
+185_537_245: "Gruppen-DM"
+185_860_801: "Kategorie"
+185_121_680: "Neugikeiten"
+185_247_445: "Store"
+185_745_993: "Neuigkeiten-Thread"
+185_159_529: "Öffentlicher Thread"
+185_839_723: "Privater Thread"
+185_934_901: "Stage Voice"
+185_911_922: "Ja"
+185_852_864: "Nein"
+185_309_300: "<#{0}>
+**Kanal-ID: **{1}
+**Kanaltyp: **{2}
+**NSFW-Kanal: **{3}
+**Kanal erstellt am: **{4}"
+185_601_713: "
+**Kanalposition: **{0}"
+185_366_217: "
+**Kanalthema: **{0}"
+185_486_217: "
+**Kanaleltern: **{0}"
+185_308_968: "
+**Kanalbitrate: **{0}"
+185_614_782: "
+**Kanalbenutzerlimit: **{0}"
+185_940_596: "
+**Kanaleigentümer: **{0}"
+185_205_646: "Erlaubt: "
+185_214_994: "Verweigert: "
+185_509_141: "Benutzerberechtigungen"
+185_675_819: "Rollenberechtigungen"
+
+# cmd_lookup_server
+185_151_428: "**SERVERFUNKTIONEN:**"
+185_097_822: "<:overview:868953016282271745>**OVERVIEW**
+**ID:** {0} 
+**EIGENTÜMER:** <@{1}>
+**Server erstellt am: ** <t:{2}>
+**Link zum Icon:** [Klick hier](https://cdn.discordapp.com/icons/{0}/{3}?size=1024)
+**Rolle:** {4}
+
+<:boosts:868953110758957066>**BOOSTS**
+**Level Boosts:** {5}
+**Boosts:** {6}
+
+<:users:868953499038281738>**MITGLIEDER**
+<:users:868953499038281738> {7} • <:bots:868953478268092436> {8}
+
+<:channels:868954276121157634> **KANÄLE**
+<:channels:868954276121157634> {9} • <:category:868954251076964383> {10} • <:text_channel:868954234689843220> {11} • <:voice_channel:868954221712637983> {12} • <:news_channel:868954207250694205> {13}
+
+:slight_smile: **EMOJI**
+Animierte: **{14}** • Feste: **{15}** • Alle: **{16}**
+
+{17}
+{18}"

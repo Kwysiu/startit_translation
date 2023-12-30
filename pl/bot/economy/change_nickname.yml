@@ -1,0 +1,9 @@
+# on_message_component_v1_eco_change_nickname
+185_212_193: "Nie możesz zmienić pseudonimu kogoś innego"
+185_616_443: "Zmiana pseudonimu"
+185_823_767: "Nowy pseudonim"
+
+# on_message_component_v1_eco_change_nickname_modal
+185_604_116: "Nie możesz zmienić pseudonimu kogoś innego"
+185_750_749: "Nie możesz używać tej komendy przez: {0}."
+185_763_457: "Twój pseudonim został zmieniony"

@@ -1,0 +1,55 @@
+# tic_tac_toe
+185_402_502: "Ähm... das ist ein Bot."
+185_738_983: "Tic Tac Toe"
+185_808_675: "Du kannst nicht mit dir selber spielen"
+185_431_583: "Minimualeinsatz {0}"
+185_025_696: "Maximaleinsatz {0}"
+185_936_904: "Tic Tac Toe"
+185_202_055: "Du kannst nicht mit diesem Benutzer für {0} Sekunden spielen."
+185_597_618: "Du kannst nur ein Spiel spielen."
+185_402_212: "Dieser Benutzer spielt schon gerade mit jemanden."
+185_260_208: "Tic-tac-toe"
+185_177_976: "{} du hast eine Einladung zu einem Tic-tac-toe Spiel von {} bekommen.{}Preis: {}
+Du akzeptierst das Spiel von {}."
+185_511_362: "Akzeptieren"
+185_798_254: "Ablehnen"
+
+# on_task_tic_tac_toe
+185_669_820: "Tic-tac-toe, Geld zurück"
+185_157_749: "Tic-tac-toe"
+185_466_508: "Tic-tac-toe-Runde wurde abgebrochen."
+
+# on_message_component_v1_tic_tac_toe
+185_519_393: "Tic-tac-toe"
+185_527_022: "Du kannst dieses Spiel nicht annehmen."
+185_599_080: "Du kannst dieses Spiel nicht ablehnen"
+185_441_237: "Tic-tac-toe"
+185_864_931: "Tic-tac-toe-Runde wurde abgebrochen."
+185_798_898: "Tic-tac-toe"
+185_417_933: "Tic-tac-toe"
+185_928_047: "{} ist dran."
+185_565_358: "Du hast noch {} für deine Runde."
+
+# on_message_component_v1_tic_tac_toe_game
+185_548_456: "Tic-tac-toe"
+185_286_122: "Du kannst hier nicht mitspielen."
+185_939_109: "Tic-tac-toe Geld zurück"
+185_605_974: "Tic-tac-toe"
+185_477_327: "Fehler."
+185_249_663: "Tic-tac-toe"
+185_699_734: "Du bist nicht dran."
+185_344_689: "{} hat gewonnen!"
+185_102_937: "Tic-tac-toe Gewinner"
+185_222_658: "**UNENTSCHIEDEN**"
+185_374_639: "Tic-tac-toe Unentschieden"
+
+# gen_embed
+185_199_320: "Tic-tac-toe"
+185_780_932: "{} ist dran."
+185_336_237: "Du hast noch {} für deine Runde."
+
+# on_task_tic_tac_toe_game
+185_427_423: "Tic-tac-toe"
+185_791_309: "{} hat gewonnen!"
+185_999_642: "Tic-tac-toe Unentschieden"
+185_065_587: "Tic-tac-toe Sieg"

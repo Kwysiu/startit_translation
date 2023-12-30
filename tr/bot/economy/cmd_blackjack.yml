@@ -1,0 +1,42 @@
+# end_screen
+185_164_997: "Çiz:"
+185_851_868: "Blackjack'te berabere kaldın"
+185_339_827: "Kazandın:"
+185_776_153: "Blackjack'te kazan"
+185_509_310: "Kaybettin:"
+185_650_140: "Blackjack'te kaybettin"
+185_586_220: "Oyun sona erdi"
+185_633_181: "Senin Sıran"
+185_583_671: "Miktar"
+185_715_020: "Dağıtıcının sırası"
+185_093_203: "Miktar"
+
+# do_action
+185_015_403: "İptal edildi."
+185_186_978: "Geç: /blackjack"
+185_850_961: "Geç: /blackjack"
+185_285_765: "Krupiyenin blackjack'i var ve bahsin %50'si sigortadan geliyor."
+185_276_623: "İki katı: /blackjack"
+185_930_616: "Krupiyede blackjack var."
+185_075_705: "Krupiye 21 puanı geçti."
+185_650_952: "Krupiye blackjack'e senden daha yakın."
+185_153_912: "Blackjack'e krupiyeden daha yakınsın."
+185_875_560: "Blackjack'iniz var."
+185_268_594: "Blackjack'iniz var."
+185_557_948: "Krupiyeyle blackjack yaptın."
+185_569_531: "21 puanı geçtiniz."
+185_222_025: "Senin Sıran"
+185_871_052: "Miktar"
+185_522_811: "Krupiyenin sırası"
+185_861_989: "Miktar"
+185_021_771: "Kalan kartlar: {0}"
+
+# is_duplicate
+185_722_329: "Şu anda blackjack oynuyorsunuz. [Buraya tıklayın](https://discord.com/channels/{0}/{1}/{2}), iptal etmek istiyorsanız `cancel` yazın."
+
+# blackjack
+185_914_658: "Minimum bahis miktarı {0}"
+185_512_347: "Maksimum bahis miktarı {0}"
+185_129_815: "Blackjack için {0} oynayamazsınız."
+185_981_939: "/blackjack Başladı"
+185_343_952: "Ters İbraz: /blackjack"

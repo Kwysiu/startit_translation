@@ -1,0 +1,42 @@
+# end_screen
+185_164_997: "Remis:"
+185_851_868: "Remis w /blackjack"
+185_339_827: "Wygrałeś:"
+185_776_153: "Wygrał w /blackjack"
+185_509_310: "Przegrałeś:"
+185_650_140: "Przegrał w /blackjack"
+185_586_220: "Gra zakończona"
+185_633_181: "Twoja ręka"
+185_583_671: "Wartość"
+185_715_020: "Ręka krupiera"
+185_093_203: "Wartość"
+
+# do_action
+185_015_403: "Anulowano."
+185_186_978: "Pass: /blackjack"
+185_850_961: "Pass: /blackjack"
+185_285_765: "Krupier zdobył blackjacka, oddano 50% zakładu z ubezpieczenia."
+185_276_623: "Double: /blackjack"
+185_930_616: "Krupier zdobył blackjacka."
+185_075_705: "Krupier przekroczył 21 punktów."
+185_650_952: "Krupier był bliżej blackjacka."
+185_153_912: "Byłeś bliżej blackjacka od krupiera."
+185_875_560: "Zdobyłeś blackjacka."
+185_268_594: "Zdobyłeś blackjacka."
+185_557_948: "Zdobyłeś z krupierem blackjacka."
+185_569_531: "Przekroczyłeś 21 punktów."
+185_222_025: "Twoja ręka"
+185_871_052: "Wartość"
+185_522_811: "Ręka krupiera"
+185_861_989: "Wartość"
+185_021_771: "Zostało kart: {0}"
+
+# is_duplicate
+185_722_329: "Grasz teraz w blackjacka. [Kliknij tutaj](https://discord.com/channels/{0}/{1}/{2}) lub napisz `cancel`, aby anulować."
+
+# blackjack
+185_914_658: "Minimalna kwota zakładu to {0}"
+185_512_347: "Maksymalna kwota zakładu to {0}"
+185_129_815: "Nie możesz grać w blackjacka przez: {0}."
+185_981_939: "Zaczął /blackjack"
+185_343_952: "Chargeback: /blackjack"

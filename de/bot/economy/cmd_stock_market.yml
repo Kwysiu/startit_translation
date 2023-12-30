@@ -1,0 +1,35 @@
+# stock_market_buy
+185_494_327: "Aktie nicht gefunden"
+185_677_265: "Die Aktie ist zu billig, um sie zu kaufen"
+185_039_264: "Du hast nicht genügend **{0}**, um diese Aktien zu kaufen."
+185_593_906: "Du hast nicht genügend **{0}**, um diese Aktien zu kaufen."
+185_198_793: "Du hast **{0}** für **{1}** gekauft"
+
+# stock_market_sell
+185_038_441: "Aktie nicht gefunden"
+185_024_763: "Du besitzt keine Aktien"
+185_192_362: "Du besitzt diese Aktien nicht"
+185_563_081: "Du hast verkauft:"
+
+# stock_market_info
+185_954_227: "Aktie nicht gefunden"
+185_783_985: "Aktieninformation"
+185_625_986: "Name: {}Symbol: {}Preis: {}"
+
+# stock_market_sell_all
+185_992_858: "Du kannst keine Aktien für andere verkaufen"
+185_697_177: "Du hast verkauft:"
+185_809_593: "Du wirst verkaufen:"
+185_384_474: "Verkaufen"
+
+# stock_market_backpack
+185_735_864: "Aktienrucksack"
+185_629_744: "Kaufpreis: {}Gewinn: {}"
+
+# stock_market_list
+185_614_912: "Aktienliste"
+
+# stock_market
+185_027_160: "Falsche Verwendung"
+185_576_404: "Du musst angeben, was du tun möchtest. {}Verfügbare Befehle: {}"
+185_000_951: "Aktienliste"

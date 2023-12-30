@@ -1,0 +1,31 @@
+# economy_add
+185_621_920: "Konum bağımsız değişkeni boş, `cüzdan` veya `banka` olmalıdır."
+185_162_022: "Hiçbir şey olmadı."
+185_394_123: "{0}: /eco kaldırma komutu"
+185_648_490: "{1} hesabından **{0}** kaldırıldı."
+185_919_432: "{0}: /eco ekleme komutu"
+185_425_583: "{1} hesabına **{0}** eklendi."
+
+# economy_set
+185_641_206: "Konum bağımsız değişkeni boş, `cüzdan` veya `banka` olmalıdır."
+185_946_315: "Hiçbir şey olmadı."
+185_189_710: "{0}: /eco ayar komutu"
+185_726_240: "{1} cüzdanı **{0}** olarak ayarlanmıştır."
+185_190_010: "{1} bakiyesi **{0}** olarak ayarlanmıştır."
+
+# economy
+185_283_990: "Komutlar"
+
+# economy_backpack_add
+185_629_159: "Aynı anda sadece 50 ürün verebilirsiniz"
+185_535_999: "Bilinmeyen öğe"
+185_343_991: "{2} hesabına {0} **{1}** eklendi."
+
+# economy_backpack_remove
+185_707_843: "Tek seferde yalnızca 50 öğeyi kaldırabilirsiniz"
+185_559_794: "Kullanıcı yeterli eşyaya sahip değil."
+185_074_289: "Bilinmeyen öğe"
+185_403_058: "{2} hesabından {0} **{1}** kaldırıldı."
+
+# economy_backpack_clear
+185_417_833: "Kullanıcı {0}'ın sırt çantası temizlendi."

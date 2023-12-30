@@ -1,0 +1,18 @@
+# assert_permissions
+185_925_288: "Bu kullanıcı sizden daha yüksek bir role sahip"
+185_196_213: "Bu kullanıcı korunuyor"
+
+# modlog_send
+185_875_745: "Kullanıcı"
+185_660_558: "Moderatör"
+185_238_144: "Sebep"
+185_559_044: "Ceza Numarası"
+185_385_995: "Süre"
+
+# modlog_send_legacy
+185_673_072: "Moderatör:"
+
+# paginate
+185_224_163: "
+
+Sayfa: {}/{}"

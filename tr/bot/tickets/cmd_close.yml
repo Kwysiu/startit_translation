@@ -1,0 +1,11 @@
+# alert_staff
+185_709_321: "Kullanıcı bu bileti kapatmaya çalışıyor:"
+185_616_389: "Bu bileti kapat"
+
+# close
+185_763_387: "Bu komut yalnızca bilet içinde çağrılabilir."
+
+# on_message_component_ticketing_close
+185_850_008: "İzin yok."
+185_808_252: "Bilet kapatıldı"
+185_194_262: "Kapanma nedeni"

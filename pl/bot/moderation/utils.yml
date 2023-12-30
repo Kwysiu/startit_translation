@@ -1,0 +1,18 @@
+# assert_permissions
+185_925_288: "Ten użytkownik ma wyższą rolę niż ty"
+185_196_213: "Ten użytkownik jest chroniony"
+
+# modlog_send
+185_875_745: "Użytkownik"
+185_660_558: "Moderator"
+185_238_144: "Powód"
+185_559_044: "ID kary"
+185_385_995: "Czas trwania"
+
+# modlog_send_legacy
+185_673_072: "Przez:"
+
+# paginate
+185_224_163: "
+
+Strona: {}/{}"

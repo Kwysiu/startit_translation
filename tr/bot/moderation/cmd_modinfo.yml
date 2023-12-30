@@ -1,0 +1,33 @@
+# modinfo
+185_052_529: "Ceza bilgisi{0}"
+185_552_746: "Yasak"
+185_867_497: "**Aktif:** {0}
+{1} **Tarafından yasaklandı:**
+**Sebep:** {2}
+**Yasaklanma tarihi:** {3}
+**Bitiş tarihi:** {4}
+**Ceza Numarası:** {5}"
+185_429_114: "Yasakla / At"
+185_988_543: "Kullanıcı atılmadı/yasaklanmadı"
+185_385_292: "Yasakla"
+185_815_415: "Kullanıcı yasaklı değil"
+185_196_251: "At"
+185_822_213: "Kullanıcı bu sunucudan kendi isteğiyle ayrıldı (veya hiç gruba katılmadı)"
+185_765_152: "At"
+185_699_587: "{1} **Tarafından Atıldı:**
+**Sebep:** {1}
+**Atıldı:** {2}
+**Ceza Numarası:** {3}"
+185_754_277: "Susturma"
+185_857_500: "Kullanıcı Susturulmadı"
+185_306_620: "Susturma"
+185_018_055: "**Aktif:** {0}
+{1} **Tarafından susturuldu**
+**Sebep:** {2}
+**Susturulma tarihi:** {3}
+**Bitiş tarihi:** {4}
+**Ceza Numarası:** {5}"
+185_668_658: "Özet:"
+185_589_335: "Uyarılar"
+185_607_082: "{0}{1} uyarı (**{2}** ceza puanı)"
+185_309_874: "Uyarıların listesini göster"

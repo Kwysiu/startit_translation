@@ -1,0 +1,18 @@
+# check_permissions
+185_487_731: "Du hast nicht die/den richtige Rolle / Rang um zu voten."
+
+# vote_mute
+185_517_329: "Voten für den Mute"
+185_037_887: "Du hast für {0}'s Mute gevoted!"
+185_174_824: "Du hast schon für {0}'s Mute gevotet."
+
+# fetch_user
+185_523_665: "Dieser Benutzer ist geschützt"
+
+# on_button_click
+185_060_859: "**Zeit:** {0} Stunden
+**Benutzer:** {1}
+**Voter:** {2}"
+185_999_383: " wurde gemuted!"
+185_447_618: "für"
+185_650_956: "Neuer Benutzer wurde für Votes gemuted/ausgeschlossen"

@@ -1,0 +1,32 @@
+# buy_item
+185_260_461: "Nie masz **{price}** aby zakupić ten przedmiot."
+185_557_483: "Nie masz **{price}** aby zakupić ten przedmiot."
+185_688_158: "Dziękujemy za zakup <@{0}>.
+Możesz zobaczyć cała listę twoich przedmiotów pisząc ` {1}backpack `."
+185_100_374: "Nowy przedmiot dodany do twojego plecaka:"
+185_882_678: "Pieniądze zostały dodane do portfeli {0} użytkowników."
+185_087_552: "Pieniądze zostały dodane do właściciela przedmiotu."
+185_990_753: "Użyj ten przedmiot"
+
+# _assert_buy_permissions
+185_988_842: "Możesz kupić ten przedmiot tylko jedną sztukę za jednym razem."
+185_288_199: "Nie możesz kupić tego przedmiotu."
+185_395_652: "Przedmiotu nie ma już w magazynie."
+185_909_437: "Nie możesz kupić więcej niż **{number}** tego przedmiotu."
+
+# _assert_buy_requirements
+185_072_081: "Nie masz wymienionych rzeczy: 
+{requirements}"
+
+# assert_backpack_limit
+185_340_703: "Nie możesz kupić więcej niż **{limit}** tego przedmiotu."
+
+# _assert_fraud
+185_560_244: "Kupiłeś **{name}** i okazało się, że to oszustwo."
+
+# use_item
+185_655_739: "Ten przedmiot nie może być używany."
+185_991_528: "Kliknij, aby zmienić swój pseudonim"
+185_250_493: "Ta skrzynka jest pusta."
+185_550_216: "Nie możesz otwierać tej skrzynki przez: {0}."
+185_562_879: "Otwieranie skrzynki..."

@@ -1,0 +1,18 @@
+# check_permissions
+185_487_731: "Oy kullanmak için sunucuda doğru role / yetkiye sahip değilsiniz."
+
+# vote_mute
+185_517_329: "Susturmak için oy verin"
+185_037_887: "{0}'ın susturulmasına oy verdiniz!"
+185_174_824: "{0}'ın susturulması için zaten oy kullandınız."
+
+# fetch_user
+185_523_665: "Bu kullanıcı korunuyor"
+
+# on_button_click
+185_060_859: "**Zaman:** {0} saat
+**Kullanıcı:** {1}
+**Katılımcılar:** {2}"
+185_999_383: " susturuldu!"
+185_447_618: "için"
+185_650_956: "Kullanıcının oyu kapatıldı"

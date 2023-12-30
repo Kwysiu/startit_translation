@@ -1,0 +1,17 @@
+# fetch_ticket
+185_567_019: "To polecenie można wywołać tylko w zgłoszeniu."
+
+# claim_function
+185_606_146: "Nie masz roli moderatora w tym zgłoszeniu."
+185_381_125: "To zgłoszenie zostało już zajęte."
+185_766_728: "Zajmij zgłoszenie"
+185_373_959: "Zamknij zgłoszenie"
+185_555_889: "Zgłoszenie zajęte"
+185_386_051: "Zgłoszenie zostało zajęte przez {}"
+
+# unclaim
+185_324_423: "To polecenie można wywołać tylko w zgłoszeniu."
+185_126_287: "Nie masz roli moderatora w tym zgłoszeniu."
+185_874_660: "Zajmij zgłoszenie"
+185_779_275: "Zamknij zgłoszenie"
+185_882_632: "Moderator {0} opuścił to zgłoszenie."

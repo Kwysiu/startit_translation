@@ -1,0 +1,18 @@
+# check_permissions
+185_487_731: "Nie masz odpowiedniej roli / stażu na serwerze by głosować."
+
+# vote_mute
+185_517_329: "Głosuj na wyciszenie"
+185_037_887: "Oddałeś głos na wyciszenie {0}!"
+185_174_824: "Już głosowałeś na wyciszenie {0}."
+
+# fetch_user
+185_523_665: "Ten użytkownik jest chroniony"
+
+# on_button_click
+185_060_859: "**Czas:** {0} godzin
+**Użytkownik:** {1}
+**Głosowali:** {2}"
+185_999_383: " został wyciszony!"
+185_447_618: "na"
+185_650_956: "Wyciszono głosami nowego użytkownika"

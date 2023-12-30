@@ -1,0 +1,16 @@
+# craft_item
+185_624_061: "Du kannst nur 50 Gegenstände gleichzeitig herstellen"
+185_048_631: "Unbekannter Artikel. Geben Sie `{0}shop` ein."
+185_232_443: "Du hast nicht genug Geld in deinem Portemonnaie, um dieses Rezept herzustellen."
+185_330_816: "Du hast nicht genügend Gegenstände, um dieses Rezept herzustellen."
+185_409_864: "Du hast die erforderliche Rolle nicht, um dieses Rezept herzustellen."
+185_291_253: "Du hast Folgendes erhalten:"
+185_019_465: "Erfolgreich erstelltes Rezept!"
+
+# format_crafting
+185_089_552: "Rezept:"
+
+# send_embed
+185_040_863: "Stelle einen Gegenstand mit dem Befehl ` {0}craft <recipe name> ` her."
+185_596_548: "Handwerk"
+185_688_553: "Es gibt keine Handwerksrezepte."

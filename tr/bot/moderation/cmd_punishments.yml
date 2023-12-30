@@ -1,0 +1,26 @@
+# punishments
+185_311_626: "Komutlar"
+185_022_602: "`{0}punishments edit-reason <id> <reason>` - Ceza nedenini düzenle
+`{0}punishments info <id>` - Ceza bilgilerini göster
+`{0}punishments list [user]` - Cezalar listesini göster
+`{0}punishments list-mod <moderator>` - Cezalar listesini göster
+`{0}punishments remove <id> [reason]` - Cezayı kaldır"
+
+# get_name
+185_733_266: "At"
+185_660_195: "Yasakla"
+185_975_565: "Uyar"
+185_075_575: "Sustur"
+
+# format_punishment
+185_166_666: "### {0} için '{1}'"
+185_739_202: " - \#{0} at <t:{1}> "
+185_561_732: " - Süre: {0}"
+185_182_081: " - Kullanıcı: {0}"
+185_538_286: " - Mod: {0}"
+
+# send_embed
+185_604_436: "Son cezalar{0}"
+185_938_276: "{0} tarafından son cezalar"
+185_157_601: "Son Cezalar"
+185_729_016: "{0}'ın cezası yok."

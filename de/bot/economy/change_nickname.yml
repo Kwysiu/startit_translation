@@ -1,0 +1,9 @@
+# on_message_component_v1_eco_change_nickname
+185_212_193: "Du kannst den Nicknamen von wem anderen nicht ändern"
+185_616_443: "Nickname ändern"
+185_823_767: "Neuer Nickname"
+
+# on_message_component_v1_eco_change_nickname_modal
+185_604_116: "Du kannst den Nicknamen von wem anderen nicht ändern"
+185_750_749: "Du kannst diesen Befehl nicht nutzen: {0}."
+185_763_457: "Dein Nickname wurde geändert"

@@ -1,0 +1,31 @@
+# economy_add
+185_621_920: "Das Standort-Argument muss leer sein, `Portemonnaie` oder `Bank`."
+185_162_022: "Nichts ist passiert."
+185_394_123: "{0}: /eco remove command"
+185_648_490: "**{0}** wurde aus dem Konto von {1} entfernt."
+185_919_432: "{0}: /eco add command"
+185_425_583: "**{0}** wurde dem Konto von {1} hinzugefügt."
+
+# economy_set
+185_641_206: "Das Standort-Argument muss leer sein, `Portemonnaie` oder `Bank`."
+185_946_315: "Nichts ist passiert."
+185_189_710: "{0}: /eco set command"
+185_726_240: "Das Portemonnaie von {1} wurde auf **{0}** gesetzt."
+185_190_010: "Das Guthaben von {1} wurde auf **{0}** gesetzt."
+
+# economy
+185_283_990: "Befehle"
+
+# economy_backpack_add
+185_629_159: "Du kannst nur 50 Gegenstände auf einmal geben."
+185_535_999: "Unbekannter Gegenstand."
+185_343_991: "{0} **{1}** wurde dem Konto von {2} hinzugefügt."
+
+# economy_backpack_remove
+185_707_843: "Du kannst nur 50 Gegenstände auf einmal entfernen."
+185_559_794: "Der Benutzer hat nicht genug Gegenstände."
+185_074_289: "Unbekannter Gegenstand."
+185_403_058: "{0} **{1}** wurde aus dem Konto von {2} entfernt."
+
+# economy_backpack_clear
+185_417_833: "Der Rucksack des Benutzers {0} wurde geleert."

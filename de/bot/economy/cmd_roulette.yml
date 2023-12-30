@@ -1,0 +1,18 @@
+# on_task_roulette_end
+185_368_884: "Erfolgreiche Wette beim Roulette"
+185_522_579: "Gewinner:"
+185_875_406: "Keine Gewinner :("
+185_411_612: "grün"
+185_477_076: "rot"
+185_414_441: "schwarz"
+185_876_294: "Der Ball ist gelandet auf: **{0} {1}**"
+
+# roulette
+185_461_366: "Ungültiges \"Platz\"-Argument. Versuche: `{0}`"
+185_068_271: "Der Mindesteinsatz beträgt {0}"
+185_143_928: "Der Höchsteinsatz beträgt {0}"
+185_455_300: "Du kannst nicht für {0} Roulette spielen."
+185_362_343: "Roulette-Einsatz"
+185_193_182: "Du hast einen Einsatz von {0} auf {1} platziert."
+185_612_740: "Verbleibende Zeit:"
+185_884_816: "Sek."

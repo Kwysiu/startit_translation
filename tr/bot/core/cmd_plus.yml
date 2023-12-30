@@ -1,0 +1,12 @@
+# on_task_plus_notify
+185_065_246: ":warning: Start IT Plus lisansınızın süresi {0} {1} olarak sona erecektir."
+185_764_244: "Sizin açınızdan herhangi bir işlem yapılmadan ** bot devre dışı bırakılacaktır**
+ve yapılandırmanız engellenecektir.
+
+Gününüzün harika bir şekilde dinlenmesini sağlayın!
+[Bize Ulaşın](https://discord.gg/GEanJ2g)"
+185_202_959: "Bir yıllık ödeme (49,99 $ / {0}PLN)"
+185_795_167: "Bir aylık ödeme (9,99 $ / {0}PLN)"
+
+# on_message_component_plus_buy
+185_352_570: "Ödeme yöntemini seçin"

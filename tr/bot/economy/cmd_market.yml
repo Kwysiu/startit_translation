@@ -1,0 +1,31 @@
+# on_message_component_v1_market
+185_942_777: "Gerekli izinlere sahip değilim."
+
+# send_market
+185_499_261: "Piyasada hiç ürün yok."
+185_076_062: "Pazar"
+185_180_286: "{1} için {0}"
+185_709_604: "- {1}
+ - Satıcı: {0} "
+185_864_883: "Sayfa {0}/{1}"
+
+# market_sell
+185_700_840: "Geçersiz sözdizimi"
+185_775_783: "Aynı anda yalnızca 50 öğeyi kaldırabilirsiniz"
+185_821_485: "Kullanıcının yeterli öğesi yok."
+185_777_210: "Bilinmeyen öğe."
+185_372_552: "Bu öğe satılamaz."
+185_503_256: "Kullanıcı bu öğeye sahip değil."
+185_473_986: "Ürün satışa çıkarıldı"
+185_298_170: "{2} için {0}x {1} koydunuz."
+
+# market_buy
+185_435_705: "Öğe bulunamadı."
+185_028_873: "Öğe bulunamadı."
+185_338_522: "Bu öğeyi satın almak için **{0}** paranız yok."
+185_233_369: "Para <@{0}>'a aktarıldı
+Tüm eşyalarınızın listesini ` {1}backpack` yazarak alabilirsiniz."
+185_587_333: "Sırt çantanıza yeni eşya eklendi:"
+
+# market
+185_202_890: "Piyasa komutları"

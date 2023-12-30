@@ -1,0 +1,12 @@
+# send_message
+185_815_931: "Ja"
+185_991_859: "Nein"
+
+# on_message_component_personbelow
+185_398_051: "Du kannst nich auf deine Nachricht antworten."
+185_854_876: "Neue Ja/Nein-Frage"
+185_119_687: "Frage an den Benutzer darunter"
+
+# on_message_component_personbelow_form
+185_888_678: "Nein"
+185_679_423: "Ja"

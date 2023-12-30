@@ -1,0 +1,132 @@
+# gen_submit_components
+185_524_078: "Voter anzeigen"
+185_102_636: "Ergebnisse anzeigen"
+185_687_534: "Vote"
+
+# gen_components
+185_737_949: "1. Mehrfachauswahl zulassen:"
+185_617_658: "nicht zulassen"
+185_709_191: "Nur eine Auswahlmöglichkeit zulassen"
+185_813_795: "unlimitiert"
+185_519_563: "Benutzer können beliebig viele Optionen auswählen"
+185_735_729: "Exakte Zahl"
+185_822_428: "Benutzer können eine genaue Anzahl an Optionen auswählen"
+185_585_382: "Reichweite"
+185_011_765: "Benutzer können Optionen gemäß Reichweite auswählen"
+185_396_478: "2. Voteänderungen von Benutzern erlauben:"
+185_450_003: "ja"
+185_656_520: "Benutzer können ihre Votes ändern"
+185_250_568: "nein"
+185_221_616: "Benutzer können ihre Votes nicht ändern"
+185_844_794: "Voteeinstellungen ändern"
+185_111_620: "3. Sichtbarkeit der Teilnehmernamen:"
+185_645_014: "öffentlich"
+185_863_383: "Jeder kann sehen, wer für was gevotet hat"
+185_042_845: "Erlaubte Rollen"
+185_368_109: "Nur Benutzer mit erlaubten Rollen können sehen, wer für was gestimmt hat.
+185_651_966: \"niemand"
+185_160_535: "Anonyme Abstimmung, die Admins wissen nicht, wer wofür gestimmt hat"
+185_467_719: "4. Sichtbarkeit der Umfrageergebnisse:"
+185_380_752: "öffentlich"
+185_428_220: "Jeder kann die Ergebnisse der Umfrage sehen"
+185_705_985: "nach dem Voting"
+185_787_818: "Nur diejenigen, die gevotet haben, können Ergebnisse sehen"
+185_410_891: "erlaubte Rollen"
+185_980_837: "Nur Benutzer mit erlaubten Rollen können Ergebnisse sehen"
+185_126_006: "5. Ergebnisse nach Fertigstellung veröffentlichen:"
+185_764_756: "ja"
+185_418_644: "Ergebnisse werden nach Abschluss der Umfrage veröffentlicht"
+185_307_533: "nein"
+185_965_624: "Ergebnisse werden nach Abschluss der Umfrage nicht veröffentlicht"
+185_688_771: "Sichtbarkeitseinstellungen ändern"
+185_240_380: "6. Voterechte:"
+185_247_858: "jeder"
+185_854_241: "Jeder wird voten können"
+185_343_955: "erlaubte Rollen"
+185_897_626: "Nur Benutzer mit erlaubten Rollen können voten"
+185_071_124: "7. Dauer:"
+185_870_540: "für immer"
+185_169_432: "Die Umfrage wird nicht automatisch beendet"
+185_448_354: "bis"
+185_882_194: "Die Umfrage endet zum angegebenen Zeitpunkt"
+185_255_906: "8. Maximale Voteanzahl:"
+185_005_186: "unbegrenzt"
+185_647_436: "Die Umfrage endet nicht nach einer bestimmten Anzahl an Votes"
+185_903_248: "begrenzt"
+185_915_879: "Die Umfrage endet nach einer bestimmten Anzahl an Votes"
+185_419_637: "Verwaltungseinstellungen ändern"
+185_615_913: "Schließen"
+185_876_979: "Umfrage abschicken"
+
+# gen_embed
+185_906_016: "Auswahlmöglichkeiten:"
+185_700_161: "nach {0} Votes"
+185_270_849: "Endet:"
+185_956_833: " oder "
+185_060_191: "Anonyme Umfrage – Nicknamen werden nicht dem Staffteam angezeigt"
+185_712_977: "Modus:"
+185_301_773: "- Nur ein Vote"
+185_625_497: "Modus:"
+185_493_102: "- Mehrere Votes erlaubt"
+185_173_053: "Modus:"
+185_541_292: "- Wähle {0} Auswahlmöglichkeiten"
+185_163_945: "Modus:"
+185_433_763: "- Wähle zwischen {0} und {1} aus"
+185_933_318: "Voteberechtigte Rollen:"
+
+# poll
+185_520_557: "Click to create poll"
+
+# open_poll_creation_modal
+185_685_306: "Ja"
+185_612_402: "Nein"
+185_949_826: "Umfragenerstellung"
+185_094_880: "Frage"
+185_149_869: "Auswahlmöglichkeiten (eine pro Zeile)"
+
+# on_message_component_poll
+185_157_756: "Nur der Nachrichtenautor kann eine Umfrage erstellen"
+
+# refresh
+185_069_977: "Zurück"
+
+# on_message_component_poll_voting_settings
+185_581_212: "Mehrere Auswahlmöglichkeiten"
+185_296_032: "Anzahl an Auswahlmöglichkeiten"
+185_866_187: "Mehrere Optionen: Reichweite"
+185_578_599: "Mindestanzahl an Auswahlmöglichkeiten"
+185_004_609: "Maximale Anzahl an Auswahlmöglichkeiten"
+
+# on_message_component_poll_visibility_settings
+185_215_081: "3. Sichtbarkeit der Namen der Teilnehmer:"
+185_474_426: "Erlaubte Rollen, die sehen können, wer was gevotet hat"
+185_674_688: "4. Umfragenvoteeinsichtbarkeit:"
+185_920_189: "Erlaubte Rollen, die die Voteergebnisse einsehen können"
+
+# on_message_component_poll_management_settings
+185_963_671: "Umfragendauer"
+185_201_154: "Umfragendauer (zB. 10h oder 30m)"
+185_409_740: "Maximale Anzahl an Votes"
+185_750_054: "Maximum number of votes"
+185_916_531: "6. Berechtigung fürs voten:"
+185_818_489: "Rollen, die voten dürfen"
+
+# vote_check
+185_334_309: "Du hast keine Berechtigungen zu voten"
+185_095_198: "Die Umfrage ist geendet"
+185_768_893: "Die Umfrage ist geendet"
+
+# on_message_component_poll_vote_show
+185_682_937: "Du hast keine Berechtigungen um die Voteergebnisse einzusehen"
+185_941_003: "Niemand kann Voteergebnisse einsehen"
+185_025_916: "Votes"
+185_313_602: "Hier sind keine Votes vorhanden"
+
+# on_message_component_poll_vote_results
+185_403_521: "Du hast keine Berechtigungen um die Voteergebnisse einzusehen"
+185_492_945: "Niemand kann Voteergebnisse einsehen"
+
+# on_message_component_poll_vote
+185_024_314: "Du kannst dein Vote nicht ändern"
+185_932_743: "Dein Vote wurde gespeichert"
+185_289_776: "Dein Vote wurde gespeichert"

@@ -1,0 +1,17 @@
+# fetch_ticket
+185_567_019: "Dieser Befehl kann nur in Tieckts verwndet werden."
+
+# claim_function
+185_606_146: "Du hast hier keine Moderationsrolle."
+185_381_125: "Dieses Ticket wurde schon übernommen."
+185_766_728: "Ticket übernehmen"
+185_373_959: "Ticket schließen"
+185_555_889: "Ticket übernommen"
+185_386_051: "Ticket von {} übernommen"
+
+# unclaim
+185_324_423: "Dieser Befehl kann nur in Tieckts verwndet werden."
+185_126_287: "Du hast hier keine Moderationsrolle."
+185_874_660: "Ticket übernehmen"
+185_779_275: "Ticket schließen"
+185_882_632: "Moderator {0} hat das Ticket verlassen."

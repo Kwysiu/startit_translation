@@ -1,0 +1,25 @@
+# err_messages
+185_334_057: "Nie znaleziono Kraju/Miasta"
+185_163_117: "Usługa niedostępna. Sprawdź ponownie później."
+
+# wind_speed
+185_080_927: "Spokojnie"
+185_807_207: "Lekkie powietrze"
+185_311_097: "Lekka bryza"
+185_499_647: "Delikatna bryza"
+185_014_728: "Umiarkowana bryza"
+185_406_532: "Świeża bryza"
+185_742_653: "Silna bryza"
+185_858_857: "Silny wiatr, bliski wichury"
+185_041_914: "Wichura"
+185_090_600: "Poważna wichura"
+185_055_352: "Burza"
+185_178_045: "Gwałtowna burza"
+185_298_987: "Huragan"
+185_675_116: "Spokojnie"
+
+# weather
+185_079_801: "Podaj miasto"
+185_955_856: "Odczuwalne"
+185_086_651: "Wilgotność"
+185_272_364: "Pogoda w"

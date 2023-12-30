@@ -1,0 +1,105 @@
+# cmd_lookup
+185_406_672: "Komutlar: "
+185_596_417: "Yanlış kullanım"
+
+# cmd_lookup_user
+185_646_831: "<:information:868952803006091264> {} - Bilgi"
+185_437_421: "<@!{0}>
+**Bir avatar bağlantısı: **[buraya tıklayın]({1})"
+185_613_780: "Kullanıcı StartIT Plus'a sahip"
+185_549_858: "KULLANICI KİMLİĞİ"
+185_694_868: "Discord'a katıldı"
+185_412_467: "Sunucuya Katıldı"
+185_505_613: "Roller"
+185_578_313: "İncelemeler ({})"
+185_375_274: "ReviewDB'ye inceleme yaz"
+
+# on_message_component_post_review
+185_017_006: "İncelemeyi ReviewDB'ye gönder"
+185_178_820: "İnceleme"
+185_913_187: "Spam yapmak ve saldırgan yorumlar yazmak yasaklanmanıza neden olacaktır. Lütfen diğer kullanıcılara karşı saygılı olun."
+
+# on_message_component_post_review_submit
+185_890_920: "İnceleme güncellendi"
+185_686_076: "İnceleme gönderildi"
+185_961_539: "Hata"
+
+# cmd_lookup_role
+185_770_494: "Evet"
+185_206_382: "Hayır"
+185_235_743: "Rol bilgisi - {}"
+185_804_978: "<@&{0}>
+**Rol Kimliği: **{1}
+**Rol pozisyonu: **{2}
+**Hoisted: **{3}
+**Dikkate değer: **{4}
+**Yönetilen: **{5}
+**Oluşturulma tarihi: **{6}"
+185_819_703: "
+**Rol rengi: **{0}"
+185_837_487: "İzinler"
+185_662_834: "
+Sunucuyu güçlendirmek için rol"
+185_004_705: "
+**Bot için rol:** {}"
+
+# cmd_lookup_channel
+185_793_407: "Metin"
+185_928_780: "DM"
+185_053_722: "Ses"
+185_537_245: "Grup DM"
+185_860_801: "Kategori"
+185_121_680: "Haberler"
+185_247_445: "Mağaza"
+185_745_993: "Haber Konusu"
+185_159_529: "Halka Açık Konu"
+185_839_723: "Özel Konu"
+185_934_901: "Sahne Sesi"
+185_911_922: "Evet"
+185_852_864: "Hayır"
+185_309_300: "<#{0}>
+**Kanal Kimliği: **{1}
+**Kanal tipi: **{2}
+**Kanal NSFW: **{3}
+**Kanal şu adreste oluşturuldu: **{4}"
+185_601_713: "
+**Kanal konumu: **{0}"
+185_366_217: "
+**Kanal konusu: **{0}"
+185_486_217: "
+**Kanal ebeveyni: **{0}"
+185_308_968: "
+**Kanal bit hızı: **{0}"
+185_614_782: "
+**Kanal kullanıcı limiti: **{0}"
+185_940_596: "
+**Kanal sahibi: **{0}"
+185_205_646: "İzin verildi: "
+185_214_994: "Reddedildi: "
+185_509_141: "Üye izinleri"
+185_675_819: "Rol izinleri"
+
+# cmd_lookup_server
+185_151_428: "**SUNUCU ÖZELLIKLERI:**"
+185_097_822: "<:overview:868953016282271745>**GENEL BAKIŞ**
+**ID:** {0} 
+**SAHIBI:** <@{1}>
+**Sunucu şu adreste oluşturuldu: ** <t:{2}>
+**Bir simgeye bağlantı:** [Buraya tıklayın](https://cdn.discordapp.com/icons/{0}/{3}?size=1024)
+**Rol:** {4}
+
+<:boosts:868953110758957066>**YÜKSELTMELER**
+**Yükseltme Seviyesi:** {5}
+**Takviyeler:** {6}
+
+<:users:868953499038281738>**ÜYELER**
+<:users:868953499038281738> {7} - <:bots:868953478268092436> {8}
+
+<:channels:868954276121157634> **KANALLAR**
+<:channels:868954276121157634> {9} - <:category:868954251076964383> {10} - <:text_channel:868954234689843220> {11} - <:voice_channel:868954221712637983> {12} - <:news_channel:868954207250694205> {13}
+
+:slight_smile: **EMOJI**
+Animasyonlu: **{14}** - Statik: **{15}** - Hepsi: **{16}**
+
+{17}
+{18}"

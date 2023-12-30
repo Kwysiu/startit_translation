@@ -1,0 +1,41 @@
+# on_message_component_autochannels_ban
+185_057_356: "Wähle den Benutzer zum Bannen aus"
+
+# on_message_component_autochannels_kick
+185_469_455: "Wähle den Benutzer zum Kicken aus"
+
+# on_message_component_autochannels_invite
+185_274_320: "Wähle den Benutzer zum Einladen aus"
+
+# on_message_component_autochannels_owner
+185_706_881: "Wähle den Benutzer für die Eigentümerrechte aus"
+
+# on_message_component_autochannels_name
+185_751_470: "Kanal ändern"
+185_853_063: "Kanalname"
+
+# on_message_component_autochannels_limit
+185_187_320: "Kanal ändern"
+185_970_535: "Kanallimit"
+
+# on_message_component_autochannels_do_name
+185_159_592: "Du hast die maximale Anzahl an Kanalnamenänderungen innerhalb 10 Minuten erreicht."
+
+# on_message_component_autochannels_do_limit
+185_434_353: "Ungültige Zahl. Tippe 0 für die Limitentfernung oder 1 bis 99 für ein Benutzerlimit."
+
+# on_message_component_autochannels_do_ban
+185_770_573: "Benutzer <@{0}> wurde von <@{1}> aus diesem Kanal gebannt."
+
+# on_message_component_autochannels_do_invite
+185_382_238: "Benutzer <@{0}> wurde von <@{1}> zu diesem Kanal hinzugefügt/eingeladen."
+
+# on_message_component_autochannels_do_kick
+185_992_134: "Benutzer <@{0}> wurde von <@{1}> aus diesem Kanal gekickt."
+
+# on_message_component_autochannels_do_owner
+185_376_129: "Die Eigentumsrechte wurden <@{0}> übertragen."
+
+# on_message_component_autochannels_lock
+185_079_663: "Kanal wurde freigegeben. Jeder hier am Server kann beitreten und den Chat lesen."
+185_893_167: ":warning: Kanal wurde gesperrt! Jetzt können nur eingeladene/hinzugefügte Benutzer dem Kanal beitreten und den Chat lesen."

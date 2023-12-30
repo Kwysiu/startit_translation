@@ -1,0 +1,19 @@
+# format_warning
+185_883_509: "### {0}. {1}"
+185_994_899: " - **{1} p**, <t:{0}> "
+185_534_293: " - Mod: {0}"
+185_996_026: " - Endet am: {0}"
+
+# send_embed
+185_009_963: "Dieser Benutzer existert in unserer Datenbank nicht."
+185_314_635: "Letzte Verwarnungen{0}"
+185_705_420: "{0} hat keine Verwarnungen."
+
+# warns
+185_098_277: "Befehle"
+185_674_739: "`{0}warns clear-all <user>` - Alle Verwarnungen von einem Benutzer entfernen
+`{0}warns clear <user> <no>` - Verwarnung von Benutzer entfernen
+`{0}warns edit-reason <user> <no> <reason>` - Verwarnungsgrund ändern
+`{0}warns info <user> <no>` - Verwarnungsinfos anzeigen
+`{0}warns list <user>` - Verwarnungsliste anzeigen
+"

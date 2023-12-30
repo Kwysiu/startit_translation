@@ -1,0 +1,55 @@
+# tic_tac_toe
+185_402_502: "Emm... to jest bot."
+185_738_983: "Kółko i Krzyżyk"
+185_808_675: "Nie możesz grać z samym sobą"
+185_431_583: "Minimalna kwota zakładu to {0}"
+185_025_696: "Maksymalna kwota zakładu to {0}"
+185_936_904: "Kółko i Krzyżyk"
+185_202_055: "Nie możesz grać z tego użytkownikiem przez {0} sekund."
+185_597_618: "Możesz grać tylko raz na minutę."
+185_402_212: "Ten użytkownik już z kimś gra."
+185_260_208: "Kółko i krzyżyk"
+185_177_976: "{} otrzymałeś zaproszenie do gry w kółko i krzyżyk od {}.{}Cena: {}
+Musisz zaakceptować gre do {}"
+185_511_362: "Akceptuj"
+185_798_254: "Odrzuć"
+
+# on_task_tic_tac_toe
+185_669_820: "Kółko i krzyżyk, oddanie pieniędzy"
+185_157_749: "Kółko i krzyżyk"
+185_466_508: "Gra w Kółko i krzyżyk została anulowana."
+
+# on_message_component_v1_tic_tac_toe
+185_519_393: "Kółko i krzyżyk"
+185_527_022: "Nie możesz zaakceptować tej gry."
+185_599_080: "Nie możesz odrzucić tej gry."
+185_441_237: "Kółko i krzyżyk"
+185_864_931: "Gra w Kółko i krzyżyk została anulowana."
+185_798_898: "Kółko i krzyżyk"
+185_417_933: "Kółko i krzyżyk"
+185_928_047: "To kolej {}."
+185_565_358: "Masz czas do {}, aby wykonać ruch"
+
+# on_message_component_v1_tic_tac_toe_game
+185_548_456: "Kółko i krzyżyk"
+185_286_122: "Nie możesz grać w tej gry."
+185_939_109: "Kółko i krzyżyk oddanie pieniędzy"
+185_605_974: "Kółko i krzyżyk"
+185_477_327: "Błąd."
+185_249_663: "Kółko i krzyżyk"
+185_699_734: "To nie twoja kolej."
+185_344_689: "{} wygrał!"
+185_102_937: "Kółko i krzyżyk wygrana"
+185_222_658: "**REMIS**"
+185_374_639: "Kółko i krzyżyk remis"
+
+# gen_embed
+185_199_320: "Kółko i krzyżyk"
+185_780_932: "To kolej {}."
+185_336_237: "Masz czas do {}, aby wykonać ruch"
+
+# on_task_tic_tac_toe_game
+185_427_423: "Kółko i krzyżyk"
+185_791_309: "{} wygrał!"
+185_999_642: "Kółko i krzyżyk remis"
+185_065_587: "Kółko i krzyżyk wygrał"

@@ -1,0 +1,16 @@
+# craft_item
+185_624_061: "Aynı anda sadece 50 ürün üretebilirsiniz"
+185_048_631: "Bilinmeyen öğe, `{0}shop' yazın."
+185_232_443: "Bu tarifi yapmak için cüzdanınızda yeterli para yok."
+185_330_816: "Bu tarifi yapmak için yeterli eşyaya sahip değilsiniz."
+185_409_864: "Bu tarifi hazırlamak için gerekli role sahip değilsiniz."
+185_291_253: "Aldığın:"
+185_019_465: "Başarıyla hazırlanmış tarifi aldın."
+
+# format_crafting
+185_089_552: "Tarifi:"
+
+# send_embed
+185_040_863: "Bir öğeyi ` {0}craft <tarif adı> ` komutuyla üretin."
+185_596_548: "Üret"
+185_688_553: "Üretim tarifi yok."

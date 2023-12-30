@@ -1,0 +1,11 @@
+# like
+185_879_807: "Du hast <@{0}> geliked."
+
+# dislike
+185_504_417: "Du hast dein Like von <@{0}> entfernt."
+
+# check
+185_616_502: "Du kannst dich nicht seleber liken."
+185_371_803: "**Du kannst pro Tag nur einmal liken oder disliken.**
+Letzte Aktion: {0} {1}
+Befehl aktiviert in: {2}"

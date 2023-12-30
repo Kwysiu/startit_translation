@@ -1,0 +1,14 @@
+# rockpaperscissors
+185_473_187: "Schere-Stein-Papier"
+185_024_620: "Wählen"
+185_681_120: "Papier"
+185_826_544: "Stein"
+185_064_262: "Schere"
+
+# on_message_component_rockpaperscissors
+185_053_778: "Unentschieden"
+185_715_468: "Du hast verloren"
+185_340_861: "Du hast gewonnen"
+185_191_237: "Schere-Stein-Papier"
+185_610_302: "Deine Wahl"
+185_480_154: "Meine Wahl"
