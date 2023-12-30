@@ -1,5 +1,5 @@
 # on_guild_member_add
-185_364_882: "AutoBan: Unverified bot"
-185_794_398: "AutoBan: User has no avatar"
-185_307_886: "AutoBan: Nickname contains forbidden word: {0}"
-185_939_017: "AutoBan: Account created too early"
+185_364_882: "AutoBloqueo: Bot no verificado"
+185_794_398: "AutoBloqueo: El usuario no tiene avatar"
+185_307_886: "AutoBloqueo: El apodo contiene una palabra prohibida: {0}"
+185_939_017: "AutoBloqueo: Cuenta creada demasiado pronto"
