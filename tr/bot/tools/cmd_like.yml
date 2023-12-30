@@ -1,0 +1,11 @@
+# like
+185_879_807: "<@{0}>'ı beğendiniz."
+
+# dislike
+185_504_417: "<@{0}> öğesini beğenmediniz."
+
+# check
+185_616_502: "Kendini sevemezsin."
+185_371_803: "**Günde sadece bir kez sevebilir veya sevmeyebilirsin.**
+Son eylem: {0} {1}
+Komut kilidi açıldı: {2}"

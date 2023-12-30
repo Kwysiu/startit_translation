@@ -1,0 +1,11 @@
+# on_guild_ban_add
+185_270_439: "Kullanıcı yasaklandı"
+
+# on_task_user_unmute
+185_526_477: "Geçici susturulmanın süresi doldu. Otomatik olarak açıldı."
+
+# on_task_user_unban
+185_164_173: "Geçici yasağın süresi doldu. Yasak otomatik olarak kaldırıldı."
+
+# on_guild_ban_remove
+185_506_825: "Kullanıcının yasağı kaldırıldı"

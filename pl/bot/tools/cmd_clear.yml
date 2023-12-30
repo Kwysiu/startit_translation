@@ -1,0 +1,21 @@
+# clear
+185_882_888: "Nie można usunąć więcej niż 1000 wiadomości jednocześnie."
+
+# clearCMD
+185_668_610: "<a:loading:913596665624133662> Usuwanie wiadomości"
+185_950_330: "Wiadomości które mają powyżej 2 tygodni nie mogą zostać usunięte"
+185_313_186: "Usunięto **{0}** wiadomości"
+
+# clearOPTIONS
+185_794_576: "Musisz podać użytkownika w tej opcji"
+185_682_966: "<a:loading:913596665624133662> Usuwanie wiadomości użytkownika {0}"
+185_343_445: "Wiadomości które mają powyżej 2 tygodni nie mogą zostać usunięte"
+185_248_178: "Usunięto **{0}** wiadomości użytkownika {1}"
+185_343_409: "<a:loading:913596665624133662> Usuwanie wiadomości botów"
+185_496_392: "Wiadomości które mają powyżej 2 tygodni nie mogą zostać usunięte"
+185_840_279: "Usunięto **{0}** wiadomości botów"
+185_964_135: "Nieprawidłowe użycie"
+185_833_715: "Przykładowe komendy:
+{0}clear 10 - usuwa 10 wiadomości
+{0}clear 10 bots - usuwa 10 ostatnich wiadomości od botów
+{0}clear 10 user X - usuwa 10 ostatnich wiadomości od użytkowinka X"

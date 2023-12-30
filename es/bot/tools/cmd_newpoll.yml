@@ -1,0 +1,132 @@
+# gen_submit_components
+185_524_078: "Show voters"
+185_102_636: "Show results"
+185_687_534: "Vote"
+
+# gen_components
+185_737_949: "1. Allow multiple choices:"
+185_617_658: "disallow"
+185_709_191: "Only one choice will be allowed"
+185_813_795: "unlimited"
+185_519_563: "Users can choose as many options as they want"
+185_735_729: "exact number"
+185_822_428: "Users can choose a specific number of options"
+185_585_382: "range"
+185_011_765: "Users can choose as many options as the range"
+185_396_478: "2. Allow users to change vote:"
+185_450_003: "yes"
+185_656_520: "Users will be able to change their vote"
+185_250_568: "no"
+185_221_616: "Users will not be able to change their vote"
+185_844_794: "Change voting settings"
+185_111_620: "3. Participants' names visibility:"
+185_645_014: "public"
+185_863_383: "Everyone will be able to see who voted for what"
+185_042_845: "allowed roles"
+185_368_109: "Only users with allowed roles will be able to see who voted for what"
+185_651_966: "nobody"
+185_160_535: "Anonymous voting, the administration will not know who voted for what"
+185_467_719: "4. Poll result visibility:"
+185_380_752: "public"
+185_428_220: "Everyone will be able to see the results of the poll"
+185_705_985: "after vote"
+185_787_818: "Only those who voted will be able to see results"
+185_410_891: "allowed roles"
+185_980_837: "Only users with allowed roles will be able to see results"
+185_126_006: "5. Publish the results after completion:"
+185_764_756: "yes"
+185_418_644: "Results will be published after poll is completed"
+185_307_533: "no"
+185_965_624: "Results will not be published after poll is completed"
+185_688_771: "Change visibility settings"
+185_240_380: "6. Permissions to vote:"
+185_247_858: "everyone"
+185_854_241: "Everyone will be able to vote"
+185_343_955: "allowed roles"
+185_897_626: "Only users with allowed roles will be able to vote"
+185_071_124: "7. Duration:"
+185_870_540: "forever"
+185_169_432: "The poll will not end automatically"
+185_448_354: "until"
+185_882_194: "The poll will end at the specified time"
+185_255_906: "8. Maximum votes:"
+185_005_186: "unlimited"
+185_647_436: "The poll will not end after a certain number of votes"
+185_903_248: "limited"
+185_915_879: "The poll will end after a certain number of votes"
+185_419_637: "Change management settings"
+185_615_913: "Cancel"
+185_876_979: "Submit poll"
+
+# gen_embed
+185_906_016: "Choices:"
+185_700_161: "after {0} votes"
+185_270_849: "Ends:"
+185_956_833: " or "
+185_060_191: "Anonymous poll – nicknames won't be displayed to staff"
+185_712_977: "Mode:"
+185_301_773: "- Single vote only"
+185_625_497: "Mode:"
+185_493_102: "- Multiple votes allowed"
+185_173_053: "Mode:"
+185_541_292: "- Select {0} choices"
+185_163_945: "Mode:"
+185_433_763: "- Select from {0} to {1} choices"
+185_933_318: "Roles eligible to vote:"
+
+# poll
+185_520_557: "Click to create poll"
+
+# open_poll_creation_modal
+185_685_306: "Yes"
+185_612_402: "No"
+185_949_826: "Poll creation"
+185_094_880: "Question"
+185_149_869: "Choices (one per line)"
+
+# on_message_component_poll
+185_157_756: "Only the message author can create a poll"
+
+# refresh
+185_069_977: "Back"
+
+# on_message_component_poll_voting_settings
+185_581_212: "Multiple choices"
+185_296_032: "Number of choices"
+185_866_187: "Multiple options: range"
+185_578_599: "Minimum number of options to choose"
+185_004_609: "Maximum number of options to choose"
+
+# on_message_component_poll_visibility_settings
+185_215_081: "3. Participants' names visibility:"
+185_474_426: "Roles allowed to see who voted"
+185_674_688: "4. Poll result visibility:"
+185_920_189: "Roles allowed to see poll results"
+
+# on_message_component_poll_management_settings
+185_963_671: "Poll duration"
+185_201_154: "Poll duration (eg. 10h or 30m)"
+185_409_740: "Maximum number of votes"
+185_750_054: "Maximum number of votes"
+185_916_531: "6. Permissions to vote:"
+185_818_489: "Roles allowed to vote"
+
+# vote_check
+185_334_309: "You don't have permissions to vote"
+185_095_198: "This poll has ended"
+185_768_893: "This poll has ended"
+
+# on_message_component_poll_vote_show
+185_682_937: "You don't have permissions to view votes"
+185_941_003: "Nobody can view votes"
+185_025_916: "Votes"
+185_313_602: "There is no votes"
+
+# on_message_component_poll_vote_results
+185_403_521: "You don't have permissions to view vote results"
+185_492_945: "Nobody can view votes results"
+
+# on_message_component_poll_vote
+185_024_314: "You can't change your vote"
+185_932_743: "Your vote has been saved"
+185_289_776: "Your vote has been saved"

@@ -1,0 +1,132 @@
+# gen_submit_components
+185_524_078: "Pokaż głosujących"
+185_102_636: "Pokaż wyniki"
+185_687_534: "Głosuj"
+
+# gen_components
+185_737_949: "1. Zezwalaj na wiele wyborów:"
+185_617_658: "nie zezwalaj"
+185_709_191: "Tylko jeden wybór będzie dozwolony"
+185_813_795: "nieograniczone"
+185_519_563: "Użytkownicy mogą wybrać tyle opcji, ile chcą"
+185_735_729: "dokładna liczba"
+185_822_428: "Użytkownicy mogą wybrać określoną liczbę opcji"
+185_585_382: "zakres"
+185_011_765: "Użytkownicy mogą wybrać tyle opcji ile wynosi zakres"
+185_396_478: "2. Pozwól użytkownikom zmienić głos:"
+185_450_003: "tak"
+185_656_520: "Użytkownicy będą mogli zmienić swój głos"
+185_250_568: "nie"
+185_221_616: "Użytkownicy nie będą mogli zmienić swojego głosu"
+185_844_794: "Zmień ustawienia głosowania"
+185_111_620: "3. Widoczność nazw uczestników:"
+185_645_014: "publiczna"
+185_863_383: "Wszyscy będą mogli zobaczyć, kto na co głosował"
+185_042_845: "dozwolone role"
+185_368_109: "Tylko użytkownicy z dozwolonymi rolami będą mogli zobaczyć, kto na co głosował"
+185_651_966: "nikt"
+185_160_535: "Anonimowe głosowanie, administracja nie będzie wiedziała, kto na co głosował"
+185_467_719: "4. Widoczność wyników ankiety:"
+185_380_752: "publiczna"
+185_428_220: "Wszyscy będą mogli zobaczyć wyniki ankiety"
+185_705_985: "po głosowaniu"
+185_787_818: "Tylko osoby, które zagłosowały, będą mogły zobaczyć wyniki ankiety"
+185_410_891: "dozwolone role"
+185_980_837: "Tylko użytkownicy z dozwolonymi rolami będą mogli zobaczyć wyniki ankiety"
+185_126_006: "5. Opublikuj wyniki po zakończeniu:"
+185_764_756: "tak"
+185_418_644: "Wyniki ankiety zostaną opublikowane po jej zakończeniu"
+185_307_533: "nie"
+185_965_624: "Wyniki ankiety nie zostaną opublikowane po jej zakończeniu"
+185_688_771: "Zmień ustawienia widoczności"
+185_240_380: "6. Uprawnienia do głosowania:"
+185_247_858: "wszyscy"
+185_854_241: "Wszyscy będą mogli głosować"
+185_343_955: "dozwolone role"
+185_897_626: "Tylko użytkownicy z dozwolonymi rolami będą mogli głosować"
+185_071_124: "7. Czas trwania:"
+185_870_540: "na zawsze"
+185_169_432: "Ankieta nie zakończy się automatycznie"
+185_448_354: "do"
+185_882_194: "Ankieta zakończy się w określonym czasie"
+185_255_906: "8. Maksymalna liczba głosów: "
+185_005_186: "nieograniczona"
+185_647_436: "Ankieta nie zakończy się po określonej liczbie głosów"
+185_903_248: "ograniczona"
+185_915_879: "Ankieta zakończy się po określonej liczbie głosów"
+185_419_637: "Zmień ustawienia zarządzania"
+185_615_913: "Anuluj"
+185_876_979: "Wyślij ankietę"
+
+# gen_embed
+185_906_016: "Opcje:"
+185_700_161: "po {0} głosach"
+185_270_849: "Kończy się:"
+185_956_833: " lub "
+185_060_191: "Ankieta anonimowa – nicki nie będą wyświetlane dla administracji"
+185_712_977: "Tryb:"
+185_301_773: "- Maksymalnie jeden głos"
+185_625_497: "Tryb:"
+185_493_102: "- Wiele głosów dozwolonych"
+185_173_053: "Tryb:"
+185_541_292: "- Wybierz {0} opcji"
+185_163_945: "Tryb:"
+185_433_763: "- Wybierz od {0} do {1} opcji"
+185_933_318: "Role uprawnione do głosowania:"
+
+# poll
+185_520_557: "Kliknij by utworzyć ankietę"
+
+# open_poll_creation_modal
+185_685_306: "Tak"
+185_612_402: "Nie"
+185_949_826: "Stworzenie ankiety"
+185_094_880: "Pytanie"
+185_149_869: "Opcje (jedna na linię)"
+
+# on_message_component_poll
+185_157_756: "Tylko autor wiadomości może stworzyć ankietę"
+
+# refresh
+185_069_977: "Wróć"
+
+# on_message_component_poll_voting_settings
+185_581_212: "Wiele wyborów"
+185_296_032: "Liczba wyborów"
+185_866_187: "Wiele wyborów: zakres"
+185_578_599: "Minimalna liczba opcji do wyboru"
+185_004_609: "Maksymalna liczba opcji do wyboru"
+
+# on_message_component_poll_visibility_settings
+185_215_081: "3. Widoczność nazw uczestników:"
+185_474_426: "Role uprawnione do zobaczenia kto zagłosował"
+185_674_688: "4. Widoczność wyników ankiety:"
+185_920_189: "Role uprawnione do zobaczenia wyników ankiety"
+
+# on_message_component_poll_management_settings
+185_963_671: "Czas trwania ankiety"
+185_201_154: "Czas trwania ankiety (np. 10h lub 30m)"
+185_409_740: "Maksymalna liczba głosów"
+185_750_054: "Maksymalna liczba głosów"
+185_916_531: "6. Uprawnienia do głosowania:"
+185_818_489: "Role uprawnione do głosowania"
+
+# vote_check
+185_334_309: "Nie masz uprawnień do głosowania"
+185_095_198: "Ta ankieta się skończyła"
+185_768_893: "Ta ankieta się skończyła"
+
+# on_message_component_poll_vote_show
+185_682_937: "Nie masz uprawnień do zobaczenia głosów"
+185_941_003: "Nikt nie może zobaczyć głosów"
+185_025_916: "Głosy"
+185_313_602: "Nie ma głosów"
+
+# on_message_component_poll_vote_results
+185_403_521: "Nie masz uprawnień do zobaczenia wyników"
+185_492_945: "Nikt nie może zobaczyć wyników"
+
+# on_message_component_poll_vote
+185_024_314: "Nie możesz zmienić swojego głosu"
+185_932_743: "Twój głos został zapisany"
+185_289_776: "Twój głos został zapisany"

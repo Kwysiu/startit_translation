@@ -1,0 +1,17 @@
+# fetch_ticket
+185_567_019: "Bu komut yalnızca bilet içinde kullanılabilir."
+
+# claim_function
+185_606_146: "Bu bilet için moderatör rolünüz yok."
+185_381_125: "Bu bilet zaten talep edildi."
+185_766_728: "Bilet talep et"
+185_373_959: "Bileti kapat"
+185_555_889: "Bilet talep edildi"
+185_386_051: "Bilet {} tarafından talep edildi"
+
+# unclaim
+185_324_423: "Bu komut yalnızca bilet içinde çağrılabilir."
+185_126_287: "Bu bilet için moderatör rolünüz yok."
+185_874_660: "Bilet talep et"
+185_779_275: "Bileti kapat"
+185_882_632: "Moderatör {0} bu bileti bıraktı."

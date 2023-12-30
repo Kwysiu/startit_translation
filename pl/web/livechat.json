@@ -1,0 +1,17 @@
+{
+  "hi": "Cześć 👋 Jak możemy pomóc?",
+  "name": "Imię",
+  "question": "Jak możemy pomóc?",
+  "description": "Opis",
+  "charlen": "Minimalna długość wiadomości to 20 znaków.",
+  "type": "Napisz do @StartIT Support",
+  "type-disabled": "Wypełnij formularz powyżej, aby porozmawiać.",
+  "start": "Rozpocznij czat",
+  "disconnect": "Problemy z połączeniem. Rozłączono z czatem.",
+  "subtitle": "Mamy teraz zwiększony ruch. Czas odpowiedzi wydłużony.",
+  "bot-issue": "Problem z botem",
+  "bot-suggestion": "Propozycja do bota",
+  "payment-issue": "Pytanie dotyczące płatności",
+  "user-report": "Zgłoś użytkownika",
+  "required": "To pole jest wymagane"
+}

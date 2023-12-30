@@ -1,0 +1,19 @@
+# format_warning
+185_883_509: "### {0}. {1}"
+185_994_899: " - **{1} p**, <t:{0}> "
+185_534_293: " - Mod: {0}"
+185_996_026: " - Şurada biter: {0}"
+
+# send_embed
+185_009_963: "Bu kullanıcı veritabanımızda mevcut değil."
+185_314_635: "Son uyarılar{0}"
+185_705_420: "{0} hiçbir uyarıya sahip değil."
+
+# warns
+185_098_277: "Komutlar"
+185_674_739: "`{0}warns clear-all <user>` - Kullanıcıdan gelen tüm uyarıları temizle
+`{0}warns clear <user> <no>` - Kullanıcıdan gelen uyarıları temizle
+`{0}warns edit-reason <user> <no> <reason>` - Uyarı nedenini düzenle
+`{0}warns info <user> <no>` - Uyarı bilgilerini göster
+`{0}warns list <user>` - Uyarı listesini göster
+"

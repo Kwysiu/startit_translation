@@ -1,0 +1,16 @@
+# craft_item
+185_624_061: "Możesz wytworzyć tylko 50 przedmiotów na raz"
+185_048_631: "Nieznany przedmiot. Napisz `{0}shop`."
+185_232_443: "Nie masz wystarczająco pieniędzy w portfelu, aby wykonać tę recepturę."
+185_330_816: "Nie masz wystarczająco przedmiotów, aby wykonać tę recepturę."
+185_409_864: "Nie masz wymaganej roli, aby wykonać tę recepturę."
+185_291_253: "Otrzymałeś:"
+185_019_465: "Pomyślnie wykonałeś recepturę!"
+
+# format_crafting
+185_089_552: "Receptura:"
+
+# send_embed
+185_040_863: "Wytwórz przedmiot za pomocą komendy ` {0}craft <nazwa receptury> `."
+185_596_548: "Receptury"
+185_688_553: "Nie ma żadnych receptur rzemieślniczych."

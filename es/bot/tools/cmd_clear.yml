@@ -1,0 +1,21 @@
+# clear
+185_882_888: "You can't delete more than 1000 messages at once."
+
+# clearCMD
+185_668_610: "<a:loading:913596665624133662> Deleting Messages"
+185_950_330: "Messages older than 2 weeks cannot be deleted."
+185_313_186: "Deleted **{0}** messages"
+
+# clearOPTIONS
+185_794_576: "You must specify a user in this option"
+185_682_966: "<a:loading:913596665624133662> Deleting a messages from {0}"
+185_343_445: "Messages older than 2 weeks cannot be deleted."
+185_248_178: "Deleted **{0}** messages from {1}"
+185_343_409: "<a:loading:913596665624133662> Deleting a messages from bots"
+185_496_392: "Messages older than 2 weeks cannot be deleted."
+185_840_279: "Deleted **{0}** messages from bots"
+185_964_135: "Invalid usage"
+185_833_715: "Example commands:
+{0}clear 10 - deletes 10 last messages
+{0}clear 10 bots - delete 10 last messages from bots
+{0}clear 10 user X - delete 10 last messages from user X"

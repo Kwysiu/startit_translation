@@ -1,0 +1,11 @@
+# like
+185_879_807: "Polubiono użytkownika <@{0}>."
+
+# dislike
+185_504_417: "Dałeś łapkę w dół użytkownikowi <@{0}>."
+
+# check
+185_616_502: "Nie możesz wyrazić opinii o sobie."
+185_371_803: "**Możesz tylko raz dziennie wyrazić opinie o użytkowniku.**
+Ostatnia akcja: {0} {1}
+Komenda odblokowana za: {2}"

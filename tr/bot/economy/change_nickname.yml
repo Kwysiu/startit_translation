@@ -1,0 +1,9 @@
+# on_message_component_v1_eco_change_nickname
+185_212_193: "Başkasının kullanıcı adını değiştiremezsiniz!"
+185_616_443: "Kullanıcı adını düzenle"
+185_823_767: "Yeni kullanıcı adı"
+
+# on_message_component_v1_eco_change_nickname_modal
+185_604_116: "Başkasının kullanıcı adını değiştiremezsiniz!"
+185_750_749: "Bu komutu şunun için kullanamazsınız: {0}."
+185_763_457: "Kullanıcı adınız değiştirildi"

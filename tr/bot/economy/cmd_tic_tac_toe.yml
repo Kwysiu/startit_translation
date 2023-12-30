@@ -1,0 +1,55 @@
+# tic_tac_toe
+185_402_502: "Umm... bu bot."
+185_738_983: "Tic Tac Toe"
+185_808_675: "Kendinle oynayamazsın"
+185_431_583: "Minimum bahis miktarı {0}"
+185_025_696: "Maksimum bahis miktarı {0}"
+185_936_904: "Tic Tac Toe"
+185_202_055: "Bu kullanıcıyla {0} saniye boyunca oynayamazsınız."
+185_597_618: "Sadece bir kez oyun oynayabilirsiniz."
+185_402_212: "Bu kullanıcı zaten biriyle oynuyor."
+185_260_208: "Tic-tac-toe"
+185_177_976: "{}'dan tic-tac-toe oyunu için bir davetiye aldınız.{}Fiyat: {}
+Oyunu {} ile kabul etmelisiniz."
+185_511_362: "Kabul Et"
+185_798_254: "Reddet"
+
+# on_task_tic_tac_toe
+185_669_820: "Tic-tac-toe, para iadesi"
+185_157_749: "Tic-tac-toe"
+185_466_508: "Tic-tac-toe oyunu iptal edildi."
+
+# on_message_component_v1_tic_tac_toe
+185_519_393: "Tic-tac-toe"
+185_527_022: "Bu oyunu kabul edemezsiniz."
+185_599_080: "Bu oyunu reddedemezsin."
+185_441_237: "Tic-tac-toe"
+185_864_931: "Tic-tac-toe oyunu iptal edilmiştir."
+185_798_898: "Tic-tac-toe"
+185_417_933: "Tic-tac-toe"
+185_928_047: "Sıra {}'da."
+185_565_358: "Hamlenizi yapmak için {}'e kadar vaktiniz var."
+
+# on_message_component_v1_tic_tac_toe_game
+185_548_456: "Tic-tac-toe"
+185_286_122: "Bu oyunda oynayamazsın."
+185_939_109: "Tic-tac-toe para iadesi"
+185_605_974: "Tic-tac-toe"
+185_477_327: "Hata."
+185_249_663: "Tic-tac-toe"
+185_699_734: "Sıra sende değil."
+185_344_689: "{} kazandı!"
+185_102_937: "Tic-tac-toe galibi"
+185_222_658: "**ÇİZ**"
+185_374_639: "Tic-tac-toe çekilişi"
+
+# gen_embed
+185_199_320: "Tic-tac-toe"
+185_780_932: "Sıra {}'de."
+185_336_237: "Hamlenizi yapmak için {}'e kadar vaktiniz var."
+
+# on_task_tic_tac_toe_game
+185_427_423: "Tic-tac-toe"
+185_791_309: "{} kazandı!"
+185_999_642: "Tic-tac-toe berabere kaldın"
+185_065_587: "Tic-tac-toe kazandın"

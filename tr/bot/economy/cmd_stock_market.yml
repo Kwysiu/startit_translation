@@ -1,0 +1,36 @@
+# stock_market_buy
+185_494_327: "Stok bulunamadı"
+185_677_265: "Hisse senedi satın almak için çok ucuz"
+185_039_264: "Bu hisse senetlerini satın almak için **{0}** paranız yok."
+185_593_906: "Bu hisse senetlerini almak için **{0}** paranız yok."
+185_198_793: "**{1}** karşılığında **{0}** satın aldınız."
+
+# stock_market_sell
+185_038_441: "Stok bulunamadı"
+185_024_763: "Hiç hisse senediniz yok"
+185_192_362: "Bu stoklar sende yok"
+185_563_081: "Yeterli stoğunuz yok"
+185_146_252: "Sattınız:"
+
+# stock_market_info
+185_954_227: "Stok bulunamadı"
+185_783_985: "Stok bilgisi"
+185_625_986: "İsim: {}Sembol: {}Fiyat: {}"
+
+# stock_market_sell_all
+185_992_858: "Başkaları için hisse senedi satamazsınız"
+185_697_177: "Sattın:"
+185_809_593: "Satıyorsun:"
+185_384_474: "Sat"
+
+# stock_market_backpack
+185_735_864: "Sırt Çantasında ki Hisse Senetleri"
+185_629_744: "Satın alma fiyatı: {}Kâr: {}"
+
+# stock_market_list
+185_614_912: "Stok listesi"
+
+# stock_market
+185_027_160: "Yanlış kullanım"
+185_576_404: "Ne yapmak istediğinizi belirtmeniz gerekiyor. {}Mevcut komutlar: {}"
+185_000_951: "Stok listesi"

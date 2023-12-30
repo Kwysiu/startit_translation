@@ -1,0 +1,25 @@
+# err_messages
+185_334_057: "No country/city was found"
+185_163_117: "Service not available. Check again later."
+
+# wind_speed
+185_080_927: "Calm"
+185_807_207: "Light air"
+185_311_097: "Light breeze"
+185_499_647: "Gentle Breeze"
+185_014_728: "Moderate breeze"
+185_406_532: "Fresh Breeze"
+185_742_653: "Strong breeze"
+185_858_857: "High wind, near gale"
+185_041_914: "Gale"
+185_090_600: "Severe Gale"
+185_055_352: "Storm"
+185_178_045: "Violent Storm"
+185_298_987: "Hurricane"
+185_675_116: "Calm"
+
+# weather
+185_079_801: "Specify city"
+185_955_856: "Feels like"
+185_086_651: "Humidity"
+185_272_364: "Weather in"

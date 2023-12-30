@@ -1,0 +1,43 @@
+# gen_message
+185_079_041: "**Oczekiwanie na graczy**"
+185_336_215: "Gracze: "
+185_439_864: "Rosyjska ruletka"
+185_047_609: "Koszt dołączenia: **{0}**
+Start za: {1}
+
+{2}"
+185_120_966: "Dołącz"
+185_171_888: "Zacznij grę"
+
+# command_russian_roulette
+185_046_997: "Trwa już jedna rozgrywka na tym kanale. [Kliknij tutaj](https://discord.com/channels/{0}/{1}/{2}) "
+185_115_276: "Minimalna kwota zakładu to {0}"
+185_347_327: "Maksymalna kwota zakładu to {0}"
+
+# on_message_component_russianroulettejoin
+185_654_787: "W tym kanale nie ma żadnej gry!"
+185_848_580: "W tej gry już jest {} graczy!"
+185_254_307: "Już jesteś w tej grze!"
+185_549_428: "Dołączyłeś do gry!"
+
+# on_message_component_russianroulettestart
+185_596_074: "W tym kanale nie ma żadnej gry!"
+185_604_200: "Nie jesteś właścicielem tej gry!"
+185_990_296: "Nie ma wystarczającej liczby graczy, aby rozpocząć grę!"
+
+# on_task_russian_roulette_end
+185_054_304: "Nie ma wystarczającej liczby graczy, aby rozpocząć grę!"
+185_448_098: "Rosyjska ruletka zakończona"
+185_347_888: "Podsumowanie:
+
+"
+185_634_448: "
+
+Niech spoczywa w pokoju…"
+185_162_722: "{0} został zabity"
+
+# end_game
+185_260_105: "Gra zostanie rozpoczęta za 5 sekund"
+
+# get_game
+185_386_072: "Zbyt szybko. Spróbuj ponownie."

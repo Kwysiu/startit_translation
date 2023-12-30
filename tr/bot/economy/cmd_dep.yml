@@ -1,0 +1,12 @@
+# do
+185_400_988: "Cüzdan kapalı. Paranızı her yerde kullanabilirsiniz!"
+
+# add_footer
+185_608_370: "⚠️ banka limitleri nedeniyle cüzdanda {0} kaldı"
+185_153_415: "⚠️ vergi nedeniyle {0} toplanmıştır"
+
+# deposit
+185_032_659: "Bankanıza **{0}** yatırıldı!"
+
+# withdraw
+185_081_927: "Bankanızdan **{0}** çekildi!"

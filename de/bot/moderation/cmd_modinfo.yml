@@ -1,0 +1,33 @@
+# modinfo
+185_052_529: "Bestrafungsinfo{0}"
+185_552_746: "Bann"
+185_867_497: "**Aktiv:** {0}
+**Gebannt von:** {1}
+**Grund:** {2}
+**Gebannt am:** {3}
+**Endet am:** {4}
+**Bestrafungs-ID:** {5}"
+185_429_114: "Bann / Kick"
+185_988_543: "Benutzer ist Mitglied dieses Servers"
+185_385_292: "Bann"
+185_815_415: "Benutzer ist nicht gebannt"
+185_196_251: "Kick"
+185_822_213: "Benutzer hat den Server verlassen (oder war nie hier)"
+185_765_152: "Kick"
+185_699_587: "**Gekickt von:** {0}
+**Grund:** {1}
+**Gekickt am:** {2}
+**Bestrafungs-ID:** {3}"
+185_754_277: "Mute"
+185_857_500: "Benutzer ist nicht gemuted"
+185_306_620: "Mute"
+185_018_055: "**Aktiv:** {0}
+**Gemuted von:** {1}
+**Grund:** {2}
+**Gemuted am:** {3}
+**Endet am:** {4}
+**Bestrafungs-ID:** {5}"
+185_668_658: "Zusammenfassung:"
+185_589_335: "Verwarnungen"
+185_607_082: "{0}{1} Verwarnugen (**{2}** Punkte)"
+185_309_874: "Liste der Verwarnungen anzeigen"

@@ -1,0 +1,20 @@
+# gen_embed
+185_069_719: "Cüzdanınızda **{0}** var."
+185_296_685: "Bankanızda **{0}** var."
+185_037_499: "{0}buy-item <öğe> ` komutu ile bir eşya satın al."
+185_174_756: "Sunucunun mağazası"
+
+# gen_buttons
+185_347_026: "Varsayılan kategori"
+185_504_011: "Kategori seçin"
+185_914_817: "Önceki Sayfa"
+185_312_472: "Sonraki Sayfa"
+185_709_337: "Ürün satın al"
+
+# send_shop
+185_700_882: " (stokta yok)"
+185_550_221: " (stokta: {0} )"
+185_780_988: "Sayfa {0}/{1}"
+
+# on_message_component_v1_shop
+185_792_463: "Gerekli izinlere sahip değilim"

@@ -1,0 +1,6 @@
+# on_message_component_voice_support_move
+185_688_580: "<@{0}> kişisi, <#{1}> kanalına taşındı."
+
+# temp_channel
+185_211_729: "<@{0}>, Kanal oluşturulamadı!"
+185_204_496: "<@{1}>, <#{0}> kanal oluşturuldu. "

@@ -1,0 +1,31 @@
+# on_message_component_v1_market
+185_942_777: "Brak uprawnień"
+
+# send_market
+185_499_261: "Na rynku nie ma żadnych przedmiotów."
+185_076_062: "Rynek"
+185_180_286: "{0} za {1}"
+185_709_604: " － {1}
+ － Sprzedawca: {0}"
+185_864_883: "Strona {0}/{1}"
+
+# market_sell
+185_700_840: "Niepoprawna składnia"
+185_775_783: "Możesz usunąć tylko 50 sztuk na raz"
+185_821_485: "Użytkownik nie ma wystarczającej ilości przedmiotów."
+185_777_210: "Nieznany przedmiot."
+185_372_552: "Ten przedmiot nie może być sprzedany."
+185_503_256: "Użytkownik nie ma tego przedmiotu."
+185_473_986: "Przedmiot wystawiony na rynek"
+185_298_170: "Wystawiłeś {0}x {1} za {2}."
+
+# market_buy
+185_435_705: "Nie znaleziono przedmiotu."
+185_028_873: "Nie znaleziono przedmiotu."
+185_338_522: "Nie masz **{0}** aby zakupić ten przedmiot."
+185_233_369: "Pieniądze zostały przekazane do <@{0}>.
+Możesz zobaczyć całą listę twoich przedmiotów pisząc ` {1}backpack `."
+185_587_333: "Nowy przedmiot dodany do twojego plecaka:"
+
+# market
+185_202_890: "Komendy rynku"

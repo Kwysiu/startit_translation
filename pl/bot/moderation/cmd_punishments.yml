@@ -1,0 +1,26 @@
+# punishments
+185_311_626: "Komendy"
+185_022_602: "`{0}punishments edit-reason <id> <powód>` - Edytuj powód kary
+`{0}punishments info <id>` - Pokaż informacje o karze
+`{0}punishments list [użytkownik]` - Pokaż listę kar
+`{0}punishments list-mod <moderator>` - Pokaż listę kar
+`{0}punishments remove <id> [powód]` - Usuń karę"
+
+# get_name
+185_733_266: "Wyrzucenie"
+185_660_195: "Zbanowanie"
+185_975_565: "Ostrzeżenie"
+185_075_575: "Wyciszenie"
+
+# format_punishment
+185_166_666: "### {0} za '{1}'"
+185_739_202: " - \#{0} o <t:{1}> "
+185_561_732: " - Czas trwania: {0}"
+185_182_081: " - Użytkownik: {0}"
+185_538_286: " - Moderator: {0}"
+
+# send_embed
+185_604_436: "Ostatnie kary{0}"
+185_938_276: "Ostatnie kary wydane przez {0}"
+185_157_601: "Ostatnie kary"
+185_729_016: "{0} nie ma żadnych kar."

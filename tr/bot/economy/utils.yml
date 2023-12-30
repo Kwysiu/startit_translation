@@ -1,0 +1,20 @@
+# custom_reply
+185_647_835: "
+
+Tekrar deneyin <t:{0}:R>"
+185_190_040: "
+
+Daha fazla kazan <t:{0}:R>
+Bakiye: {1}"
+
+# modlog_send
+185_126_692: "Bilinmeyen kanal"
+185_418_752: "Bakiye güncellendi"
+185_759_074: "**Kullanıcı:** {0}
+**Miktar:** Nakit: {1} | Banka: {2}
+**Kanal:** {3}
+**Sebep:** {4}"
+
+# iter_buttons
+185_267_959: "Önceki Sayfa"
+185_042_437: "Sonraki Sayfa"

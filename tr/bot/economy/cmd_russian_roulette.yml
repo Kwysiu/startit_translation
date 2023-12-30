@@ -1,0 +1,43 @@
+# gen_message
+185_079_041: "**Oyuncular bekleniyor**"
+185_336_215: "Oyuncular: "
+185_439_864: "Rus Ruleti"
+185_047_609: "Katılma maliyeti: **{0}**
+Başla: {1}
+
+{2}"
+185_120_966: "Katıl"
+185_171_888: "Oyunu başlat"
+
+# command_russian_roulette
+185_046_997: "Bu kanalda halihazırda devam eden bir oyun var. [Buraya tıklayın](https://discord.com/channels/{0}/{1}/{2})"
+185_115_276: "Minimum bahis miktarı {0}"
+185_347_327: "Maksimum bahis miktarı {0}"
+
+# on_message_component_russianroulettejoin
+185_654_787: "Bu kanalda oyun yok!"
+185_848_580: "Bu oyunda zaten {} oyuncu var!"
+185_254_307: "Sen zaten bu oyundasın!"
+185_549_428: "Oyuna katıldınız!"
+
+# on_message_component_russianroulettestart
+185_596_074: "Bu kanalda oyun yok!"
+185_604_200: "Bu oyunun sahibi siz değilsiniz!"
+185_990_296: "Oyun başlatmak için yeterli oyuncu yok!"
+
+# on_task_russian_roulette_end
+185_054_304: "Oyun başlatmak için yeterli oyuncu yok!"
+185_448_098: "Rus Ruleti sona erdi"
+185_347_888: "Özet:
+
+"
+185_634_448: "
+
+Huzur içinde yat..."
+185_162_722: "{0} öldürüldü"
+
+# end_game
+185_260_105: "Oyun 5 saniye içinde başlayacak"
+
+# get_game
+185_386_072: "Çok hızlı. Tekrar dene."

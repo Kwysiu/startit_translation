@@ -1,0 +1,12 @@
+# send_message
+185_815_931: "Evet"
+185_991_859: "Hayır"
+
+# on_message_component_personbelow
+185_398_051: "Kendi mesajınıza yanıt veremezsiniz."
+185_854_876: "Yeni Evet/Hayır sorusu"
+185_119_687: "Aşağıdaki kullanıcıya sorulacak soru"
+
+# on_message_component_personbelow_form
+185_888_678: "Hayır"
+185_679_423: "Evet"

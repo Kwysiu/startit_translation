@@ -1,0 +1,21 @@
+# custom_reply
+185_647_835: "
+
+Versuche es erneut <t:{0}:R>
+Bilanz: {1}"
+185_190_040: "
+
+Erhalte mehr <t:{0}:R>
+Bilanz: {1}"
+
+# modlog_send
+185_126_692: "Unbekannter Kanal"
+185_418_752: "Bilanz aktualisiert"
+185_759_074: "**Benutzer:** {0}
+**Menge:** Geld: {1} | Bank: {2}
+**Kanal:** {3}
+**Grund:** {4}"
+
+# iter_buttons
+185_267_959: "Vorherige Seite"
+185_042_437: "Nächste Seite"

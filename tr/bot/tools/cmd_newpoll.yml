@@ -1,0 +1,132 @@
+# gen_submit_components
+185_524_078: "Seçmenleri göster"
+185_102_636: "Sonuçları göster"
+185_687_534: "Oy"
+
+# gen_components
+185_737_949: "1. Birden fazla seçeneğe izin ver:"
+185_617_658: "izin verme"
+185_709_191: "Sadece bir seçeneğe izin verilecektir"
+185_813_795: "sınırsız"
+185_519_563: "Kullanıcılar istedikleri kadar seçenek seçebilir"
+185_735_729: "tam sayı"
+185_822_428: "Kullanıcılar belirli sayıda seçenek seçebilir"
+185_585_382: "aralık"
+185_011_765: "Kullanıcılar aralık kadar seçenek seçebilir"
+185_396_478: "2. Kullanıcıların oylarını değiştirmelerine izin verin:"
+185_450_003: "evet"
+185_656_520: "Kullanıcılar oylarını değiştirebilecek"
+185_250_568: "hayır"
+185_221_616: "Kullanıcılar oylarını değiştiremeyecek"
+185_844_794: "Oylama ayarlarını değiştir"
+185_111_620: "3. Katılımcıların isimlerinin görünürlüğü:"
+185_645_014: "herkese açık"
+185_863_383: "Herkes kimin neye oy verdiğini görebilecek"
+185_042_845: "izin verilen roller"
+185_368_109: "Yalnızca izin verilen rollere sahip kullanıcılar kimin neye oy verdiğini görebilecek"
+185_651_966: "hiç kimse"
+185_160_535: "Anonim oylama, yönetim kimin neye oy verdiğini bilmeyecek"
+185_467_719: "4. Anket sonucu görünürlüğü:"
+185_380_752: "herkese açık"
+185_428_220: "Anket sonuçlarını herkes görebilecek"
+185_705_985: "oylamadan sonra"
+185_787_818: "Sadece oy verenler sonuçları görebilecek"
+185_410_891: "izin verilen roller"
+185_980_837: "Yalnızca izin verilen rollere sahip kullanıcılar sonuçları görebilecek"
+185_126_006: "5. Tamamlandıktan sonra sonuçları yayınlayın:"
+185_764_756: "evet"
+185_418_644: "Sonuçlar anket tamamlandıktan sonra yayınlanacaktır"
+185_307_533: "Hayır"
+185_965_624: "Anket tamamlandıktan sonra sonuçlar yayınlanmayacaktır"
+185_688_771: "Görünürlük ayarlarını değiştir"
+185_240_380: "6. Oy kullanma izinleri:"
+185_247_858: "herkes"
+185_854_241: "Herkes oy kullanabilecek"
+185_343_955: "izin verilen roller"
+185_897_626: "Yalnızca izin verilen rollere sahip kullanıcılar oy kullanabilecek"
+185_071_124: "7. Süre:"
+185_870_540: "sonsuza kadar"
+185_169_432: "Anket otomatik olarak sona ermeyecek"
+185_448_354: "kadar"
+185_882_194: "Anket belirtilen saatte sona erecek"
+185_255_906: "8. Maksimum oy:"
+185_005_186: "sınırsız"
+185_647_436: "Anket belirli bir oy sayısından sonra sona ermeyecek"
+185_903_248: "sınırlı"
+185_915_879: "Anket belirli bir oy sayısından sonra sona erecek"
+185_419_637: "Yönetim ayarlarını değiştir"
+185_615_913: "İptal"
+185_876_979: "Anketi gönder"
+
+# gen_embed
+185_906_016: "Seçenekler:"
+185_700_161: "{0} oydan sonra"
+185_270_849: "Biter:"
+185_956_833: " veya "
+185_060_191: "Anonim anket - takma adlar personele gösterilmeyecek"
+185_712_977: "Mod:"
+185_301_773: "- Sadece tek oy"
+185_625_497: "Mod:"
+185_493_102: "- Birden fazla oylamaya izin verilir"
+185_173_053: "Mod:"
+185_541_292: "- {0} seçeneğini seçin"
+185_163_945: "Mod:"
+185_433_763: "- {0} ila {1} seçeneklerinden birini seçin"
+185_933_318: "Oy vermeye uygun roller:"
+
+# poll
+185_520_557: "Anket oluşturmak için tıklayın"
+
+# open_poll_creation_modal
+185_685_306: "Evet"
+185_612_402: "Hayır"
+185_949_826: "Anket oluşturma"
+185_094_880: "Soru"
+185_149_869: "Seçenekler (her satır için bir tane)"
+
+# on_message_component_poll
+185_157_756: "Sadece mesaj sahibi anket oluşturabilir"
+
+# refresh
+185_069_977: "Geri"
+
+# on_message_component_poll_voting_settings
+185_581_212: "Çoklu seçenekler"
+185_296_032: "Seçenek sayısı"
+185_866_187: "Birden fazla seçenek: aralık"
+185_578_599: "Seçilebilecek minimum seçenek sayısı"
+185_004_609: "Seçilebilecek maksimum seçenek sayısı"
+
+# on_message_component_poll_visibility_settings
+185_215_081: "3. Katılımcıların adlarının görünürlüğü:"
+185_474_426: "Kimin oy verdiğini görmesine izin verilen roller"
+185_674_688: "4. Anket sonucu görünürlüğü:"
+185_920_189: "Anket sonuçlarını görmesine izin verilen roller"
+
+# on_message_component_poll_management_settings
+185_963_671: "Anket süresi"
+185_201_154: "Yoklama süresi (örn. 10 saat veya 30 dakika)"
+185_409_740: "Maksimum oy sayısı"
+185_750_054: "Maksimum oy sayısı"
+185_916_531: "6. Oy kullanma izinleri:"
+185_818_489: "Oy kullanmasına izin verilen roller"
+
+# vote_check
+185_334_309: "Oy kullanmak için izniniz yok"
+185_095_198: "Bu anket sona ermiştir"
+185_768_893: "Bu anket sona ermiştir"
+
+# on_message_component_poll_vote_show
+185_682_937: "Oyları görüntülemek için izniniz yok"
+185_941_003: "Kimse oyları görüntüleyemez"
+185_025_916: "Oylar"
+185_313_602: "Oy yok"
+
+# on_message_component_poll_vote_results
+185_403_521: "Oylama sonuçlarını görüntülemek için izniniz yok"
+185_492_945: "Kimse oy sonuçlarını görüntüleyemiyor"
+
+# on_message_component_poll_vote
+185_024_314: "Oyunuzu değiştiremezsiniz"
+185_932_743: "Oyunuz kaydedildi"
+185_289_776: "Oyunuz kaydedildi"

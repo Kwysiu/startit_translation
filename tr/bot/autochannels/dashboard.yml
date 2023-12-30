@@ -1,0 +1,41 @@
+# on_message_component_autochannels_ban
+185_057_356: "Yasaklamak istediğin üyeyi seç"
+
+# on_message_component_autochannels_kick
+185_469_455: "Atmak istediğin üyeyi seç"
+
+# on_message_component_autochannels_invite
+185_274_320: "Choose user to invite"
+
+# on_message_component_autochannels_owner
+185_706_881: "Choose user to give owner"
+
+# on_message_component_autochannels_name
+185_751_470: "Kanalı düzenle"
+185_853_063: "Kanal İsmi"
+
+# on_message_component_autochannels_limit
+185_187_320: "Kanalı düzenle"
+185_970_535: "Kanal limiti"
+
+# on_message_component_autochannels_do_name
+185_159_592: "10 Dakika içerisinde maksimum kanal adı düzenleme sayısına ulaştınız"
+
+# on_message_component_autochannels_do_limit
+185_434_353: "Geçersiz miktar. Limiti kaldırmak için 0 yazın, 1'den 99'a kadar kullanıcı limitini ifade eder"
+
+# on_message_component_autochannels_do_ban
+185_770_573: "<@{0}> üyesi bu kanaldan <@{1}> tarafından yasaklandı."
+
+# on_message_component_autochannels_do_invite
+185_382_238: "<@{0}> üye, bu kanala <@{1}> tarafından eklendi."
+
+# on_message_component_autochannels_do_kick
+185_992_134: "<@{0}> üyesi bu kanaldan <@{1}> tarafından atıldı."
+
+# on_message_component_autochannels_do_owner
+185_376_129: "Sahip <@{0}> olarak değiştirildi."
+
+# on_message_component_autochannels_lock
+185_079_663: "Kanalın kilidi açıldı. Sunucudaki herkes buraya katılabilir veya sohbeti okuyabilir."
+185_893_167: ":warning: Kanal kilitlendi! Artık yalnızca kanal üyeleri buraya katılabilir veya sohbeti okuyabilir."

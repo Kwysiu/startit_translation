@@ -1,0 +1,6 @@
+# on_message_component_voice_support_move
+185_688_580: "Benutzer <@{0}> wurde zum Kanal <#{1}> bewegt"
+
+# temp_channel
+185_211_729: "Für <@{0}>konnte kein Kanal estellt werden"
+185_204_496: "Für <@{1}> wurde der Kanal <#{0}> erstellt"

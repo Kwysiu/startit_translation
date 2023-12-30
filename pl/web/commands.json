@@ -1,0 +1,19 @@
+{
+  "commands": "Komendy bota",
+  "economy-commands": "Komendy z ekonomii",
+  "leveling-commands": "Komendy z leveli",
+  "ticketing-commands": "Komendy ze zgłoszeń",
+  "command-config": "Konfiguracja komendy",
+  "command-name": "Nazwa",
+  "commands-desc": "Komendy ukośne to nowy sposób wprowadzania poleceń w interfejsie graficznym Discorda.",
+  "settings": "Ustawienia",
+  "enable-global-slashes": "Włącz komendy do pluginów Obrazy i Narzędzia",
+  "help-slashes": "Pokaż wzmianki poleceń w /help",
+  "help-slashes-desc": "Zalecana wartość: wyłączona - wzmianki poleceń nie są obecnie w pełni obsługiwane przez Discorda",
+  "enable-all": "Włącz wszystkie",
+  "moderation-commands": "Komendy z moderacji",
+  "prefix": "Komendy pod prefiksem",
+  "prefix-desc": "Bot będzie szukał w zwykłych wiadomościach poleceń, które zaczynają się od podanego znaku.",
+  "prefix-input": "Prefiks",
+  "disabled-commands-input": "Komendy wykluczone z prefiksu"
+}

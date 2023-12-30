@@ -1,0 +1,12 @@
+# do
+185_400_988: "Portemonnaie ist ausgeschaltet. Du kannst überall dein Geld verwenden!"
+
+# add_footer
+185_608_370: "⚠️ {0} verbleiben im Portemonnaie aufgrund von Bankgrenzen"
+185_153_415: "⚠️ {0} wurden aus steuerlichen Gründen eingezogen"
+
+# deposit
+185_032_659: "**{0}** auf dein Bankkonto eingezahlt!"
+
+# withdraw
+185_081_927: "**{0}** von deinem Bankkonto abgehoben!"

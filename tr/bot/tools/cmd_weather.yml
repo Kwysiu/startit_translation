@@ -1,0 +1,25 @@
+# err_messages
+185_334_057: "Hiçbir ülke/şehir bulunamadı"
+185_163_117: "Hizmet mevcut değil. Daha sonra tekrar kontrol edin."
+
+# wind_speed
+185_080_927: "Sakin"
+185_807_207: "Hafif hava"
+185_311_097: "Hafif esinti"
+185_499_647: "Nazik Esinti"
+185_014_728: "Orta şiddette esinti"
+185_406_532: "Taze Esinti"
+185_742_653: "Güçlü esinti"
+185_858_857: "Şiddetli rüzgar, fırtınaya yakın"
+185_041_914: "Gale"
+185_090_600: "Şiddetli Fırtına"
+185_055_352: "Fırtına"
+185_178_045: "Şiddetli Fırtına"
+185_298_987: "Kasırga"
+185_675_116: "Sakin"
+
+# weather
+185_079_801: "Şehir belirtin"
+185_955_856: "Gibi hissettiriyor"
+185_086_651: "Nem"
+185_272_364: "Hava Durumu"

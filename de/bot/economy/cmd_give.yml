@@ -1,0 +1,7 @@
+# give_item
+185_669_564: "Du kannst nur 50 Gegenstände auf einmal verschenken."
+185_744_287: "Du hast nicht genügend Gegenstände."
+185_955_199: "Unbekannter Gegenstand. Type ` {0}backpack `."
+185_306_366: "Dieser Gegenstand kann nicht verschenkt werden."
+185_041_427: "Fehlgeschlagen. Der Benutzer hat das Limit dieses Gegenstands im Rucksack überschritten."
+185_359_458: "Du hast gerade den Gegenstand **{0}** an {1} verschenkt."

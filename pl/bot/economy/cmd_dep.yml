@@ -1,0 +1,12 @@
+# do
+185_400_988: "Portfel jest wyłączony. Możesz wszędzie używać swoje pieniędze!"
+
+# add_footer
+185_608_370: "⚠️ {0} pozostały w portfelu ze względu na limity bankowe"
+185_153_415: "⚠️ {0} pobierane ze względów podatkowych"
+
+# deposit
+185_032_659: "Wpłaciłeś **{0}** do twojego banku!"
+
+# withdraw
+185_081_927: "Wypłaciłeś **{0}** z twojego banku!"

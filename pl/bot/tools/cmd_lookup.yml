@@ -1,0 +1,105 @@
+# cmd_lookup
+185_406_672: "Komendy: "
+185_596_417: "Zła składnia"
+
+# cmd_lookup_user
+185_646_831: "<:information:868952803006091264> {} - Informacje"
+185_437_421: "<@!{0}>
+**Link do avatara: **[Kliknij tutaj]({1})"
+185_613_780: "Użytkownik ma StartIT Plus"
+185_549_858: "ID Użytkownika"
+185_694_868: "Dołączył do discorda"
+185_412_467: "Dołączył do serwera"
+185_505_613: "Rangi"
+185_578_313: "Recenzje ({})"
+185_375_274: "Napisz opinię do ReviewDB"
+
+# on_message_component_post_review
+185_017_006: "Dodaj opinię do ReviewDB"
+185_178_820: "Opinia"
+185_913_187: "Spamowanie i pisanie obraźliwych recenzji skutkuje banem. Miej szacunek do innych użytkowników."
+
+# on_message_component_post_review_submit
+185_890_920: "Recenzja zaktualizowana"
+185_686_076: "Recenzja dodana"
+185_961_539: "Błąd"
+
+# cmd_lookup_role
+185_770_494: "Tak"
+185_206_382: "Nie"
+185_235_743: "Informacje o roli - {}"
+185_804_978: "<@&{0}>
+**ID roli: **{1}
+**Pozycja roli: **{2}
+**Wyróżniona: **{3}
+**Wzmiankowalna: **{4}
+**Zarządzalna: **{5}
+**Utworzona: **{6}"
+185_819_703: "
+**Kolor roli: **{0}"
+185_837_487: "Uprawnienia"
+185_662_834: "
+Rola z boostowania serwera"
+185_004_705: "
+**Rola dla bota:** {}"
+
+# cmd_lookup_channel
+185_793_407: "Tekstowy"
+185_928_780: "DM"
+185_053_722: "Głosowy"
+185_537_245: "Grupowy DM"
+185_860_801: "Kategoria"
+185_121_680: "Newsy"
+185_247_445: "Sklep"
+185_745_993: "Wątek Newsów"
+185_159_529: "Publiczny Wątek"
+185_839_723: "Prywatny Wątek"
+185_934_901: "Głosowy Stage"
+185_911_922: "Tak"
+185_852_864: "Nie"
+185_309_300: "<#{0}>
+**ID kanału: **{1}
+**Typ kanału: **{2}
+**Kanał NSFW: **{3}
+**Kanał utworzony: **{4}"
+185_601_713: "
+**Pozycja kanału: **{0}"
+185_366_217: "
+**Temat kanału: **{0}"
+185_486_217: "
+**Rodzic kanału: **{0}"
+185_308_968: "
+**Bitrate kanału: **{0}"
+185_614_782: "
+**Limit użytkowników kanału: **{0}"
+185_940_596: "
+**Właściciel kanału: **{0}"
+185_205_646: "Zezwolono: "
+185_214_994: "Zablokowano: "
+185_509_141: "Uprawnienia użytkowników"
+185_675_819: "Uprawnienia ról"
+
+# cmd_lookup_server
+185_151_428: "**FUNKCJE SERWERA:**"
+185_097_822: "<:overview:868953016282271745>**PRZEGLĄD**
+**ID:** {0} 
+**Właściciel:** <@{1}>
+**Serwer utworzony: ** {19}.{20}.{21}  {22}:{23} 
+**Link do ikony serwera:** [Kliknij tutaj](https://cdn.discordapp.com/icons/{0}/{3}?size=1024)
+**Role:** {4}
+
+<:boosts:868953110758957066>**ULEPSZENIA**
+**Poziom ulepszeń:** {5}
+**Wszystkich ulepszeń:** {6}
+
+<:users:868953499038281738>**CZŁONKOWIE**
+<:users:868953499038281738> {7} • <:bots:868953478268092436> {8}
+
+<:channels:868954276121157634> **KANAŁY**
+<:channels:868954276121157634> {9} • <:category:868954251076964383> {10} • <:text_channel:868954234689843220> {11} • <:voice_channel:868954221712637983> {12} • <:news_channel:868954207250694205> {13}
+
+:slight_smile: **EMOTKI**
+Animowanych: **{14}** • Zwykłych: **{15}** • Wszystkich: **{16}**
+
+{17}
+{18}"

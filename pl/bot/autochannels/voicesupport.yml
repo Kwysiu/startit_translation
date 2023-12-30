@@ -1,0 +1,6 @@
+# on_message_component_voice_support_move
+185_688_580: "Przeniesiono <@{0}> na kanał <#{1}>"
+
+# temp_channel
+185_211_729: "Nie udało się stworzyć kanału dla <@{0}>"
+185_204_496: "Stworzono kanał <#{0}> dla <@{1}>"

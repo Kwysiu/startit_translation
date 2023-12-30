@@ -1,0 +1,15 @@
+{
+  "embeds": "Osadzenia",
+  "embeds-hub": "Panele z osadzeniami",
+  "embeds-hubs-desc": "",
+  "settings": "Ustawienia",
+  "channel-name": "Nazwa kanału",
+  "new-embedshub": "Nowe osadzenie",
+  "title-url": "Link tytułu",
+  "customization": "Personalizacja",
+  "embed-name": "Nazwa wiadomości (wyświetlana tylko w panelu)",
+  "embed-name-desc": "np. regulamin serwera",
+  "add-button": "Dodaj przycisk",
+  "add-select-menu": "Dodaj pole wyboru",
+  "add-select-item": "Dodaj element"
+}
