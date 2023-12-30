@@ -1,7 +1,7 @@
 # on_task_giveaway_end
-185_633_945: "Not enough people to announce a winner"
-185_790_262: "Giveaway by {0} ended"
-185_767_565: "Winners: {0}"
-185_268_967: "Winner: {0}"
-185_458_776: "Congratulations, {0}! You won **{1}**"
-185_210_178: "Congratulations, {0}! You won **{1}**"
+185_633_945: "No hay suficientes personas para anunciar un ganador"
+185_790_262: "Sorteo de {0} terminado"
+185_767_565: "Ganadores: {0}"
+185_268_967: "Ganador: {0}"
+185_458_776: "¡Felicidades, {0}! Ganaste **{1}**"
+185_210_178: "¡Felicidades, {0}! Ganaste **{1}**"
