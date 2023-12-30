@@ -1,16 +1,16 @@
 # craft_item
-185_624_061: "You can only craft 50 items at once"
-185_048_631: "Unknown item. Type `{0}shop`."
-185_232_443: "You don't have enough money in your wallet to craft this recipe."
-185_330_816: "You don't have enough items to craft this recipe."
-185_409_864: "You don't have required role to craft this recipe."
-185_291_253: "You have received:"
-185_019_465: "Successfully crafted recipe!"
+185_624_061: "Solo puedes elaborar 50 artículos a la vez"
+185_048_631: "Artículo desconocido. Escribe `{0}shop`."
+185_232_443: "No tienes suficiente dinero en tu billetera para elaborar esta receta."
+185_330_816: "No tienes suficientes artículos para elaborar esta receta."
+185_409_864: "No tienes el rol requerido para elaborar esta receta."
+185_291_253: "Has recibido:"
+185_019_465: "¡Receta elaborada con éxito!"
 
 # format_crafting
-185_089_552: "Recipe:"
+185_089_552: "Receta:"
 
 # send_embed
-185_040_863: "Craft an item with the ` {0}craft <recipe name> ` command."
-185_596_548: "Crafting"
-185_688_553: "There is no crafting recipies."
+185_040_863: "Elabora un artículo con el comando ` {0}craft <nombre de la receta> `."
+185_596_548: "Elaboración"
+185_688_553: "No hay recetas de elaboración."
