@@ -1,16 +1,16 @@
 # assert_permissions
-185_925_288: "This user has a higher role than you"
-185_196_213: "This user is protected"
+185_925_288: "Este usuario es de mayor jerarquía que tú"
+185_196_213: "Este usuario está protegido"
 
 # modlog_send
-185_875_745: "User"
-185_660_558: "Moderator"
-185_238_144: "Reason"
-185_559_044: "Punishment ID"
-185_385_995: "Duration"
+185_875_745: "Usuario"
+185_660_558: "Moderador"
+185_238_144: "Razón"
+185_559_044: "ID del castigo"
+185_385_995: "Duración"
 
 # modlog_send_legacy
-185_673_072: "By:"
+185_673_072: "Por:"
 
 # paginate
 185_224_163: "
