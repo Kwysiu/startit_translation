@@ -8,7 +8,7 @@
 185_876_294: "La bola cayó en: **{0} {1}**"
 
 # roulette
-185_461_366: "Argumento \"space\" inválido. Intenta: `{0}`"
+185_461_366: "Argumento \"espacio\" inválido. Intenta: `{0}`"
 185_068_271: "La cantidad mínima de apuesta es {0}"
 185_143_928: "La cantidad máxima de apuesta es {0}"
 185_455_300: "No puedes jugar a la ruleta para: {0}."
