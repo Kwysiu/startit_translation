@@ -1,12 +1,12 @@
 # on_message_create
-185_835_324: "You have been muted"
-185_508_495: "You can't write on this channel: {0}."
-185_155_676: "Moderator"
-185_298_081: "Reason"
+185_835_324: "Has sido silenciado"
+185_508_495: "No puedes escribir en este canal: {0}."
+185_155_676: "Moderador"
+185_298_081: "Razón"
 
 # mute
 185_037_318: "Error"
-185_065_369: "for"
-185_561_478: "New user has been muted"
-185_110_705: "By:"
-185_169_580: "No reason provided"
+185_065_369: "por"
+185_561_478: "Nuevo usuario ha sido silenciado"
+185_110_705: "Por:"
+185_169_580: "No se proporcionó ninguna razón"
