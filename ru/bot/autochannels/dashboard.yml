@@ -1,0 +1,41 @@
+# on_message_component_autochannels_ban
+185_057_356: "Выберите юзера для бана"
+
+# on_message_component_autochannels_kick
+185_469_455: "Выберите юзера для кика"
+
+# on_message_component_autochannels_invite
+185_274_320: "Выберите юзера для инвайта"
+
+# on_message_component_autochannels_owner
+185_706_881: "Выберите юзера для выдачи овнера"
+
+# on_message_component_autochannels_name
+185_751_470: "Редактировать канал"
+185_853_063: "Имя канала"
+
+# on_message_component_autochannels_limit
+185_187_320: "Редактировать канал"
+185_970_535: "Лимит канала"
+
+# on_message_component_autochannels_do_name
+185_159_592: "Вы достигли макс. количество изменений имени канала за 10 минут"
+
+# on_message_component_autochannels_do_limit
+185_434_353: "Неверный номер. Введите 0, чтобы удалить лимит, 1-99 отностится к лимиту юзера"
+
+# on_message_component_autochannels_do_ban
+185_770_573: "Юзер <@{0}> забанен с этого канала модератором <@{1}>"
+
+# on_message_component_autochannels_do_invite
+185_382_238: "Юзер <@{0}> добавлен в этот канал юзером <@{1}>"
+
+# on_message_component_autochannels_do_kick
+185_992_134: "Юзер <@{0}> кикнут из этого канала юзером <@{1}>"
+
+# on_message_component_autochannels_do_owner
+185_376_129: "Овнер изменён на <@{0}>"
+
+# on_message_component_autochannels_lock
+185_079_663: "Канал разблокирован. Кто угодно на сервере может присоединиться сюда или читать чат"
+185_893_167: ":warning: Канал заблокирован! Теперь только участники канала могут присоединиться сюда или читать чат"
