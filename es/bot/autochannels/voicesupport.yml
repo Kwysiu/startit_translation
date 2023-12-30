@@ -1,6 +1,6 @@
 # on_message_component_voice_support_move
-185_688_580: "Moved <@{0}> to channel <#{1}>"
+185_688_580: "El usuario <@{0}> fue movido al canal <#{1}>"
 
 # temp_channel
-185_211_729: "Failed to create channel for <@{0}>"
-185_204_496: "Created channel <#{0}> for <@{1}>"
+185_211_729: "Fallo al crear un canal para <@{0}>"
+185_204_496: "Canal <#{0}> creado por <@{1}>"
