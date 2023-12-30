@@ -1,9 +1,9 @@
 # warn_user
-185_390_456: "Too many warnings points"
-185_601_548: "{0} warning point has been given"
-185_052_684: "Total points"
+185_390_456: "Demasiados puntos de advertencia"
+185_601_548: "Se ha dado {0} punto de advertencia"
+185_052_684: "Puntos totales"
 
 # check_warns
-185_451_202: "Too many warnings"
-185_800_174: "Too many warnings"
-185_447_563: "Too many warnings"
+185_451_202: "Demasiadas advertencias"
+185_800_174: "Demasiadas advertencias"
+185_447_563: "Demasiadas advertencias"
