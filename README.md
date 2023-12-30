@@ -9,3 +9,7 @@
 | [es](/es) | Español  | @trufasuprema    | [@TrufaSuprema](https://github.com/TrufaSuprema) |
 | [de](/de) | Deutsch  | @bertraun        | -                                                |
 
+
+
+| Coordinator | @kwysiu |
+| ------------ | ------ |
