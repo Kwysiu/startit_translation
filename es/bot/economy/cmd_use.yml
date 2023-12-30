@@ -1,7 +1,8 @@
 # on_message_component_v1_shopuse
-185_137_698: "Unknown item."
+185_137_698: "Artículo desconocido."
 
 # use_item
-185_274_293: "You can only use 50 items at once"
-185_004_652: "You don't have enough items."
-185_389_530: "Unknown item."
+185_274_293: "Solo puedes usar 50 artículos a la vez"
+185_004_652: "No tienes suficientes artículos."
+185_389_530: "Artículo desconocido."
+
