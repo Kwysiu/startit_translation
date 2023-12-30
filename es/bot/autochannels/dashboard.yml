@@ -1,41 +1,41 @@
 # on_message_component_autochannels_ban
-185_057_356: "Choose user to ban"
+185_057_356: "Elige un usuario para vetar"
 
 # on_message_component_autochannels_kick
-185_469_455: "Choose user to kick"
+185_469_455: "Elige un usuario para expulsar"
 
 # on_message_component_autochannels_invite
-185_274_320: "Choose user to invite"
+185_274_320: "Elige un usuario para invitar"
 
 # on_message_component_autochannels_owner
-185_706_881: "Choose user to give owner"
+185_706_881: "Elige un usuario para hacer dueño"
 
 # on_message_component_autochannels_name
-185_751_470: "Edit channel"
-185_853_063: "Channel name"
+185_751_470: "Editar canal"
+185_853_063: "Nombre del canal"
 
 # on_message_component_autochannels_limit
-185_187_320: "Edit channel"
-185_970_535: "Channel limit"
+185_187_320: "Editar canal"
+185_970_535: "Límite del canal"
 
 # on_message_component_autochannels_do_name
-185_159_592: "You have reached the maximum number of channel name edits in 10 minutes."
+185_159_592: "Haz alcanzado el número máximo de ediciones de nombre de canal cada 10 minutos."
 
 # on_message_component_autochannels_do_limit
-185_434_353: "Invalid number. Type 0 to remove limit, 1 to 99 refers to a user limit."
+185_434_353: "Número inválido. Escribe 0 para remover el límite, de 1 a 99 para establecerlo."
 
 # on_message_component_autochannels_do_ban
-185_770_573: "User <@{0}> has been banned from this channel by <@{1}>."
+185_770_573: "El usuario <@{0}> ha sido vetado de este canal por <@{1}>."
 
 # on_message_component_autochannels_do_invite
-185_382_238: "User <@{0}> has been added to this channel by <@{1}>."
+185_382_238: "El usuario <@{0}> ha sido añadido a este canal por <@{1}>."
 
 # on_message_component_autochannels_do_kick
-185_992_134: "User <@{0}> has been kicked from this channel by <@{1}>."
+185_992_134: "El usuario <@{0}> ha sido expulsado de este canal por <@{1}>."
 
 # on_message_component_autochannels_do_owner
-185_376_129: "Owner has been changed to <@{0}>."
+185_376_129: "El dueño ha cambiado a <@{0}>."
 
 # on_message_component_autochannels_lock
-185_079_663: "Channel unlocked. Everyone in server can join here or read the chat."
-185_893_167: ":warning: Channel has been locked! Now only channel members can join here or read the chat."
+185_079_663: "Canal desbloqueado. Todos en el servidor pueden unirse aquí o leer el chat."
+185_893_167: ":warning: ¡El canal fue bloqueado! Ahora solo los miembros del canal podrán unirse."
