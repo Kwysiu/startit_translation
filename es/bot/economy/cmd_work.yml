@@ -1,4 +1,5 @@
 # work
-185_663_226: "You cannot work for: {0}."
-185_873_169: "Successful /work command"
-185_900_000: "You have been working and you earned **{0}**."
+185_663_226: "No puedes trabajar para: {0}."
+185_873_169: "Comando /work exitoso"
+185_900_000: "Has estado trabajando y has ganado **{0}**."
+
