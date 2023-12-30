@@ -1,101 +1,101 @@
 # cmd_lookup
-185_406_672: "Commands: "
-185_596_417: "Wrong usage"
+185_406_672: "Comandos: "
+185_596_417: "Uso incorrecto"
 
 # cmd_lookup_user
-185_646_831: "<:information:868952803006091264> {} - Information"
+185_646_831: "<:information:868952803006091264> {} - Información"
 185_437_421: "<@!{0}>
-**Link to an avatar: **[click here]({1})"
-185_613_780: "User has StartIT Plus"
-185_549_858: "USER ID"
-185_694_868: "Joined Discord"
-185_412_467: "Joined Server"
+**Enlace a un avatar: **[clic aquí]({1})"
+185_613_780: "El usuario tiene StartIT Plus"
+185_549_858: "ID DE USUARIO"
+185_694_868: "Se unió a Discord"
+185_412_467: "Se unió al servidor"
 185_505_613: "Roles"
-185_578_313: "Reviews ({})"
-185_375_274: "Write review to ReviewDB"
+185_578_313: "Reseñas ({})"
+185_375_274: "Escribir reseña en ReviewDB"
 
 # on_message_component_post_review
-185_017_006: "Post review to ReviewDB"
-185_178_820: "Review"
-185_913_187: "Spamming and writing offensive reviews will result with a ban. Please be respectful to other users."
+185_017_006: "Publicar reseña en ReviewDB"
+185_178_820: "Reseña"
+185_913_187: "El spam y la escritura de reseñas ofensivas resultarán en una prohibición. Por favor, respeta a los demás usuarios."
 
 # on_message_component_post_review_submit
-185_890_920: "Review updated"
-185_686_076: "Review posted"
+185_890_920: "Reseña actualizada"
+185_686_076: "Reseña publicada"
 185_961_539: "Error"
 
 # cmd_lookup_role
-185_770_494: "Yes"
+185_770_494: "Sí"
 185_206_382: "No"
-185_235_743: "Role information - {}"
+185_235_743: "Información del rol - {}"
 185_804_978: "<@&{0}>
-**Role ID: **{1}
-**Role position: **{2}
-**Hoisted: **{3}
-**Mentionable: **{4}
-**Managed: **{5}
-**Created at: **{6}"
+**ID del rol: **{1}
+**Posición del rol: **{2}
+**Izado: **{3}
+**Mencionable: **{4}
+**Gestionado: **{5}
+**Creado en: **{6}"
 185_819_703: "
-**Role color: **{0}"
-185_837_487: "Permissions"
+**Color del rol: **{0}"
+185_837_487: "Permisos"
 185_662_834: "
-Role for boosting the server"
+Rol para impulsar el servidor"
 185_004_705: "
-**Role for bot:** {}"
+**Rol para bot:** {}"
 
 # cmd_lookup_channel
-185_793_407: "Text"
+185_793_407: "Texto"
 185_928_780: "DM"
-185_053_722: "Voice"
-185_537_245: "Group DM"
-185_860_801: "Category"
-185_121_680: "News"
-185_247_445: "Store"
-185_745_993: "News Thread"
-185_159_529: "Public Thread"
-185_839_723: "Private Thread"
-185_934_901: "Stage Voice"
-185_911_922: "Yes"
+185_053_722: "Voz"
+185_537_245: "DM de grupo"
+185_860_801: "Categoría"
+185_121_680: "Noticias"
+185_247_445: "Tienda"
+185_745_993: "Hilo de noticias"
+185_159_529: "Hilo público"
+185_839_723: "Hilo privado"
+185_934_901: "Voz de escenario"
+185_911_922: "Sí"
 185_852_864: "No"
 185_309_300: "<#{0}>
-**Channel ID: **{1}
-**Channel type: **{2}
-**Channel NSFW: **{3}
-**Channel created at: **{4}"
+**ID del canal: **{1}
+**Tipo de canal: **{2}
+**Canal NSFW: **{3}
+**Canal creado en: **{4}"
 185_601_713: "
-**Channel position: **{0}"
+**Posición del canal: **{0}"
 185_366_217: "
-**Channel topic: **{0}"
+**Tema del canal: **{0}"
 185_486_217: "
-**Channel parent: **{0}"
+**Padre del canal: **{0}"
 185_308_968: "
-**Channel bitrate: **{0}"
+**Bitrate del canal: **{0}"
 185_614_782: "
-**Channel user limit: **{0}"
+**Límite de usuarios del canal: **{0}"
 185_940_596: "
-**Channel owner: **{0}"
-185_205_646: "Allowed: "
-185_214_994: "Denied: "
-185_509_141: "Members permissions"
-185_675_819: "Roles permissions"
+**Dueño del canal: **{0}"
+185_205_646: "Permitido: "
+185_214_994: "Denegado: "
+185_509_141: "Permisos de los miembros"
+185_675_819: "Permisos de los roles"
 
 # cmd_lookup_server
-185_151_428: "**SERVER FEATURES:**"
-185_097_822: "<:overview:868953016282271745>**OVERVIEW**
+185_151_428: "**CARACTERÍSTICAS DEL SERVIDOR:**"
+185_097_822: "<:overview:868953016282271745>**VISIÓN GENERAL**
 **ID:** {0} 
-**OWNER:** <@{1}>
+**PROPIETARIO:** <@{1}>
 **Server created at: ** <t:{2}>
-**Link to an icon:** [Click here](https://cdn.discordapp.com/icons/{0}/{3}?size=1024)
-**Role:** {4}
+**Enlace a un ícono:** [Clic aquí](https://cdn.discordapp.com/icons/{0}/{3}?size=1024)
+**Rol:** {4}
 
-<:boosts:868953110758957066>**BOOSTS**
-**Level Boosts:** {5}
-**Boosts:** {6}
+<:boosts:868953110758957066>**IMPULSOS**
+**Nivel de impulsos:** {5}
+**Impulsos:** {6}
 
-<:users:868953499038281738>**MEMBERS**
+<:users:868953499038281738>**MIEMBROS**
 <:users:868953499038281738> {7} • <:bots:868953478268092436> {8}
 
-<:channels:868954276121157634> **CHANNELS**
+<:channels:868954276121157634> **CANALES**
 <:channels:868954276121157634> {9} • <:category:868954251076964383> {10} • <:text_channel:868954234689843220> {11} • <:voice_channel:868954221712637983> {12} • <:news_channel:868954207250694205> {13}
 
 :slight_smile: **EMOJI**
