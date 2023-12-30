@@ -1,0 +1,20 @@
+{
+  "logs": "Logi",
+  "logs-messages-title": "Logi wiadomości",
+  "logs-messages-desc": "Informują o wydarzeniach związanych z wiadomościami, takimi jak usunięcie/z edytowanie wiadomości.",
+  "logs-voice-title": "Logi głosu",
+  "logs-voice-desc": "Informują o wydarzeniach związanych z kanałami głosowymi, takimi jak dołączenie/opuszczenie/zmiana kanału głosowego.",
+  "logs-member-title": "Logi członków",
+  "logs-member-desc": "Informują o wydarzeniach związanych z członkami, takimi jak dołączenie/opuszczenie/zbanowanie członka.",
+  "duration-days_one": "Konta młodsze niż {{count}} dzień",
+  "duration-days_few": "Konta młodsze niż {{count}} dni",
+  "duration-days_many": "Konta młodsze niż {{count}} dni",
+  "channel": "Kanał",
+  "duration": "Minimalny czas istnienia konta",
+  "duration-inform": "Oznacz administracje jeżeli wejdzie na serwer świeżo utworzone konto Discord.",
+  "roles": "Role do zaczepienia",
+  "logs-invite-title": "Logi zaproszeń",
+  "logs-invite-desc": "Śledzi zaproszenia na serwer.",
+  "logs-messages-block": "Zablokuj kanały na których wiadomości nie są zapisywane",
+  "ignore-bots": "Ignoruj boty"
+}

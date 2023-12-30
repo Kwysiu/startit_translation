@@ -1,0 +1,11 @@
+{
+  "tools": "Narzędzia",
+  "commands": "Komendy",
+  "commands-desc": "Po włączeniu tego pluginu, będziesz mógł korzystać z następujących komend.",
+  "prize": "Nagroda",
+  "settings": "Ustawienia",
+  "default-prize": "Domyślna nazwa nagrody",
+  "bot-win": "Możliwość wygrania giveaway przez boty",
+  "hosted-visible": "Wyświetlanie sponsora giveaway",
+  "everyone-ping": "Oznacz wszystkich po utworzeniu giveaway'a"
+}

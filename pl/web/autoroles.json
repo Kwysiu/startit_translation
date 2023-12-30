@@ -1,0 +1,23 @@
+{
+  "autoroles": "Autorole",
+  "roles": "Role",
+  "joinmember": "Rola dla nowych członków",
+  "joinmember-dsc": "Nadaj rolę nowym członkom Twojego serwera.",
+  "joinbot": "Role dla nowych botów",
+  "joinbot-dsc": "Nadaj role nowym botom, które dołączyły do Twojego serwera.",
+  "joinperson": "Rola dla nowych osób",
+  "joinperson-dsc": "Nadaj rolę nowym osobom, które dołączyły do Twojego serwera.",
+  "boost": "Role dla osób z ulepszeniem serwera",
+  "boost-dsc": "Nadaj dodatkowe role swoim boosterom, aby im pokazać, jacy są wspaniali.",
+  "boost-remove": "Zabierz te role, gdy użytkownik nie jest już boosterem",
+  "roleplus": "Rola dla osób z StartIT Plus",
+  "roleplus-dsc": "Pomóż nam w rozwoju StartIT i nadaj naszym wspierającym specjalną rolę na Twoim serwerze.",
+  "channels-title": "Statystyki kanałów",
+  "channels-desc": "Liczenie kanałów na serwerze",
+  "restoringRoles": "Przywracanie rangi",
+  "restoringRoles-desc": "Przywraca rangę po wyjściu z serwera i dołączeniu ponownie na serwer",
+  "restoringRoles-allowed": "Przywracane",
+  "restoringRoles-banned": "Nieprzywracane",
+  "restoringRoles-roles": "role",
+  "wait-rules": "Opóźnienie w akceptacji regulaminu serwera"
+}
