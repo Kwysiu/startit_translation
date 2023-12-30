@@ -1,0 +1,55 @@
+# tic_tac_toe
+185_402_502: "Umm... this is bot."
+185_738_983: "Tic Tac Toe"
+185_808_675: "You can't play with yourself"
+185_431_583: "Minimum bet amount is {0}"
+185_025_696: "Maximum  bet amount is {0}"
+185_936_904: "Tic Tac Toe"
+185_202_055: "You can't play with this user for {0} seconds."
+185_597_618: "You can play only once game."
+185_402_212: "This user is already playing with someone."
+185_260_208: "Tic-tac-toe"
+185_177_976: "{} you got an invitation to a game of tic-tac-toe from {}.{}Price: {}
+You have to accept the game by {}."
+185_511_362: "Accept"
+185_798_254: "Decline"
+
+# on_task_tic_tac_toe
+185_669_820: "Tic-tac-toe, money back"
+185_157_749: "Tic-tac-toe"
+185_466_508: "Game of tic-tac-toe has been canceled."
+
+# on_message_component_v1_tic_tac_toe
+185_519_393: "Tic-tac-toe"
+185_527_022: "You can't accept this game."
+185_599_080: "You can't decline this game."
+185_441_237: "Tic-tac-toe"
+185_864_931: "Game of tic-tac-toe has been canceled."
+185_798_898: "Tic-tac-toe"
+185_417_933: "Tic-tac-toe"
+185_928_047: "It's {}'s turn."
+185_565_358: "You have until {} to make your move."
+
+# on_message_component_v1_tic_tac_toe_game
+185_548_456: "Tic-tac-toe"
+185_286_122: "You can't play in this game."
+185_939_109: "Tic-tac-toe money back"
+185_605_974: "Tic-tac-toe"
+185_477_327: "Error."
+185_249_663: "Tic-tac-toe"
+185_699_734: "It's not your turn."
+185_344_689: "{} won!"
+185_102_937: "Tic-tac-toe winner"
+185_222_658: "**DRAW**"
+185_374_639: "Tic-tac-toe draw"
+
+# gen_embed
+185_199_320: "Tic-tac-toe"
+185_780_932: "It's {}'s turn."
+185_336_237: "You have until {} to make your move."
+
+# on_task_tic_tac_toe_game
+185_427_423: "Tic-tac-toe"
+185_791_309: "{} won!"
+185_999_642: "Tic-tac-toe draw"
+185_065_587: "Tic-tac-toe won"

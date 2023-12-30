@@ -1,0 +1,14 @@
+# rockpaperscissors
+185_473_187: "Rock paper scissors"
+185_024_620: "Choose"
+185_681_120: "Paper"
+185_826_544: "Rock"
+185_064_262: "Scissors"
+
+# on_message_component_rockpaperscissors
+185_053_778: "Draw"
+185_715_468: "You lose"
+185_340_861: "You won"
+185_191_237: "Rock paper scissors"
+185_610_302: "Your choice"
+185_480_154: "My choice"

@@ -1,0 +1,39 @@
+# economy_add
+185_621_920: "Location argument must be empty, `wallet` or `bank`."
+185_243_535: "This command is not available."
+185_431_005: "Balance updated"
+185_591_777: "**Role:** {0}
+**Amount:** Cash: ``{1}`` | Bank: ``{2}``
+**Users:** {3}
+**Channel:** {4}
+**Reason:** {5}: /eco add command"
+185_681_326: "Action completed on **{0}** accounts."
+185_162_022: "Nothing happened."
+185_394_123: "{0}: /eco remove command"
+185_648_490: "Removed **{0}** from {1} account."
+185_919_432: "{0}: /eco add command"
+185_425_583: "Added **{0}** to {1} account."
+
+# economy_set
+185_641_206: "Location argument must be empty, `wallet` or `bank`."
+185_946_315: "Nothing happened."
+185_189_710: "{0}: /eco set command"
+185_726_240: "The {1} wallet has been set to **{0}**."
+185_190_010: "The {1} balance has been set to **{0}**."
+
+# economy
+185_283_990: "Commands"
+
+# economy_backpack_add
+185_629_159: "You can only give 50 items at once"
+185_535_999: "Unknown item."
+185_343_991: "Added {0} **{1}** to {2} account."
+
+# economy_backpack_remove
+185_707_843: "You can only remove 50 items at once"
+185_559_794: "User doesn't have enough items."
+185_074_289: "Unknown item."
+185_403_058: "Removed {0} **{1}** from {2} account."
+
+# economy_backpack_clear
+185_417_833: "Backpack of user {0} has been cleared."

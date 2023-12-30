@@ -1,0 +1,12 @@
+# do
+185_400_988: "Wallet is off. You can use everywhere your money!"
+
+# add_footer
+185_608_370: "⚠️ {0} left in the wallet due to bank limits"
+185_153_415: "⚠️ {0} collected for tax reasons"
+
+# deposit
+185_032_659: "Deposited **{0}** to your bank!"
+
+# withdraw
+185_081_927: "Withdrew **{0}** from your bank!"

@@ -1,0 +1,13 @@
+# giveawayeconomystart
+185_009_039: " on economy"
+
+# start_giveaway
+185_396_823: "Not enough arguments. Please specify giveaway prize."
+185_316_297: "There must be at least one win"
+185_092_231: "Incorrect channel"
+185_121_354: "Hosted by: <@!{0}>
+"
+185_530_318: "Ended at: <t:{0}>"
+185_220_561: "React with the emoticon 🎉 to participate
+"
+185_142_730: "Created [giveaway]({0})"

@@ -1,0 +1,17 @@
+# fetch_ticket
+185_567_019: "This command can be invoked only in ticket."
+
+# claim_function
+185_606_146: "You don't have moderator role in this ticket."
+185_381_125: "This ticket has already been claimed."
+185_766_728: "Claim ticket"
+185_373_959: "Close ticket"
+185_555_889: "Ticket claimed"
+185_386_051: "Ticket claimed by {}"
+
+# unclaim
+185_324_423: "This command can be invoked only in ticket."
+185_126_287: "You don't have moderator role in this ticket."
+185_874_660: "Claim ticket"
+185_779_275: "Close ticket"
+185_882_632: "Moderator {0} left this ticket."
