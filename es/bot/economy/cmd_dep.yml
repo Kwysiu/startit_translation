@@ -1,12 +1,13 @@
 # do
-185_400_988: "Wallet is off. You can use everywhere your money!"
+185_400_988: "La billetera está desactivada. ¡Puedes usar tu dinero en cualquier lugar!"
 
 # add_footer
-185_608_370: "⚠️ {0} left in the wallet due to bank limits"
-185_153_415: "⚠️ {0} collected for tax reasons"
+185_608_370: "⚠️ Quedan {0} en la billetera debido a los límites del banco"
+185_153_415: "⚠️ Se han recaudado {0} por razones fiscales"
 
 # deposit
-185_032_659: "Deposited **{0}** to your bank!"
+185_032_659: "Depositaste **{0}** en tu banco!"
 
 # withdraw
-185_081_927: "Withdrew **{0}** from your bank!"
+185_081_927: "Retiraste **{0}** de tu banco!"
+
