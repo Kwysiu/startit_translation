@@ -1,11 +1,12 @@
 # like
-185_879_807: "You've liked <@{0}>."
+185_879_807: "Te ha gustado <@{0}>."
 
 # dislike
-185_504_417: "You've disliked <@{0}>."
+185_504_417: "No te ha gustado <@{0}>."
 
 # check
-185_616_502: "You can't like yourself."
-185_371_803: "**You can only like or dislike once per day.**
-Last action: {0} {1}
-Command unlocked in: {2}"
+185_616_502: "No puedes gustarte a ti mismo."
+185_371_803: "**Solo puedes dar me gusta o no me gusta una vez al día.**
+Última acción: {0} {1}
+Comando desbloqueado en: {2}"
+
