@@ -1,11 +1,11 @@
 {
-  "tools": "Tools",
-  "commands": "Commands",
-  "commands-desc": "After enabling this plugin, you will be able to use these commands.",
-  "prize": "Prize",
-  "settings": "Settings",
-  "default-prize": "Default prize name",
-  "bot-win": "Ability for a bot to win a giveaway",
-  "hosted-visible": "Displaying who is hosting the giveaway",
-  "everyone-ping": "Mention everyone after creating the giveaway"
+  "tools": "Herramientas",
+  "commands": "Comandos",
+  "commands-desc": "Después de activar este plugin, tú serás capaz de usar esos comandos.",
+  "prize": "Premio",
+  "settings": "Ajustes",
+  "default-prize": "Nombre del premio por defecto",
+  "bot-win": "Habilidad para un bot de ganar un sorteo",
+  "hosted-visible": "Muestra quien está organizando el sorteo",
+  "everyone-ping": "Menciona @everyone después de crear el sorteo"
 }
