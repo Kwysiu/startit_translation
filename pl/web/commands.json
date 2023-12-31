@@ -9,7 +9,7 @@
   "settings": "Ustawienia",
   "enable-global-slashes": "Włącz komendy do pluginów Obrazy i Narzędzia",
   "help-slashes": "Pokaż wzmianki poleceń w /help",
-  "help-slashes-desc": "Zalecana wartość: wyłączona - wzmianki poleceń nie są obecnie w pełni obsługiwane przez Discorda",
+  "help-slashes-desc": "Zalecana wartość: wyłączona - wzmianki poleceń nie są obecnie w pełni obsługiwane przez Discorda.",
   "enable-all": "Włącz wszystkie",
   "moderation-commands": "Komendy z moderacji",
   "prefix": "Komendy pod prefiksem",
