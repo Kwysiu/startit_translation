@@ -5,10 +5,10 @@
 185_469_455: "Atmak istediğin üyeyi seç"
 
 # on_message_component_autochannels_invite
-185_274_320: "Choose user to invite"
+185_274_320: "Davet edilecek üyeyi seç"
 
 # on_message_component_autochannels_owner
-185_706_881: "Choose user to give owner"
+185_706_881: "Sahiplenicek üyeyi seç"
 
 # on_message_component_autochannels_name
 185_751_470: "Kanalı düzenle"
