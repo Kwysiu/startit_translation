@@ -1,6 +1,6 @@
 # crime
-185_717_309: "You cannot crime for: {0}."
-185_512_597: "Failure in the /crime command"
-185_741_941: "You have been criming and you lost **{0}**."
-185_479_560: "Successful /crime command"
-185_214_219: "You have been criming and you earned **{0}**."
+185_717_309: "No puedes cometer un delito para: {0}."
+185_512_597: "Fallo en el comando /crime"
+185_741_941: "Has estado cometiendo delitos y has perdido **{0}**."
+185_479_560: "Comando /crime exitoso"
+185_214_219: "Has estado cometiendo delitos y has ganado **{0}**."

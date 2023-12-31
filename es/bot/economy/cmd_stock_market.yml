@@ -1,36 +1,36 @@
 # stock_market_buy
-185_494_327: "Stock not found"
-185_677_265: "Stock is too cheap to buy"
-185_039_264: "You don't have **{0}** to buy this stocks."
-185_593_906: "You don't have **{0}** to buy this stocks."
-185_198_793: "You bought **{0}** for **{1}**"
+185_494_327: "Acción no encontrada"
+185_677_265: "La acción es demasiado barata para comprar"
+185_039_264: "No tienes **{0}** para comprar estas acciones."
+185_593_906: "No tienes **{0}** para comprar estas acciones."
+185_198_793: "Compraste **{0}** por **{1}**"
 
 # stock_market_sell
-185_038_441: "Stock not found"
-185_024_763: "You don't have any stocks"
-185_192_362: "You don't have this stocks"
-185_563_081: "You don't have enough stocks"
-185_146_252: "You sold:"
+185_038_441: "Acción no encontrada"
+185_024_763: "No tienes ninguna acción"
+185_192_362: "No tienes estas acciones"
+185_563_081: "No tienes suficientes acciones"
+185_146_252: "Vendiste:"
 
 # stock_market_info
-185_954_227: "Stock not found"
-185_783_985: "Stock info"
-185_625_986: "Name: {}Symbol: {}Price: {}"
+185_954_227: "Acción no encontrada"
+185_783_985: "Información de la acción"
+185_625_986: "Nombre: {}Símbolo: {}Precio: {}"
 
 # stock_market_sell_all
-185_992_858: "You can't sell stocks for other people"
-185_697_177: "You sold:"
-185_809_593: "You will sell:"
-185_384_474: "Sell"
+185_992_858: "No puedes vender acciones por otras personas"
+185_697_177: "Vendiste:"
+185_809_593: "Venderás:"
+185_384_474: "Vender"
 
 # stock_market_backpack
-185_735_864: "Stocks backpack"
-185_629_744: "Purchase price: {}Profit: {}"
+185_735_864: "Mochila de acciones"
+185_629_744: "Precio de compra: {}Beneficio: {}"
 
 # stock_market_list
-185_614_912: "Stocks list"
+185_614_912: "Lista de acciones"
 
 # stock_market
-185_027_160: "Incorrect usage"
-185_576_404: "You need to specify what you want to do. {}Available commands: {}"
-185_000_951: "Stocks list"
+185_027_160: "Uso incorrecto"
+185_576_404: "Necesitas especificar lo que quieres hacer. {}Comandos disponibles: {}"
+185_000_951: "Lista de acciones"

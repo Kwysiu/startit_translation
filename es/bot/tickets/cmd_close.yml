@@ -1,11 +1,11 @@
 # alert_staff
-185_709_321: "User is trying to close this ticket:"
-185_616_389: "Close this ticket"
+185_709_321: "El usuario está intentando cerrar este ticket:"
+185_616_389: "Cerrar este ticket"
 
 # close
-185_763_387: "This command can be invoked only in ticket."
+185_763_387: "Este comando solo puede ser invocado en un ticket."
 
 # on_message_component_ticketing_close
-185_850_008: "No permission."
-185_808_252: "Ticket close"
-185_194_262: "Reason for closure"
+185_850_008: "Sin permiso."
+185_808_252: "Cierre de ticket"
+185_194_262: "Motivo de cierre"

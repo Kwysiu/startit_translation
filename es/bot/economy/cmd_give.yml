@@ -1,7 +1,7 @@
 # give_item
-185_669_564: "You can only give 50 items at once"
-185_744_287: "You don't have enough items."
-185_955_199: "Unknown item. Type ` {0}backpack `."
-185_306_366: "This item cannot be given."
-185_041_427: "Failed. The user has exceeded the limit of this item in the backpack."
-185_359_458: "You've just given item **{0}** to {1}."
+185_669_564: "Solo puedes dar 50 artículos a la vez"
+185_744_287: "No tienes suficientes artículos."
+185_955_199: "Artículo desconocido. Escribe ` {0}backpack `."
+185_306_366: "Este artículo no puede ser dado."
+185_041_427: "Falló. El usuario ha excedido el límite de este artículo en la mochila."
+185_359_458: "Acabas de dar el artículo **{0}** a {1}."

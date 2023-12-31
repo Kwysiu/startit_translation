@@ -1,14 +1,14 @@
 # on_message_component_ticketing_open
-185_041_583: "You have reached the limit of open tickets: <#{}>."
+185_041_583: "Has alcanzado el límite de tickets abiertos: <#{}>."
 
 # before_open_ticket
-185_367_480: "You do not have permission to create this ticket."
-185_810_724: "You cannot create tickets, because you have forbidden role: <@&{0}>"
+185_367_480: "No tienes permiso para crear este ticket."
+185_810_724: "No puedes crear tickets, porque tienes un rol prohibido: <@&{0}>"
 185_419_706: "Ticket"
 
 # create_ticket
-185_988_851: "Too many people are creating tickets right now. Wait for moderation to close them all."
-185_587_048: "Form"
-185_169_828: "Created ticket: <#{0}>"
-185_898_568: "Claim ticket"
-185_707_614: "Close ticket"
+185_988_851: "Demasiadas personas están creando tickets ahora mismo. Espera a que la moderación los cierre todos."
+185_587_048: "Formulario"
+185_169_828: "Ticket creado: <#{0}>"
+185_898_568: "Reclamar ticket"
+185_707_614: "Cerrar ticket"

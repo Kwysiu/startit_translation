@@ -1,25 +1,25 @@
 # translate_error
-185_515_417: "You are trying to send negative number of money"
-185_470_969: "You don't have enough money"
+185_515_417: "Estás intentando enviar una cantidad negativa de dinero"
+185_470_969: "No tienes suficiente dinero"
 
 # custom_reply
 185_647_835: "
 
-Try again <t:{0}:R>
-Balance: {1}"
+Intenta de nuevo <t:{0}:R>
+Saldo: {1}"
 185_190_040: "
 
-Earn more <t:{0}:R>
-Balance: {1}"
+Gana más <t:{0}:R>
+Saldo: {1}"
 
 # modlog_send
-185_126_692: "Unknown channel"
-185_418_752: "Balance updated"
-185_759_074: "**User:** {0}
-**Amount:** Cash: {1} | Bank: {2}
-**Channel:** {3}
-**Reason:** {4}"
+185_126_692: "Canal desconocido"
+185_418_752: "Saldo actualizado"
+185_759_074: "**Usuario:** {0}
+**Cantidad:** Efectivo: {1} | Banco: {2}
+**Canal:** {3}
+**Razón:** {4}"
 
 # iter_buttons
-185_267_959: "Previous Page"
-185_042_437: "Next Page"
+185_267_959: "Página anterior"
+185_042_437: "Página siguiente"

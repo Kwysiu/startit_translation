@@ -1,32 +1,32 @@
 # buy_item
-185_260_461: "You don't have **{price}** to buy this item."
-185_557_483: "You don't have **{price}** to buy this item."
-185_688_158: "Thanks for your purchase <@{0}>.
-You can get list of all your items by typing ` {1}backpack `."
-185_100_374: "New item added to your backpack:"
-185_882_678: "Money has been added to the wallets of {0} users."
-185_087_552: "Money has been added to the item owner."
-185_990_753: "Use this item"
+185_260_461: "No tienes **{price}** para comprar este artículo."
+185_557_483: "No tienes **{price}** para comprar este artículo."
+185_688_158: "Gracias por tu compra <@{0}>.
+Puedes obtener una lista de todos tus artículos escribiendo ` {1}mochila `."
+185_100_374: "Nuevo artículo añadido a tu mochila:"
+185_882_678: "El dinero ha sido añadido a las carteras de {0} usuarios."
+185_087_552: "El dinero ha sido añadido al dueño del artículo."
+185_990_753: "Usar este artículo"
 
 # _assert_buy_permissions
-185_988_842: "You can only buy this item one piece at once."
-185_288_199: "You can't buy this item."
-185_395_652: "This item is out of stock."
-185_909_437: "You can't buy more than **{number}** of this item."
+185_988_842: "Solo puedes comprar este artículo de uno en uno."
+185_288_199: "No puedes comprar este artículo."
+185_395_652: "Este artículo está agotado."
+185_909_437: "No puedes comprar más de **{number}** de este artículo."
 
 # _assert_buy_requirements
-185_072_081: "You don't have listed items: 
+185_072_081: "No tienes los artículos listados: 
 {requirements}"
 
 # assert_backpack_limit
-185_340_703: "You can't buy more than **{limit}** of this item."
+185_340_703: "No puedes comprar más de **{limit}** de este artículo."
 
 # _assert_fraud
-185_560_244: "You bought **{name}** and it turned out to be a fraud."
+185_560_244: "Compraste **{name}** y resultó ser un fraude."
 
 # use_item
-185_655_739: "This item cannot be used."
-185_991_528: "Click to change your nickname"
-185_250_493: "This case is empty."
-185_550_216: "You cannot open this case for: {0}."
-185_562_879: "Opening case..."
+185_655_739: "Este artículo no puede ser usado."
+185_991_528: "Haz clic para cambiar tu apodo"
+185_250_493: "Esta caja está vacía."
+185_550_216: "No puedes abrir esta caja durante: {0}."
+185_562_879: "Abriendo caja..."

@@ -1,4 +1,4 @@
 # warns_clear
-185_387_836: "Invalid warning ID."
-185_976_330: "Invalid warning ID."
-185_682_869: "Deleted #{0} warning"
+185_387_836: "ID de advertencia inválido."
+185_976_330: "ID de advertencia inválido."
+185_682_869: "Advertencia #{0} eliminada"

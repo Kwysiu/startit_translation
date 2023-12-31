@@ -1,7 +1,7 @@
 # collectincome
-185_026_609: "You don't have any income producing items."
-185_541_120: "/collect-income command: {0}"
-185_912_815: "Note, tax has been collected on the money earned."
+185_026_609: "No tienes ningún artículo que produzca ingresos."
+185_541_120: "Comando /collect-income: {0}"
+185_912_815: "Nota, se ha cobrado impuestos sobre el dinero ganado."
 185_884_309: "Total: "
-185_600_788: "Role income collected successfully"
-185_379_192: "You can collect your income in"
+185_600_788: "Ingresos de rol recolectados exitosamente"
+185_379_192: "Puedes recolectar tus ingresos en"

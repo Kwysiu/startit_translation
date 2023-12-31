@@ -1,26 +1,26 @@
 # punishments
-185_311_626: "Commands"
-185_022_602: "`{0}punishments edit-reason <id> <reason>` - Edit punishment reason
-`{0}punishments info <id>` - Show punishment info
-`{0}punishments list [user]` - Show punishments list
-`{0}punishments list-mod <moderator>` - Show punishments list
-`{0}punishments remove <id> [reason]` - Remove punishment"
+185_311_626: "Comandos"
+185_022_602: "`{0}punishments edit-reason <id> <reason>` - Editar razón de castigo
+`{0}punishments info <id>` - Mostrar información de castigo
+`{0}punishments list [user]` - Mostrar lista de castigos
+`{0}punishments list-mod <moderator>` - Mostrar lista de castigos
+`{0}punishments remove <id> [reason]` - Eliminar castigo"
 
 # get_name
-185_733_266: "Kick"
-185_660_195: "Ban"
-185_975_565: "Warn"
-185_075_575: "Mute"
+185_733_266: "Expulsión"
+185_660_195: "Prohibición"
+185_975_565: "Advertencia"
+185_075_575: "Silencio"
 
 # format_punishment
-185_166_666: "### {0} for '{1}'"
-185_739_202: " - \#{0} at <t:{1}> "
-185_561_732: " - Duration: {0}"
-185_182_081: " - User: {0}"
+185_166_666: "### {0} para '{1}'"
+185_739_202: " - \#{0} en <t:{1}> "
+185_561_732: " - Duración: {0}"
+185_182_081: " - Usuario: {0}"
 185_538_286: " - Mod: {0}"
 
 # send_embed
-185_604_436: "Last punishments{0}"
-185_938_276: "Last punishments by {0}"
-185_157_601: "Last punishments"
-185_729_016: "{0} has no punishments."
+185_604_436: "Últimos castigos{0}"
+185_938_276: "Últimos castigos por {0}"
+185_157_601: "Últimos castigos"
+185_729_016: "{0} no tiene castigos."
