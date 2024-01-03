@@ -1,0 +1,15 @@
+{
+  "embeds": "Embed-сообщения",
+  "embeds-hub": "Хаб Embed-сообщений",
+  "embeds-hubs-desc": "",
+  "settings": "Настройки",
+  "channel-name": "Название канала",
+  "new-embedshub": "Новое Embed-сообщение",
+  "title-url": "Ссылка заголовка",
+  "customization": "Кастомизация",
+  "embed-name": "Название сообщения (отображается только в панели управдения)",
+  "embed-name-desc": "np. правила сервера",
+  "add-button": "Добавить кнопкк",
+  "add-select-menu": "Добавить меню выбора",
+  "add-select-item": "Добавить предмет"
+}
