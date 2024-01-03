@@ -1,10 +1,10 @@
 # on_task_open_case
-185_239_235: "Caso abierto. {}"
+185_239_235: "Cofre abierto. {}"
 185_923_333: "No tengo permiso para agregar el rol: {}"
 185_542_370: "Este rol no existe: {}"
 185_551_294: "Este artículo no existe: {}"
 185_802_873: "Espacio vacío"
 185_437_037: "Tipo desconocido."
-185_262_034: "¡El caso ha sido abierto!"
+185_262_034: "¡El cofre ha sido abierto!"
 185_332_799: "Has golpeado: {}!"
 185_838_221: "Tuviste una probabilidad del {}% de sacarlo."

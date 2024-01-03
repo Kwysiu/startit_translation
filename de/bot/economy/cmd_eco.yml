@@ -1,5 +1,13 @@
 # economy_add
 185_621_920: "Das Standort-Argument muss leer sein, `Portemonnaie` oder `Bank`."
+185_243_535: "Dieser Befehl ist nicht verfügbar."
+185_431_005: "Kontostand aktualisiert"
+185_591_777: "**Rolle:** {0}
+**Menge:** Geld: ``{1}`` | Bank: ``{2}``
+**Benutzer:** {3}
+**Kanäle:** {4}
+**Grund:** {5}: /eco add command"
+185_681_326: "Aktion wurde auf **{0}** Accounts umgesetzt."
 185_162_022: "Nichts ist passiert."
 185_394_123: "{0}: /eco remove command"
 185_648_490: "**{0}** wurde aus dem Konto von {1} entfernt."

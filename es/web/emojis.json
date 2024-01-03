@@ -1,14 +1,14 @@
 {
-  "tab-shape": "Shape",
-  "tab-eyes": "Eyes",
-  "tab-mouth": "Mouth",
-  "tab-beard": "Beard",
-  "tab-glasses": "Glasses",
-  "tab-hair": "Hair",
-  "tab-hat": "Hat",
-  "tab-mask": "Mask",
-  "download-emote": "Download emoji",
-  "reset": "Reset",
-  "generator": "Emoji generator",
-  "upload-file": "Upload file"
+  "tab-shape": "Forma",
+  "tab-eyes": "Ojos",
+  "tab-mouth": "Boca",
+  "tab-beard": "Barba",
+  "tab-glasses": "Gafas",
+  "tab-hair": "Cabello",
+  "tab-hat": "Sombrero",
+  "tab-mask": "Máscara",
+  "download-emote": "Descargar emoji",
+  "reset": "Restablecer",
+  "generator": "Generador de emojis",
+  "upload-file": "Subir archivo"
 }

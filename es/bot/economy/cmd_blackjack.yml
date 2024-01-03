@@ -37,6 +37,6 @@
 # blackjack
 185_914_658: "La apuesta mínima es de {0}"
 185_512_347: "La apuesta máxima es de {0}"
-185_129_815: "No puedes jugar al blackjack para: {0}."
+185_129_815: "Podrás jugar al blackjack en: {0}."
 185_981_939: "Comenzó /blackjack"
 185_343_952: "Contracargo: /blackjack"
