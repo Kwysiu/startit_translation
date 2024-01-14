@@ -1,0 +1,19 @@
+# format_warning
+185_883_509: "### {0}. {1}"
+185_994_899: " - **{1} p**, <t:{0}> "
+185_534_293: " - Moderador: {0}"
+185_996_026: " - Termina em: {0}"
+
+# send_embed
+185_009_963: "Este usuário não existe em nosso banco de dados."
+185_314_635: "Últimos avisos{0}"
+185_705_420: "{0} não tem avisos."
+
+# warns
+185_098_277: "Comandos"
+185_674_739: "`{0}warns clear-all <user>` - Limpa todos os avisos do usuário
+`{0}warns clear <user> <no>` - Limpa aviso do usuário
+`{0}warns edit-reason <user> <no> <reason>` - Mudar motivo de aviso
+`{0}warns info <user> <no>` - Mostrar informação de aviso
+`{0}warns list <user>` - Mostrar lista de avisos
+"

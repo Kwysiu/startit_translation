@@ -1,0 +1,11 @@
+# like
+185_879_807: "Você curtiu <@{0}>."
+
+# dislike
+185_504_417: "Você não curtiu <@{0}>."
+
+# check
+185_616_502: "Você não consegue curtir você mesmo."
+185_371_803: "**Você pode apenas curtir ou não curtir uma vez por dia.**
+Última ação: {0} {1}
+Comando desbloqueado em: {2}"

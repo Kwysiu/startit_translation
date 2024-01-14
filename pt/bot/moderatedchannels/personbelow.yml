@@ -1,0 +1,12 @@
+# send_message
+185_815_931: "Sim"
+185_991_859: "Não"
+
+# on_message_component_personbelow
+185_398_051: "Você não pode responder à sua própria mensagem."
+185_854_876: "Nova pergunta de Sim/Não"
+185_119_687: "Pergunta a fazer ao usuário abaixo"
+
+# on_message_component_personbelow_form
+185_888_678: "Não"
+185_679_423: "Sim"

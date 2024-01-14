@@ -1,0 +1,9 @@
+# on_message_component_v1_eco_change_nickname
+185_212_193: "Você não pode mudar o apelido de outra pessoa"
+185_616_443: "Editar apelido"
+185_823_767: "Novo apelido"
+
+# on_message_component_v1_eco_change_nickname_modal
+185_604_116: "Você não pode mudar o apelido de outra pessoa"
+185_750_749: "Você não pode usar este comando por: {0}."
+185_763_457: "O seu apelido foi alterado"

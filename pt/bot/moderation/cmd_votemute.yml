@@ -1,0 +1,18 @@
+# check_permissions
+185_487_731: "Você não tem o cargo / nível certo no servidor para votar."
+
+# vote_mute
+185_517_329: "Votar para silenciar"
+185_037_887: "Você votou para silenciar {0}!"
+185_174_824: "Você já votou para silenciar {0}."
+
+# fetch_user
+185_523_665: "Este usuário está protegido"
+
+# on_button_click
+185_060_859: "**Tempo:** {0} horas
+**Usuário:** {1}
+**Votantes:** {2}"
+185_999_383: " foi silenciado!"
+185_447_618: "por"
+185_650_956: "Novo usuário foi silenciado por voto"

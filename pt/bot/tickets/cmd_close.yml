@@ -1,0 +1,11 @@
+# alerta_equipe
+185_709_321: "Usuário está tentando fechar este ticket:"
+185_616_389: "Fechar este ticket"
+
+# fechar
+185_763_387: "Este comando só pode ser usado em tickets."
+
+# on_message_component_ticketing_close
+185_850_008: "Sem permissão."
+185_808_252: "Fechar ticket"
+185_194_262: "Motivo do fechamento"

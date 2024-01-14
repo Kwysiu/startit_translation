@@ -1,0 +1,12 @@
+# do
+185_400_988: "Carteira desativada. Você pode usar seu dinheiro em qualquer lugar!"
+
+# add_footer
+185_608_370: "⚠️ Restam {0} na carteira devido aos limites do banco"
+185_153_415: "⚠️ {0} coletados por motivos fiscais"
+
+# deposit
+185_032_659: "Depositados **{0}** na sua conta bancária!"
+
+# withdraw
+185_081_927: "Retirados **{0}** da sua conta bancária!"

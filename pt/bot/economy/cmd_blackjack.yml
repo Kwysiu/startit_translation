@@ -1,0 +1,42 @@
+# end_screen
+185_164_997: "Empate:"
+185_851_868: "Empate em /blackjack"
+185_339_827: "Você ganhou:"
+185_776_153: "Vitória em /blackjack"
+185_509_310: "Você perdeu:"
+185_650_140: "Derrota em /blackjack"
+185_586_220: "Jogo encerrado"
+185_633_181: "Sua mão"
+185_583_671: "Valor"
+185_715_020: "Mão do dealer"
+185_093_203: "Valor"
+
+# do_action
+185_015_403: "Cancelado."
+185_186_978: "Passar: /blackjack"
+185_850_961: "Passar: /blackjack"
+185_285_765: "O dealer fez blackjack, recebeu 50% da aposta do seguro."
+185_276_623: "Dobrar: /blackjack"
+185_930_616: "O dealer fez blackjack."
+185_075_705: "O dealer ultrapassou 21 pontos."
+185_650_952: "O dealer se aproximou mais do blackjack do que você."
+185_153_912: "Você se aproximou mais do blackjack do que o dealer."
+185_875_560: "Você fez blackjack."
+185_268_594: "Você fez blackjack."
+185_557_948: "Você fez blackjack com o dealer."
+185_569_531: "Você ultrapassou 21 pontos."
+185_222_025: "Sua mão"
+185_871_052: "Valor"
+185_522_811: "Mão do dealer"
+185_861_989: "Valor"
+185_021_771: "Cartas restantes: {0}"
+
+# is_duplicate
+185_722_329: "Você está jogando blackjack agora. [Clique aqui](https://discord.com/channels/{0}/{1}/{2}) ou digite `cancel`."
+
+# blackjack
+185_914_658: "O valor mínimo da aposta é {0}"
+185_512_347: "O valor máximo da aposta é {0}"
+185_129_815: "Você não pode jogar blackjack por: {0}."
+185_981_939: "Iniciado /blackjack"
+185_343_952: "Estorno: /blackjack"

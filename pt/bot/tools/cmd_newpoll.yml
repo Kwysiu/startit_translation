@@ -1,0 +1,132 @@
+# gen_submit_components
+185_524_078: "Mostrar votantes"
+185_102_636: "Mostrar resultados"
+185_687_534: "Votar"
+
+# gen_components
+185_737_949: "1. Permitir múltiplas escolhas:"
+185_617_658: "proibir"
+185_709_191: "Apenas uma opção será permitida"
+185_813_795: "ilimitado"
+185_519_563: "Usuários podem escolher quantas opções eles quiserem"
+185_735_729: "número exato"
+185_822_428: "Usuários podem escolher um número específico de opções" 
+185_585_382: "intervalo"
+185_011_765: "Os usuários podem escolher quantas opções quiserem dentro do intervalo."
+185_396_478: "2. Permitir aos usuários alterar o voto:"
+185_450_003: "sim"
+185_656_520: "Os usuários poderão alterar o seu voto"
+185_250_568: "não"
+185_221_616: "Os usuários não poderão alterar seu voto"
+185_844_794: "Alterar configurações de votação"
+185_111_620: "3. Visibilidade dos nomes dos participantes:"
+185_645_014: "público"
+185_863_383: "Todos poderão ver quem votou no quê"
+185_042_845: "cargos permitidos"
+185_368_109: "Apenas usuários com cargos permitidos poderão ver quem votou no quê"
+185_651_966: "ninguém"
+185_160_535: "Votação anônima, a administração não saberá quem votou no quê"
+185_467_719: "4. Visibilidade dos resultados da votação:"
+185_380_752: "público"
+185_428_220: "Todos poderão ver os resultados da votação"
+185_705_985: "após o voto"
+185_787_818: "Somente quem votou poderá ver os resultados"
+185_410_891: "cargos permitidos"
+185_980_837: "Apenas usuários com cargos permitidos poderão ver os resultados"
+185_126_006: "5. Publicar os resultados após a conclusão:"
+185_764_756: "sim"
+185_418_644: "Os resultados serão publicados após a conclusão da votação"
+185_307_533: "não"
+185_965_624: "Os resultados não serão publicados após a conclusão da votação"
+185_688_771: "Alterar configurações de visibilidade"
+185_240_380: "6. Permissões para votar:"
+185_247_858: "todos"
+185_854_241: "Todos poderão votar"
+185_343_955: "cargos permitidos"
+185_897_626: "Apenas usuários com cargos permitidos poderão votar"
+185_071_124: "7. Duração:"
+185_870_540: "para sempre"
+185_169_432: "A votação não será encerrada automaticamente"
+185_448_354: "até"
+185_882_194: "A votação será encerrada no horário especificado"
+185_255_906: "8. Votos máximos:"
+185_005_186: "ilimitado"
+185_647_436: "A votação não será encerrada após um certo número de votos"
+185_903_248: "limitado"
+185_915_879: "A votação será encerrada após um certo número de votos"
+185_419_637: "Alterar configurações de gerenciamento"
+185_615_913: "Cancelar"
+185_876_979: "Enviar votação"
+
+# gen_embed
+185_906_016: "Escolhas:"
+185_700_161: "após {0} votos"
+185_270_849: "Termina:"
+185_956_833: " ou "
+185_060_191: "Enquete anônima – apelidos não serão exibidos para a equipe"
+185_712_977: "Modo:"
+185_301_773: "- Apenas um voto permitido"
+185_625_497: "Modo:"
+185_493_102: "- Múltiplos votos permitidos"
+185_173_053: "Modo:"
+185_541_292: "- Selecionar {0} opções"
+185_163_945: "Modo:"
+185_433_763: "- Selecionar de {0} a {1} opções"
+185_933_318: "Cargos elegíveis para votar:"
+
+# poll
+185_520_557: "Clique para criar uma enquete"
+
+# open_poll_creation_modal
+185_685_306: "Sim"
+185_612_402: "Não"
+185_949_826: "Criação de enquete"
+185_094_880: "Questão"
+185_149_869: "Escolhas (um por linha)"
+
+# on_message_component_poll
+185_157_756: "Apenas o autor da mensagem pode criar uma enquete"
+
+# refresh
+185_069_977: "Voltar"
+
+# on_message_component_poll_voting_settings
+185_581_212: "Múltiplas escolhas"
+185_296_032: "Número de escolhas"
+185_866_187: "Múltiplas escolhas: intervalo"
+185_578_599: "Número mínimo de escolhas para escolher"
+185_004_609: "Número máximo de escolhas para escolher"
+
+# on_message_component_poll_visibility_settings
+185_215_081: "3. Visibilidade do nome dos participantes:"
+185_474_426: "Cargos autorizados a ver quem votou"
+185_674_688: "4. Visibilidade dos resultados da enquete:"
+185_920_189: "Cargos autorizados a ver os resultados da enquete"
+
+# on_message_component_poll_management_settings
+185_963_671: "Duração da Enquete"
+185_201_154: "Duração da Enquete (ex: 10h ou 30m)"
+185_409_740: "Número máximo de votos"
+185_750_054: "Número máximo de votos"
+185_916_531: "6. Permissões para votar:"
+185_818_489: "Cargos autorizados a votar"
+
+# vote_check
+185_334_309: "Você não tem permissão para votar"
+185_095_198: "Esta enquete terminou"
+185_768_893: "Esta enquete terminou"
+
+# on_message_component_poll_vote_show
+185_682_937: "Você não tem permissão para ver votos"
+185_941_003: "Ninguém pode ver votos"
+185_025_916: "Votos"
+185_313_602: "Não há votos"
+
+# on_message_component_poll_vote_results
+185_403_521: "Você não tem permissão para ver resultados de votos"
+185_492_945: "Ninguém pode ver resultados de votos"
+
+# on_message_component_poll_vote
+185_024_314: "Você não pode mudar seu voto"
+185_932_743: "Seu voto foi salvo"
+185_289_776: "Seu voto foi salvo"

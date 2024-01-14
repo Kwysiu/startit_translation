@@ -1,0 +1,43 @@
+# gen_message
+185_079_041: "**Esperando por jogadores**"
+185_336_215: "Jogadores: "
+185_439_864: "Roleta-russa"
+185_047_609: "Custo de participação: **{0}**
+Começando em: {1}
+
+{2}"
+185_120_966: "Entrar"
+185_171_888: "Iniciar jogo"
+
+# command_russian_roulette
+185_046_997: "Já existe um jogo em andamento neste canal. [Clique aqui](https://discord.com/channels/{0}/{1}/{2}) "
+185_115_276: "Valor mínimo da aposta é {0}"
+185_347_327: "Valor máximo da aposta é {0}"
+
+# on_message_component_russianroulettejoin
+185_654_787: "Não há jogo neste canal"
+185_848_580: "Já existem {} jogadores neste jogo!"
+185_254_307: "Você já está neste jogo!"
+185_549_428: "Você entrou no jogo!"
+
+# on_message_component_russianroulettestart
+185_596_074: "Não há jogo neste canal!"
+185_604_200: "Você não é o dono deste jogo!"
+185_990_296: "Não há jogadores suficientes para começar um jogo!"
+
+# on_task_russian_roulette_end
+185_054_304: "Não há jogadores suficientes para começar um jogo!"
+185_448_098: "Roleta-russa terminou"
+185_347_888: "Resumo:
+
+"
+185_634_448: "
+
+Descanse em paz..."
+185_162_722: "{0} foi morto"
+
+# end_game
+185_260_105: "Jogo irá começar em 5 segundos"
+
+# get_game
+185_386_072: "Muito rápido. Tente novamente."
