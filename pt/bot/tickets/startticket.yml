@@ -1,0 +1,14 @@
+# on_message_component_ticketing_open
+185_041_583: "Você atingiu o limite de tickets abertos: <#{}>."
+
+# before_open_ticket
+185_367_480: "Você não tem permissão para criar este ticket."
+185_810_724: "Você não pode criar tickets, pois possui o cargo proibido: <@&{0}>"
+185_419_706: "Ticket"
+
+# create_ticket
+185_988_851: "Muitas pessoas estão criando tickets agora. Aguarde a moderação fechá-los todos."
+185_587_048: "Formulário"
+185_169_828: "Ticket criado: <#{0}>"
+185_898_568: "Reivindicar ticket"
+185_707_614: "Fechar ticket"

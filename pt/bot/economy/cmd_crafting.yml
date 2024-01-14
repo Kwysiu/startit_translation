@@ -1,0 +1,16 @@
+# craft_item
+185_624_061: "Você só pode criar 50 itens de uma vez."
+185_048_631: "Item desconhecido. Digite `{0}shop`."
+185_232_443: "Você não tem dinheiro suficiente em sua carteira para criar esta receita."
+185_330_816: "Você não tem itens suficientes para criar esta receita."
+185_409_864: "Você não possui o cargo necessário para criar esta receita."
+185_291_253: "Você recebeu:"
+185_019_465: "Receita criada com sucesso!"
+
+# format_crafting
+185_089_552: "Receita:"
+
+# send_embed
+185_040_863: "Criar um item com o comando ` {0}craft <recipe name> `."
+185_596_548: "Criando"
+185_688_553: "Não existem receitas de fabricação."

@@ -1,0 +1,31 @@
+# on_message_component_v1_market
+185_942_777: "Sem permissão"
+
+# send_market
+185_499_261: "Não há itens no mercado."
+185_076_062: "Mercado"
+185_180_286: "{0} por {1}"
+185_709_604: "－ {1}
+ － Vendedor: {0} "
+185_864_883: "Página {0}/{1}"
+
+# market_sell
+185_700_840: "Syntax inválida"
+185_775_783: "Você só pode remover 50 itens de uma vez"
+185_821_485: "Usuário não tem itens suficientes."
+185_777_210: "Item desconhecido."
+185_372_552: "Este item não pode ser vendido."
+185_503_256: "Usuário não tem este item."
+185_473_986: "Item colocado no mercado"
+185_298_170: "Você colocou {0}x {1} por {2}."
+
+# market_buy
+185_435_705: "Item não encontrado."
+185_028_873: "Item não encontrado."
+185_338_522: "Você não tem **{0}** para comprar este item."
+185_233_369: "Dinheiro foi transferido para <@{0}>
+Você pode obter uma lista de todos os seus itens digitando ` {1}backpack `."
+185_587_333: "Novos itens adicionados na sua mochila:"
+
+# market
+185_202_890: "Comandos do mercado"

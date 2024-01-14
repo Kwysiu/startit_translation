@@ -1,0 +1,41 @@
+# on_message_component_autochannels_ban
+185_057_356: "Escolha usuário a ser banido"
+
+# on_message_component_autochannels_kick
+185_469_455: "Escolha usuário a ser expulso"
+
+# on_message_component_autochannels_invite
+185_274_320: "Escolha usuário a ser convidado"
+
+# on_message_component_autochannels_owner
+185_706_881: "Escolha usuário para dar o dono"
+
+# on_message_component_autochannels_name
+185_751_470: "Editar canal"
+185_853_063: "Nome do canal"
+
+# on_message_component_autochannels_limit
+185_187_320: "Editar canal"
+185_970_535: "Limite de canal"
+
+# on_message_component_autochannels_do_name
+185_159_592: "Você atingiu o número máximo de edições de nomes de canais em 10 minutos."
+
+# on_message_component_autochannels_do_limit
+185_434_353: "Número inválido. Digite 0 para remover o limite, 1 a 99 refere-se a um limite de usuário"
+
+# on_message_component_autochannels_do_ban
+185_770_573: "Usuário <@{0}> foi banido deste canal por <@{1}>."
+
+# on_message_component_autochannels_do_invite
+185_382_238: "Usuário <@{0}> foi adicionado a este canal por <@{1}>."
+
+# on_message_component_autochannels_do_kick
+185_992_134: "Usuário <@{0}> foi expulso deste canal por <@{1}>."
+
+# on_message_component_autochannels_do_owner
+185_376_129: "O dono foi alterado para <@{0}>."
+
+# on_message_component_autochannels_lock
+185_079_663: "Canal desbloqueado. Todos no servidor podem entrar aqui ou ler o chat."
+185_893_167: ":warning: Canal bloqueado! Agora só os membros do canal podem entrar aqui ou ler o chat."

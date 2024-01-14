@@ -1,0 +1,26 @@
+# punishments
+185_311_626: "Comandos"
+185_022_602: "`{0}punishments edit-reason <id> <reason>` - Edita motivo de punição
+`{0}punishments info <id>` - Mostra informação de punição
+`{0}punishments list [user]` - Mostra lista de punições
+`{0}punishments list-mod <moderator>` - Mostra lista de punições
+`{0}punishments remove <id> [reason]` - Remove punições"
+
+# get_name
+185_733_266: "Expulsa"
+185_660_195: "Bane"
+185_975_565: "Avisa"
+185_075_575: "Silencia"
+
+# format_punishment
+185_166_666: "### {0} por '{1}'"
+185_739_202: " - \#{0} em <t:{1}> "
+185_561_732: " - Duração: {0}"
+185_182_081: " - Usuário: {0}"
+185_538_286: " - Moderador: {0}"
+
+# send_embed
+185_604_436: "Última punição{0}"
+185_938_276: "Última punição por {0}"
+185_157_601: "Últimas punições"
+185_729_016: "{0} não há punições."

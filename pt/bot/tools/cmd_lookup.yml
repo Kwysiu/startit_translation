@@ -1,0 +1,105 @@
+# cmd_lookup
+185_406_672: "Comandos: "
+185_596_417: "Uso incorreto"
+
+# cmd_lookup_user
+185_646_831: "<:information:868952803006091264> {} - Informação"
+185_437_421: "<@!{0}>
+**Link para um avatar: **[clique aqui]({1})"
+185_613_780: "Usuário tem StartIT Plus"
+185_549_858: "ID DE USUÁRIO"
+185_694_868: "Entrou no Discord"
+185_412_467: "Entrou no Servidor"
+185_505_613: "Cargos"
+185_578_313: "Reviews ({})"
+185_375_274: "Escreva uma review para ReviewDB"
+
+# on_message_component_post_review
+185_017_006: "Poste uma review para ReviewDB"
+185_178_820: "Review"
+185_913_187: "Spam e a escrita de comentários ofensivos resultarão num banimento. Respeite os outros utilizadores."
+
+# on_message_component_post_review_submit
+185_890_920: "Review atualizada"
+185_686_076: "Review postada"
+185_961_539: "Erro"
+
+# cmd_lookup_role
+185_770_494: "Sim"
+185_206_382: "Não"
+185_235_743: "Informação de cargo - {}"
+185_804_978: "<@&{0}>
+**ID de cargo: **{1}
+**Posição de cargo: **{2}
+**Elevado: **{3}
+**Mencionável: **{4}
+**Gerenciado: **{5}
+**Criado em: **{6}"
+185_819_703: "
+**Cor de cargo: **{0}"
+185_837_487: "Permissões"
+185_662_834: "
+Cargo para impulsionar o servidor"
+185_004_705: "
+**Cargo para bot:** {}"
+
+# cmd_lookup_channel
+185_793_407: "Texto"
+185_928_780: "MD"
+185_053_722: "Voz"
+185_537_245: "Grupo de MD"
+185_860_801: "Categoria"
+185_121_680: "Novidades"
+185_247_445: "Lojas"
+185_745_993: "Tópico de Notícias"
+185_159_529: "Tópico Público"
+185_839_723: "Tópico Privado"
+185_934_901: "Voz de Palco"
+185_911_922: "Sim"
+185_852_864: "Não"
+185_309_300: "<#{0}>
+**ID de canal: **{1}
+**Tipo de canal: **{2}
+**Canal NSFW: **{3}
+**Canal criado em: **{4}"
+185_601_713: "
+**Posição de canal: **{0}"
+185_366_217: "
+**Tópico de canal: **{0}"
+185_486_217: "
+**Canal parental: **{0}"
+185_308_968: "
+**Bitrate de canal: **{0}"
+185_614_782: "
+**Limite de usuário de canal: **{0}"
+185_940_596: "
+**Dono de canal: **{0}"
+185_205_646: "Permitido: "
+185_214_994: "Recusado: "
+185_509_141: "Permissões de membros"
+185_675_819: "Permissões de cargos"
+
+# cmd_lookup_server
+185_151_428: "**RECURSOS DE SERVIDOR:**"
+185_097_822: "<:overview:868953016282271745>**VISÃO GERAL**
+**ID:** {0} 
+**DONO:** <@{1}>
+**Servidor criado em: ** <t:{2}>
+**Link para um ícone:** [Clique aqui](https://cdn.discordapp.com/icons/{0}/{3}?size=1024)
+**Cargo:** {4}
+
+<:boosts:868953110758957066>**IMPULSOS**
+**Níveis de Impulsos:** {5}
+**Impulsos:** {6}
+
+<:users:868953499038281738>**MEMBROS**
+<:users:868953499038281738> {7} • <:bots:868953478268092436> {8}
+
+<:channels:868954276121157634> **CANAIS**
+<:channels:868954276121157634> {9} • <:category:868954251076964383> {10} • <:text_channel:868954234689843220> {11} • <:voice_channel:868954221712637983> {12} • <:news_channel:868954207250694205> {13}
+
+:slight_smile: **EMOJI**
+Animado: **{14}** • Estático: **{15}** • Tudo: **{16}**
+
+{17}
+{18}"

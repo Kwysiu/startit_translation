@@ -1,0 +1,55 @@
+# tic_tac_toe
+185_402_502: "Hmm... isso é um bot."
+185_738_983: "Jogo da Velha"
+185_808_675: "Você não pode jogar consigo mesmo"
+185_431_583: "A aposta mínima é {0}"
+185_025_696: "A aposta máxima é {0}"
+185_936_904: "Jogo da Velha"
+185_202_055: "Você não pode jogar com este usuário por {0} segundos."
+185_597_618: "Você só pode jogar uma vez."
+185_402_212: "Este usuário já está jogando com alguém."
+185_260_208: "Jogo da Velha"
+185_177_976: "{} você recebeu um convite para um jogo de Jogo da Velha de {}.{}Preço: {}
+Você deve aceitar o jogo até {}."
+185_511_362: "Aceitar"
+185_798_254: "Recusar"
+
+# on_task_tic_tac_toe
+185_669_820: "Jogo da Velha, dinheiro de volta"
+185_157_749: "Jogo da Velha"
+185_466_508: "O jogo de Jogo da Velha foi cancelado."
+
+# on_message_component_v1_tic_tac_toe
+185_519_393: "Jogo da Velha"
+185_527_022: "Você não pode aceitar este jogo."
+185_599_080: "Você não pode recusar este jogo."
+185_441_237: "Jogo da Velha"
+185_864_931: "O jogo de Jogo da Velha foi cancelado."
+185_798_898: "Jogo da Velha"
+185_417_933: "Jogo da Velha"
+185_928_047: "É a vez de {}."
+185_565_358: "Você tem até {} para fazer sua jogada."
+
+# on_message_component_v1_tic_tac_toe_game
+185_548_456: "Jogo da Velha"
+185_286_122: "Você não pode jogar neste jogo."
+185_939_109: "Jogo da Velha, dinheiro de volta"
+185_605_974: "Jogo da Velha"
+185_477_327: "Erro."
+185_249_663: "Jogo da Velha"
+185_699_734: "Não é a sua vez."
+185_344_689: "{} venceu!"
+185_102_937: "Vencedor do Jogo da Velha"
+185_222_658: "**EMPATE**"
+185_374_639: "Jogo da Velha empatado"
+
+# gen_embed
+185_199_320: "Jogo da Velha"
+185_780_932: "É a vez de {}."
+185_336_237: "Você tem até {} para fazer sua jogada."
+
+# on_task_tic_tac_toe_game
+185_427_423: "Jogo da Velha"
+185_791_309: "{} venceu!"
+185_999_642: "Jogo da Velha empatado"
+185_065_587: "Jogo da Velha vencido"

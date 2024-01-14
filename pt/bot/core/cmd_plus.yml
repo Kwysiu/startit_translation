@@ -1,0 +1,12 @@
+# on_task_plus_notify
+185_065_246: ":warning: A sua licença do StartIT Plus expira em {0} {1}."
+185_764_244: "Sem qualquer ação da sua parte, o **bot será desativado**
+ e a sua configuração será bloqueada.
+
+Tenha um ótimo dia!
+[Fale conosco](https://discord.gg/GEanJ2g)"
+185_202_959: "Pague por um ano ($49.99 / {0}PLN)"
+185_795_167: "Pague por um mês ($9.99 / {0}PLN)"
+
+# on_message_component_plus_buy
+185_352_570: "Selecione o método de pagamento"

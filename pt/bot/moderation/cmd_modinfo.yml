@@ -1,0 +1,33 @@
+# modinfo
+185_052_529: "Informação de punição{0}"
+185_552_746: "Banimento"
+185_867_497: "**Ativo:** {0}
+**Banido por:** {1}
+**Motivo:** {2}
+**Banido em:** {3}
+**Termina em:** {4}
+**ID de punição:** {5}"
+185_429_114: "Banimento / Expulsão"
+185_988_543: "Usuário é membro deste servidor"
+185_385_292: "Banimento"
+185_815_415: "Usuário não está banido"
+185_196_251: "Expulsar"
+185_822_213: "Usuário voluntariamente saiu (ou nunca esteve aqui)"
+185_765_152: "Expulsar"
+185_699_587: "**Expulsado por:** {0}
+**Motivo:** {1}
+**Expulso em:** {2}
+**ID de punição:** {3}"
+185_754_277: "Silenciado"
+185_857_500: "Usuário não está silenciado"
+185_306_620: "Silenciado"
+185_018_055: "**Ativo:** {0}
+**Silenciado por:** {1}
+**Motivo:** {2}
+**Silenciado em:** {3}
+**Termina em:** {4}
+**ID de punição:** {5}"
+185_668_658: "Resumo:"
+185_589_335: "Avisos"
+185_607_082: "{0}{1} avisos (**{2}** pontos)"
+185_309_874: "Mostrar lista de avisos"

@@ -1,0 +1,32 @@
+# buy_item
+185_260_461: "Você não tem **{price}** para comprar este item."
+185_557_483: "Você não tem **{price}** para comprar este item."
+185_688_158: "Obrigado pela sua compra <@{0}>.
+Você pode ver a lista de todos os seus itens digitando ` {1}backpack `."
+185_100_374: "Novo item adicionado à sua mochila:"
+185_882_678: "Dinheiro foi adicionado às carteiras de {0} usuários."
+185_087_552: "Dinheiro foi adicionado ao proprietário do item."
+185_990_753: "Use este item"
+
+# _assert_buy_permissions
+185_988_842: "Você só pode comprar um pedaço deste item de cada vez."
+185_288_199: "Você não pode comprar este item."
+185_395_652: "Este item está fora de estoque."
+185_909_437: "Você não pode comprar mais do que **{number}** deste item."
+
+# _assert_buy_requirements
+185_072_081: "Você não possui os itens listados: 
+{requirements}"
+
+# assert_backpack_limit
+185_340_703: "Você não pode comprar mais do que **{limit}** deste item."
+
+# _assert_fraud
+185_560_244: "Você comprou **{name}** e acabou sendo uma fraude."
+
+# use_item
+185_655_739: "Este item não pode ser utilizado."
+185_991_528: "Clique para mudar seu apelido"
+185_250_493: "Esta caixa está vazia."
+185_550_216: "Não é possível abrir esta caixa por: {0}."
+185_562_879: "Abrindo caixa..."

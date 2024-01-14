@@ -1,0 +1,25 @@
+# translate_error
+185_515_417: "Você está tentando enviar um número negativo de dinheiro"
+185_470_969: "Você não tem dinheiro suficiente"
+
+# custom_reply
+185_647_835: "
+
+Tente novamente <t:{0}:R>
+Saldo: {1}"
+185_190_040: "
+
+Ganhe mais <t:{0}:R>
+Saldo: {1}"
+
+# modlog_send
+185_126_692: "Canal desconhecido"
+185_418_752: "Saldo atualizado"
+185_759_074: "**Usuário:** {0}
+**Quantidade:** Grana: {1} | Banco: {2}
+**Canal:** {3}
+**Motivo:** {4}"
+
+# iter_buttons
+185_267_959: "Página anterior"
+185_042_437: "Próxima página"

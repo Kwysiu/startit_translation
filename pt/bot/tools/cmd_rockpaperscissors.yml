@@ -1,0 +1,14 @@
+# rockpaperscissors
+185_473_187: "Pedra papel tesoura"
+185_024_620: "Escolha"
+185_681_120: "Papel"
+185_826_544: "Pedra"
+185_064_262: "Tesoura"
+
+# on_message_component_rockpaperscissors
+185_053_778: "Empate"
+185_715_468: "Você perdeu"
+185_340_861: "Você ganhou"
+185_191_237: "Pedra papel tesoura"
+185_610_302: "Sua escolha"
+185_480_154: "Minha escolha"

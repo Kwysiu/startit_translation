@@ -1,0 +1,18 @@
+# assert_permissions
+185_925_288: "Este usuário tem um cargo maior do que você"
+185_196_213: "Este usuário é protegido"
+
+# modlog_send
+185_875_745: "Usuário"
+185_660_558: "Moderador"
+185_238_144: "Motivo"
+185_559_044: "ID de punição"
+185_385_995: "Duração"
+
+# modlog_send_legacy
+185_673_072: "Por:"
+
+# paginate
+185_224_163: "
+
+Página: {}/{}"
