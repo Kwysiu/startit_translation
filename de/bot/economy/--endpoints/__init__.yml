@@ -1,0 +1,32 @@
+# buy_item
+185_260_461: "Du hast nicht den/die/das **{price}**, um diesen Gegenstand zu kaufen."
+185_557_483: "Du hast nicht den/die/das **{price}**, um diesen Gegenstand zu kaufen"
+185_688_158: "Danke für deinen Einkauf <@{0}>.
+Eine Invetarliste von dir rufe ` {1}backpack ` auf."
+185_100_374: "Ein neuer Gegenstand wurde deinem  Ruchsack hinzugefügt:"
+185_882_678: "Das Geld wurde an {0} Benutzer überwiesen."
+185_087_552: "Das Geld wurde dem Gegenstandseigentümer überwiesen."
+185_990_753: "Den Gegenstand benutzen"
+
+# _assert_buy_permissions
+185_988_842: "Du kannst nur ein Stück dieses Gegenstandes auf einmal kaufen."
+185_288_199: "Du kannst diesen Gegenstand nicht kaufen."
+185_395_652: "Dieser Gegenstand ist ausverkauft."
+185_909_437: "Du kannst nicht mehr als **{number}** von diesem Gegenstand kaufen."
+
+# _assert_buy_requirements
+185_072_081: "Du hast keine aufgelisteten Gegenstände: 
+{requirements}"
+
+# assert_backpack_limit
+185_340_703: "Du kannst nicht mehr Stück als **{limit}** von dem Gegenstand kaufen."
+
+# _assert_fraud
+185_560_244: "Du hast **{name}** gekauft und es scheint, als ob das ein Betrug war."
+
+# use_item
+185_655_739: "Dieser Gegenstand kann nicht benutzt werden."
+185_991_528: "Tippe hier um deinen Nicknamen zu ändern"
+185_250_493: "Diese Truhe ist leer."
+185_550_216: "Du kannst diese Truhe für {0} nicht öffnen."
+185_562_879: "Truhe wird geöffnet..."

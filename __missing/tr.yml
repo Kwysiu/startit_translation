@@ -1,0 +1,91 @@
+# Dear Translator.
+# For your convenience, we have collected all missing translations here.
+# All you need to do is translate this file and upload changes to the repository.
+# We will take care of moving your translations to the correct folders and files.
+
+
+# FILE: economy/cmd_eco.py
+
+# economy_add
+185_243_535: "This command is not available."
+185_431_005: "Balance updated"
+185_591_777: "**Role:** {0}
+**Amount:** Cash: ``{1}`` | Bank: ``{2}``
+**Users:** {3}
+**Channel:** {4}
+**Reason:** {5}: /eco add command"
+185_681_326: "Action completed on **{0}** accounts."
+
+# FILE: automations/utils_conditions/__init__.py
+
+# do_conditions_message
+185_022_824: "You can't do that"
+
+# FILE: automations/on_custom_command.py
+
+# on_custom_command
+185_140_632: "Time for response has passed"
+
+# FILE: economy/utils.py
+
+# translate_error
+185_515_417: "You are trying to send negative number of money"
+185_470_969: "You don't have enough money"
+
+# FILE: levels/cmd_exp.py
+
+# exp_set
+185_171_187: "Set {0} XP points to user <@{1}>"
+
+# FILE: economy/--endpoints/__init__.py
+
+# buy_item
+185_260_461: "You don't have **{price}** to buy this item."
+185_557_483: "You don't have **{price}** to buy this item."
+185_688_158: "Thanks for your purchase <@{0}>.
+You can get list of all your items by typing ` {1}backpack `."
+185_100_374: "New item added to your backpack:"
+185_882_678: "Money has been added to the wallets of {0} users."
+185_087_552: "Money has been added to the item owner."
+185_990_753: "Use this item"
+
+# _assert_buy_permissions
+185_988_842: "You can only buy this item one piece at once."
+185_288_199: "You can't buy this item."
+185_395_652: "This item is out of stock."
+185_909_437: "You can't buy more than **{number}** of this item."
+
+# _assert_buy_requirements
+185_072_081: "You don't have listed items: 
+{requirements}"
+
+# FILE: core/reddly/commands.py
+
+# invoke
+185_490_925: "No permissions."
+
+# FILE: economy/--endpoints/__init__.py
+
+# assert_backpack_limit
+185_340_703: "You can't buy more than **{limit}** of this item."
+
+# _assert_fraud
+185_560_244: "You bought **{name}** and it turned out to be a fraud."
+
+# use_item
+185_655_739: "This item cannot be used."
+
+# FILE: core/reddly/commands.py
+
+# send_invalidusage
+185_096_248: "Usage"
+185_856_190: "You used this command incorrectly. Try this:"
+185_461_516: "Help"
+
+# FILE: economy/--endpoints/__init__.py
+
+# use_item
+185_991_528: "Click to change your nickname"
+185_250_493: "This case is empty."
+185_550_216: "You cannot open this case for: {0}."
+185_562_879: "Opening case..."
