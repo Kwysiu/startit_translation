@@ -1,5 +1,13 @@
 # economy_add
 185_621_920: "Konum bağımsız değişkeni boş, `cüzdan` veya `banka` olmalıdır."
+185_243_535: "Bu komut mevcut değil."
+185_431_005: "Bakiye güncellendi"
+185_591_777: "**Rol:** {0}
+**Miktar:** Nakit: ``{1}`` | Banka: ``{2}``
+**Kullanıcılar:** {3}
+**Kanal:** {4}
+**Sebep:** {5}: /eco komut ekle"
+185_681_326: "**{0}** hesapta işlem tamamlandı."
 185_162_022: "Hiçbir şey olmadı."
 185_394_123: "{0}: /eco kaldırma komutu"
 185_648_490: "{1} hesabından **{0}** kaldırıldı."
