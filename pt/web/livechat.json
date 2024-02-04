@@ -1,0 +1,17 @@
+{
+  "hi": "Olá 👋 Como podemos ajudar?",
+  "name": "Primeiro nome",
+  "question": "Com o que podemos ajudar?",
+  "description": "Descrição",
+  "charlen": "O comprimento mínimo da mensagem é de 20 caracteres.",
+  "type": "Mensagem @StartIT Support",
+  "type-disabled": "Preencha o formulário acima para conversar.",
+  "start": "Iniciar chat",
+  "disconnect": "Problemas de conexão. Desconectado do chat.",
+  "subtitle": "Temos um tráfego aumentado agora. Tempo de resposta estendido.",
+  "bot-issue": "Problema do bot",
+  "bot-suggestion": "Sugestão para o bot",
+  "payment-issue": "Problema de pagamento",
+  "user-report": "Relatório do usuário",
+  "required": "Este campo é obrigatório."
+}

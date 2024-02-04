@@ -1,0 +1,19 @@
+{
+  "commands": "Comandos de bot",
+  "economy-commands": "Comandos de economia",
+  "leveling-commands": "Comandos de nível",
+  "ticketing-commands": "Comandos de tickets",
+  "command-config": "Configurações de comandos",
+  "command-name": "Nome",
+  "commands-desc": "Comandos de barra são uma nova forma de usar comandos na GUI do Discord.",
+  "settings": "Opções",
+  "enable-global-slashes": "Ativar comandos para o plugins: Imagens, Ferramentas",
+  "help-slashes": "Mostrar menções de comandos em /help",
+  "help-slashes-desc": "Valor recomendado: off – as menções de comandos não são totalmente suportadas pelo Discord neste momento",
+  "enable-all": "Ativar tudo",
+  "moderation-commands": "Comandos de moderação",
+  "prefix": "Comandos sob o prefixo",
+  "prefix-desc": "Bot irá procurar comandos em mensagens normais que comecem com o carácter especificado.",
+  "prefix-input": "Prefixo",
+  "disabled-commands-input": "Comandos excluídos do prefixo"
+}

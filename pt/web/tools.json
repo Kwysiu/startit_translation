@@ -1,0 +1,11 @@
+{
+  "tools": "Ferramentas",
+  "commands": "Comandos",
+  "commands-desc": "Após ativar este plugin, você poderá usar estes comandos.",
+  "prize": "Prêmio",
+  "settings": "Configurações",
+  "default-prize": "Nome padrão do prêmio",
+  "bot-win": "Capacidade para um bot ganhar uma sorteio",
+  "hosted-visible": "Exibição de quem está hospedando o sorteio",
+  "everyone-ping": "Mencionar todos após criar o sorteio"
+}
