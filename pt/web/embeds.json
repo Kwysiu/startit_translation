@@ -1,0 +1,15 @@
+{
+  "embeds": "Embeds",
+  "embeds-hub": "Hub de Embeds",
+  "embeds-hubs-desc": "",
+  "settings": "Configurações",
+  "channel-name": "Nome do canal",
+  "new-embedshub": "Novo embed",
+  "title-url": "Título URL",
+  "customization": "Customização",
+  "embed-name": "Nome da mensagem (apenas exibido no painel)",
+  "embed-name-desc": "ex. regras do servidor",
+  "add-button": "Adicionar botão",
+  "add-select-menu": "Adicionar menu de seleção",
+  "add-select-item": "Adicionar item"
+}

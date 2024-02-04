@@ -1,0 +1,18 @@
+{
+  "servermonitor": "Monitor de servidor",
+  "game-servers": "Seus servidores de jogo",
+  "game-servers-desc": "Local seguro para inserir os detalhes do seu servidor, que podem ser utilizados por outros plugins.",
+  "game": "Jogo",
+  "game-input": "Nome do jogo",
+  "server": "Detalhes do servidor",
+  "host": "IP/domínio do servidor",
+  "port": "Porta do servidor",
+  "rcon": "RCON: Console do servidor (opcional)",
+  "rcon-title": "Deixe o StartIT executar comandos no seu servidor!",
+  "rcon-desc": "RCON é um protocolo que permite aos administradores de servidor executarem comandos de jogo remotamente. Se deseja usar esse recurso, é necessário ativá-lo no seu servidor. Você pode encontrar mais informações sobre RCON na internet.",
+  "rcon-host": "IP/domínio do RCON",
+  "rcon-port": "Porta do RCON",
+  "rcon-password": "Senha do RCON",
+  "save-changes": "Criptografar dados e salvar alterações",
+  "cancel-edit": "Cancelar"
+}
