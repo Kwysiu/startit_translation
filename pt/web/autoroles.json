@@ -1,0 +1,21 @@
+{
+  "autoroles": "Autorole",
+  "roles": "Cargos",
+  "joinmember": "Cargo para membros novos",
+  "joinmember-dsc": "Atribuir cargos aos novos usuários do seu servidor.",
+  "joinbot": "Cargo para novos bots",
+  "joinbot-dsc": "Atribui cargos aos novos bots que entraram no servidor.",
+  "joinperson": "Cargos para novos humanos",
+  "joinperson-dsc": "Atribuir cargos a novas pessoas que se juntaram ao servidor.",
+  "boost": "Cargo para seus Nitro Boosters",
+  "boost-dsc": "Dá aos teus boosters extra ranks para mostrar para eles como são fantásticos.",
+  "boost-remove": "Retirar estes cargos quando o usuário já não é um booster",
+  "roleplus": "Cargo para membros StartIT Plus",
+  "roleplus-dsc": "Ajude o suporte StartIT e dê aos nossos doadores um cargo especial no seu servidor.",
+  "restoringRoles": "Restaurando cargos",
+  "restoringRoles-desc": "Restaurar cargos quando um usuário volta ao servidor",
+  "restoringRoles-allowed": "Restaurado",
+  "restoringRoles-banned": "Não restaurado",
+  "restoringRoles-roles": "cargos",
+  "wait-rules": "Atraso na aceitação das regras do servidor"
+}

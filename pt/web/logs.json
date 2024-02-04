@@ -1,0 +1,19 @@
+{
+  "logs": "Logs",
+  "logs-messages-title": "Registros de Mensagens",
+  "logs-messages-desc": "Informa sobre eventos de mensagens, como excluir/editar mensagens.",
+  "logs-voice-title": "Registros de Voz",
+  "logs-voice-desc": "Informa sobre eventos de voz, como entrar/sair/mover em canais de voz.",
+  "logs-member-title": "Registros de Membros",
+  "logs-member-desc": "Informa sobre eventos de membros, como entrar/sair/banir membros.",
+  "duration-days_one": "Contas com menos de {{count}} dia",
+  "duration-days_other": "Contas com menos de {{count}} dias",
+  "channel": "Canal",
+  "duration": "Tempo mínimo de existência da conta",
+  "duration-inform": "Mencionar a equipe se uma conta do Discord recém-criada entrar no servidor.",
+  "roles": "Cargos para mencionar",
+  "logs-invite-title": "Registro de Convites",
+  "logs-invite-desc": "Acompanha convites para o servidor.",
+  "logs-messages-block": "Bloquear canais onde as mensagens não são registradas",
+  "ignore-bots": "Ignorar bots"
+}
