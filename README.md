@@ -13,4 +13,5 @@
 
 
 | Coordinator | @kwysiu |
+| Emo | [@Blacku6](https://github.com/Blacku6) |
 |-------------|---------|
