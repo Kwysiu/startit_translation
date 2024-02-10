@@ -7,7 +7,7 @@
 | [tr](/tr) | Türkçe    | @zonax           | [@zzonaxx](https://github.com/zzonaxx)           |
 | [ru](/ru) | Русский   | @gulangich       | [@gulangich](https://github.com/gulangich)       |
 | [es](/es) | Español   | @trufasuprema    | [@TrufaSuprema](https://github.com/TrufaSuprema) |
-| [de](/de) | Deutsch   | @bertraun        | -                                                |
+| [de](/de) | Deutsch   | @bertraun        | [@BerTram-at](https://github.com/BerTram-at)     |
 | [pt](/pt) | Português | @elyrod          | [@elyrodso](https://github.com/elyrodso)         |
 
 
