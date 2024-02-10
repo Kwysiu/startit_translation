@@ -1,0 +1,11 @@
+{
+  "tools": "Tools",
+  "commands": "Commands",
+  "commands-desc": "After enabling this plugin, you will be able to use these commands.",
+  "prize": "Prize",
+  "settings": "Settings",
+  "default-prize": "Default prize name",
+  "bot-win": "Ability for a bot to win a giveaway",
+  "hosted-visible": "Displaying who is hosting the giveaway",
+  "everyone-ping": "Mention everyone after creating the giveaway"
+}
