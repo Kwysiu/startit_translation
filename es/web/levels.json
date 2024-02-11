@@ -61,7 +61,7 @@
   "channel-multiplier-desc": "Da más puntos de XP en los canales especificados.",
   "exceptions": "Excepciones",
   "exceptions-desc": "Especifica dónde y qué roles quieres que ganen XP.",
-  "channels": "canales"
+  "channels": "canales",
   "roles": "roles",
   "money": "Dinero",
   "channels-banned": "Prohibidos",

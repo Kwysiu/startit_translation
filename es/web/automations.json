@@ -96,7 +96,7 @@
   "message-attachment-is": "Todos los archivos adjuntos son de este tipo",
   "message-attachment-is-not": "No hay archivos adjuntos de este tipo",
   "message-attachments-greater": "El recuento de archivos adjuntos es mayor que",
-  "message-attachments-less": "El recuento de archivos adjuntos es menor que"
+  "message-attachments-less": "El recuento de archivos adjuntos es menor que",
   "message-reply": "El mensaje es una respuesta",
   "message-not-reply": "El mensaje no es una respuesta",
   "emoji-equals": "El usuario reaccionó con uno de estos emojis",
