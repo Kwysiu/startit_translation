@@ -42,7 +42,7 @@
   "auto-destroy": "Destruir automáticamente este ítem",
   "destroy-item": "El ítem se autodestruirá después de cierto tiempo.",
   "can-be-used": "El ítem puede ser usado",
-  "item-price": "Precio del ítem"
+  "item-price": "Precio del ítem",
   "item-price-roles": "Precio del ítem para roles individuales",
   "give-away": "No puede ser transferido a nadie más.",
   "time-selfdestruct": "Tiempo para autodestruir el ítem desde el momento de la compra.",
@@ -113,7 +113,7 @@
   "economywarning-role": "Nota: Actualmente, la economía no funcionará para ningún usuario. Agrega un rol en el cuadro de arriba o haz clic en el botón \"Prohibidos\".",
   "money-config-title": "Configuración de dinero",
   "wallet": "Cartera",
-  "bank": "Banco"
+  "bank": "Banco",
   "message-money": "Dinero por mensajes",
   "message-money-desc": "El bot dará una cantidad aleatoria dentro del rango dado por cada mensaje",
   "voice-money": "Dinero por chat de voz",
@@ -168,7 +168,7 @@
   "police-role-enabled": "Dar dinero que proviene de impuestos y multas a los usuarios que tienen el rol de policía.",
   "police-role-input": "Rol 'Policía'",
   "rob-system": "Sistema de robo",
-  "server-shop": "Tienda del servidor"
+  "server-shop": "Tienda del servidor",
   "server-shop-desc": "Configura ítems, roles y cajas que se podrán comprar con tu moneda.",
   "cmd-collect-income-desc": "Ingresos pasivos por poseer un rol/ítem específico.",
   "cmd-work-desc": "Fuente principal de ingresos. Da una cantidad aleatoria de dinero.",
@@ -215,7 +215,7 @@
   "week-3": "Jueves",
   "week-4": "Viernes",
   "week-5": "Sábado",
-  "week-6": "Domingo"
+  "week-6": "Domingo",
   "promo-roles": "Condiciones de promoción",
   "promo-roles-desc": "Opcionalmente puedes especificar roles, los cuales serán excluidos de la promoción.",
   "promo-roles-alert-title": "¿Quieres ofrecer promociones solo a unos pocos seleccionados?",

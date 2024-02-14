@@ -30,7 +30,7 @@
   "chatbot-oscar": "ChatBot Oscar",
   "chatbot-harry": "ChatBot Harry",
   "images-channel": "Canal a restringir",
-  "images-restrictions": "Restricciones"
+  "images-restrictions": "Restricciones",
   "images-restrictions-desc": "Qué mensajes se aprecian en este canal.",
   "images-restrictions-images": "Imágenes:",
   "images-restrictions-image-attachments": "Permitir adjuntos de imagen en este canal",
