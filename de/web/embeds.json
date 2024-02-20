@@ -1,0 +1,15 @@
+{
+  "embeds": "Einbettungen",
+  "embeds-hub": "Einbettungsliste",
+  "embeds-hubs-desc": "",
+  "settings": "Einstellungen",
+  "channel-name": "Kanalname",
+  "new-embedshub": "Neue Einbettung",
+  "title-url": "Titel-URL",
+  "customization": "Individualisierung",
+  "embed-name": "Nachrichtenname (wird nur im Dashboard hier angezeigt)",
+  "embed-name-desc": "bspw. Serverregeln",
+  "add-button": "Knopf hinzufügen",
+  "add-select-menu": "Auswahlmenü hinzufügen",
+  "add-select-item": "Element hinzufügen"
+}

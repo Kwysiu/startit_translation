@@ -1,0 +1,19 @@
+{
+  "commands": "Botbefehle",
+  "economy-commands": "Wirtschaftsbefehle",
+  "leveling-commands": "Levelingbefehle",
+  "ticketing-commands": "Ticketbefehle",
+  "command-config": "Befehlskonfiguration",
+  "command-name": "Name",
+  "commands-desc": "Slash-Befehle sind eine neue Möglichkeit, Befehle in der GUI von Discord einzugeben.",
+  "settings": "Einstellungen",
+  "enable-global-slashes": "Befehle für Plugins aktivieren: Bilder, Tools",
+  "help-slashes": "Befehls-Mentions in /help anzeigen",
+  "help-slashes-desc": "Empfohlener Wert: aus – Befehls-Mentions werden von Discord derzeit nicht vollständig unterstützt",
+  "enable-all": "Alle aktivieren",
+  "moderation-commands": "Moderationsbefehle",
+  "prefix": "Befehle unter Präfix",
+  "prefix-desc": "Der Bot wird nach Befehlen in normalen Nachrichten suchen, die mit dem angegebenen Zeichen beginnen.",
+  "prefix-input": "Präfix",
+  "disabled-commands-input": "Vom Präfix ausgeschlossene Befehle"
+}

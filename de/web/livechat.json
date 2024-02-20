@@ -1,0 +1,17 @@
+{
+  "hi": "Hallo 👋 Wie können wir helfen?",
+  "name": "Name",
+  "question": "Wo können wir dir helfen?",
+  "description": "Beschreibung",
+  "charlen": "Nachrichtenmindestzeichenanzahl: 20.",
+  "type": "Schreibe @StartIT Support an",
+  "type-disabled": "Fülle das Formular über dem Chat aus.",
+  "start": "Chat starten",
+  "disconnect": "Internetfehler. Getrennt vom Chat.",
+  "subtitle": "Es besteht gerade höhere Auslastung. Antwortzeit erhöht.",
+  "bot-issue": "Botproblem",
+  "bot-suggestion": "Bot Vorschlag",
+  "payment-issue": "Zahlungsproblem",
+  "user-report": "Benutzermeldung",
+  "required": "Das ist ein Pflichtfeld."
+}

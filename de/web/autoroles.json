@@ -1,0 +1,21 @@
+{
+  "autoroles": "Autorolle",
+  "roles": "Rollen",
+  "joinmember": "Rolle(n) für neue Accounts",
+  "joinmember-dsc": "Gib neuen Accounts automatisch Rollen.",
+  "joinbot": "Rolle(n) für neue Bots",
+  "joinbot-dsc": "Gib neuen Bots automatisch Rollen.",
+  "joinperson": "Rolle(n) für neue Mitglieder",
+  "joinperson-dsc": "Gib neuen Mitgliedern automatisch Rollen.",
+  "boost": "Rolle(n) für die Nitroboosters",
+  "boost-dsc": "Gib deinen Nitroboostern extra Ränge, um ihnen zu zeigen, wie cool es ist.",
+  "boost-remove": "Die Rollen abnehmen, wenn das Mitglied kein Nitrobooster mehr ist",
+  "roleplus": "Rolle für StartIT-Plusmitglieder",
+  "roleplus-dsc": "Unterstütze StartIT und gib unseren Spendern eine eigene Rolle auf deinem Server.",
+  "restoringRoles": "Rollen wiederherstellen",
+  "restoringRoles-desc": "Rollen wiederherstellen, wenn ein Benutzer auf den Server zurückkommt",
+  "restoringRoles-allowed": "Wiederhergestellt",
+  "restoringRoles-banned": "Nicht Wiederhergestellt",
+  "restoringRoles-roles": "Rollns",
+  "wait-rules": "Verzögerung bei der Annahme von den Serverregeln"
+}

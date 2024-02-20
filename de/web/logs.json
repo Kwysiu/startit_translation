@@ -1,0 +1,19 @@
+{
+  "logs": "Protokolle",
+  "logs-messages-title": "Nachrichtenprotokolle",
+  "logs-messages-desc": "Informiere dich über Nachrichtenereignisse wie das Löschen/Bearbeiten von Nachrichten.",
+  "logs-voice-title": "Sprachprotokolle",
+  "logs-voice-desc": "Informiere dich über Sprachereignisse wie das Betreten/Verlassen/Verschieben von Sprachkanälen.",
+  "logs-member-title": "Mitgliederprotokolle",
+  "logs-member-desc": "Informiere dich über Mitgliederereignisse wie das Betreten/Verlassen/Sperren von Mitgliedern.",
+  "duration-days_one": "Konten jünger als {{count}} Tag",
+  "duration-days_other": "Konten jünger als {{count}} Tage",
+  "channel": "Kanal",
+  "duration": "Mindestkontodauer",
+  "duration-inform": "Informiere das Personal, wenn ein frisch erstelltes Discord-Konto dem Server beitritt.",
+  "roles": "Zu erwähnende Rollen",
+  "logs-invite-title": "Einladungsprotokoll",
+  "logs-invite-desc": "Verfolge Einladungen zum Server.",
+  "logs-messages-block": "Blockiere Kanäle, in denen Nachrichten nicht protokolliert werden",
+  "ignore-bots": "Bots ignorieren"
+}

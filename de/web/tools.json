@@ -1,0 +1,11 @@
+{
+  "tools": "Werkzeuge",
+  "commands": "Befehle",
+  "commands-desc": "Bei Aktivierung des Plugins, kannst du diese Befehle benutzen.",
+  "prize": "Gewinn",
+  "settings": "Einstellungen",
+  "default-prize": "Benutzerdefinierter Gewinnname",
+  "bot-win": "Möglichkeit für einen Bot, ein Giveaway zu gewinnen",
+  "hosted-visible": "Anzeigen, wer das giveaway hostet",
+  "everyone-ping": "Erwähne @everyone nach dem Veröffentlichen des Giveaways"
+}
