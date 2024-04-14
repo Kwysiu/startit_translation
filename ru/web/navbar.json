@@ -7,7 +7,7 @@
   "notifications": "Уведомления",
   "subscriptions": "Подписки",
   "logout": "Выйти",
-  "changeServer": "Изменить сервер",
+  "changeServer": "Выбрать сервер",
   "your-servers": "Ваши сервера",
   "your-servers-desc": "Выберите сервер, который хотите настроить",
   "server-owner": "Владелец сервера",
@@ -23,7 +23,7 @@
   "private-invite": "Пригласить бота",
   "private-guild": "Сервер",
   "private-invite-code": "Код приглашения <small>(одноразовый)</small>",
-  "private-thank-you": "Спасибо за использование StartIT. Прежде чем добавлять этого бота, убедитесь, что вы находитесь на нашем <a>Discord-сервере</a>",
+  "private-thank-you": "Спасибо за использование StartIT. Прежде чем добавить этого бота, убедитесь, что вы находитесь на нашем <a>Discord-сервере</a>",
   "suggestions": "Предложения",
   "docs": "Документация"
 }
