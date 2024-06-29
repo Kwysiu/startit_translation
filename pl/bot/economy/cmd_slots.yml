@@ -1,0 +1,33 @@
+# generate_payout_table
+185_687_828: "Koszt: {}
+  Minimalna wypłata: {}
+  Maksymalna wypłata: {}"
+
+# slots
+185_898_861: "Nie ma dostępnych automatów do gier."
+185_917_885: "Automaty do gier"
+185_352_556: "Wybierz automat do gier"
+
+# start_game
+185_493_278: "lub"
+185_929_695: "Tabela wypłat"
+185_969_635: "Zwykłe"
+185_230_073: "Pociągnij dźwignie"
+
+# on_message_component_slots_machine_spin
+185_672_881: "Nie możesz grać na tym automacie."
+185_811_452: "Twój stan konta jest zbyt niski, aby zagrać na tym automacie. Potrzebujesz {0} do gry."
+185_760_620: "Możesz grać tylko na jednym automacie do gier naraz."
+185_086_252: "Automat do gier się kręci..."
+185_608_708: "Wygenerowano w {0} ms"
+185_300_240: "Pociągnij dźwignie"
+185_437_519: "Przegrana"
+185_608_097: "Automat do gier \"{0}\": {1}"
+185_589_364: "Niestety, nie wygrałeś tej rundy. Zakręć ponownie!"
+185_740_601: "{0} – Wygrałeś {1}!"
+185_270_500: "Wygenerowano w {0} ms"
+185_690_675: "Pociągnij dźwignie"
+185_599_237: "Wygrana jackpot na automacie"
+
+# start_game
+185_046_136: "JACKPOT"
