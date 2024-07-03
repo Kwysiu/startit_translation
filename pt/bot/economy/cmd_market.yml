@@ -11,11 +11,11 @@
 
 # market_sell
 185_700_840: "Syntax inválida"
-185_775_783: "Você só pode remover 50 itens de uma vez"
-185_821_485: "Usuário não tem itens suficientes."
-185_777_210: "Item desconhecido."
-185_372_552: "Este item não pode ser vendido."
-185_503_256: "Usuário não tem este item."
+185_686_293: "Você só pode remover 50 itens de uma vez"
+185_653_626: "Usuário não tem itens suficientes."
+185_301_584: "Item desconhecido."
+185_017_315: "Este item não pode ser vendido."
+185_736_759: "Usuário não tem este item."
 185_473_986: "Item colocado no mercado"
 185_298_170: "Você colocou {0}x {1} por {2}."
 

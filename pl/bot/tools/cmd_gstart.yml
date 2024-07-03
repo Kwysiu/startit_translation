@@ -1,13 +1,2 @@
-# giveawayeconomystart
-185_009_039: " na ekonomii"
-
-# start_giveaway
-185_396_823: "Za mało argumentów. Proszę podać nagrodę za udział w konkursie."
-185_316_297: "Musi być przynajmniej jeden wygrany"
-185_092_231: "Nie poprawny kanał"
-185_121_354: "Stworzone przez: <@!{0}>
-"
-185_530_318: "Zakończy się o: <t:{0}>"
-185_220_561: "Zareaguj emotką 🎉 aby wziąć udział
-"
-185_142_730: "Stworzono [giveaway]({0})"
+# send_error
+185_005_589: "Ta komenda została usunięta, użyj pluginu Konkursy w [panelu StartIT](<https://startit.bot/>)."

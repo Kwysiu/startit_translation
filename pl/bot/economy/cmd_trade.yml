@@ -1,0 +1,44 @@
+# generate_embed
+185_556_186: "numer-przedmiotu"
+185_848_653: "ilość"
+185_571_141: "przedmiot"
+185_811_335: "Wymiana"
+185_211_356: "Dodaj przedmiot do wymiany"
+185_192_167: "Usuń przedmiot z wymiany"
+185_768_088: "może być"
+185_005_082: "Anuluj wymianę"
+185_064_711: "Transakcja zostanie automatycznie anulowana po 15 minutach"
+
+# trade_start
+185_652_040: "Nie możesz handlować sam ze sobą"
+
+# cancel_trade
+185_927_078: "Niepoprawne ID wymiany"
+185_504_987: "Wymiana anulowana"
+
+# gen_buttons
+185_826_323: "Zaakceptuj wymianę"
+185_206_351: "Anuluj wymianę"
+185_115_606: "Wymiana zaakceptowana przez"
+
+# trade_add
+185_566_412: "Niepoprawne ID wymiany"
+185_442_755: "Nie jesteś częścią tej wymiany"
+185_870_060: "Osiągnąłeś maksymalną ilość przedmiotów w wymianie"
+185_775_783: "Możesz usunąć tylko 50 sztuk na raz"
+185_821_485: "Użytkownik nie ma wystarczającej ilości przedmiotów."
+185_777_210: "Nieznany przedmiot."
+185_372_552: "Ten przedmiot nie może być sprzedany."
+185_503_256: "Użytkownik nie ma tego przedmiotu."
+
+# on_message_component_trade_accept
+185_987_887: "Niepoprawne ID wymiany"
+185_163_101: "Nie jesteś częścią tej wymiany"
+185_823_091: "Już zaakceptowałeś tę wymianę"
+185_561_215: "Nie można zaakceptować przestarzałej wymiany"
+185_601_175: "Wymiana zakończona"
+
+# trade_remove
+185_382_149: "Niepoprawne ID wymiany"
+185_625_871: "Nie jesteś częścią tej wymiany"
+185_365_430: "Niepoprawny indeks przedmiotu"

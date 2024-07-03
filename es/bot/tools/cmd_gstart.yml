@@ -1,13 +1,2 @@
-# giveawayeconomystart
-185_009_039: " en economía"
-
-# start_giveaway
-185_396_823: "No hay suficientes argumentos. Por favor, especifica el premio del sorteo."
-185_316_297: "Debe haber al menos una victoria"
-185_092_231: "Canal incorrecto"
-185_121_354: "Organizado por: <@!{0}>
-"
-185_530_318: "Caducidad: <t:{0}>"
-185_220_561: "Reacciona con el emoticono 🎉 para participar
-"
-185_142_730: "Creado [sorteo]({0})"
+# send_error
+185_005_589: "Este comando ha sido eliminado. Utiliza el complemento de sorteos en StartIT Dashboard."

@@ -1,0 +1,44 @@
+# generate_embed
+185_556_186: "item-index"
+185_848_653: "amount"
+185_571_141: "item"
+185_811_335: "Trade"
+185_211_356: "Add an item to the trade"
+185_192_167: "Remove an item from the trade"
+185_768_088: "can be"
+185_005_082: "Cancel the trade"
+185_064_711: "Transaction will be cancelled automatically after 15 minutes"
+
+# trade_start
+185_652_040: "You cannot trade with yourself"
+
+# cancel_trade
+185_927_078: "Invalid trade ID"
+185_504_987: "Trade cancelled"
+
+# gen_buttons
+185_826_323: "Accept trade"
+185_206_351: "Cancel trade"
+185_115_606: "Trade accepted by"
+
+# trade_add
+185_566_412: "Invalid trade ID"
+185_442_755: "You are not part of this trade"
+185_870_060: "You have reached the maximum amount of items in a trade"
+185_775_783: "You can only remove 50 items at once"
+185_821_485: "User doesn't have enough items."
+185_777_210: "Unknown item."
+185_372_552: "This item cannot be sold."
+185_503_256: "User doesn't have this item."
+
+# on_message_component_trade_accept
+185_987_887: "Invalid trade ID"
+185_163_101: "You are not part of this trade"
+185_823_091: "You have already accepted this trade"
+185_561_215: "Cannot accept an outdated trade"
+185_601_175: "Trade completed"
+
+# trade_remove
+185_382_149: "Invalid trade ID"
+185_625_871: "You are not part of this trade"
+185_365_430: "Invalid item index"

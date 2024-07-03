@@ -1,0 +1,44 @@
+# generate_embed
+185_556_186: "índice-del-objeto"
+185_848_653: "cantidad"
+185_571_141: "objeto"
+185_811_335: "Intercambio"
+185_211_356: "Añadir un objeto al intercambio"
+185_192_167: "Eliminar un objeto del intercambio"
+185_768_088: "puede ser"
+185_005_082: "Cancelar el intercambio"
+185_064_711: "La transacción se cancelará automáticamente después de 15 minutos"
+
+# trade_start
+185_652_040: "No puedes intercambiar contigo mismo"
+
+# cancel_trade
+185_927_078: "ID de intercambio no válido"
+185_504_987: "Intercambio cancelado"
+
+# gen_buttons
+185_826_323: "Aceptar intercambio"
+185_206_351: "Cancelar intercambio"
+185_115_606: "Intercambio aceptado por"
+
+# trade_add
+185_566_412: "ID de intercambio no válido"
+185_442_755: "No eres parte de este intercambio"
+185_870_060: "Has alcanzado la cantidad máxima de objetos en un intercambio"
+185_775_783: "Solo puedes eliminar 50 artículos a la vez"
+185_821_485: "El usuario no tiene suficientes artículos."
+185_777_210: "Artículo desconocido."
+185_372_552: "Este artículo no puede ser vendido."
+185_503_256: "El usuario no tiene este artículo."
+
+# on_message_component_trade_accept
+185_987_887: "ID de intercambio no válido"
+185_163_101: "No eres parte de este intercambio"
+185_823_091: "Ya has aceptado este intercambio"
+185_561_215: "No se puede aceptar un intercambio obsoleto"
+185_601_175: "Intercambio completado"
+
+# trade_remove
+185_382_149: "ID de intercambio no válido"
+185_625_871: "No eres parte de este intercambio"
+185_365_430: "Índice de objeto no válido"

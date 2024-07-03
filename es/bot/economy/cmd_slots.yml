@@ -1,0 +1,33 @@
+# generate_payout_table
+185_687_828: "Costo: {}
+  Pago mínimo: {}
+  Pago máximo: {}"
+
+# slots
+185_898_861: "No hay máquinas tragamonedas disponibles."
+185_917_885: "Máquinas Tragamonedas"
+185_352_556: "Selecciona una máquina tragamonedas para jugar"
+
+# start_game
+185_493_278: "o"
+185_929_695: "Tabla de Pagos"
+185_969_635: "Común"
+185_230_073: "Tira de la palanca"
+
+# on_message_component_slots_machine_spin
+185_672_881: "No puedes jugar en esta máquina tragamonedas."
+185_811_452: "Tu saldo es demasiado bajo para jugar en esta máquina tragamonedas. Necesitas {0} para jugar."
+185_760_620: "Solo puedes jugar en una máquina tragamonedas a la vez."
+185_086_252: "La máquina tragamonedas está girando..."
+185_608_708: "Generado en {0} ms"
+185_300_240: "Tira de la palanca"
+185_437_519: "Perdiste"
+185_608_097: "Máquina tragamonedas \"{0}\": {1}"
+185_589_364: "Lo siento, no ganaste esta ronda. ¿Quieres intentarlo de nuevo?"
+185_740_601: "{0} – ¡Ganaste {1}!"
+185_270_500: "Generado en {0} ms"
+185_690_675: "Tira de la palanca"
+185_599_237: "Ganaste el jackpot en la máquina tragamonedas"
+
+# start_game
+185_046_136: "JACKPOT"

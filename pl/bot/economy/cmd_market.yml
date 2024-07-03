@@ -11,11 +11,11 @@
 
 # market_sell
 185_700_840: "Niepoprawna składnia"
-185_775_783: "Możesz usunąć tylko 50 sztuk na raz"
-185_821_485: "Użytkownik nie ma wystarczającej ilości przedmiotów."
-185_777_210: "Nieznany przedmiot."
-185_372_552: "Ten przedmiot nie może być sprzedany."
-185_503_256: "Użytkownik nie ma tego przedmiotu."
+185_686_293: "Możesz usunąć tylko 50 sztuk na raz"
+185_653_626: "Użytkownik nie ma wystarczającej ilości przedmiotów."
+185_301_584: "Nieznany przedmiot."
+185_017_315: "Ten przedmiot nie może być sprzedany."
+185_736_759: "Użytkownik nie ma tego przedmiotu."
 185_473_986: "Przedmiot wystawiony na rynek"
 185_298_170: "Wystawiłeś {0}x {1} za {2}."
 

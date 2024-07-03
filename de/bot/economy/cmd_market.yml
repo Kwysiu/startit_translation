@@ -11,11 +11,11 @@
 
 # market_sell
 185_700_840: "Ungültige Syntax"
-185_775_783: "Du kannst nur 50 Gegenstände auf einmal entfernen."
-185_821_485: "Der Benutzer hat nicht genügend Gegenstände."
-185_777_210: "Unbekannter Gegenstand."
-185_372_552: "Dieser Gegenstand kann nicht verkauft werden."
-185_503_256: "Der Benutzer hat diesen Gegenstand nicht."
+185_686_293: "Du kannst nur 50 Gegenstände auf einmal entfernen."
+185_653_626: "Der Benutzer hat nicht genügend Gegenstände."
+185_301_584: "Unbekannter Gegenstand."
+185_017_315: "Dieser Gegenstand kann nicht verkauft werden."
+185_736_759: "Der Benutzer hat diesen Gegenstand nicht."
 185_473_986: "Gegenstand auf den Markt gelegt."
 185_298_170: "Du hast {0}x {1} für {2} eingestellt."
 
