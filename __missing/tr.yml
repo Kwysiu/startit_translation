@@ -7,100 +7,100 @@
 # FILE: tools/cmd_gstart.py
 
 # send_error
-185_005_589: "This command has been removed, use the giveaway plugin in [StartIT Dashboard](<https://startit.bot/>)."
+185_005_589: "Bu komut kaldırıldı, [StartIT Dashboard](<https://startit.bot/>) içindeki giveaway eklentisini kullanın."
 
 # FILE: economy/cmd_trade.py
 
 # generate_embed
-185_556_186: "item-index"
-185_848_653: "amount"
-185_571_141: "item"
-185_811_335: "Trade"
-185_211_356: "Add an item to the trade"
-185_192_167: "Remove an item from the trade"
-185_768_088: "can be"
-185_005_082: "Cancel the trade"
-185_064_711: "Transaction will be cancelled automatically after 15 minutes"
+185_556_186: "öğe-dizini"
+185_848_653: "miktar"
+185_571_141: "öğe"
+185_811_335: "Takas"
+185_211_356: "Takasa bir öğe ekle"
+185_192_167: "Bir öğeyi takastan kaldır"
+185_768_088: "olabilir"
+185_005_082: "Takası iptal et"
+185_064_711: "Takas 15 dakika sonra otomatik olarak iptal edilecektir"
 
 # trade_start
-185_652_040: "You cannot trade with yourself"
+185_652_040: "Kendinizle takas yapamazsınız"
 
 # cancel_trade
-185_927_078: "Invalid trade ID"
-185_504_987: "Trade cancelled"
+185_927_078: "Geçersiz takas kimliği"
+185_504_987: "Takas iptal edildi"
 
 # gen_buttons
-185_826_323: "Accept trade"
-185_206_351: "Cancel trade"
-185_115_606: "Trade accepted by"
+185_826_323: "Takası kabul et"
+185_206_351: "Takası iptal et"
+185_115_606: "Takas tarafından kabul edildi"
 
 # trade_add
-185_566_412: "Invalid trade ID"
-185_442_755: "You are not part of this trade"
-185_870_060: "You have reached the maximum amount of items in a trade"
+185_566_412: "Geçersiz takas kimliği"
+185_442_755: "Siz bu takasın bir parçası değilsiniz"
+185_870_060: "Bir takastaki maksimum öğe miktarına ulaştınız"
 
 # on_message_component_trade_accept
-185_987_887: "Invalid trade ID"
+185_987_887: "Geçersiz işlem kimliği"
 
 # FILE: economy/cmd_slots.py
 
 # generate_payout_table
-185_687_828: "Cost: {}
+185_687_828: "Tutar: {}
   Minimum Payout: {}
   Maximum Payout: {}"
 
 # FILE: economy/cmd_trade.py
 
 # on_message_component_trade_accept
-185_163_101: "You are not part of this trade"
-185_823_091: "You have already accepted this trade"
-185_561_215: "Cannot accept an outdated trade"
-185_601_175: "Trade completed"
+185_163_101: "Siz bu takasın bir parçası değilsiniz"
+185_823_091: "Bu takası zaten kabul ettiniz"
+185_561_215: "Eski bir takas kabul edilemez"
+185_601_175: "Takas tamamlandı"
 
 # FILE: economy/cmd_slots.py
 
 # slots
-185_898_861: "There are no slot machines available."
-185_917_885: "Slot Machines"
-185_352_556: "Select a slot machine to play"
+185_898_861: "Mevcut slot makinesi yok."
+185_917_885: "Slot Makineleri"
+185_352_556: "Oynamak için bir slot makinesi seçin"
 
 # start_game
-185_493_278: "or"
-185_929_695: "Payout Table"
-185_969_635: "Common"
+185_493_278: "veya"
+185_929_695: "Ödeme Tablosu"
+185_969_635: "Ortak"
 
 # FILE: economy/cmd_trade.py
 
 # trade_remove
-185_382_149: "Invalid trade ID"
-185_625_871: "You are not part of this trade"
+185_382_149: "Geçersiz takas kimliği"
+185_625_871: "Siz bu takasın bir parçası değilsiniz"
 
 # FILE: economy/cmd_slots.py
 
 # start_game
-185_230_073: "Pull the lever"
+185_230_073: "Kolu çekin"
 
 # FILE: economy/cmd_trade.py
 
 # trade_remove
-185_365_430: "Invalid item index"
+185_365_430: "Geçersiz öğe dizini"
 
 # FILE: economy/cmd_slots.py
 
 # on_message_component_slots_machine_spin
-185_672_881: "You can't play this slot machine."
-185_811_452: "Your balance is too low to play this slot machine. You need {0} to play."
-185_760_620: "You can only play one slot machine at a time."
-185_086_252: "The slot machine is spinning..."
-185_608_708: "Generated in {0} ms"
-185_300_240: "Pull the lever"
-185_437_519: "Lost"
-185_608_097: "Slot machine \"{0}\": {1}"
-185_589_364: "Sorry, you didn’t win this round. Spin again?"
-185_740_601: "{0} – You won {1}!"
-185_270_500: "Generated in {0} ms"
-185_690_675: "Pull the lever"
-185_599_237: "Won the jackpot on slot machine"
+185_672_881: "Bu slot makinesini oynayamazsınız."
+185_811_452: "Bakiyeniz bu slot makinesini oynamak için çok düşük. Oynamak için {0} gerekiyor."
+185_760_620: "Aynı anda yalnızca bir slot makinesi oynayabilirsiniz."
+185_086_252: "Slot makinesi dönüyor..."
+185_608_708: "{0} ms içinde oluşturuldu"
+185_300_240: "Kolu çekin"
+185_437_519: "Kayıp"
+185_608_097: "Slot makinesi \"{0}\": {1}"
+185_589_364: "Üzgünüm, bu turu kazanamadınız. Tekrar çevirelim mi?"
+185_740_601: "{0} - {1} kazandınız!"
+185_270_500: "{0} ms içinde üretildi"
+185_690_675: "Kolu çekin"
+185_599_237: "Slot makinesinde büyük ikramiyeyi kazandın"
 
 # start_game
 185_046_136: "JACKPOT"
