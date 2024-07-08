@@ -40,3 +40,10 @@
 185_823_091: "Bu takası zaten kabul ettiniz"
 185_561_215: "Eski bir takas kabul edilemez"
 185_601_175: "Takas tamamlandı"
+
+# trade_remove
+185_382_149: "Geçersiz takas kimliği"
+185_625_871: "Siz bu takasın bir parçası değilsiniz"
+
+# trade_remove
+185_365_430: "Geçersiz öğe dizini"
