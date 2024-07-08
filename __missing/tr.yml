@@ -4,51 +4,6 @@
 # We will take care of moving your translations to the correct folders and files.
 
 
-# FILE: tools/cmd_gstart.py
-
-# send_error
-185_005_589: "Bu komut kaldırıldı, [StartIT Dashboard](<https://startit.bot/>) içindeki giveaway eklentisini kullanın."
-
-# FILE: economy/cmd_trade.py
-
-# generate_embed
-185_556_186: "öğe-dizini"
-185_848_653: "miktar"
-185_571_141: "öğe"
-185_811_335: "Takas"
-185_211_356: "Takasa bir öğe ekle"
-185_192_167: "Bir öğeyi takastan kaldır"
-185_768_088: "olabilir"
-185_005_082: "Takası iptal et"
-185_064_711: "Takas 15 dakika sonra otomatik olarak iptal edilecektir"
-
-# trade_start
-185_652_040: "Kendinizle takas yapamazsınız"
-
-# cancel_trade
-185_927_078: "Geçersiz takas kimliği"
-185_504_987: "Takas iptal edildi"
-
-# gen_buttons
-185_826_323: "Takası kabul et"
-185_206_351: "Takası iptal et"
-185_115_606: "Takas tarafından kabul edildi"
-
-# trade_add
-185_566_412: "Geçersiz takas kimliği"
-185_442_755: "Siz bu takasın bir parçası değilsiniz"
-185_870_060: "Bir takastaki maksimum öğe miktarına ulaştınız"
-
-# on_message_component_trade_accept
-185_987_887: "Geçersiz işlem kimliği"
-
-# FILE: economy/cmd_slots.py
-
-# generate_payout_table
-185_687_828: "Tutar: {}
-  Minimum Payout: {}
-  Maximum Payout: {}"
-
 # FILE: economy/cmd_trade.py
 
 # on_message_component_trade_accept
