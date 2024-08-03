@@ -1,6 +1,9 @@
 # giveawayeconomystart
 185_009_039: " em economia"
 
+# send_error
+185_005_589: "Esse comando foi removido, use o plugin de giveaway no [Dashboard StartIT](<https://startit.bot/>)."
+
 # start_giveaway
 185_396_823: "Sem argumentos suficientes. Por favor, especifique o prêmio do sorteio."
 185_316_297: "Deve ter pelo menos uma vitória"
