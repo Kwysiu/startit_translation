@@ -1,0 +1,35 @@
+# generate_payout_table
+185_687_828: "Custo: {}
+  Minimum Payout: {}
+  Maximum Payout: {}"
+
+# slots
+185_898_861: "Não há máquinas de caça-níqueis disponíveis."
+185_917_885: "Caça-níquel"
+185_352_556: "Selecione uma caça-níquel para jogar"
+
+# start_game
+185_493_278: "ou"
+185_929_695: "Tabela de pagamento"
+185_969_635: "Comum"
+
+# start_game
+185_230_073: "Puxar a alavanca"
+
+# on_message_component_slots_machine_spin
+185_672_881: "Você não pode jogar nesse caça-níquel."
+185_811_452: "Seu saldo é muito baixo para jogar nessa máquina caça-níquel. Você precisa de {0} para jogar."
+185_760_620: "Você só pode jogar em uma máquina caça-níqueis por vez."
+185_086_252: "A máquina caça-níquel está girando..."
+185_608_708: "Gerado em {0} ms"
+185_300_240: "Puxar a alavanca"
+185_437_519: "Perdeu"
+185_608_097: "Máquinas caça-níquel \"{0}\": {1}"
+185_589_364: "Desculpe, você não ganhou essa rodada. Girar de novo?"
+185_740_601: "{0} – Você ganhou {1}!"
+185_270_500: "Gerado em {0} ms"
+185_690_675: "Puxar a alavanca"
+185_599_237: "Ganhou o jackpot no caça-níquel"
+
+# start_game
+185_046_136: "JACKPOT"
