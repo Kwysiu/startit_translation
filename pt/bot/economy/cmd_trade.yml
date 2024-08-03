@@ -5,6 +5,17 @@
 185_372_552: "Este item não pode ser vendido."
 185_503_256: "Usuário não tem este item."
 
+# on_message_component_trade_accept
+185_163_101: "Você não é parte dessa troca"
+185_823_091: "Você já aceitou essa troca"
+185_561_215: "Não pode aceitar uma troca desatualizada"
+185_601_175: "Troca concluída"
+
+# trade_remove
+185_382_149: "ID de troca inválido"
+185_625_871: "Você não faz parte dessa troca"
+185_365_430: "Index de item inválido"
+
 # generate_embed
 185_556_186: "item-index"
 185_848_653: "quantidade"
