@@ -9,7 +9,7 @@
 | [es](/es) | Español   | @trufasuprema    | [@TrufaSuprema](https://github.com/TrufaSuprema) |
 | [de](/de) | Deutsch   | @bertraun        | [@BerTram-at](https://github.com/BerTram-at)     |
 | [pt](/pt) | Português | @elyrod          | [@elyrodso](https://github.com/elyrodso)         |
-| [fr](/fr) | Français  | @helios.0x       | -                                                |
+| [fr](/fr) | Français  | @helios.0x       | [@Helios-Ox](https://github.com/Helios-Ox)       |
 
 
 
