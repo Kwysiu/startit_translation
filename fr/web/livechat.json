@@ -1,0 +1,17 @@
+{
+  "hi": "Salut👋 Comment je peux t'aider ?",
+  "name": "Nom",
+  "question": "Quel est ton soucis ?",
+  "description": "Description",
+  "charlen": "La longueur minimale est de 20 charactères.",
+  "type": "Message @StartIT Support",
+  "type-disabled": "Rempli le formulaire ci-dessus avant de discuter.",
+  "start": "Commencer la discussion",
+  "disconnect": "Problèmes de connexion. Déconnecté de la discussion.",
+  "subtitle": "Nous avons beaucoup de requêtes. Temps de réponse allongé.",
+  "bot-issue": "Problème avec le bot",
+  "bot-suggestion": "Suggestion pour le bot",
+  "payment-issue": "Problème de paiment",
+  "user-report": "Plainte contre un utilisateur",
+  "required": "Ce champ est requis."
+}

@@ -1,0 +1,19 @@
+{
+  "logs": "Logs",
+  "logs-messages-title": "Logs des messages",
+  "logs-messages-desc": "T'informe des différents évènements autour des messages, comme la suppression/modification des messages.",
+  "logs-voice-title": "Logs vocaux",
+  "logs-voice-desc": "T'informe des évènements vocaux, comme rejoindre/quitter/bouger de salon vocal.",
+  "logs-member-title": "Logs des membres",
+  "logs-member-desc": "T'informe des évènements concernant les membres, comme rejoindre/quitter et les bannissements.",
+  "duration-days_one": "Compte plus récent que {{count}} jour",
+  "duration-days_other": "Compte plus récent que {{count}} jours",
+  "channel": "Salon",
+  "duration": "Temps d'existance minimal d'un compte",
+  "duration-inform": "Mentionner le staff si un compte créé récement rejoint le serveur.",
+  "roles": "Rôle à mentionner",
+  "logs-invite-title": "Logs d'invitations",
+  "logs-invite-desc": "Garde une trace des invitations du serveur.",
+  "logs-messages-block": "Salons bloqués où les messages ne seront pas loggés",
+  "ignore-bots": "Ignorer les bots"
+}

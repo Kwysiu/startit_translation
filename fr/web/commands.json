@@ -1,0 +1,19 @@
+{
+  "commands": "Commandes du bot",
+  "economy-commands": "Commandes d'économie",
+  "leveling-commands": "Commande de niveaux",
+  "ticketing-commands": "Commande de tickets",
+  "command-config": "Configuration des commandes",
+  "command-name": "Nom",
+  "commands-desc": "Les commandes slashs sont un nouveau moyen d'exécuter des commandes sur Discord.",
+  "settings": "Paramètres",
+  "enable-global-slashes": "Activer les commandes pour les systèmes : Images, Outils",
+  "help-slashes": "Montrer les mentions de commandes dans /help",
+  "help-slashes-desc": "Valeur recommandée : off – les mentions de commande ne sont pas entièrement supportées par Discord pour l'instant",
+  "enable-all": "Tout activer",
+  "moderation-commands": "Commandes de modération",
+  "prefix": "Commandes sous préfixe",
+  "prefix-desc": "Le bot exécuteraera les commandes dans les messages normaux s'ils commence avec le charactère indiqué.",
+  "prefix-input": "Préfixe",
+  "disabled-commands-input": "Commandes exclues du préfixe"
+}

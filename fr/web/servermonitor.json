@@ -1,0 +1,18 @@
+{
+  "servermonitor": "Moniteur de serveur",
+  "game-servers": "Tes serveur de jeu",
+  "game-servers-desc": "Endroit sécurisé pour entrer les informations de ton serveur, qui peuvent être utilisé par d'autres systèmes.",
+  "game": "Jeu",
+  "game-input": "Nom du jeu",
+  "server": "Informations du serveur",
+  "host": "IP/domaine du serveur",
+  "port": "Port du serveur",
+  "rcon": "RCON: Console du serveur (optionel)",
+  "rcon-title": "Laisse StartIT exécuter des commandes sur ton serveur !",
+  "rcon-desc": "RCON est un protocole qui permet aux administrateur du serveur d'exécuter des commandes à distance. Si tu veux utiliser cette fonctionnalité, tu dois l'activer sur ton serveur. Tu peux trouver plus d'informations à propos de RCON sur internet.",
+  "rcon-host": "IP/domaine RCON",
+  "rcon-port": "Port RCON",
+  "rcon-password": "Mot de passe RCON",
+  "save-changes": "Encrypter les données et sauvegarder les modifications",
+  "cancel-edit": "Annuler"
+}

@@ -1,0 +1,21 @@
+{
+  "autoroles": "Rôles automatiques",
+  "roles": "Rôles",
+  "joinmember": "Rôle pour les nouveaux membres",
+  "joinmember-dsc": "Assigne des rôles pour les nouveaux membres rejoingnant ton serveur.",
+  "joinbot": "Rôle pour les nouveaux bots",
+  "joinbot-dsc": "Assigne des rôles pour les noveaux bots rejoignant ton serveur.",
+  "joinperson": "Rôle pour les nouveaux humains",
+  "joinperson-dsc": "Assigne des rôles pour les nouvelles personnes rejoignant ton serveur.",
+  "boost": "Rôle pour tes Nitro Boosters",
+  "boost-dsc": "Donnes à tes boosters des rôles supplémentaires pour leur montrer à quel point ils sont cool.",
+  "boost-remove": "Retirer ces rôles lorsque l'utilisateur n'est plus un booster",
+  "roleplus": "Rôle pour les membres StartIT Plus",
+  "roleplus-dsc": "Aide StartIT et donne à nos donateurs un rôle spécial sur ton serveur.",
+  "restoringRoles": "Rôles persistants",
+  "restoringRoles-desc": "Ces rôles seront redonné à un membre ayant quitté ton serveur s'il revient",
+  "restoringRoles-allowed": "Persistants",
+  "restoringRoles-banned": "Non persistants",
+  "restoringRoles-roles": "rôles",
+  "wait-rules": "N'attribuer qu'après l'acceptation des règles du serveur"
+}

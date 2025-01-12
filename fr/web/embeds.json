@@ -1,0 +1,15 @@
+{
+  "embeds": "Embeds",
+  "embeds-hub": "Hub d'embeds",
+  "embeds-hubs-desc": "",
+  "settings": "Paramètres",
+  "channel-name": "Nom du salon",
+  "new-embedshub": "Nouvel embed",
+  "title-url": "URL du titre",
+  "customization": "Personnalisation",
+  "embed-name": "Nom du message (affiché seulement dans le tableau de bord)",
+  "embed-name-desc": "np, serveur rules",
+  "add-button": "Ajouter un bouton",
+  "add-select-menu": "Ajouter un menu de sélection",
+  "add-select-item": "Ajouter un objet"
+}
