@@ -1,0 +1,36 @@
+# stock_market_buy
+185_494_327: "Action introuvable"
+185_677_265: "L'action est trop peu chère pour être achetée"
+185_039_264: "Tu n'as pas les **{0}** requis pour acheter cette action."
+185_593_906: "Tu n'as pas les **{0}** requis pour acheter cette action."
+185_198_793: "Tu a acheté **{0}** pour **{1}**"
+
+# stock_market_sell
+185_038_441: "Action introuvable"
+185_024_763: "Tu ne possède aucune action"
+185_192_362: "Tu ne possède pas cette action"
+185_563_081: "Tu n'as pas assez d'actions"
+185_146_252: "Tu as vendu :"
+
+# stock_market_info
+185_954_227: "Action introuvable"
+185_783_985: "Infos sur l'action"
+185_625_986: "Nom : {}Symbole: {}Prix: {}"
+
+# stock_market_sell_all
+185_992_858: "Tu ne peux vendre des actions pour d'autres personnes"
+185_697_177: "Tu as vendu :"
+185_809_593: "Tu es sur le point de vendre :"
+185_384_474: "Vendre"
+
+# stock_market_backpack
+185_735_864: "Inventaire d'actions"
+185_629_744: "Pric d'achat: {}Profit: {}"
+
+# stock_market_list
+185_614_912: "Liste d'actions"
+
+# stock_market
+185_027_160: "Utilisation incorrecte"
+185_576_404: "Tu dois indiquer ce que tu veux faire. {}commandes disponnibles : {}"
+185_000_951: "Liste d'actions"

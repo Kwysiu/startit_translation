@@ -1,0 +1,17 @@
+# fetch_ticket
+185_567_019: "Cette commande ne peut être utilisée que dans les tickets."
+
+# claim_function
+185_606_146: "Tu n'as pas de rôle modérateur sur ce ticket."
+185_381_125: "Ce ticket est déjà pris en charge."
+185_766_728: "Prendre en charge"
+185_373_959: "Fermer"
+185_555_889: "Ticket pris en charge"
+185_386_051: "Ticket pris en charge par {}"
+
+# unclaim
+185_324_423: "Cette commande ne peut être utilisée que dans les tickets."
+185_126_287: "Tu n'as pas de rôle modérateur sur ce ticket."
+185_874_660: "Prendre en charge"
+185_779_275: "Fermer le ticket"
+185_882_632: "Le modérateur {0} à quitté ce ticket."

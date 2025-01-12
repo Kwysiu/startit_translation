@@ -1,0 +1,20 @@
+# gen_embed
+185_069_719: "Tu as **{0}** dans ton porte-monnaie."
+185_296_685: "Tu as **{0}** dans ta banque."
+185_037_499: "Achète un objet avec la commande ` {0}buy-item <nom> `."
+185_174_756: "Magasin du serveur"
+
+# gen_buttons
+185_347_026: "Catégorie par défaut"
+185_504_011: "Sélectionner une catégorie"
+185_914_817: "Page précédente"
+185_312_472: "Page précédente"
+185_709_337: "Acheter l'objet"
+
+# send_shop
+185_700_882: " (rupture de stock)"
+185_550_221: " ({0} en stock)"
+185_780_988: "Page {0}/{1}"
+
+# on_message_component_v1_shop
+185_792_463: "Pas la permission"

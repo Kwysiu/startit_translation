@@ -1,0 +1,32 @@
+# buy_item
+185_260_461: "Tu ne possède pas les **{price}** nécessaires pour acheter cet objet."
+185_557_483: "Tu ne possède pas les **{price}** nécessaires pour acheter cet objet."
+185_688_158: "Merci pour ton achat <@{0}>.
+Tu peux obtenir le contenu de ton inventaire en écrivant ` {1}backpack `."
+185_100_374: "Nouvel objet ajouté à ton inventaire :"
+185_882_678: "L'argent à été viré vers les porte-monnaies de {0} membres."
+185_087_552: "L'argent à été viré au propriétaire de l'objet."
+185_990_753: "Utiliser cet objet"
+
+# _assert_buy_permissions
+185_988_842: "Tu ne peux acheter cet objet qu'une unité à la fois."
+185_288_199: "Tu ne peux pas acheter cet objet."
+185_395_652: "Cet objet est en rupture de stocks."
+185_909_437: "Tu ne peux pas acheter plus de **{number}** unités de cet objet."
+
+# _assert_buy_requirements
+185_072_081: "Tu ne possèdes pas les objets suivants: 
+{requirements}"
+
+# assert_backpack_limit
+185_340_703: "Tu ne peux acheter plus de **{limit}** unités de cet objet."
+
+# _assert_fraud
+185_560_244: "Tu a acheté **{name}** mais c'était une arnaque."
+
+# use_item
+185_655_739: "Cet objet ne peut pas être utilisé."
+185_991_528: "Clique pour changer ton surnom"
+185_250_493: "Cette caisse est vide."
+185_550_216: "Tu ne peux plus ouvrir cette caisse pendant : {0}."
+185_562_879: "Ouverture de la caisse..."

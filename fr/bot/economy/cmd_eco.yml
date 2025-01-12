@@ -1,0 +1,39 @@
+# economy_add
+185_621_920: "L'argument d'emplacent doit être vide, `wallet` ou `bank`."
+185_243_535: "Cette commande n'est pas disponible."
+185_431_005: "Solde mise à jour"
+185_591_777: "**Rôle:** {0}
+**Montant:** Liquide : ``{1}`` | Banque : ``{2}``
+**Membres:** {3}
+**Salon:** {4}
+**Raison:** {5}: commande /eco add"
+185_681_326: "Opération effectuée sur **{0}** comptes."
+185_162_022: "Rien n'est arrivé."
+185_394_123: "{0}: commande /eco remove"
+185_648_490: "Retrait de **{0}** depuis le compte de {1}."
+185_919_432: "{0}: commande /eco add"
+185_425_583: "Versement de **{0}** sur le compte de {1}."
+
+# economy_set
+185_641_206: "L'argument d'emplacent doit être vide, `wallet` or `bank`."
+185_946_315: "Rien n'est arrivé."
+185_189_710: "{0}: commande /eco set"
+185_726_240: "Le porte-monnaie de {1} a été établis à **{0}**."
+185_190_010: "La solde de {1} a été établie à **{0}**."
+
+# economy
+185_283_990: "Commandes"
+
+# economy_backpack_add
+185_629_159: "Tu ne peux donner que 50 objets à la fois"
+185_535_999: "Objet inconnu."
+185_343_991: "Transfert de {0} **{1}** dans l'inventaire de {2}."
+
+# economy_backpack_remove
+185_707_843: "Tu ne peux supprimer que 50 objets à la fois"
+185_559_794: "Le membre n'a pas assez d'objets."
+185_074_289: "Objet inconnu."
+185_403_058: "Retrait de {0} **{1}** de l'inventaire de {2}."
+
+# economy_backpack_clear
+185_417_833: "L'inventaire de {0} a été vidé."

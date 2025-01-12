@@ -1,0 +1,31 @@
+# on_message_component_v1_market
+185_942_777: "Pas la permission"
+
+# send_market
+185_499_261: "Il n'y a pas d'objets sur le marché."
+185_076_062: "Marché"
+185_180_286: "{0} pour {1}"
+185_709_604: "－ {1}
+ － Vendeur: {0} "
+185_864_883: "Page {0}/{1}"
+
+# market_sell
+185_700_840: "Syntaxe invalide"
+185_686_293: "Tu ne peux suprimer que 50 à la fois"
+185_653_626: "Le membre n'a pas assez d'objets."
+185_301_584: "Objet inconnu."
+185_017_315: "Cet objet ne peut être vendu."
+185_736_759: "Le membre ne possède pas cet objet."
+185_473_986: "Objet mis sur le marché"
+185_298_170: "Tu as mis {0}x {1} pour {2}."
+
+# market_buy
+185_435_705: "Objet introuvable."
+185_028_873: "Objet introuvable."
+185_338_522: "Tu n'a pas les **{0}** requis pour acheter cet objet."
+185_233_369: "L'argent à été viré à <@{0}>
+Tu peux avoir la liste des objets dans ton inventaire en écrivant ` {1}backpack `."
+185_587_333: "Nouvel objet ajouté à l'inventaire :"
+
+# market
+185_202_890: "Commande du marché"

@@ -1,0 +1,12 @@
+# send_message
+185_815_931: "Oui"
+185_991_859: "Non"
+
+# on_message_component_personbelow
+185_398_051: "Tu ne peux répondre à ta propre question."
+185_854_876: "Nouvelle question fermée"
+185_119_687: "Questions à poser au membre suivant"
+
+# on_message_component_personbelow_form
+185_888_678: "Non"
+185_679_423: "Oui"

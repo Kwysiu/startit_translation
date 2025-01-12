@@ -1,0 +1,18 @@
+# check_permissions
+185_487_731: "Tu n'a pas le bon rôle / ancienneté sur le serveur pour voter."
+
+# vote_mute
+185_517_329: "Voter pour rendre muet"
+185_037_887: "Tu as voté pour rendre {0} muet !"
+185_174_824: "Tu as voté pour rendre {0} muet."
+
+# fetch_user
+185_523_665: "Ce membre est protégé"
+
+# on_button_click
+185_060_859: "**Durée :** {0} hours
+**Membre:** {1}
+**Votants:** {2}"
+185_999_383: " a été rendu muet !"
+185_447_618: "pendant"
+185_650_956: "Un nouveau membre à été rendu muet par un vote"

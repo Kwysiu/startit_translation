@@ -1,0 +1,33 @@
+# generate_payout_table
+185_687_828: "Coût: {}
+  Gain minimum : {}
+  Gain maximum: {}"
+
+# slots
+185_898_861: "Sélectionne une machine à sous disponible."
+185_917_885: "Machines à sous"
+185_352_556: "Sélectionne une machine à sous à utiliser"
+
+# start_game
+185_493_278: "ou"
+185_929_695: "Table des gains"
+185_969_635: "Commun"
+185_230_073: "Tirer le levier"
+
+# on_message_component_slots_machine_spin
+185_672_881: "Tu ne peux pas utiliser cette machine à sous."
+185_811_452: "Ton solde est trop bas pour utiliser cette machine à sous. Tu as besoin de {0} pour jouer."
+185_760_620: "Tu ne peux utiliser qu'une machine à sous à la fois."
+185_086_252: "The machine à sous tourne..."
+185_608_708: "Generaté en {0} ms"
+185_300_240: "Tirer le levier"
+185_437_519: "Perdu"
+185_608_097: "Machine à sous \"{0}\": {1}"
+185_589_364: "Désolé, tu n'as pas gagné cette fois. Réessayer ?"
+185_740_601: "{0} – Tu as gagné {1}!"
+185_270_500: "Generaté en {0} ms"
+185_690_675: "Tirer le levier"
+185_599_237: "Jackpot touché sur la machine à sous"
+
+# start_game
+185_046_136: "JACKPOT"

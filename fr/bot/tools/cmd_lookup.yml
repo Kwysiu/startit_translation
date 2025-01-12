@@ -1,0 +1,105 @@
+# cmd_lookup
+185_406_672: "Commandes: "
+185_596_417: "Utilisation incorrecte"
+
+# cmd_lookup_user
+185_646_831: "<:information:868952803006091264> {} - Information"
+185_437_421: "<@!{0}>
+**Lien vers la photo de profil : **[clique ici]({1})"
+185_613_780: "Le membre possède StartIT Plus"
+185_549_858: "ID DU MEMBRE"
+185_694_868: "À rejoint Discord"
+185_412_467: "À rejoint la serveur"
+185_505_613: "Rôles"
+185_578_313: "Avis ({})"
+185_375_274: "Écrire un avis sur ReviewDB"
+
+# on_message_component_post_review
+185_017_006: "Publier l'avis sur ReviewDB"
+185_178_820: "Avis"
+185_913_187: "Spammer et écrire des avis offensant résultera en un bannissement. Soyez erspectueux envers les autres utilisateurs."
+
+# on_message_component_post_review_submit
+185_890_920: "Avis modifié"
+185_686_076: "Avis publié"
+185_961_539: "Erreur"
+
+# cmd_lookup_role
+185_770_494: "Oui"
+185_206_382: "Non"
+185_235_743: "Informations du rôle - {}"
+185_804_978: "<@&{0}>
+**ID du rôle: **{1}
+**Position du rôle: **{2}
+**Hoisté: **{3}
+**Mentionable: **{4}
+**Modifié : **{5}
+**Créé le: **{6}"
+185_819_703: "
+**Couleur du rôle: **{0}"
+185_837_487: "Permissions"
+185_662_834: "
+Role pour avoir boosté le serveur"
+185_004_705: "
+**Rôle pour bot:** {}"
+
+# cmd_lookup_channel
+185_793_407: "Texte"
+185_928_780: "MP"
+185_053_722: "Vocal"
+185_537_245: "MP Groupé"
+185_860_801: "Categorie"
+185_121_680: "Informations"
+185_247_445: "Magasin"
+185_745_993: "Nouveaux fils"
+185_159_529: "Fil public"
+185_839_723: "Fil privé"
+185_934_901: "Salon de conférence"
+185_911_922: "Oui"
+185_852_864: "Non"
+185_309_300: "<#{0}>
+**ID du salon : **{1}
+**Type du salon : **{2}
+**Salon NSFW : **{3}
+**Salon créé le : **{4}"
+185_601_713: "
+**Position du salon : **{0}"
+185_366_217: "
+**Description du salon : **{0}"
+185_486_217: "
+**Parent du salon : **{0}"
+185_308_968: "
+**Débit du salon : **{0}"
+185_614_782: "
+**Limite de membres : **{0}"
+185_940_596: "
+**Propriétaire du salon : **{0}"
+185_205_646: "Autorisé : "
+185_214_994: "Interdit : "
+185_509_141: "Permissions des membres"
+185_675_819: "Permission de rôle"
+
+# cmd_lookup_server
+185_151_428: "**FONCTIONNALITÉS DU SERVEUR:**"
+185_097_822: "<:overview:868953016282271745>**VUE D'ENSEMBLE**
+**ID:** {0} 
+**PROPRIÉTAIRE:** <@{1}>
+**Serveur créé le : ** <t:{2}>
+**Lien vers l'icône :** [Clique ici](https://cdn.discordapp.com/icons/{0}/{3}?size=1024)
+**Rôles:** {4}
+
+<:boosts:868953110758957066>**BOOSTS**
+**Niveau de Boost:** {5}
+**Boosts:** {6}
+
+<:users:868953499038281738>**MEMBRES**
+<:users:868953499038281738> {7} • <:bots:868953478268092436> {8}
+
+<:channels:868954276121157634> **SALONS**
+<:channels:868954276121157634> {9} • <:category:868954251076964383> {10} • <:text_channel:868954234689843220> {11} • <:voice_channel:868954221712637983> {12} • <:news_channel:868954207250694205> {13}
+
+:slight_smile: **ÉMOJI**
+Animés : **{14}** • Statiques: **{15}** • Tous : **{16}**
+
+{17}
+{18}"

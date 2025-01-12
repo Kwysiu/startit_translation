@@ -1,0 +1,25 @@
+# err_messages
+185_334_057: "Pays/ville introuvable"
+185_163_117: "Service non disponible. Reviens plus tard."
+
+# wind_speed
+185_080_927: "Calme"
+185_807_207: "Légère brise"
+185_311_097: "Petite brise"
+185_499_647: "Brise"
+185_014_728: "Léger vent"
+185_406_532: "Vent"
+185_742_653: "Vent violent"
+185_858_857: "Vent violent, presque tempétueux"
+185_041_914: "Tempête"
+185_090_600: "Grosse tempête"
+185_055_352: "Orage"
+185_178_045: "Orage violente"
+185_298_987: "Ouragan"
+185_675_116: "Calme"
+
+# weather
+185_079_801: "Indique la ville"
+185_955_856: "Ressentis"
+185_086_651: "Humidité"
+185_272_364: "Météo de"

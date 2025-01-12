@@ -1,0 +1,21 @@
+# clear
+185_882_888: "Tu ne peux pas supprimer plus de 1000 messages à la fois."
+
+# clearCMD
+185_668_610: "<a:loading:913596665624133662> Suppression des messages"
+185_950_330: "Les messages de plus de 2 semaines ne peuvent être supprimés."
+185_313_186: "**{0}** messages supprimés"
+
+# clearOPTIONS
+185_794_576: "Tu dois indiquer un membre dans cette option"
+185_682_966: "<a:loading:913596665624133662> Suppression de messages de {0}"
+185_343_445: "Les messages de plus de 2 semaines ne peuvent être supprimés."
+185_248_178: "**{0}** messages de {1} supprimés."
+185_343_409: "<a:loading:913596665624133662> Suppression de messages de bots"
+185_496_392: "Les messages de plus de 2 semaines ne peuvent être supprimés."
+185_840_279: "**{0}** messages de bots supprimés"
+185_964_135: "Utilisation invalide"
+185_833_715: "Exemples d'utilisation:
+{0}clear 10 - supprime les 10 derniers messages
+{0}clear 10 bots - supprime les 10 derniers messages de bots
+{0}clear 10 user X - supprime les 10 derniers messages d'un membre X"

@@ -1,0 +1,9 @@
+# on_message_component_v1_eco_change_nickname
+185_212_193: "Tu ne peux pas changer le surnom de quelqu'un d'autre"
+185_616_443: "Modifier le surnom"
+185_823_767: "Nouveau surnom"
+
+# on_message_component_v1_eco_change_nickname_modal
+185_604_116: "Tu ne peux pas changer le surnom de quelqu'un d'autre"
+185_750_749: "Tu ne peux plus utiliser cette commande pendant: {0}."
+185_763_457: "Ton surnom a été changé"

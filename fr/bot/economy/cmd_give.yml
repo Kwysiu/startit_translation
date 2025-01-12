@@ -1,0 +1,7 @@
+# give_item
+185_669_564: "Tu ne peux donner que 50 objets à la fois"
+185_744_287: "Tu n'as pas assez d'objets."
+185_955_199: "Objet inconnu. Écris ` {0}backpack `."
+185_306_366: "Cet objet ne peut être donné."
+185_041_427: "Échec. Le embre à dépassé la limite de cet objet dans l'inventaire."
+185_359_458: "Tu viens de donner l'objet **{0}** à {1}."

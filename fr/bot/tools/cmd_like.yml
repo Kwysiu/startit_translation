@@ -1,0 +1,11 @@
+# like
+185_879_807: "Tu as liké <@{0}>."
+
+# dislike
+185_504_417: "Tu as disliké <@{0}>."
+
+# check
+185_616_502: "Tu ne peux pas te like toi même."
+185_371_803: "**Tu ne peux like ou dislike qu'une fois par jour.**
+Dernière fois : {0} {1}
+Commande débloqué dans : {2}"

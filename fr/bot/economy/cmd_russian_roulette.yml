@@ -1,0 +1,43 @@
+# gen_message
+185_079_041: "**En attente de joueurs**"
+185_336_215: "Joueurs : "
+185_439_864: "Roulette russe"
+185_047_609: "Coût de participation : **{0}**
+Commence dans : {1}
+
+{2}"
+185_120_966: "Rejoindre"
+185_171_888: "Commencer la partie"
+
+# command_russian_roulette
+185_046_997: "Une partie ce déroule déjà dans ce salon. [Clique ici](https://discord.com/channels/{0}/{1}/{2}) "
+185_115_276: "La mise minimale est de {0}"
+185_347_327: "La mise maximale est de {0}"
+
+# on_message_component_russianroulettejoin
+185_654_787: "Il n'y a aucune partie dans ce salon !"
+185_848_580: "Il y a déjà {} joueurs dans cette partie !"
+185_254_307: "Tu participe déjà à cette partie !"
+185_549_428: "Tu as rejoins la partie !"
+
+# on_message_component_russianroulettestart
+185_596_074: "Il n'y a aucune partie dans ce salon !"
+185_604_200: "Tu n'es pas l'organisateur de la partie !"
+185_990_296: "Pas assez de joueurs pour commencer la partie !"
+
+# on_task_russian_roulette_end
+185_054_304: "Pas assez de joueurs pour commencer la partie !"
+185_448_098: "La partie de roulette russe s'est temrinée"
+185_347_888: "Résumé :
+
+"
+185_634_448: "
+
+Repose en paix…"
+185_162_722: "{0} a été tué"
+
+# end_game
+185_260_105: "La parie va commencer dans 5 secondes"
+
+# get_game
+185_386_072: "Trop tôt. Réessaie."

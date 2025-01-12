@@ -1,0 +1,16 @@
+# craft_item
+185_624_061: "Tu ne peux fabriquer que 50 objets à la fois"
+185_048_631: "Objet inconnu. Écris `{0}shop`."
+185_232_443: "Tu n'as pas assez d'argent dans ton porte-monnaie pour fabriquer cet objet."
+185_330_816: "Tu n'as pas assez d'objets pour fabriquer cet objet."
+185_409_864: "Tu n'as pas required role pour fabriquer cet objet."
+185_291_253: "Tu as reçu :"
+185_019_465: "Objet fabriqué avec succès !"
+
+# format_crafting
+185_089_552: "Plan :"
+
+# send_embed
+185_040_863: "Fabrique un objet avec la commande ` {0}craft <nom du plan> `."
+185_596_548: "Fabriquer"
+185_688_553: "Il n'y a aucun plan de fabrication."

@@ -1,0 +1,41 @@
+# on_message_component_autochannels_ban
+185_057_356: "Choisir un membre à bannir"
+
+# on_message_component_autochannels_kick
+185_469_455: "Choisir un membre à expulser"
+
+# on_message_component_autochannels_invite
+185_274_320: "Choisir un membre à inviter"
+
+# on_message_component_autochannels_owner
+185_706_881: "Choisir un membre à rendre propriétaire"
+
+# on_message_component_autochannels_name
+185_751_470: "Modifier le salon"
+185_853_063: "Nom du salon"
+
+# on_message_component_autochannels_limit
+185_187_320: "Modifier le salon"
+185_970_535: "Limite du salon"
+
+# on_message_component_autochannels_do_name
+185_159_592: "Tu as atteint le nombre maximum de modification de nom du salon en 10 minutes."
+
+# on_message_component_autochannels_do_limit
+185_434_353: "Valeur invalide. Rentre 0 pour retirer la limite, ou de 1 à 99 pour indiquer une limite."
+
+# on_message_component_autochannels_do_ban
+185_770_573: "Le membre <@{0}> a été banni de ce salon par <@{1}>."
+
+# on_message_component_autochannels_do_invite
+185_382_238: "Le membre <@{0}> a été ajouté à ce salon par <@{1}>."
+
+# on_message_component_autochannels_do_kick
+185_992_134: "Le membre <@{0}> a été expulsé de ce salon par <@{1}>."
+
+# on_message_component_autochannels_do_owner
+185_376_129: "Le propriétaire est maintenant <@{0}>."
+
+# on_message_component_autochannels_lock
+185_079_663: "Salon dévérouillé. Tout le monde sur ce serveur peut vous rejoindre ou lire le chat."
+185_893_167: ":warning: Le salon a été vérouillé ! Maintenant seuls les membres du salon peuvent rejoindre et lire le chat."

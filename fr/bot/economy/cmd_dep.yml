@@ -1,0 +1,12 @@
+# do
+185_400_988: "Le porte monnaie est désactivé. Tu peux utiliser ton argent partout !"
+
+# add_footer
+185_608_370: "⚠️ {0} laissés dans le porte-monnaie dû au plafond de la banque"
+185_153_415: "⚠️ {0} déduis par la taxe"
+
+# deposit
+185_032_659: "**{0}** déposé dans ta banque !"
+
+# withdraw
+185_081_927: "**{0}** retiré de votre banque !"

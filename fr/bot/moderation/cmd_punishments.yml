@@ -1,0 +1,26 @@
+# punishments
+185_311_626: "Commandes"
+185_022_602: "`{0}punishments edit-reason <id> <motif>` - Modifier le motif de la sanction
+`{0}punishments info <id>` - Afficher les infos de la sanction
+`{0}punishments list [user]` - Afficher la liste des sanctions
+`{0}punishments list-mod <moderator>` - Afficher la liste des actions
+`{0}punishments remove <id> [reason]` - Retirer une sanction"
+
+# get_name
+185_733_266: "Expulsion"
+185_660_195: "Bannissement"
+185_975_565: "Avertissmeent"
+185_075_575: "Mute"
+
+# format_punishment
+185_166_666: "### {0} pendant '{1}'"
+185_739_202: " - \#{0} le <t:{1}> "
+185_561_732: " - Durée: {0}"
+185_182_081: " - Membre : {0}"
+185_538_286: " - Modo : {0}"
+
+# send_embed
+185_604_436: "Dernières sanctions {0}"
+185_938_276: "Dernières sanctions par {0}"
+185_157_601: "Dernières sanctions"
+185_729_016: "{0} n'a aucune sanction."

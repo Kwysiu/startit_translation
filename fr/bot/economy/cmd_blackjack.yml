@@ -1,0 +1,42 @@
+# end_screen
+185_164_997: "Égalité:"
+185_851_868: "Égalité au /blackjack"
+185_339_827: "Tu as gagné:"
+185_776_153: "Victoire au /blackjack"
+185_509_310: "Tu as perdu:"
+185_650_140: "Partie perdue au /blackjack"
+185_586_220: "Partie terminée"
+185_633_181: "Ta main"
+185_583_671: "Valeur"
+185_715_020: "Main du croupier"
+185_093_203: "Valeur"
+
+# do_action
+185_015_403: "Annulé."
+185_186_978: "Passer : /blackjack"
+185_850_961: "Passer : /blackjack"
+185_285_765: "Le croupier a un blackjack, remboursement de 50% de la mise par l'assurance."
+185_276_623: "Double: /blackjack"
+185_930_616: "Le croupier a un blackjack."
+185_075_705: "Le croupier a dépassé les 21 points."
+185_650_952: "Le croupier s'est plus rapproché du blackjack que toi."
+185_153_912: "Tu t'es plus rapproché du blackjack que le croupier."
+185_875_560: "Tu as un blackjack."
+185_268_594: "Tu as un blackjack."
+185_557_948: "Tu as un blackjack avec le croupier."
+185_569_531: "Tu as dépassé les 21 points."
+185_222_025: "Ta main"
+185_871_052: "Valeur"
+185_522_811: "Main du croupier"
+185_861_989: "Valeur"
+185_021_771: "Cartes restantes : {0}"
+
+# is_duplicate
+185_722_329: "Tu joues au blackjack en ce moment. [Clique ici](https://discord.com/channels/{0}/{1}/{2}) ou écris `cancel`."
+
+# blackjack
+185_914_658: "La mise minimale est de {0}"
+185_512_347: "La mise maximale est de {0}"
+185_129_815: "Tu ne peux plus jouer au blackjack pendant : {0}."
+185_981_939: "/blackjack commencé"
+185_343_952: "Nouvelle partie : /blackjack"

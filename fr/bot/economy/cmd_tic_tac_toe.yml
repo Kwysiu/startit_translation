@@ -1,0 +1,55 @@
+# tic_tac_toe
+185_402_502: "Euh... C'est un bot."
+185_738_983: "Morpion"
+185_808_675: "Tu ne peux pas jouer avec toi-même"
+185_431_583: "La mise minimale est de {0}"
+185_025_696: "La mise maximale est de {0}"
+185_936_904: "Morpion"
+185_202_055: "Tu ne peux pas jouer contre ce membre pendant {0} secondes."
+185_597_618: "Tu ne peux jouer qu'une partie."
+185_402_212: "Ce membre joue déjà avec quelqu'un."
+185_260_208: "Morpion"
+185_177_976: "{} tu as reçu une invitation pour ue partie de morpion de la part de {}.{}Prix: {}
+Tu dois accepter la partie par {}."
+185_511_362: "Accepter"
+185_798_254: "Décliner"
+
+# on_task_tic_tac_toe
+185_669_820: "Morpion, reboursement"
+185_157_749: "Morpion"
+185_466_508: "La partie de Morpion a été annulée."
+
+# on_message_component_v1_tic_tac_toe
+185_519_393: "Morpion"
+185_527_022: "Tu ne peux accépter cette invitation."
+185_599_080: "Tu ne pas décliner l'invitation."
+185_441_237: "Morpion"
+185_864_931: "La partie de Morpion a été annulée."
+185_798_898: "Morpion"
+185_417_933: "Morpion"
+185_928_047: "C'est au tour de {}."
+185_565_358: "Tu as encore {} pour jouer."
+
+# on_message_component_v1_tic_tac_toe_game
+185_548_456: "Morpion"
+185_286_122: "Tu ne peux jouer cette partie."
+185_939_109: "Remboursement du morpion"
+185_605_974: "Morpion"
+185_477_327: "Erreur."
+185_249_663: "Morpion"
+185_699_734: "Ce n'est pas ton tour."
+185_344_689: "{} a gagné !"
+185_102_937: "Gagnant du morpion"
+185_222_658: "**ÉGALITÉ**"
+185_374_639: "€galité au morpion"
+
+# gen_embed
+185_199_320: "Morpion"
+185_780_932: "C'est au tour de {}."
+185_336_237: "Tu as encore {} pour jouer."
+
+# on_task_tic_tac_toe_game
+185_427_423: "Morpion"
+185_791_309: "{}  a gagné !"
+185_999_642: "Égalité au morpion"
+185_065_587: "Morpion gagné"

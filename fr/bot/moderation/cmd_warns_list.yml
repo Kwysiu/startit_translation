@@ -1,0 +1,19 @@
+# format_warning
+185_883_509: "### {0}. {1}"
+185_994_899: " - **{1} p**, <t:{0}> "
+185_534_293: " - Modo: {0}"
+185_996_026: " - Se termine le : {0}"
+
+# send_embed
+185_009_963: "Ce membre n'existe pas dans notre base de donnée."
+185_314_635: "Derniers avertissements {0}"
+185_705_420: "{0} n'a aucun avertissement."
+
+# warns
+185_098_277: "Commandes"
+185_674_739: "`{0}warns clear-all <user>` - Réinitialise les avertissement du membre
+`{0}warns clear <user> <no>` - Retire un avertissement du membre
+`{0}warns edit-reason <user> <no> <reason>` - Modifier le motif de l'avertissement
+`{0}warns info <user> <no>` - Afficher les informations de l'avertissement
+`{0}warns list <user>` - Afficher la liste d'avertissements
+"

@@ -1,0 +1,6 @@
+# on_message_component_voice_support_move
+185_688_580: "<@{0}> déplacé dans le salon <#{1}>"
+
+# temp_channel
+185_211_729: "Échec de la création de salon pour <@{0}>"
+185_204_496: "Salon <#{0}> créé pour <@{1}>"

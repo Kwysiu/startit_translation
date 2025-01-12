@@ -1,0 +1,14 @@
+# rockpaperscissors
+185_473_187: "Pierre feuille ciseaux"
+185_024_620: "Choisis"
+185_681_120: "Feuille"
+185_826_544: "Pierre"
+185_064_262: "Ciseaux"
+
+# on_message_component_rockpaperscissors
+185_053_778: "Égalité"
+185_715_468: "Tu as perdu"
+185_340_861: "Tu as gagné"
+185_191_237: "Pierre feuille ciseaux"
+185_610_302: "Ton choix"
+185_480_154: "Mon choix"

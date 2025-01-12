@@ -1,0 +1,11 @@
+# alert_staff
+185_709_321: "Le membre tente de fermer ce ticket :"
+185_616_389: "Fermer ce ticket"
+
+# close
+185_763_387: "Cette commande ne peut être envoyée que dans un ticket."
+
+# on_message_component_ticketing_close
+185_850_008: "Pas de permission."
+185_808_252: "Fermeture du ticket"
+185_194_262: "Motif de fermeture"

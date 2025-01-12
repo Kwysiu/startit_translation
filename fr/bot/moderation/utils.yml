@@ -1,0 +1,18 @@
+# assert_permissions
+185_925_288: "Ce membre possède un rôle plus haut que vous"
+185_196_213: "Ce membre est protégé"
+
+# modlog_send
+185_875_745: "Membre"
+185_660_558: "Moderateur"
+185_238_144: "Motif"
+185_559_044: "ID de la sanction"
+185_385_995: "Durée"
+
+# modlog_send_legacy
+185_673_072: "Par :"
+
+# paginate
+185_224_163: "
+
+Page: {}/{}"

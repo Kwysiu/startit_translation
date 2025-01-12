@@ -1,0 +1,25 @@
+# translate_error
+185_515_417: "Tu essaie d'envoyer un montant négatif d'argent"
+185_470_969: "Tu n'as pas assez d'argent"
+
+# custom_reply
+185_647_835: "
+
+Réessaie <t:{0}:R>
+Solde : {1}"
+185_190_040: "
+
+Gagne plus <t:{0}:R>
+Solde : {1}"
+
+# modlog_send
+185_126_692: "Salon inconnu"
+185_418_752: "Solde modifiée"
+185_759_074: "**Membre :** {0}
+**Quantité :** Liquide : {1} | Banque : {2}
+**Salon :** {3}
+**Raison :** {4}"
+
+# iter_buttons
+185_267_959: "Page précédente"
+185_042_437: "Page suivante"

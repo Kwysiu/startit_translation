@@ -1,0 +1,132 @@
+# gen_submit_components
+185_524_078: "Afficher les votants"
+185_102_636: "Afficher les résultats"
+185_687_534: "Voter"
+
+# gen_components
+185_737_949: "1. Autoriser les choix multiples :"
+185_617_658: "ne pas autoriser"
+185_709_191: "Un seul choix sera possible"
+185_813_795: "illimité"
+185_519_563: "Les membres peuvent choisir autant d'option qu'ils veulent"
+185_735_729: "nombre exact"
+185_822_428: "Les membres peuvent choisir un nombre spécifique d'options"
+185_585_382: "intervalle"
+185_011_765: "Les membres peuvent choisir autant d'options que l'intervalle le permet"
+185_396_478: "2. Autoriser à changer le vote :"
+185_450_003: "oui"
+185_656_520: "Les membres pourront changer leur vote"
+185_250_568: "non"
+185_221_616: "Les membres ne pourront pas changer leur vote"
+185_844_794: "Modifie les paramètres de vote"
+185_111_620: "3. Visibilité du nom des votants:"
+185_645_014: "publique"
+185_863_383: "Tout le monde pourra voir qui vote quoi"
+185_042_845: "rôles autorisés"
+185_368_109: "Seuls les membres avec les rôles autorisés pourront voir qui à voté quoi"
+185_651_966: "personne"
+185_160_535: "Vote anonyme, même l'administration ne saura qui a voté quoi"
+185_467_719: "4. Visibilité des résultats du sondage:"
+185_380_752: "publique"
+185_428_220: "Tout le monde pourra voir les résultats du sondage"
+185_705_985: "après le vote"
+185_787_818: "Seuls ceux qui ont voté pourront voir les résultats du vote"
+185_410_891: "rôles autoriés"
+185_980_837: "Seuls les membres avec les rôles autoriés pourront voir les résultats"
+185_126_006: "5. Publier les résultats à la fin :"
+185_764_756: "oui"
+185_418_644: "Les résultats seront publié une fois fini"
+185_307_533: "non"
+185_965_624: "Les résultats ne seont pas publiés une fois fini"
+185_688_771: "Modifie les paramètres de visibilité"
+185_240_380: "6. Droit de vote :"
+185_247_858: "tout le monde"
+185_854_241: "Tout le monde pourra voter"
+185_343_955: "rôles autoriés"
+185_897_626: "Seuls les membres avec les rôles autoriés pourront voter"
+185_071_124: "7. Durée:"
+185_870_540: "pour toujours"
+185_169_432: "Le sondage ne se terminera pas automatiquement"
+185_448_354: "jusqu'à"
+185_882_194: "Le sondage se terminera aprèsun certain temps"
+185_255_906: "8. Nombre de vote max :"
+185_005_186: "illimité"
+185_647_436: "Le sondage ne s'arrêtera pas après un certain nombre de votes"
+185_903_248: "limité"
+185_915_879: "Le sondage s'arrêta après un certain nombre de votes"
+185_419_637: "Modifier les paramètres de gestion"
+185_615_913: "Annuler"
+185_876_979: "Lancer le sondage"
+
+# gen_embed
+185_906_016: "Choix :"
+185_700_161: "après {0} votes"
+185_270_849: "Se temrine :"
+185_956_833: " ou "
+185_060_191: "Sondage anonyme – l'identité des votants ne sera pas communiquée au staff"
+185_712_977: "Mode :"
+185_301_773: "- Single vote only"
+185_625_497: "Mode:"
+185_493_102: "- Choix multple autorisé"
+185_173_053: "Mode :"
+185_541_292: "- Sélectionne {0} choix"
+185_163_945: "Mode :"
+185_433_763: "- Sélectionne de {0} à {1} choix"
+185_933_318: "Rôles éligibles au vote:"
+
+# poll
+185_520_557: "Clique pour créer un sondage"
+
+# open_poll_creation_modal
+185_685_306: "oui"
+185_612_402: "non"
+185_949_826: "Création du sondage"
+185_094_880: "Question"
+185_149_869: "Choix (un par ligne)"
+
+# on_message_component_poll
+185_157_756: "Seul l'auteur du message peut créer un sondage"
+
+# refresh
+185_069_977: "Retour"
+
+# on_message_component_poll_voting_settings
+185_581_212: "Choix multiples"
+185_296_032: "Nombre de choix"
+185_866_187: "Option multiples: intervalle"
+185_578_599: "Nombre minimum d'options à choisir"
+185_004_609: "Nombre maximum d'options à choisir"
+
+# on_message_component_poll_visibility_settings
+185_215_081: "3. Visibilité du nom des votants :"
+185_474_426: "Rôles autorisés à voir qui a voté"
+185_674_688: "4. Visibilité des résultats du sondage:"
+185_920_189: "Rôles autorisés à voir les résultats du sondage"
+
+# on_message_component_poll_management_settings
+185_963_671: "Durée du sondage"
+185_201_154: "Durée du sondage (ex : 10h ou 30m)"
+185_409_740: "Nombre maximum de vote"
+185_750_054: "Nombre maximum de vote"
+185_916_531: "6. Droit de vote:"
+185_818_489: "Roles allowed to vote"
+
+# vote_check
+185_334_309: "Vous n'avez pas le droit de voter"
+185_095_198: "Ce sondage est terminé"
+185_768_893: "Ce sondage est terminé"
+
+# on_message_component_poll_vote_show
+185_682_937: "Tu n'as pas la permission de voir les votes"
+185_941_003: "Personne ne peut voir les votes"
+185_025_916: "Votes"
+185_313_602: "Il n'y a aucun vote"
+
+# on_message_component_poll_vote_results
+185_403_521: "Tu n'as pas la permission de voir les résultats"
+185_492_945: "Personne ne peut voir les résultats"
+
+# on_message_component_poll_vote
+185_024_314: "Tu ne peux changer ton vote"
+185_932_743: "Ton vote a bien été enregistré"
+185_289_776: "Ton vote a bien été enregistré"
