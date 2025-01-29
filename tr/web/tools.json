@@ -1,11 +1,11 @@
 {
-  "tools": "Tools",
-  "commands": "Commands",
-  "commands-desc": "After enabling this plugin, you will be able to use these commands.",
-  "prize": "Prize",
-  "settings": "Settings",
-  "default-prize": "Default prize name",
-  "bot-win": "Ability for a bot to win a giveaway",
-  "hosted-visible": "Displaying who is hosting the giveaway",
-  "everyone-ping": "Mention everyone after creating the giveaway"
+  "tools": "Araçlar",
+  "commands": "Komutlar",
+  "commands-desc": "Bu eklentiyi etkinleştirdikten sonra, bu komutları kullanabileceksiniz.",
+  "prize": "Ödül",
+  "settings": "Ayarlar",
+  "default-prize": "Varsayılan ödül adı",
+  "bot-win": "Bir botun çekilişi kazanma yeteneği",
+  "hosted-visible": "Çekilişi kimin düzenlediğini gösterme",
+  "everyone-ping": "Çekilişi oluşturduktan sonra herkese bildirim gönder"
 }
