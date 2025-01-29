@@ -28,6 +28,7 @@
   "new-form": "New question",
   "ticketcreation": "Creating tickets",
   "ticketcreation-desc": "Specify how the bot should create tickets.",
+  "ticketcreation-messagewelcome": "Welcome message for the user",
   "nick": "Nick",
   "nick-tag": "Nick#1234",
   "nick-mention": "@Nick",
