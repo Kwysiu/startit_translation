@@ -1,14 +1,14 @@
 {
-  "tab-shape": "Shape",
-  "tab-eyes": "Eyes",
-  "tab-mouth": "Mouth",
-  "tab-beard": "Beard",
-  "tab-glasses": "Glasses",
-  "tab-hair": "Hair",
-  "tab-hat": "Hat",
-  "tab-mask": "Mask",
-  "download-emote": "Download emoji",
-  "reset": "Reset",
-  "generator": "Emoji generator",
-  "upload-file": "Upload file"
+  "tab-shape": "Şekil",
+  "tab-eyes": "Gözler",
+  "tab-mouth": "Ağız",
+  "tab-beard": "Sakal",
+  "tab-glasses": "Gözlükler",
+  "tab-hair": "Saç",
+  "tab-hat": "Şapka",
+  "tab-mask": "Maske",
+  "download-emote": "Emojiyi indir",
+  "reset": "Sıfırla",
+  "generator": "Emoji oluşturucu",
+  "upload-file": "Dosya yükle"
 }
