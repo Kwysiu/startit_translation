@@ -3,4 +3,103 @@
 # All you need to do is translate this file and upload changes to the repository.
 # We will take care of moving your translations to the correct folders and files.
 
-# Whole /web 
+# FILE: tools/cmd_gstart.py
+
+# send_error
+185_005_589: "Bu komut kaldırıldı, [StartIT Dashboard](<https://startit.bot/>) üzerindeki giveaway eklentisini kullanın."
+
+# FILE: economy/cmd_trade.py
+
+# generate_embed
+185_556_186: "öğe-indeksi"
+185_848_653: "miktar"
+185_571_141: "öğe"
+185_811_335: "Takas"
+185_211_356: "Takas’a bir öğe ekle"
+185_192_167: "Takas’tan bir öğe çıkar"
+185_768_088: "olabilir"
+185_005_082: "Takas’ı iptal et"
+185_064_711: "İşlem 15 dakika sonra otomatik olarak iptal edilecektir"
+
+# trade_start
+185_652_040: "Kendinle takas yapamazsın"
+
+# cancel_trade
+185_927_078: "Geçersiz takas ID'si"
+185_504_987: "Takas iptal edildi"
+
+# gen_buttons
+185_826_323: "Takas’ı kabul et"
+185_206_351: "Takas’ı iptal et"
+185_115_606: "Takas, tarafından kabul edildi"
+
+# trade_add
+185_566_412: "Geçersiz takas ID'si"
+185_442_755: "Bu takasta yer almıyorsun"
+185_870_060: "Bir takasta maksimum öğe miktarına ulaştın"
+
+# on_message_component_trade_accept
+185_987_887: "Geçersiz takas ID'si"
+
+# FILE: economy/cmd_slots.py
+
+# generate_payout_table
+185_687_828: "Maliyet: {}  
+  Minimum Ödeme: {}  
+  Maksimum Ödeme: {}"
+
+# FILE: economy/cmd_trade.py
+
+# on_message_component_trade_accept
+185_163_101: "Bu takasta yer almıyorsun"
+185_823_091: "Bu takası zaten kabul ettin"
+185_561_215: "Geçmiş bir takası kabul edemezsin"
+185_601_175: "Takas tamamlandı"
+
+# FILE: economy/cmd_slots.py
+
+# slots
+185_898_861: "Hiçbir slot makinesi mevcut değil."
+185_917_885: "Slot Makineleri"
+185_352_556: "Bir slot makinesi seç ve oyna"
+
+# start_game
+185_493_278: "veya"
+185_929_695: "Ödeme Tablosu"
+185_969_635: "Yaygın"
+
+# FILE: economy/cmd_trade.py
+
+# trade_remove
+185_382_149: "Geçersiz takas ID'si"
+185_625_871: "Bu takasta yer almıyorsun"
+
+# FILE: economy/cmd_slots.py
+
+# start_game
+185_230_073: "Kolu çek"
+
+# FILE: economy/cmd_trade.py
+
+# trade_remove
+185_365_430: "Geçersiz öğe indeks"
+
+# FILE: economy/cmd_slots.py
+
+# on_message_component_slots_machine_spin
+185_672_881: "Bu slot makinesini oynayamazsın."
+185_811_452: "Bu slot makinesini oynamak için bakiyeniz çok düşük. Oynamak için {0} ihtiyacınız var."
+185_760_620: "Sadece bir slot makinesini aynı anda oynayabilirsiniz."
+185_086_252: "Slot makinesi dönüyor..."
+185_608_708: "{0} ms içinde oluşturuldu"
+185_300_240: "Kolu çek"
+185_437_519: "Kaybettin"
+185_608_097: "Slot makinesi \"{0}\": {1}"
+185_589_364: "Üzgünüm, bu turu kazanamadın. Tekrar çevirilsin mi?"
+185_740_601: "{0} – {1} kazandın!"
+185_270_500: "{0} ms içinde oluşturuldu"
+185_690_675: "Kolu çek"
+185_599_237: "Slot makinesinde büyük ikramiyeyi kazandın"
+
+# start_game
+185_046_136: "BÜYÜK İKRAMİYE"
