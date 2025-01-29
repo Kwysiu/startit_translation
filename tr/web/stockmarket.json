@@ -1,8 +1,8 @@
 {
-  "last-update": "Last Updated",
-  "name": "Name",
-  "price": "Price",
-  "search": "Search",
-  "symbol": "Symbol",
-  "stocks": "Stock market"
+  "last-update": "Son Güncelleme",
+  "name": "Ad",
+  "price": "Fiyat",
+  "search": "Ara",
+  "symbol": "Sembol",
+  "stocks": "Borsa"
 }
