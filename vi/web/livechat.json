@@ -1,0 +1,17 @@
+{
+  "hi": "Xin chào 👋 Chúng tôi có thể giúp gì cho bạn?",
+  "name": "Tên",
+  "question": "Bạn cần chúng tôi hỗ trợ điều gì?",
+  "description": "Mô tả",
+  "charlen": "Tin nhắn cần dài tối thiểu 20 ký tự.",
+  "type": "Gửi tin nhắn @Hỗ trợ StartIT",
+  "type-disabled": "Vui lòng điền biểu mẫu để bắt đầu trò chuyện.",
+  "start": "Bắt đầu trò chuyện",
+  "disconnect": "Mất kết nối do sự cố mạng.",
+  "subtitle": "Lưu lượng truy cập đang tăng cao. Thời gian phản hồi có thể chậm hơn.",
+  "bot-issue": "Vấn đề với bot",
+  "bot-suggestion": "Góp ý cho bot",
+  "payment-issue": "Vấn đề thanh toán",
+  "user-report": "Báo cáo người dùng",
+  "required": "Trường hợp này là bắt buộc."
+}

@@ -1,0 +1,11 @@
+# alert_staff
+185_709_321: "Người dùng đang cố gắng đóng vé này:"
+185_616_389: "Đóng vé này"
+
+# close
+185_763_387: "Lệnh này chỉ có thể được sử dụng trong kênh vé."
+
+# on_message_component_ticketing_close
+185_850_008: "Không có quyền."
+185_808_252: "Đóng vé"
+185_194_262: "Lý do đóng"

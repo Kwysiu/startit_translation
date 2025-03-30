@@ -1,0 +1,21 @@
+# clear
+185_882_888: "Bạn không thể xóa quá 1000 tin nhắn cùng lúc."
+
+# clearCMD
+185_668_610: "<a:loading:913596665624133662> Đang xóa tin nhắn"
+185_950_330: "Không thể xóa tin nhắn cũ hơn 2 tuần."
+185_313_186: "Đã xóa **{0}** tin nhắn"
+
+# clearOPTIONS
+185_794_576: "Bạn phải chỉ định người dùng trong tùy chọn này"
+185_682_966: "<a:loading:913596665624133662> Đang xóa tin nhắn từ {0}"
+185_343_445: "Không thể xóa tin nhắn cũ hơn 2 tuần."
+185_248_178: "Đã xóa **{0}** tin nhắn từ {1}"
+185_343_409: "<a:loading:913596665624133662> Đang xóa tin nhắn từ bot"
+185_496_392: "Không thể xóa tin nhắn cũ hơn 2 tuần."
+185_840_279: "Đã xóa **{0}** tin nhắn từ bot"
+185_964_135: "Sử dụng không hợp lệ"
+185_833_715: "Lệnh ví dụ:
+{0}clear 10 - xóa 10 tin nhắn gần nhất
+{0}clear 10 bots - xóa 10 tin nhắn gần nhất từ bot
+{0}clear 10 user X - xóa 10 tin nhắn gần nhất từ người dùng X"

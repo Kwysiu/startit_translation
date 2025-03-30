@@ -1,0 +1,44 @@
+## generate_embed
+185_556_186: "chỉ số vật phẩm"
+185_848_653: "số lượng"
+185_571_141: "vật phẩm"
+185_811_335: "Giao dịch"
+185_211_356: "Thêm vật phẩm vào giao dịch"
+185_192_167: "Xóa vật phẩm khỏi giao dịch"
+185_768_088: "có thể"
+185_005_082: "Hủy giao dịch"
+185_064_711: "Giao dịch sẽ tự động bị hủy sau 15 phút"
+
+# trade_start
+185_652_040: "Bạn không thể giao dịch với chính mình"
+
+# cancel_trade
+185_927_078: "ID giao dịch không hợp lệ"
+185_504_987: "Giao dịch đã bị hủy"
+
+# gen_buttons
+185_826_323: "Chấp nhận giao dịch"
+185_206_351: "Hủy giao dịch"
+185_115_606: "Giao dịch đã được chấp nhận bởi"
+
+# trade_add
+185_566_412: "ID giao dịch không hợp lệ"
+185_442_755: "Bạn không phải là một phần của giao dịch này"
+185_870_060: "Bạn đã đạt số lượng vật phẩm tối đa trong một giao dịch"
+185_775_783: "Bạn chỉ có thể xóa tối đa 50 vật phẩm mỗi lần"
+185_821_485: "Người dùng không có đủ vật phẩm."
+185_777_210: "Vật phẩm không xác định."
+185_372_552: "Vật phẩm này không thể bán."
+185_503_256: "Người dùng không có vật phẩm này."
+
+# on_message_component_trade_accept
+185_987_887: "ID giao dịch không hợp lệ"
+185_163_101: "Bạn không phải là một phần của giao dịch này"
+185_823_091: "Bạn đã chấp nhận giao dịch này rồi"
+185_561_215: "Không thể chấp nhận giao dịch đã hết hạn"
+185_601_175: "Giao dịch đã hoàn thành"
+
+# trade_remove
+185_382_149: "ID giao dịch không hợp lệ"
+185_625_871: "Bạn không phải là một phần của giao dịch này"
+185_365_430: "Chỉ số vật phẩm không hợp lệ"

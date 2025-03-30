@@ -1,0 +1,31 @@
+# buy_item
+185_260_461: "Bạn không có đủ **{price}** để mua vật phẩm này."
+185_557_483: "Bạn không có đủ **{price}** để mua vật phẩm này."
+185_688_158: "Cảm ơn bạn đã mua, <@{0}>. Bạn có thể xem danh sách tất cả vật phẩm của mình bằng cách gõ ` {1}bal bal`."
+185_100_374: "Vật phẩm mới đã được thêm vào balo của bạn:"
+185_882_678: "Tiền đã được thêm vào ví của {0} người dùng."
+185_087_552: "Tiền đã được thêm vào tài khoản chủ sở hữu vật phẩm."
+185_990_753: "Sử dụng vật phẩm này"
+
+# _assert_buy_permissions
+185_988_842: "Bạn chỉ có thể mua vật phẩm này một cái mỗi lần."
+185_288_199: "Bạn không thể mua vật phẩm này."
+185_395_652: "Vật phẩm này đã hết hàng."
+185_909_437: "Bạn không thể mua hơn **{number}** vật phẩm này."
+
+# _assert_buy_requirements
+185_072_081: "Bạn không có các vật phẩm sau: 
+{requirements}"
+
+# assert_backpack_limit
+185_340_703: "Bạn không thể mua hơn **{limit}** vật phẩm này."
+
+# _assert_fraud
+185_560_244: "Bạn đã mua **{name}** và nó đã bị phát hiện là giả mạo."
+
+# use_item
+185_655_739: "Vật phẩm này không thể sử dụng."
+185_991_528: "Nhấn để thay đổi biệt danh của bạn"
+185_250_493: "Hộp này trống."
+185_550_216: "Bạn không thể mở hộp này vì: {0}."
+185_562_879: "Đang mở hộp..."

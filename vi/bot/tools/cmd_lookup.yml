@@ -1,0 +1,105 @@
+# cmd_lookup
+185_406_672: "Lệnh: "
+185_596_417: "Sử dụng sai"
+
+# cmd_lookup_user
+185_646_831: "<:information:868952803006091264> {} - Thông tin"
+185_437_421: "<@!{0}>
+**Liên kết tới ảnh đại diện: **[click here]({1})"
+185_613_780: "Người dùng có StartIT Plus"
+185_549_858: "ID NGƯỜI DÙNG"
+185_694_868: "Tham gia Discord"
+185_412_467: "Tham gia Server"
+185_505_613: "Vai trò"
+185_578_313: "Đánh giá ({})"
+185_375_274: "Viết đánh giá cho ReviewDB"
+
+# on_message_component_post_review
+185_017_006: "Đăng đánh giá lên ReviewDB"
+185_178_820: "Đánh giá"
+185_913_187: "Spam và viết đánh giá xúc phạm sẽ dẫn đến việc bị chặn. Hãy tôn trọng người dùng khác."
+
+# on_message_component_post_review_submit
+185_890_920: "Đánh giá đã được cập nhật"
+185_686_076: "Đánh giá đã được đăng"
+185_961_539: "Lỗi"
+
+# cmd_lookup_role
+185_770_494: "Có"
+185_206_382: "Không"
+185_235_743: "Thông tin vai trò - {}"
+185_804_978: "<@&{0}>
+**ID vai trò: **{1}
+**Vị trí vai trò: **{2}
+**Hiển thị: **{3}
+**Có thể gắn thẻ: **{4}
+**Quản lý: **{5}
+**Tạo lúc: **{6}"
+185_819_703: "
+**Màu vai trò: **{0}"
+185_837_487: "Quyền"
+185_662_834: "
+Vai trò dành cho việc tăng cấp server"
+185_004_705: "
+**Vai trò dành cho bot:** {}"
+
+# cmd_lookup_channel
+185_793_407: "Văn bản"
+185_928_780: "DM"
+185_053_722: "Giọng nói"
+185_537_245: "Nhóm DM"
+185_860_801: "Danh mục"
+185_121_680: "Tin tức"
+185_247_445: "Cửa hàng"
+185_745_993: "Chủ đề tin tức"
+185_159_529: "Chủ đề công khai"
+185_839_723: "Chủ đề riêng tư"
+185_934_901: "Giọng nói sân khấu"
+185_911_922: "Có"
+185_852_864: "Không"
+185_309_300: "<#{0}>
+**ID kênh: **{1}
+**Loại kênh: **{2}
+**Kênh NSFW: **{3}
+**Kênh tạo lúc: **{4}"
+185_601_713: "
+**Vị trí kênh: **{0}"
+185_366_217: "
+**Chủ đề kênh: **{0}"
+185_486_217: "
+**Kênh cha: **{0}"
+185_308_968: "
+**Tốc độ bit kênh: **{0}"
+185_614_782: "
+**Giới hạn người dùng kênh: **{0}"
+185_940_596: "
+**Chủ sở hữu kênh: **{0}"
+185_205_646: "Được phép: "
+185_214_994: "Bị từ chối: "
+185_509_141: "Quyền của thành viên"
+185_675_819: "Quyền của vai trò"
+
+# cmd_lookup_server
+185_151_428: "**TÍNH NĂNG SERVER:**"
+185_097_822: "<:overview:868953016282271745>**TỔNG QUAN**
+**ID:** {0} 
+**CHỦ SỞ HỮU:** <@{1}>
+**Server tạo lúc: ** <t:{2}>
+**Liên kết đến ảnh đại diện:** [Click here](https://cdn.discordapp.com/icons/{0}/{3}?size=1024)
+**Vai trò:** {4}
+
+<:boosts:868953110758957066>**BOOSTS**
+**Cấp độ Boost:** {5}
+**Boosts:** {6}
+
+<:users:868953499038281738>**THÀNH VIÊN**
+<:users:868953499038281738> {7} • <:bots:868953478268092436> {8}
+
+<:channels:868954276121157634> **KÊNH**
+<:channels:868954276121157634> {9} • <:category:868954251076964383> {10} • <:text_channel:868954234689843220> {11} • <:voice_channel:868954221712637983> {12} • <:news_channel:868954207250694205> {13}
+
+:slight_smile: **EMOJI**
+Hoạt hình: **{14}** • Tĩnh: **{15}** • Tất cả: **{16}**
+
+{17}
+{18}"

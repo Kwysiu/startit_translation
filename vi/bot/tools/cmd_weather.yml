@@ -1,0 +1,25 @@
+# err_messages
+185_334_057: "Không tìm thấy quốc gia/thành phố"
+185_163_117: "Dịch vụ không khả dụng. Vui lòng thử lại sau."
+
+# wind_speed
+185_080_927: "Yên lặng"
+185_807_207: "Gió nhẹ"
+185_311_097: "Gió nhẹ"
+185_499_647: "Gió nhẹ nhàng"
+185_014_728: "Gió vừa"
+185_406_532: "Gió tươi"
+185_742_653: "Gió mạnh"
+185_858_857: "Gió mạnh, gần bão"
+185_041_914: "Bão"
+185_090_600: "Bão dữ dội"
+185_055_352: "Bão"
+185_178_045: "Bão cuồng phong"
+185_298_987: "Bão lớn"
+185_675_116: "Yên lặng"
+
+# weather
+185_079_801: "Chỉ định thành phố"
+185_955_856: "Cảm giác như"
+185_086_651: "Độ ẩm"
+185_272_364: "Thời tiết tại"

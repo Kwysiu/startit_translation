@@ -1,0 +1,18 @@
+# check_permissions
+185_487_731: "Bạn không có vai trò / cấp bậc đủ trên máy chủ để bỏ phiếu."
+
+# vote_mute
+185_517_329: "Bỏ phiếu cấm tiếng"
+185_037_887: "Bạn đã bỏ phiếu cấm tiếng cho {0}!"
+185_174_824: "Bạn đã bỏ phiếu cấm tiếng cho {0} rồi."
+
+# fetch_user
+185_523_665: "Người dùng này được bảo vệ"
+
+# on_button_click
+185_060_859: "**Thời gian:** {0} giờ
+**Người dùng:** {1}
+**Người bỏ phiếu:** {2}"
+185_999_383: " đã bị cấm tiếng!"
+185_447_618: "cho"
+185_650_956: "Người dùng mới đã bị bỏ phiếu cấm tiếng"

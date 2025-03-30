@@ -1,0 +1,14 @@
+# on_message_component_ticketing_open
+185_041_583: "Bạn đã đạt giới hạn vé mở: <#{}>."
+
+# before_open_ticket
+185_367_480: "Bạn không có quyền tạo vé này."
+185_810_724: "Bạn không thể tạo vé, vì bạn có vai trò bị cấm: <@&{0}>"
+185_419_706: "Vé"
+
+# create_ticket
+185_988_851: "Có quá nhiều người đang tạo vé ngay bây giờ. Hãy chờ quản trị viên đóng tất cả vé."
+185_587_048: "Mẫu"
+185_169_828: "Vé đã tạo: <#{0}>"
+185_898_568: "Yêu cầu vé"
+185_707_614: "Đóng vé"

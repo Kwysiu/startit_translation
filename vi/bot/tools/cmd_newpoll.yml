@@ -1,0 +1,132 @@
+# gen_submit_components
+185_524_078: "Hiển thị người bỏ phiếu"
+185_102_636: "Hiển thị kết quả"
+185_687_534: "Bỏ phiếu"
+
+# gen_components
+185_737_949: "1. Cho phép chọn nhiều lựa chọn:"
+185_617_658: "không cho phép"
+185_709_191: "Chỉ cho phép chọn một lựa chọn"
+185_813_795: "không giới hạn"
+185_519_563: "Người dùng có thể chọn bao nhiêu tùy thích"
+185_735_729: "số lượng cụ thể"
+185_822_428: "Người dùng có thể chọn số lượng lựa chọn cụ thể"
+185_585_382: "phạm vi"
+185_011_765: "Người dùng có thể chọn bao nhiêu tùy thích trong phạm vi"
+185_396_478: "2. Cho phép người dùng thay đổi phiếu bầu:"
+185_450_003: "có"
+185_656_520: "Người dùng có thể thay đổi phiếu bầu"
+185_250_568: "không"
+185_221_616: "Người dùng không thể thay đổi phiếu bầu"
+185_844_794: "Thay đổi cài đặt bỏ phiếu"
+185_111_620: "3. Hiển thị tên người tham gia:"
+185_645_014: "công khai"
+185_863_383: "Mọi người sẽ thấy ai đã bỏ phiếu cho ai"
+185_042_845: "vai trò được phép"
+185_368_109: "Chỉ người dùng có vai trò được phép mới thấy ai đã bỏ phiếu cho ai"
+185_651_966: "không ai"
+185_160_535: "Bỏ phiếu ẩn danh, ban quản trị sẽ không biết ai đã bỏ phiếu cho ai"
+185_467_719: "4. Hiển thị kết quả cuộc thăm dò:"
+185_380_752: "công khai"
+185_428_220: "Mọi người sẽ thấy kết quả cuộc thăm dò"
+185_705_985: "sau khi bỏ phiếu"
+185_787_818: "Chỉ những người đã bỏ phiếu mới thấy kết quả"
+185_410_891: "vai trò được phép"
+185_980_837: "Chỉ người dùng có vai trò được phép mới thấy kết quả"
+185_126_006: "5. Công khai kết quả sau khi kết thúc:"
+185_764_756: "có"
+185_418_644: "Kết quả sẽ được công khai sau khi cuộc thăm dò kết thúc"
+185_307_533: "không"
+185_965_624: "Kết quả sẽ không được công khai sau khi cuộc thăm dò kết thúc"
+185_688_771: "Thay đổi cài đặt hiển thị"
+185_240_380: "6. Quyền bỏ phiếu:"
+185_247_858: "mọi người"
+185_854_241: "Mọi người sẽ có quyền bỏ phiếu"
+185_343_955: "vai trò được phép"
+185_897_626: "Chỉ người dùng có vai trò được phép mới có quyền bỏ phiếu"
+185_071_124: "7. Thời gian:"
+185_870_540: "vô hạn"
+185_169_432: "Cuộc thăm dò sẽ không tự động kết thúc"
+185_448_354: "đến"
+185_882_194: "Cuộc thăm dò sẽ kết thúc vào thời gian chỉ định"
+185_255_906: "8. Số phiếu tối đa:"
+185_005_186: "không giới hạn"
+185_647_436: "Cuộc thăm dò sẽ không kết thúc sau một số phiếu nhất định"
+185_903_248: "hạn chế"
+185_915_879: "Cuộc thăm dò sẽ kết thúc sau khi đạt số phiếu tối đa"
+185_419_637: "Thay đổi cài đặt quản lý"
+185_615_913: "Hủy"
+185_876_979: "Gửi cuộc thăm dò"
+
+# gen_embed
+185_906_016: "Lựa chọn:"
+185_700_161: "sau {0} phiếu"
+185_270_849: "Kết thúc:"
+185_956_833: " hoặc "
+185_060_191: "Cuộc thăm dò ẩn danh – biệt danh sẽ không hiển thị cho quản trị viên"
+185_712_977: "Chế độ:"
+185_301_773: "- Chỉ chọn một phiếu"
+185_625_497: "Chế độ:"
+185_493_102: "- Cho phép chọn nhiều phiếu"
+185_173_053: "Chế độ:"
+185_541_292: "- Chọn {0} lựa chọn"
+185_163_945: "Chế độ:"
+185_433_763: "- Chọn từ {0} đến {1} lựa chọn"
+185_933_318: "Các vai trò đủ điều kiện để bỏ phiếu:"
+
+# poll
+185_520_557: "Nhấn để tạo cuộc thăm dò"
+
+# open_poll_creation_modal
+185_685_306: "Có"
+185_612_402: "Không"
+185_949_826: "Tạo cuộc thăm dò"
+185_094_880: "Câu hỏi"
+185_149_869: "Lựa chọn (mỗi lựa chọn một dòng)"
+
+# on_message_component_poll
+185_157_756: "Chỉ người tạo tin nhắn mới có thể tạo cuộc thăm dò"
+
+# refresh
+185_069_977: "Quay lại"
+
+# on_message_component_poll_voting_settings
+185_581_212: "Chọn nhiều lựa chọn"
+185_296_032: "Số lượng lựa chọn"
+185_866_187: "Nhiều lựa chọn: phạm vi"
+185_578_599: "Số lượng tối thiểu lựa chọn"
+185_004_609: "Số lượng tối đa lựa chọn"
+
+# on_message_component_poll_visibility_settings
+185_215_081: "3. Hiển thị tên người tham gia:"
+185_474_426: "Vai trò được phép xem ai đã bỏ phiếu"
+185_674_688: "4. Hiển thị kết quả cuộc thăm dò:"
+185_920_189: "Vai trò được phép xem kết quả cuộc thăm dò"
+
+# on_message_component_poll_management_settings
+185_963_671: "Thời gian cuộc thăm dò"
+185_201_154: "Thời gian cuộc thăm dò (ví dụ: 10h hoặc 30m)"
+185_409_740: "Số phiếu tối đa"
+185_750_054: "Số phiếu tối đa"
+185_916_531: "6. Quyền bỏ phiếu:"
+185_818_489: "Vai trò được phép bỏ phiếu"
+
+# vote_check
+185_334_309: "Bạn không có quyền bỏ phiếu"
+185_095_198: "Cuộc thăm dò này đã kết thúc"
+185_768_893: "Cuộc thăm dò này đã kết thúc"
+
+# on_message_component_poll_vote_show
+185_682_937: "Bạn không có quyền xem phiếu bầu"
+185_941_003: "Không ai có thể xem phiếu bầu"
+185_025_916: "Phiếu bầu"
+185_313_602: "Không có phiếu bầu"
+
+# on_message_component_poll_vote_results
+185_403_521: "Bạn không có quyền xem kết quả phiếu bầu"
+185_492_945: "Không ai có thể xem kết quả phiếu bầu"
+
+# on_message_component_poll_vote
+185_024_314: "Bạn không thể thay đổi phiếu bầu của mình"
+185_932_743: "Phiếu bầu của bạn đã được lưu"
+185_289_776: "Phiếu bầu của bạn đã được lưu"

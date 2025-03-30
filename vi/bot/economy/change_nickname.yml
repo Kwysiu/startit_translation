@@ -1,0 +1,9 @@
+# on_message_component_v1_eco_change_nickname
+185_212_193: "Bạn không thể thay đổi biệt danh của người khác"
+185_616_443: "Chỉnh sửa biệt danh"
+185_823_767: "Biệt danh mới"
+
+# on_message_component_v1_eco_change_nickname_modal
+185_604_116: "Bạn không thể thay đổi biệt danh của người khác"
+185_750_749: "Bạn không thể sử dụng lệnh này cho: {0}."
+185_763_457: "Biệt danh của bạn đã được thay đổi"

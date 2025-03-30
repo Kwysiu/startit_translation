@@ -1,0 +1,11 @@
+{
+  "tools": "Công cụ",
+  "commands": "Lệnh",
+  "commands-desc": "Sau khi bật plugin này, bạn có thể sử dụng các lệnh sau.",
+  "prize": "Phần thưởng",
+  "settings": "Cài đặt",
+  "default-prize": "Tên phần thưởng mặc định",
+  "bot-win": "Cho phép bot trúng phát quà",
+  "hosted-visible": "Hiển thị người tổ chức phát quà",
+  "everyone-ping": "Tag everyone sau khi tạo phát quà"
+}

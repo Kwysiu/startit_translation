@@ -1,0 +1,18 @@
+{
+  "servermonitor": "Trình giám sát máy chủ",
+  "game-servers": "Máy chủ game của bạn",
+  "game-servers-desc": "Nơi an toàn để nhập thông tin máy chủ, có thể được các plugin khác sử dụng.",
+  "game": "Trò chơi",
+  "game-input": "Tên trò chơi",
+  "server": "Thông tin máy chủ",
+  "host": "IP/tên miền máy chủ",
+  "port": "Cổng máy chủ",
+  "rcon": "RCON: Bảng điều khiển máy chủ (tuỳ chọn)",
+  "rcon-title": "Cho phép StartIT thực thi lệnh trên máy chủ của bạn!",
+  "rcon-desc": "RCON là giao thức cho phép quản trị viên thực hiện lệnh từ xa trên máy chủ game. Nếu muốn sử dụng tính năng này, bạn cần bật nó trên máy chủ. Bạn có thể tìm thêm thông tin về RCON trên internet.",
+  "rcon-host": "IP/tên miền RCON",
+  "rcon-port": "Cổng RCON",
+  "rcon-password": "Mật khẩu RCON",
+  "save-changes": "Mã hoá dữ liệu và lưu thay đổi",
+  "cancel-edit": "Hủy"
+}

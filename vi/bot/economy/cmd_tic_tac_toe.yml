@@ -1,0 +1,55 @@
+# tic_tac_toe
+185_402_502: "Ừm... đây là bot."
+185_738_983: "Cờ ca rô"
+185_808_675: "Bạn không thể chơi với chính mình"
+185_431_583: "Số tiền cược tối thiểu là {0}"
+185_025_696: "Số tiền cược tối đa là {0}"
+185_936_904: "Cờ ca rô"
+185_202_055: "Bạn không thể chơi với người này trong {0} giây."
+185_597_618: "Bạn chỉ có thể chơi một ván game."
+185_402_212: "Người dùng này đã đang chơi với người khác."
+185_260_208: "Cờ ca rô"
+185_177_976: "{} bạn đã nhận được lời mời tham gia một ván cờ ca rô từ {}.{}Giá: {}  
+Bạn phải chấp nhận trò chơi bằng cách {}."
+185_511_362: "Chấp nhận"
+185_798_254: "Từ chối"
+
+# on_task_tic_tac_toe
+185_669_820: "Cờ ca rô, hoàn tiền"
+185_157_749: "Cờ ca rô"
+185_466_508: "Trò chơi cờ ca rô đã bị hủy."
+
+# on_message_component_v1_tic_tac_toe
+185_519_393: "Cờ ca rô"
+185_527_022: "Bạn không thể chấp nhận trò chơi này."
+185_599_080: "Bạn không thể từ chối trò chơi này."
+185_441_237: "Cờ ca rô"
+185_864_931: "Trò chơi cờ ca rô đã bị hủy."
+185_798_898: "Cờ ca rô"
+185_417_933: "Cờ ca rô"
+185_928_047: "Đến lượt {}."
+185_565_358: "Bạn có đến {} để thực hiện nước đi của mình."
+
+# on_message_component_v1_tic_tac_toe_game
+185_548_456: "Cờ ca rô"
+185_286_122: "Bạn không thể chơi trong trò chơi này."
+185_939_109: "Cờ ca rô hoàn tiền"
+185_605_974: "Cờ ca rô"
+185_477_327: "Lỗi."
+185_249_663: "Cờ ca rô"
+185_699_734: "Đây không phải là lượt của bạn."
+185_344_689: "{} đã thắng!"
+185_102_937: "Người thắng cờ ca rô"
+185_222_658: "**HÒA**"
+185_374_639: "Cờ ca rô hòa"
+
+# gen_embed
+185_199_320: "Cờ ca rô"
+185_780_932: "Đến lượt {}."
+185_336_237: "Bạn có đến {} để thực hiện nước đi của mình."
+
+# on_task_tic_tac_toe_game
+185_427_423: "Cờ ca rô"
+185_791_309: "{} đã thắng!"
+185_999_642: "Cờ ca rô hòa"
+185_065_587: "Cờ ca rô thắng"

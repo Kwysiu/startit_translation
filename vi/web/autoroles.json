@@ -1,0 +1,21 @@
+{
+  "autoroles": "Tự động phân vai",
+  "roles": "Vai trò",
+  "joinmember": "Vai trò cho thành viên mới",
+  "joinmember-dsc": "Tự động gán vai trò cho người dùng mới vào máy chủ.",
+  "joinbot": "Vai trò cho bot mới",
+  "joinbot-dsc": "Tự động gán vai trò cho bot vừa tham gia máy chủ.",
+  "joinperson": "Vai trò cho người dùng mới",
+  "joinperson-dsc": "Tự động gán vai trò cho người dùng vừa tham gia máy chủ.",
+  "boost": "Vai trò cho người dùng Nitro Boost",
+  "boost-dsc": "Tặng thêm vai trò đặc biệt để tri ân những ai boost máy chủ.",
+  "boost-remove": "Gỡ vai trò này khi người dùng ngừng boost",
+  "roleplus": "Vai trò cho thành viên StartIT Plus",
+  "roleplus-dsc": "Ủng hộ StartIT và nhận vai trò đặc biệt cho nhà tài trợ trên máy chủ.",
+  "restoringRoles": "Khôi phục vai trò",
+  "restoringRoles-desc": "Khôi phục vai trò khi người dùng quay lại máy chủ",
+  "restoringRoles-allowed": "Đã khôi phục",
+  "restoringRoles-banned": "Không khôi phục",
+  "restoringRoles-roles": "vai trò",
+  "wait-rules": "Trì hoãn khi chấp nhận nội quy máy chủ"
+}
