@@ -1,0 +1,43 @@
+# gen_message
+185_079_041: "**Waiting for players**"
+185_336_215: "Players: "
+185_439_864: "Russian Roulette"
+185_047_609: "Cost of joining: **{0}**
+Start in: {1}
+
+{2}"
+185_120_966: "Join"
+185_171_888: "Start game"
+
+# command_russian_roulette
+185_046_997: "There is already one game in progress on this channel. [Click here](https://discord.com/channels/{0}/{1}/{2}) "
+185_115_276: "Minimum bet amount is {0}"
+185_347_327: "Maximum bet amount is {0}"
+
+# on_message_component_russianroulettejoin
+185_654_787: "There is no game in this channel!"
+185_848_580: "There are already {} players in this game!"
+185_254_307: "You are already in this game!"
+185_549_428: "You have joined the game!"
+
+# on_message_component_russianroulettestart
+185_596_074: "There is no game in this channel!"
+185_604_200: "You are not the owner of this game!"
+185_990_296: "Not enough players to start a game!"
+
+# on_task_russian_roulette_end
+185_054_304: "Not enough players to start a game!"
+185_448_098: "Russian Roulette ended"
+185_347_888: "Summary:
+
+"
+185_634_448: "
+
+Rest in peace…"
+185_162_722: "{0} has been killed"
+
+# end_game
+185_260_105: "Game will start in 5 seconds"
+
+# get_game
+185_386_072: "Too quick. Try again."
