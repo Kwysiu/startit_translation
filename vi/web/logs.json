@@ -1,0 +1,19 @@
+{
+  "logs": "Nhật ký",
+  "logs-messages-title": "Nhật ký tin nhắn",
+  "logs-messages-desc": "Thông báo cho bạn về các sự kiện tin nhắn như xóa hoặc chỉnh sửa.",
+  "logs-voice-title": "Nhật ký thoại",
+  "logs-voice-desc": "Thông báo cho bạn về các sự kiện thoại như tham gia/rời/chuyển kênh thoại.",
+  "logs-member-title": "Nhật ký thành viên",
+  "logs-member-desc": "Thông báo cho bạn về các sự kiện thành viên như tham gia, rời đi hoặc bị chặn.",
+  "duration-days_one": "Tài khoản dưới {{count}} ngày tuổi",
+  "duration-days_other": "Tài khoản dưới {{count}} ngày tuổi",
+  "channel": "Kênh",
+  "duration": "Thời gian tồn tại tài khoản tối thiểu",
+  "duration-inform": "Đề cập đến mod khi có tài khoản Discord mới tạo tham gia máy chủ.",
+  "roles": "Vai trò cần nhắc đến",
+  "logs-invite-title": "Nhật ký lời mời",
+  "logs-invite-desc": "Theo dõi lời mời vào máy chủ.",
+  "logs-messages-block": "Chặn các kênh không ghi nhật ký tin nhắn",
+  "ignore-bots": "Bỏ qua bot"
+}

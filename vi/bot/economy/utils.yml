@@ -1,0 +1,25 @@
+# translate_error
+185_515_417: "Bạn đang cố gửi số tiền âm"
+185_470_969: "Bạn không có đủ tiền"
+
+# custom_reply
+185_647_835: "
+
+Thử lại <t:{0}:R>  
+Số dư: {1}"
+185_190_040: "
+
+Kiếm thêm <t:{0}:R>  
+Số dư: {1}"
+
+# modlog_send
+185_126_692: "Kênh không xác định"
+185_418_752: "Số dư đã được cập nhật"
+185_759_074: "**Người dùng:** {0}  
+**Số tiền:** Tiền mặt: {1} | Ngân hàng: {2}  
+**Kênh:** {3}  
+**Lý do:** {4}"
+
+# iter_buttons
+185_267_959: "Trang trước"
+185_042_437: "Trang sau"

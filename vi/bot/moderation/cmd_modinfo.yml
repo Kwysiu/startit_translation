@@ -1,0 +1,33 @@
+# modinfo
+185_052_529: "Thông tin hình phạt{0}"
+185_552_746: "Chặn"
+185_867_497: "**Đang áp dụng:** {0}
+**Chặn bởi:** {1}
+**Lý do:** {2}
+**Chặn vào lúc:** {3}
+**Kết thúc vào lúc:** {4}
+**ID hình phạt:** {5}"
+185_429_114: "Chặn hoặc khai trừ"
+185_988_543: "Người dùng là thành viên của máy chủ này"
+185_385_292: "Chặn"
+185_815_415: "Người dùng không bị chặn"
+185_196_251: "Khai trừ"
+185_822_213: "Người dùng đã tự nguyện rời khỏi máy chủ này (hoặc họ chưa bao giờ ở đây)"
+185_765_152: "Khai trừ"
+185_699_587: "**Khai trừ bởi:** {0}
+**Lý do:** {1}
+**Khai trừ vào lúc:** {2}
+**ID hình phạt:** {3}"
+185_754_277: "Cấm tiếng"
+185_857_500: "Người dùng không bị cấm tiếng"
+185_306_620: "Cấm tiếng"
+185_018_055: "**Đang áp dụng:** {0}
+**Cấm tiếng bởi:** {1}
+**Lý do:** {2}
+**Cấm tiếng vào lúc:** {3}
+**Kết thúc vào lúc:** {4}
+**ID hình phạt:** {5}"
+185_668_658: "Tóm tắt:"
+185_589_335: "Cảnh cáo"
+185_607_082: "{0}{1} cảnh cáo (**{2}** điểm)"
+185_309_874: "Hiển thị danh sách cảnh cáo"

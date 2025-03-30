@@ -1,0 +1,20 @@
+# gen_embed
+185_069_719: "Bạn có **{0}** trong ví của bạn."
+185_296_685: "Bạn có **{0}** trong ngân hàng của bạn."
+185_037_499: "Mua vật phẩm với lệnh ` {0}buy-item <tên> `."
+185_174_756: "Cửa hàng của máy chủ"
+
+# gen_buttons
+185_347_026: "Danh mục mặc định"
+185_504_011: "Chọn danh mục"
+185_914_817: "Trang trước"
+185_312_472: "Trang sau"
+185_709_337: "Mua vật phẩm"
+
+# send_shop
+185_700_882: " (hết hàng)"
+185_550_221: " ({0} còn hàng)"
+185_780_988: "Trang {0}/{1}"
+
+# on_message_component_v1_shop
+185_792_463: "Không có quyền"

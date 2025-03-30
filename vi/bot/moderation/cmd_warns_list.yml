@@ -1,0 +1,18 @@
+# format_warning
+185_883_509: "### {0}. {1}"
+185_994_899: " - **{1} điểm**, <t:{0}> "
+185_534_293: " - Quản trị viên: {0}"
+185_996_026: " - Kết thúc vào lúc: {0}"
+
+# send_embed
+185_009_963: "Người dùng này không tồn tại trong cơ sở dữ liệu của chúng tôi."
+185_314_635: "Cảnh cáo gần đây{0}"
+185_705_420: "{0} không có cảnh cáo."
+
+# warns
+185_098_277: "Lệnh"
+185_674_739: "`{0}warns clear-all <người dùng>` - Xóa tất cả cảnh cáo của người dùng
+`{0}warns clear <người dùng> <số>` - Xóa cảnh cáo của người dùng
+`{0}warns edit-reason <người dùng> <số> <lý do>` - Chỉnh sửa lý do cảnh cáo
+`{0}warns info <người dùng> <số>` - Hiển thị thông tin cảnh cáo
+`{0}warns list <người dùng>` - Hiển thị danh sách cảnh cáo"

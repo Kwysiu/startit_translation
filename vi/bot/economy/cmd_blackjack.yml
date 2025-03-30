@@ -1,0 +1,42 @@
+# end_screen
+185_164_997: "Rút thẻ:"
+185_851_868: "Rút thẻ trong /blackjack"
+185_339_827: "Bạn thắng:"
+185_776_153: "Thắng trong /blackjack"
+185_509_310: "Bạn thua:"
+185_650_140: "Thua trong /blackjack"
+185_586_220: "Trò chơi kết thúc"
+185_633_181: "Bài của bạn"
+185_583_671: "Giá trị"
+185_715_020: "Bài của nhà cái"
+185_093_203: "Giá trị"
+
+# do_action
+185_015_403: "Đã hủy."
+185_186_978: "Bỏ qua: /blackjack"
+185_850_961: "Bỏ qua: /blackjack"
+185_285_765: "Nhà cái đã có blackjack, nhận 50% tiền cược từ bảo hiểm."
+185_276_623: "Tăng gấp đôi: /blackjack"
+185_930_616: "Nhà cái đã có blackjack."
+185_075_705: "Nhà cái đã vượt quá 21 điểm."
+185_650_952: "Nhà cái đã gần blackjack hơn bạn."
+185_153_912: "Bạn đã gần blackjack hơn nhà cái."
+185_875_560: "Bạn đã có blackjack."
+185_268_594: "Bạn đã có blackjack."
+185_557_948: "Bạn đã có blackjack với nhà cái."
+185_569_531: "Bạn đã vượt quá 21 điểm."
+185_222_025: "Bài của bạn"
+185_871_052: "Giá trị"
+185_522_811: "Bài của nhà cái"
+185_861_989: "Giá trị"
+185_021_771: "Số thẻ còn lại: {0}"
+
+# is_duplicate
+185_722_329: "Bạn đang chơi blackjack ngay bây giờ. [Nhấn vào đây](https://discord.com/channels/{0}/{1}/{2}) hoặc gõ `cancel`."
+
+# blackjack
+185_914_658: "Số tiền cược tối thiểu là {0}"
+185_512_347: "Số tiền cược tối đa là {0}"
+185_129_815: "Bạn không thể chơi blackjack vì: {0}."
+185_981_939: "Bắt đầu /blackjack"
+185_343_952: "Hoàn tiền: /blackjack"

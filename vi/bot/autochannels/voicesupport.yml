@@ -1,0 +1,6 @@
+# on_message_component_voice_support_move
+185_688_580: "Đã di chuyển <@{0}> tới kênh <#{1}>"
+
+# temp_channel
+185_211_729: "Tạo kênh cho <@{0}> không thành công"
+185_204_496: "Đã tạo kênh <#{0}> cho <@{1}>"

@@ -1,0 +1,19 @@
+{
+  "commands": "Lệnh của bot",
+  "economy-commands": "Lệnh kinh tế",
+  "leveling-commands": "Lệnh hệ thống cấp bậc",
+  "ticketing-commands": "Lệnh hỗ trợ (ticket)",
+  "command-config": "Cấu hình lệnh",
+  "command-name": "Tên",
+  "commands-desc": "gạch chéo là cách mới để nhập lệnh qua giao diện Discord.",
+  "settings": "Cài đặt",
+  "enable-global-slashes": "Bật lệnh cho plugin: Ảnh, Công cụ",
+  "help-slashes": "Hiển thị lệnh trong /help",
+  "help-slashes-desc": "Giá trị khuyến nghị: tắt – Discord hiện chưa hỗ trợ hoàn chỉnh hiển thị lệnh",
+  "enable-all": "Bật tất cả",
+  "moderation-commands": "Lệnh quản trị",
+  "prefix": "Lệnh với tiền tố",
+  "prefix-desc": "Bot sẽ tìm lệnh trong tin nhắn bắt đầu bằng ký tự chỉ định.",
+  "prefix-input": "Tiền tố",
+  "disabled-commands-input": "Lệnh bị loại trừ khỏi tiền tố"
+}

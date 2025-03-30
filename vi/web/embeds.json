@@ -1,0 +1,15 @@
+{
+  "embeds": "Thẻ nhúng",
+  "embeds-hub": "Trung tâm thẻ nhúng",
+  "embeds-hubs-desc": "",
+  "settings": "Cài đặt",
+  "channel-name": "Tên kênh",
+  "new-embedshub": "Thẻ nhúng mới",
+  "title-url": "Liên kết tiêu đề",
+  "customization": "Tùy chỉnh",
+  "embed-name": "Tên tin nhắn (chỉ hiển thị trên bảng điều khiển)",
+  "embed-name-desc": "vd. nội quy máy chủ",
+  "add-button": "Thêm nút",
+  "add-select-menu": "Thêm menu chọn",
+  "add-select-item": "Thêm mục"
+}

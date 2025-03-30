@@ -1,0 +1,26 @@
+# punishments
+185_311_626: "Lệnh"
+185_022_602: "`{0}punishments edit-reason <id> <lý do>` - Chỉnh sửa lý do hình phạt
+`{0}punishments info <id>` - Hiển thị thông tin hình phạt
+`{0}punishments list [người dùng]` - Hiển thị danh sách hình phạt
+`{0}punishments list-mod <quản trị viên>` - Hiển thị danh sách hình phạt
+`{0}punishments remove <id> [lý do]` - Xóa hình phạt"
+
+# get_name
+185_733_266: "Khai trừ"
+185_660_195: "Chặn"
+185_975_565: "Cảnh cáo"
+185_075_575: "Cấm tiếng"
+
+# format_punishment
+185_166_666: "### {0} vì '{1}'"
+185_739_202: " - \#{0} vào <t:{1}> "
+185_561_732: " - Thời gian: {0}"
+185_182_081: " - Người dùng: {0}"
+185_538_286: " - Quản trị viên: {0}"
+
+# send_embed
+185_604_436: "Hình phạt gần đây{0}"
+185_938_276: "Hình phạt gần đây bởi {0}"
+185_157_601: "Hình phạt gần đây"
+185_729_016: "{0} không có hình phạt."

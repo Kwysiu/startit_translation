@@ -1,0 +1,41 @@
+# on_message_component_autochannels_ban
+185_057_356: "Chọn người dùng để chặn"
+
+# on_message_component_autochannels_kick
+185_469_455: "Chọn người dùng để khai trừ"
+
+# on_message_component_autochannels_invite
+185_274_320: "Chọn người dùng để mời"
+
+# on_message_component_autochannels_owner
+185_706_881: "Chọn người dùng để cấp quyền chủ sở hữu"
+
+# on_message_component_autochannels_name
+185_751_470: "Chỉnh sửa kênh"
+185_853_063: "Tên kênh"
+
+# on_message_component_autochannels_limit
+185_187_320: "Chỉnh sửa kênh"
+185_970_535: "Giới hạn kênh"
+
+# on_message_component_autochannels_do_name
+185_159_592: "Bạn đã đạt giới hạn sửa tên kênh trong 10 phút."
+
+# on_message_component_autochannels_do_limit
+185_434_353: "Số không hợp lệ. Nhập 0 để bỏ giới hạn, 1 đến 99 là giới hạn số người dùng."
+
+# on_message_component_autochannels_do_ban
+185_770_573: "Người dùng <@{0}> đã bị chặn khỏi kênh này bởi <@{1}>."
+
+# on_message_component_autochannels_do_invite
+185_382_238: "Người dùng <@{0}> đã được thêm vào kênh này bởi <@{1}>."
+
+# on_message_component_autochannels_do_kick
+185_992_134: "Người dùng <@{0}> đã bị khai trừ khỏi kênh này bởi <@{1}>."
+
+# on_message_component_autochannels_do_owner
+185_376_129: "Chủ sở hữu đã được chuyển sang <@{0}>."
+
+# on_message_component_autochannels_lock
+185_079_663: "Kênh đã mở khóa. Mọi người trong server có thể tham gia hoặc đọc cuộc trò chuyện."
+185_893_167: ":warning: Kênh đã bị khóa! Chỉ có các thành viên trong kênh mới có thể tham gia hoặc đọc cuộc trò chuyện."

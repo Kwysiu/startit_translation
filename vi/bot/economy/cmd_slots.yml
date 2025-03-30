@@ -1,0 +1,33 @@
+# generate_payout_table
+185_687_828: "Chi phí: {}  
+  Thanh toán tối thiểu: {}  
+  Thanh toán tối đa: {}"
+
+# slots
+185_898_861: "Không có máy xèng nào có sẵn."
+185_917_885: "Máy xèng"
+185_352_556: "Chọn một máy xèng để chơi"
+
+# start_game
+185_493_278: "hoặc"
+185_929_695: "Bảng thanh toán"
+185_969_635: "Thông thường"
+185_230_073: "Kéo cần gạt"
+
+# on_message_component_slots_machine_spin
+185_672_881: "Bạn không thể chơi máy xèng này."
+185_811_452: "Số dư của bạn quá thấp để chơi máy xèng này. Bạn cần {0} để chơi."
+185_760_620: "Bạn chỉ có thể chơi một máy xèng mỗi lần."
+185_086_252: "Máy xèng đang quay..."
+185_608_708: "Được tạo trong {0} ms"
+185_300_240: "Kéo cần gạt"
+185_437_519: "Thua"
+185_608_097: "Máy xèng \"{0}\": {1}"
+185_589_364: "Rất tiếc, bạn không thắng trong vòng này. Quay lại?"
+185_740_601: "{0} – Bạn thắng {1}!"
+185_270_500: "Được tạo trong {0} ms"
+185_690_675: "Kéo cần gạt"
+185_599_237: "Chiến thắng jackpot trên máy xèng"
+
+# start_game
+185_046_136: "JACKPOT"

@@ -1,0 +1,11 @@
+# like
+185_879_807: "Bạn đã thích <@{0}>."
+
+# dislike
+185_504_417: "Bạn đã không thích <@{0}>."
+
+# check
+185_616_502: "Bạn không thể thích chính mình."
+185_371_803: "**Bạn chỉ có thể thích hoặc không thích một lần mỗi ngày.**
+Lần hành động cuối: {0} {1}
+Lệnh mở khóa vào: {2}"

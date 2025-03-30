@@ -1,0 +1,17 @@
+# fetch_ticket
+185_567_019: "Lệnh này chỉ có thể được sử dụng trong kênh vé."
+
+# claim_function
+185_606_146: "Bạn không có quyền quản trị viên trong vé này."
+185_381_125: "Vé này đã được yêu cầu."
+185_766_728: "Yêu cầu vé"
+185_373_959: "Đóng vé"
+185_555_889: "Vé đã được yêu cầu"
+185_386_051: "Vé đã được yêu cầu bởi {}"
+
+# unclaim
+185_324_423: "Lệnh này chỉ có thể được sử dụng trong kênh vé."
+185_126_287: "Bạn không có quyền quản trị viên trong vé này."
+185_874_660: "Yêu cầu vé"
+185_779_275: "Đóng vé"
+185_882_632: "Quản trị viên {0} đã rời vé này."

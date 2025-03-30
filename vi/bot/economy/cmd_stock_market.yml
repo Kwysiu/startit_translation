@@ -1,0 +1,36 @@
+# stock_market_buy
+185_494_327: "Cổ phiếu không tìm thấy"
+185_677_265: "Cổ phiếu quá rẻ để mua"
+185_039_264: "Bạn không có đủ **{0}** để mua cổ phiếu này."
+185_593_906: "Bạn không có đủ **{0}** để mua cổ phiếu này."
+185_198_793: "Bạn đã mua **{0}** với giá **{1}**"
+
+# stock_market_sell
+185_038_441: "Cổ phiếu không tìm thấy"
+185_024_763: "Bạn không có cổ phiếu nào"
+185_192_362: "Bạn không có cổ phiếu này"
+185_563_081: "Bạn không có đủ cổ phiếu"
+185_146_252: "Bạn đã bán:"
+
+# stock_market_info
+185_954_227: "Cổ phiếu không tìm thấy"
+185_783_985: "Thông tin cổ phiếu"
+185_625_986: "Tên: {}Mã: {}Giá: {}"
+
+# stock_market_sell_all
+185_992_858: "Bạn không thể bán cổ phiếu cho người khác"
+185_697_177: "Bạn đã bán:"
+185_809_593: "Bạn sẽ bán:"
+185_384_474: "Bán"
+
+# stock_market_backpack
+185_735_864: "Balo cổ phiếu"
+185_629_744: "Giá mua: {}Lợi nhuận: {}"
+
+# stock_market_list
+185_614_912: "Danh sách cổ phiếu"
+
+# stock_market
+185_027_160: "Sử dụng không chính xác"
+185_576_404: "Bạn cần chỉ rõ bạn muốn làm gì. {}Lệnh có sẵn: {}"
+185_000_951: "Danh sách cổ phiếu"

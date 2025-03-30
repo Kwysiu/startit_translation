@@ -10,8 +10,7 @@
 | [de](/de) | Deutsch   | @bertraun        | [@BerTram-at](https://github.com/BerTram-at)     |
 | [pt](/pt) | Português | @elyrod          | [@elyrodso](https://github.com/elyrodso)         |
 | [fr](/fr) | Français  | @helios.0x       | [@Helios-Ox](https://github.com/Helios-Ox)       |
-
-
+| [vi](/vi) | Tiếng Việt| @carrot_eo       | [@junghamin1909](https://github.com/junghamin1909)|
 
 | Coordinator | @kwysiu |
 |-------------|---------|
