@@ -14,3 +14,21 @@
 
 # start_game
 185_230_073: "Zieh den Hebel"
+
+# on_message_component_slots_machine_spin
+185_672_881: "Du kannst an diesem Spieleautomaten nicht spielen."
+185_811_452: "Dein Guthaben ist zu niedrig, um diesen Spieleautomaten zu spielen. Du brauchst {0} zum Spielen."
+185_760_620: "Du kannst nur einen Spieleautomaten gleichzeitig spielen."
+185_086_252: "Der Spieleautomat dreht sich"
+185_608_708: "Generiert in {0} ms"
+185_300_240: "Zieh den Hebel"
+185_437_519: "Verloren"
+185_608_097: "Spieleautomat \"{0}\": {1}"
+185_589_364: "Leider hast du diese Runde nichts gewonnen. Nochmal drehen?"
+185_740_601: "{0} – Du hast gewonnen {1}!"
+185_270_500: "Generiert in {0} ms"
+185_690_675: "Zieh den Hebel"
+185_599_237: "Den JACKPOT am Spieleautomaten geewonnen"
+
+# start_game
+185_046_136: "JACKPOT"
