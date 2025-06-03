@@ -34,3 +34,14 @@
 
 # on_message_component_trade_accept
 185_987_887: "Ungültige Handels-ID"
+# on_message_component_trade_accept
+185_163_101: "Du bist nicht Teil dieses Handels"
+185_823_091: "Du hast diesen Handel bereits angenommen"
+185_561_215: "Veralteter Handel kann nicht angenommen werden"
+185_601_175: "Handel abgeschlossen"
+
+# trade_remove
+185_382_149: "Ungültige Handels-ID"
+185_625_871: "Du bist nicht Teil dieses Handels"
+
+185_365_430: "Ungültiger Artikelindex"
