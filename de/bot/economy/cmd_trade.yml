@@ -4,6 +4,7 @@
 185_777_210: "Unbekannter Gegenstand."
 185_372_552: "Dieser Gegenstand kann nicht verkauft werden."
 185_503_256: "Der Benutzer hat diesen Gegenstand nicht."
+# generate_embed
 185_556_186: "artikel-index"
 185_848_653: "Anzahl"
 185_571_141: "Artikel"
@@ -13,3 +14,23 @@
 185_768_088: "kann sein"
 185_005_082: "Handel abbrechen"
 185_064_711: "Die Transaction wird automatisch nach 15 Minuten abgebrochen"
+
+# trade_start
+185_652_040: "Du kannst nicht mit dir selbst handeln"
+
+# cancel_trade
+185_927_078: "Ungültige Handels-ID"
+185_504_987: "Handel abgebrochen"
+
+# gen_buttons
+185_826_323: "Handel annehmen"
+185_206_351: "Handel abbrechen"
+185_115_606: "Handel angenommen von"
+
+# trade_add
+185_566_412: "Ungültige Handels-ID"
+185_442_755: "Du bist nicht Teil dieses Handels"
+185_870_060: "Du hast die maximale Anzahl an Artikeln in einem Handel erreicht"
+
+# on_message_component_trade_accept
+185_987_887: "Ungültige Handels-ID"
