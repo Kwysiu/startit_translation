@@ -5,11 +5,11 @@
 # custom_reply
 185_647_835: "
 
-Tente novamente <t:{0}:R>
+Tente novamente {0}
 Saldo: {1}"
 185_190_040: "
 
-Ganhe mais <t:{0}:R>
+Ganhe mais {0}
 Saldo: {1}"
 
 # modlog_send

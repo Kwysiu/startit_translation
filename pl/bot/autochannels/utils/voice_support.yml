@@ -1,4 +1,4 @@
 # create_notification
-185_793_378: "{} Użytkownik <@{}> [@{}] dołączył <t:{}:R> na kanał <#{}>!"
+185_793_378: "{} Użytkownik <@{}> [@{}] dołączył {} na kanał <#{}>!"
 185_960_139: "Przenieś na mój kanał głosowy"
 185_759_295: "Przenieś na kanał tymczasowy"

@@ -2,7 +2,7 @@
 185_041_583: "Açık bilet sınırına ulaştınız: <#{}>."
 
 # before_open_ticket
-185_367_480: "Bu bileti oluşturmak için izniniz yok."
+185_367_480: "Bu bileti oluşturmak için izniniz yok. Required roles: {0}"
 185_810_724: "Rollerinizde yasaklı rol olduğu için bilet oluşturamazsınız: <@&{0}>"
 185_419_706: "Bilet"
 

@@ -5,10 +5,10 @@
 # custom_reply
 185_647_835: "
 
-Tekrar deneyin <t:{0}:R>"
+Tekrar deneyin {0}"
 185_190_040: "
 
-Daha fazla kazan <t:{0}:R>
+Daha fazla kazan {0}
 Bakiye: {1}"
 
 # modlog_send

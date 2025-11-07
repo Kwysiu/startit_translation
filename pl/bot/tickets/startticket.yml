@@ -2,7 +2,7 @@
 185_041_583: "Osiągnąłeś limit otwartych zgłoszeń: <#{}>."
 
 # before_open_ticket
-185_367_480: "Nie masz uprawnień do stworzenia tego zgłoszenia."
+185_367_480: "Nie masz uprawnień do stworzenia tego zgłoszenia. Wymagane role: {0}"
 185_810_724: "Nie możesz tworzyć zgłoszeń, ponieważ masz zabronioną rolę: <@&{0}>"
 185_419_706: "Zgłoszenie"
 

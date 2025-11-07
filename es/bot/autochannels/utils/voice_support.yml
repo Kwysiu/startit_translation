@@ -1,4 +1,4 @@
 # create_notification
-185_793_378: "{} Usuario <@{}> [@{}] se unió <t:{}:R> al canal <#{}>!"
+185_793_378: "{} Usuario <@{}> [@{}] se unió {} al canal <#{}>!"
 185_960_139: "Mover a mi canal de voz"
 185_759_295: "Mover a mi canal de voz temporal"

@@ -5,11 +5,11 @@
 # custom_reply
 185_647_835: "
 
-Versuche es erneut <t:{0}:R>
+Versuche es erneut {0}
 Bilanz: {1}"
 185_190_040: "
 
-Erhalte mehr <t:{0}:R>
+Erhalte mehr {0}
 Bilanz: {1}"
 
 # modlog_send

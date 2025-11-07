@@ -2,7 +2,7 @@
 185_041_583: "Du hast das Limit an geöffneten Tickets erreicht: <#{}>."
 
 # before_open_ticket
-185_367_480: "Du hast keine Berechtigung dieses Ticket zu öffnen."
+185_367_480: "Du hast keine Berechtigung dieses Ticket zu öffnen. Required roles: {0}"
 185_810_724: "Du hast aufgrund dieser Rolle keine Berechtigung ein Ticket zu öffnen: <@&{0}>"
 185_419_706: "Ticket"
 

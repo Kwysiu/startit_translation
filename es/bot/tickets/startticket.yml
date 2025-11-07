@@ -2,7 +2,7 @@
 185_041_583: "Has alcanzado el límite de tickets abiertos: <#{}>."
 
 # before_open_ticket
-185_367_480: "No tienes permiso para crear este ticket."
+185_367_480: "No tienes permiso para crear este ticket. Required roles: {0}"
 185_810_724: "No puedes crear tickets, porque tienes un rol prohibido: <@&{0}>"
 185_419_706: "Ticket"
 
