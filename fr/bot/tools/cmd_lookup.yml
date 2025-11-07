@@ -11,18 +11,6 @@
 185_694_868: "À rejoint Discord"
 185_412_467: "À rejoint la serveur"
 185_505_613: "Rôles"
-185_578_313: "Avis ({})"
-185_375_274: "Écrire un avis sur ReviewDB"
-
-# on_message_component_post_review
-185_017_006: "Publier l'avis sur ReviewDB"
-185_178_820: "Avis"
-185_913_187: "Spammer et écrire des avis offensant résultera en un bannissement. Soyez erspectueux envers les autres utilisateurs."
-
-# on_message_component_post_review_submit
-185_890_920: "Avis modifié"
-185_686_076: "Avis publié"
-185_961_539: "Erreur"
 
 # cmd_lookup_role
 185_770_494: "Oui"

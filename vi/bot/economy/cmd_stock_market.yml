@@ -1,6 +1,5 @@
 # stock_market_buy
 185_494_327: "Cổ phiếu không tìm thấy"
-185_677_265: "Cổ phiếu quá rẻ để mua"
 185_039_264: "Bạn không có đủ **{0}** để mua cổ phiếu này."
 185_593_906: "Bạn không có đủ **{0}** để mua cổ phiếu này."
 185_198_793: "Bạn đã mua **{0}** với giá **{1}**"
@@ -23,9 +22,8 @@
 185_809_593: "Bạn sẽ bán:"
 185_384_474: "Bán"
 
-# stock_market_backpack
+# backpack
 185_735_864: "Balo cổ phiếu"
-185_629_744: "Giá mua: {}Lợi nhuận: {}"
 
 # stock_market_list
 185_614_912: "Danh sách cổ phiếu"

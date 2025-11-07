@@ -11,18 +11,6 @@
 185_694_868: "Tham gia Discord"
 185_412_467: "Tham gia Server"
 185_505_613: "Vai trò"
-185_578_313: "Đánh giá ({})"
-185_375_274: "Viết đánh giá cho ReviewDB"
-
-# on_message_component_post_review
-185_017_006: "Đăng đánh giá lên ReviewDB"
-185_178_820: "Đánh giá"
-185_913_187: "Spam và viết đánh giá xúc phạm sẽ dẫn đến việc bị chặn. Hãy tôn trọng người dùng khác."
-
-# on_message_component_post_review_submit
-185_890_920: "Đánh giá đã được cập nhật"
-185_686_076: "Đánh giá đã được đăng"
-185_961_539: "Lỗi"
 
 # cmd_lookup_role
 185_770_494: "Có"

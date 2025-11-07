@@ -1,13 +1,11 @@
 # economy_add
 185_621_920: "Tham số vị trí phải để trống, là `ví` hoặc `ngân hàng`."
-185_243_535: "Lệnh này không khả dụng."
 185_431_005: "Số dư đã được cập nhật"
 185_591_777: "**Vai trò:** {0}  
 **Số tiền:** Tiền mặt: ``{1}`` | Ngân hàng: ``{2}``  
 **Người dùng:** {3}  
 **Kênh:** {4}  
 **Lý do:** {5}: lệnh /eco add"
-185_681_326: "Hành động đã hoàn thành trên **{0}** tài khoản."
 185_162_022: "Không có gì xảy ra."
 185_394_123: "{0}: lệnh /eco remove"
 185_648_490: "Đã xóa **{0}** khỏi tài khoản {1}."

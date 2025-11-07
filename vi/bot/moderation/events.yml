@@ -1,11 +1,5 @@
-# on_guild_ban_add
-185_270_439: "Người dùng đã bị chặn"
-
 # on_task_user_unmute
 185_526_477: "Cấm tiếng tạm thời đã hết hạn. Đã bỏ cấm tiếng tự động."
 
 # on_task_user_unban
 185_164_173: "Chặn tạm thời đã hết hạn. Đã mở khóa tự động."
-
-# on_guild_ban_remove
-185_506_825: "Người dùng đã được mở khóa"

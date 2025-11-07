@@ -1,11 +1,5 @@
-# on_guild_ban_add
-185_270_439: "Le membre à été banni"
-
 # on_task_user_unmute
 185_526_477: "Mute temporaire terminé. Démuté automatiquement."
 
 # on_task_user_unban
 185_164_173: "Bannissement temporaire terminé. Débanni automatiquement."
-
-# on_guild_ban_remove
-185_506_825: "Le membre à été débanni"

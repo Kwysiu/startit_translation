@@ -2,7 +2,13 @@
 185_925_288: "Ce membre possède un rôle plus haut que vous"
 185_196_213: "Ce membre est protégé"
 
-# modlog_send
+# modlog_embed
+185_110_356: "Le membre à été expulsé"
+185_495_043: "Le membre à été banni"
+185_035_707: "Le membre a été rendu muet"
+185_258_050: "Le membre à été démuté"
+185_632_395: "Le membre a été débanni"
+185_601_548: "{0} points d'avertissements ont été donné"
 185_875_745: "Membre"
 185_660_558: "Moderateur"
 185_238_144: "Motif"
@@ -12,7 +18,7 @@
 # modlog_send_legacy
 185_673_072: "Par :"
 
-# paginate
+# __paginate
 185_224_163: "
 
 Page: {}/{}"

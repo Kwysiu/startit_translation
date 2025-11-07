@@ -1,6 +1,5 @@
 # stock_market_buy
 185_494_327: "Action introuvable"
-185_677_265: "L'action est trop peu chère pour être achetée"
 185_039_264: "Tu n'as pas les **{0}** requis pour acheter cette action."
 185_593_906: "Tu n'as pas les **{0}** requis pour acheter cette action."
 185_198_793: "Tu a acheté **{0}** pour **{1}**"
@@ -23,9 +22,8 @@
 185_809_593: "Tu es sur le point de vendre :"
 185_384_474: "Vendre"
 
-# stock_market_backpack
+# backpack
 185_735_864: "Inventaire d'actions"
-185_629_744: "Pric d'achat: {}Profit: {}"
 
 # stock_market_list
 185_614_912: "Liste d'actions"

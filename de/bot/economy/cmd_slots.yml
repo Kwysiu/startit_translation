@@ -2,6 +2,7 @@
 185_687_828: "Kosteen: {}
   Mindestgewinn: {}
   Maximalgewinn: {}"
+
 # slots
 185_898_861: "Es sind keine Spieleautomaten verfügbar."
 185_917_885: "Spieleautomaten"
@@ -11,8 +12,6 @@
 185_493_278: "oder"
 185_929_695: "Auszahlungstabelle"
 185_969_635: "Gewöhnlich"
-
-# start_game
 185_230_073: "Zieh den Hebel"
 
 # on_message_component_slots_machine_spin

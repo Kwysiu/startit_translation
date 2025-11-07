@@ -1,4 +1,4 @@
-## generate_embed
+# generate_embed
 185_556_186: "chỉ số vật phẩm"
 185_848_653: "số lượng"
 185_571_141: "vật phẩm"
@@ -12,8 +12,10 @@
 # trade_start
 185_652_040: "Bạn không thể giao dịch với chính mình"
 
+# get_trade
+185_625_871: "Bạn không phải là một phần của giao dịch này"
+
 # cancel_trade
-185_927_078: "ID giao dịch không hợp lệ"
 185_504_987: "Giao dịch đã bị hủy"
 
 # gen_buttons
@@ -22,8 +24,6 @@
 185_115_606: "Giao dịch đã được chấp nhận bởi"
 
 # trade_add
-185_566_412: "ID giao dịch không hợp lệ"
-185_442_755: "Bạn không phải là một phần của giao dịch này"
 185_870_060: "Bạn đã đạt số lượng vật phẩm tối đa trong một giao dịch"
 185_775_783: "Bạn chỉ có thể xóa tối đa 50 vật phẩm mỗi lần"
 185_821_485: "Người dùng không có đủ vật phẩm."
@@ -39,6 +39,4 @@
 185_601_175: "Giao dịch đã hoàn thành"
 
 # trade_remove
-185_382_149: "ID giao dịch không hợp lệ"
-185_625_871: "Bạn không phải là một phần của giao dịch này"
 185_365_430: "Chỉ số vật phẩm không hợp lệ"

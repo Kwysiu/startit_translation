@@ -391,6 +391,7 @@
 185_804_556: "You just bought those stocks, please wait {0} before you sell them."
 
 # economy_stockmarket_remove
+185_837_494: "Stock not found"
 185_368_132: "Removed {0} **{1}** from {2} account"
 
 # backpack
@@ -428,12 +429,17 @@
 ############################
 # FILE: economy/cmd_eco.py #
 ############################
+# economy_add
+185_661_471: "Action completed on **{0}** accounts."
+
 # economy_set
+185_646_874: "Balance updated"
 185_515_284: "**Role:** {0}
 **Amount:** Cash: ``{1}`` | Bank: ``{2}``
 **Users:** {3}
 **Channel:** {4}
 **Reason:** {5}: /eco set command"
+185_131_598: "Action completed on **{0}** accounts."
 
 # economy_stockmarket_clear
 185_059_093: "Stocks of user {0} has been cleared."

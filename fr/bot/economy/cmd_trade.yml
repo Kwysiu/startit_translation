@@ -12,8 +12,10 @@
 # trade_start
 185_652_040: "Tu ne peux échanger avec toi-même"
 
+# get_trade
+185_625_871: "Tu ne participe pas à cet échangee"
+
 # cancel_trade
-185_927_078: "ID d'échange invalide"
 185_504_987: "Échange annulé"
 
 # gen_buttons
@@ -22,8 +24,6 @@
 185_115_606: "Échange accepté par"
 
 # trade_add
-185_566_412: "ID d'échange invalide"
-185_442_755: "Tu ne participe pas à cet échange"
 185_870_060: "Tu as atteint la quantité maximum d'objets dans cet échange"
 185_775_783: "Tu ne peux retirer que 50 à la fois"
 185_821_485: "Le membre n'a pas assez d'objets."
@@ -39,6 +39,4 @@
 185_601_175: "Échange terminé"
 
 # trade_remove
-185_382_149: "ID d'échange invalide"
-185_625_871: "Tu ne participe pas à cet échangee"
 185_365_430: "index d'objet invalide"

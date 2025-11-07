@@ -1,13 +1,11 @@
 # economy_add
 185_621_920: "L'argument d'emplacent doit être vide, `wallet` ou `bank`."
-185_243_535: "Cette commande n'est pas disponible."
 185_431_005: "Solde mise à jour"
 185_591_777: "**Rôle:** {0}
 **Montant:** Liquide : ``{1}`` | Banque : ``{2}``
 **Membres:** {3}
 **Salon:** {4}
 **Raison:** {5}: commande /eco add"
-185_681_326: "Opération effectuée sur **{0}** comptes."
 185_162_022: "Rien n'est arrivé."
 185_394_123: "{0}: commande /eco remove"
 185_648_490: "Retrait de **{0}** depuis le compte de {1}."
