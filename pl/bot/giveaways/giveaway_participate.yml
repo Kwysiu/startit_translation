@@ -1,4 +1,5 @@
 # on_message_component_giveaway
+185_001_648: "Nie masz ustawionego tagu serwera. Zrób to w ustawieniach użytkownika -> Profile. {0}"
 185_813_958: "Nie masz wymaganych przedmiotów oraz ról aby wziąć udział w tej zabawie losowej."
 185_517_756: "Nie masz wymaganego poziomu aby wziąć udział w tej zabawie losowej."
 185_125_220: "Nie masz wymaganej ilości pieniędzy aby wziąć udział w tej zabawie losowej."
@@ -7,4 +8,5 @@
 185_930_186: "Już jesteś zapisany na ten konkurs."
 185_766_677: "Upewnij się, że masz **{0}** w swoim portfelu."
 185_761_193: "Pomyślnie zagłosowałeś w tych wyborach."
+185_178_362: "Jesteś wykluczony z tego wydarzenia."
 185_043_591: "Pomyślnie wziąłeś udział w konkursie."

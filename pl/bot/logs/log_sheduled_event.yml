@@ -1,0 +1,17 @@
+# format_value
+185_677_330: "Tylko serwer"
+185_146_240: "Zaplanowane"
+185_639_597: "Aktywne"
+185_996_030: "Zakończone"
+185_687_504: "Anulowane"
+185_353_295: "Instancja podium"
+185_659_976: "Kanał głosowy"
+185_072_318: "Zewnętrzne"
+
+# on_guild_audit_log_entry_create
+185_546_865: "Wydarzenie zaplanowane utworzone"
+185_675_415: "Nowe wydarzenie zaplanowane zostało utworzone na serwerze."
+185_505_695: "Wydarzenie zaplanowane zaktualizowane"
+185_348_099: "Wydarzenie zaplanowane zostało zaktualizowane na serwerze."
+185_540_888: "Wydarzenie zaplanowane usunięte"
+185_227_666: "Wydarzenie zaplanowane zostało usunięte z serwera."

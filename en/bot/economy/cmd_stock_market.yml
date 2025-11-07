@@ -1,16 +1,23 @@
+# check_disabled
+185_061_620: "Stock market is disabled"
+
 # stock_market_buy
 185_494_327: "Stock not found"
-185_677_265: "Stock is too cheap to buy"
 185_039_264: "You don't have **{0}** to buy this stocks."
 185_593_906: "You don't have **{0}** to buy this stocks."
 185_198_793: "You bought **{0}** for **{1}**"
 
 # stock_market_sell
 185_038_441: "Stock not found"
+185_804_556: "You just bought those stocks, please wait {0} before you sell them."
 185_024_763: "You don't have any stocks"
 185_192_362: "You don't have this stocks"
 185_563_081: "You don't have enough stocks"
 185_146_252: "You sold:"
+
+# economy_stockmarket_remove
+185_837_494: "Stock not found"
+185_368_132: "Removed {0} **{1}** from {2} account"
 
 # stock_market_info
 185_954_227: "Stock not found"
@@ -23,9 +30,9 @@
 185_809_593: "You will sell:"
 185_384_474: "Sell"
 
-# stock_market_backpack
+# backpack
+185_043_983: "Purchase price: {}Market price: {}Profit: {}"
 185_735_864: "Stocks backpack"
-185_629_744: "Purchase price: {}Profit: {}"
 
 # stock_market_list
 185_614_912: "Stocks list"

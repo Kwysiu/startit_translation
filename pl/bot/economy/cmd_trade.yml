@@ -2,18 +2,28 @@
 185_556_186: "numer-przedmiotu"
 185_848_653: "ilość"
 185_571_141: "przedmiot"
+185_188_944: "Pieniądze: {0}"
+185_791_965: "Wymiana zakończona"
 185_811_335: "Wymiana"
 185_211_356: "Dodaj przedmiot do wymiany"
 185_192_167: "Usuń przedmiot z wymiany"
 185_768_088: "może być"
+185_760_774: "Dodaj pieniądze do wymiany"
+185_622_223: "Usuń pieniądze z wymiany"
 185_005_082: "Anuluj wymianę"
 185_064_711: "Transakcja zostanie automatycznie anulowana po 15 minutach"
 
 # trade_start
+185_747_395: "Masz już wymianę z tą osobą w toku - <#{}>."
 185_652_040: "Nie możesz handlować sam ze sobą"
+185_892_064: "Nie możesz rozpocząć wymiany w wątku."
+185_884_652: "Wymiana rozpoczęta w <#{}>"
+
+# get_trade
+185_377_197: "Musisz najpierw zacząć trade (za pomocą komendy {0}"
+185_625_871: "Nie jesteś częścią tej wymiany"
 
 # cancel_trade
-185_927_078: "Niepoprawne ID wymiany"
 185_504_987: "Wymiana anulowana"
 
 # gen_buttons
@@ -21,9 +31,13 @@
 185_206_351: "Anuluj wymianę"
 185_115_606: "Wymiana zaakceptowana przez"
 
+# trade_add_money
+185_322_818: "Nie masz tyle pieniędzy."
+
+# trade_rem_money
+185_456_777: "Błąd: Podałeś zbyt dużo pieniędzy"
+
 # trade_add
-185_566_412: "Niepoprawne ID wymiany"
-185_442_755: "Nie jesteś częścią tej wymiany"
 185_870_060: "Osiągnąłeś maksymalną ilość przedmiotów w wymianie"
 185_775_783: "Możesz usunąć tylko 50 sztuk na raz"
 185_821_485: "Użytkownik nie ma wystarczającej ilości przedmiotów."
@@ -39,6 +53,4 @@
 185_601_175: "Wymiana zakończona"
 
 # trade_remove
-185_382_149: "Niepoprawne ID wymiany"
-185_625_871: "Nie jesteś częścią tej wymiany"
 185_365_430: "Niepoprawny indeks przedmiotu"

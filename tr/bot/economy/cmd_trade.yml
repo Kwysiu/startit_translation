@@ -1,10 +1,4 @@
-# trade_add
-185_775_783: "Aynı anda yalnızca 50 öğeyi kaldırabilirsiniz"
-185_821_485: "Kullanıcının yeterli öğesi yok."
-185_777_210: "Bilinmeyen öğe."
-185_372_552: "Bu öğe satılamaz."
-185_503_256: "Kullanıcı bu öğeye sahip değil."
-
+# generate_embed
 185_556_186: "öğe-dizini"
 185_848_653: "miktar"
 185_571_141: "öğe"
@@ -18,8 +12,10 @@
 # trade_start
 185_652_040: "Kendinizle takas yapamazsınız"
 
+# get_trade
+185_625_871: "Siz bu takasın bir parçası değilsiniz"
+
 # cancel_trade
-185_927_078: "Geçersiz takas kimliği"
 185_504_987: "Takas iptal edildi"
 
 # gen_buttons
@@ -28,22 +24,19 @@
 185_115_606: "Takas tarafından kabul edildi"
 
 # trade_add
-185_566_412: "Geçersiz takas kimliği"
-185_442_755: "Siz bu takasın bir parçası değilsiniz"
 185_870_060: "Bir takastaki maksimum öğe miktarına ulaştınız"
+185_775_783: "Aynı anda yalnızca 50 öğeyi kaldırabilirsiniz"
+185_821_485: "Kullanıcının yeterli öğesi yok."
+185_777_210: "Bilinmeyen öğe."
+185_372_552: "Bu öğe satılamaz."
+185_503_256: "Kullanıcı bu öğeye sahip değil."
 
 # on_message_component_trade_accept
 185_987_887: "Geçersiz işlem kimliği"
-
-# on_message_component_trade_accept
 185_163_101: "Siz bu takasın bir parçası değilsiniz"
 185_823_091: "Bu takası zaten kabul ettiniz"
 185_561_215: "Eski bir takas kabul edilemez"
 185_601_175: "Takas tamamlandı"
-
-# trade_remove
-185_382_149: "Geçersiz takas kimliği"
-185_625_871: "Siz bu takasın bir parçası değilsiniz"
 
 # trade_remove
 185_365_430: "Geçersiz öğe dizini"

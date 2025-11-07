@@ -1,0 +1,19 @@
+# mass_role
+185_303_884: "Mass Role Management"
+185_558_207: "This command allows you to add or remove a role from multiple users at once. 
+ - Use `{0}massrole add <existing role> <new role>` to add new role to users with the existing role. 
+ - Use `{0}massrole remove <existing role> <new role>` to remove the new role from users with the existing role. 
+ - Use `{0}massrole add everyone <role>` to add a role to all server members. 
+ - Use `{0}massrole status` to check the current status of the mass role queue."
+
+# mass_role_add
+185_483_989: "Added {0} users to queue for receiving the role <@&{1}>"
+
+# mass_role_remove
+185_956_789: "Added {0} users to queue for revoking the role <@&{1}>"
+
+# mass_role_action
+185_166_862: "You cannot use the everyone role in the second argument."
+
+# mass_role_status
+185_958_295: "There are currently {} users in the queue for mass role changes."

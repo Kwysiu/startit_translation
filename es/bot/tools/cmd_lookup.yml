@@ -11,18 +11,6 @@
 185_694_868: "Se unió a Discord"
 185_412_467: "Se unió al servidor"
 185_505_613: "Roles"
-185_578_313: "Reseñas ({})"
-185_375_274: "Escribir reseña en ReviewDB"
-
-# on_message_component_post_review
-185_017_006: "Publicar reseña en ReviewDB"
-185_178_820: "Reseña"
-185_913_187: "El spam y la escritura de reseñas ofensivas resultarán en una prohibición. Por favor, respeta a los demás usuarios."
-
-# on_message_component_post_review_submit
-185_890_920: "Reseña actualizada"
-185_686_076: "Reseña publicada"
-185_961_539: "Error"
 
 # cmd_lookup_role
 185_770_494: "Sí"

@@ -1,13 +1,12 @@
 # economy_add
 185_621_920: "Location argument must be empty, `wallet` or `bank`."
-185_243_535: "This command is not available."
 185_431_005: "Balance updated"
 185_591_777: "**Role:** {0}
 **Amount:** Cash: ``{1}`` | Bank: ``{2}``
 **Users:** {3}
 **Channel:** {4}
 **Reason:** {5}: /eco add command"
-185_681_326: "Action completed on **{0}** accounts."
+185_661_471: "Action completed on **{0}** accounts."
 185_162_022: "Nothing happened."
 185_394_123: "{0}: /eco remove command"
 185_648_490: "Removed **{0}** from {1} account."
@@ -16,6 +15,13 @@
 
 # economy_set
 185_641_206: "Location argument must be empty, `wallet` or `bank`."
+185_646_874: "Balance updated"
+185_515_284: "**Role:** {0}
+**Amount:** Cash: ``{1}`` | Bank: ``{2}``
+**Users:** {3}
+**Channel:** {4}
+**Reason:** {5}: /eco set command"
+185_131_598: "Action completed on **{0}** accounts."
 185_946_315: "Nothing happened."
 185_189_710: "{0}: /eco set command"
 185_726_240: "The {1} wallet has been set to **{0}**."
@@ -37,3 +43,6 @@
 
 # economy_backpack_clear
 185_417_833: "Backpack of user {0} has been cleared."
+
+# economy_stockmarket_clear
+185_059_093: "Stocks of user {0} has been cleared."

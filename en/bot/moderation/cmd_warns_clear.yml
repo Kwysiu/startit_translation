@@ -1,4 +1,5 @@
 # warns_clear
 185_387_836: "Invalid warning ID."
+185_234_606: "Database couldn't process the request. The warning_id is probably too big. If you are trying to clear all warnings, use command: `warns clear-all`."
 185_976_330: "Invalid warning ID."
 185_682_869: "Deleted #{0} warning"

@@ -1,5 +1,6 @@
 # on_message_update
 185_718_868: "Message updated"
+185_535_420: "Message was edited on {}. [Go to message]({})"
 185_791_951: "Content before"
 185_935_379: "Content after"
 185_540_696: "Attachments before"

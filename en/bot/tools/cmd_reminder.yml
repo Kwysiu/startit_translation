@@ -1,0 +1,31 @@
+# on_message_component_reminder_snooze
+185_430_111: "Snooze"
+185_608_812: "Time"
+185_099_713: "1h 30m"
+
+# on_message_component_reminder_snooze_modal
+185_705_314: "Invalid time format. Use `1h 30m` or `1d 2h 3m`"
+
+# send_embed
+185_992_913: "There are no reminders set. Use `{0}reminder set 5m text` to set one"
+185_299_469: "#{0}: Reminder {1}:
+> {2}"
+185_324_452: "Reminders"
+185_445_100: "Set reminder using: {0}reminder set 5m text"
+
+# reminder_del
+185_015_031: "Please provide an #ID from `{0}reminder list` command or use `all` to delete all reminders"
+185_137_012: "All reminders deleted"
+185_738_103: "Reminder #{0} deleted"
+
+# reminder_set
+185_194_781: "You will be reminded in {0} about:"
+
+# set_reminder
+185_465_541: "<@{0}>: Reminder set. You will be reminded in {1} on this channel"
+185_201_549: "<@{0}>: Reminder set. You will be reminded in {1} on DM"
+
+# on_task_cmd_reminder
+185_271_311: "Reminder <@{0}>:
+>>> {1}"
+185_615_982: "Snooze"

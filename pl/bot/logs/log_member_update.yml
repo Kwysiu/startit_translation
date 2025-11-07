@@ -1,0 +1,9 @@
+# format_value
+185_969_866: "Tak"
+185_862_480: "Nie"
+
+# on_guild_audit_log_entry_create
+185_271_322: "Użytkownik zaktualizowany"
+185_035_921: "Użytkownik {0} został zaktualizowany"
+185_332_598: "Bot dodany"
+185_826_043: "Bot {0} został dodany na serwer przez {1}"

@@ -12,8 +12,10 @@
 # trade_start
 185_652_040: "No puedes intercambiar contigo mismo"
 
+# get_trade
+185_625_871: "No eres parte de este intercambio"
+
 # cancel_trade
-185_927_078: "ID de intercambio no válido"
 185_504_987: "Intercambio cancelado"
 
 # gen_buttons
@@ -22,8 +24,6 @@
 185_115_606: "Intercambio aceptado por"
 
 # trade_add
-185_566_412: "ID de intercambio no válido"
-185_442_755: "No eres parte de este intercambio"
 185_870_060: "Has alcanzado la cantidad máxima de objetos en un intercambio"
 185_775_783: "Solo puedes eliminar 50 artículos a la vez"
 185_821_485: "El usuario no tiene suficientes artículos."
@@ -39,6 +39,4 @@
 185_601_175: "Intercambio completado"
 
 # trade_remove
-185_382_149: "ID de intercambio no válido"
-185_625_871: "No eres parte de este intercambio"
 185_365_430: "Índice de objeto no válido"

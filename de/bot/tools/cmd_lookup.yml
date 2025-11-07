@@ -11,18 +11,6 @@
 185_694_868: "Discord beigetreten"
 185_412_467: "Server beigetreten"
 185_505_613: "Rollen"
-185_578_313: "Bewertungen ({})"
-185_375_274: "Bewertung an ReviewDB schreiben"
-
-# on_message_component_post_review
-185_017_006: "Bewertung an ReviewDB veröffentlichen"
-185_178_820: "Bewertung"
-185_913_187: "Spammen und verfassen von aggressiven Bewertungen endet in einem Bann. Sei bitte respektvoll zu anderen Menschen."
-
-# on_message_component_post_review_submit
-185_890_920: "Bewertung aktualisiert"
-185_686_076: "Bewertung veröffentlicht"
-185_961_539: "Fehler"
 
 # cmd_lookup_role
 185_770_494: "Ja"

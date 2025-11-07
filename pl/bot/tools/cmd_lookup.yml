@@ -11,18 +11,8 @@
 185_694_868: "Dołączył do discorda"
 185_412_467: "Dołączył do serwera"
 185_505_613: "Rangi"
-185_578_313: "Recenzje ({})"
-185_375_274: "Napisz opinię do ReviewDB"
-
-# on_message_component_post_review
-185_017_006: "Dodaj opinię do ReviewDB"
-185_178_820: "Opinia"
-185_913_187: "Spamowanie i pisanie obraźliwych recenzji skutkuje banem. Miej szacunek do innych użytkowników."
-
-# on_message_component_post_review_submit
-185_890_920: "Recenzja zaktualizowana"
-185_686_076: "Recenzja dodana"
-185_961_539: "Błąd"
+185_941_999: "Użytkownik nie nosi tagu tego serwera."
+185_617_889: "Staż tagu"
 
 # cmd_lookup_role
 185_770_494: "Tak"

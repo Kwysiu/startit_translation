@@ -1,0 +1,38 @@
+# format_overwrite
+185_102_836: "Zezwolono"
+185_886_140: "Odmówiono"
+
+# format_value
+185_548_183: "Włączony NSFW"
+185_744_419: "Wyłączony NSFW"
+185_634_585: "Kanał tekstowy"
+185_839_797: "Kanał DM"
+185_793_567: "Kanał głosowy"
+185_167_220: "Kanał grupowy DM"
+185_877_031: "Kategoria"
+185_278_964: "Kanał ogłoszeń"
+185_762_148: "Wątek ogłoszeniowy"
+185_116_577: "Wątek publiczny"
+185_446_704: "Wątek prywatny"
+185_153_440: "Kanał podium"
+185_868_323: "Kanał katalogu"
+185_040_912: "Kanał forum"
+185_102_931: "Kanał mediów"
+185_858_974: "Przypięty"
+185_579_338: "Wymagaj tagu"
+185_166_924: "Ukryj opcję pobierania mediów"
+
+# on_guild_audit_log_entry_create
+185_048_598: "Kanał utworzony"
+185_763_335: "Kanał {0} został utworzony"
+185_874_786: "Kanał zaktualizowany"
+185_140_337: "Kanał {0} został zaktualizowany"
+185_757_035: "Kanał usunięty"
+185_557_194: "Kanał został usunięty"
+185_419_392: "Przywróć kanał"
+
+# on_message_component_logs_restore
+185_230_957: "Aby przywrócić kanał, potrzebujesz uprawnienia Administrator."
+185_477_649: "Dane do przywrócenia kanału wygasły."
+185_028_735: "Nie udało się przywrócić kanału: {}"
+185_934_549: "Kanał został przywrócony."

@@ -2,7 +2,13 @@
 185_925_288: "Este usuario es de mayor jerarquía que tú"
 185_196_213: "Este usuario está protegido"
 
-# modlog_send
+# modlog_embed
+185_110_356: "El usuario ha sido expulsado"
+185_495_043: "El usuario ha sido prohibido"
+185_035_707: "El usuario ha sido silenciado"
+185_258_050: "El usuario ha sido desilenciado"
+185_632_395: "El usuario ha sido desbloqueado"
+185_601_548: "Se ha dado {0} punto de advertencia"
 185_875_745: "Usuario"
 185_660_558: "Moderador"
 185_238_144: "Razón"
@@ -12,7 +18,7 @@
 # modlog_send_legacy
 185_673_072: "Por:"
 
-# paginate
+# __paginate
 185_224_163: "
 
 Page: {}/{}"

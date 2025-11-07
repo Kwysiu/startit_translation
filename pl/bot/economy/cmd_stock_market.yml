@@ -1,16 +1,23 @@
+# check_disabled
+185_061_620: "Giełda jest wyłączona"
+
 # stock_market_buy
 185_494_327: "Nie znaleziono akcji"
-185_677_265: "Akcja jest za tania, aby ją kupić"
 185_039_264: "Nie masz **{0}** aby zakupić tą akcję."
 185_593_906: "Nie masz **{0}** aby zakupić tą akcję."
 185_198_793: "Kupiłeś **{0}** za **{1}**"
 
 # stock_market_sell
 185_038_441: "Nie znaleziono akcji"
+185_804_556: "Właśnie kupiłeś te akcje, proszę poczekaj {0} przed sprzedażą."
 185_024_763: "Nie posiadasz żadnych akcji"
 185_192_362: "Nie posiadasz tej akcji"
 185_563_081: "Nie posiadasz tylu akcji"
 185_146_252: "Sprzedałeś:"
+
+# economy_stockmarket_remove
+185_837_494: "Nie znaleziono akcji"
+185_368_132: "Usunięto {0} **{1}** z konta użytkownika {2}."
 
 # stock_market_info
 185_954_227: "Nie znaleziono akcji"
@@ -23,9 +30,9 @@
 185_809_593: "Sprzedasz:"
 185_384_474: "Sprzedaj"
 
-# stock_market_backpack
+# backpack
+185_043_983: "Cena nabycia: {}Cena rynkowa: {}Zysk: {}"
 185_735_864: "Plecak akcji"
-185_629_744: "Cena zakupu: {}Zysk: {}"
 
 # stock_market_list
 185_614_912: "Lista akcji"

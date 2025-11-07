@@ -2,7 +2,13 @@
 185_925_288: "Bu kullanıcı sizden daha yüksek bir role sahip"
 185_196_213: "Bu kullanıcı korunuyor"
 
-# modlog_send
+# modlog_embed
+185_110_356: "Kullanıcı atıldı"
+185_495_043: "Kullanıcı yasaklandı"
+185_035_707: "Kullanıcının susturuldu"
+185_258_050: "Kullanıcının susturması açıldı"
+185_632_395: "Kullanıcının yasağı kaldırıldı"
+185_601_548: "{0} uyarı puanı verildi"
 185_875_745: "Kullanıcı"
 185_660_558: "Moderatör"
 185_238_144: "Sebep"
@@ -12,7 +18,7 @@
 # modlog_send_legacy
 185_673_072: "Moderatör:"
 
-# paginate
+# __paginate
 185_224_163: "
 
 Sayfa: {}/{}"

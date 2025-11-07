@@ -1,0 +1,7 @@
+# snipe
+185_547_777: "To use this command you have to enable message logs channel in bot dashboard."
+185_379_550: "There are no deleted messages yet."
+185_787_566: "Reset message logs via `{0}snipe clear` command"
+
+# snipe_clear
+185_343_531: "Successfully cleared last message logs."

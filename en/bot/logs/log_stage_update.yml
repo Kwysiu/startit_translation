@@ -1,0 +1,7 @@
+# on_guild_audit_log_entry_create
+185_174_381: "Started stage on channel"
+185_901_802: "Stage has been started on channel {0}"
+185_100_859: "Updated stage on channel"
+185_837_101: "Stage has been updated on channel {0}"
+185_242_380: "Ended stage on channel"
+185_753_710: "Stage has been ended on channel {0}"

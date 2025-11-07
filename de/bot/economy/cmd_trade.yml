@@ -1,9 +1,3 @@
-# trade_add
-185_775_783: "Du kannst nur 50 Gegenstände auf einmal entfernen."
-185_821_485: "Der Benutzer hat nicht genügend Gegenstände."
-185_777_210: "Unbekannter Gegenstand."
-185_372_552: "Dieser Gegenstand kann nicht verkauft werden."
-185_503_256: "Der Benutzer hat diesen Gegenstand nicht."
 # generate_embed
 185_556_186: "artikel-index"
 185_848_653: "Anzahl"
@@ -18,8 +12,10 @@
 # trade_start
 185_652_040: "Du kannst nicht mit dir selbst handeln"
 
+# get_trade
+185_625_871: "Du bist nicht Teil dieses Handels"
+
 # cancel_trade
-185_927_078: "Ungültige Handels-ID"
 185_504_987: "Handel abgebrochen"
 
 # gen_buttons
@@ -28,20 +24,19 @@
 185_115_606: "Handel angenommen von"
 
 # trade_add
-185_566_412: "Ungültige Handels-ID"
-185_442_755: "Du bist nicht Teil dieses Handels"
 185_870_060: "Du hast die maximale Anzahl an Artikeln in einem Handel erreicht"
+185_775_783: "Du kannst nur 50 Gegenstände auf einmal entfernen."
+185_821_485: "Der Benutzer hat nicht genügend Gegenstände."
+185_777_210: "Unbekannter Gegenstand."
+185_372_552: "Dieser Gegenstand kann nicht verkauft werden."
+185_503_256: "Der Benutzer hat diesen Gegenstand nicht."
 
 # on_message_component_trade_accept
 185_987_887: "Ungültige Handels-ID"
-# on_message_component_trade_accept
 185_163_101: "Du bist nicht Teil dieses Handels"
 185_823_091: "Du hast diesen Handel bereits angenommen"
 185_561_215: "Veralteter Handel kann nicht angenommen werden"
 185_601_175: "Handel abgeschlossen"
 
 # trade_remove
-185_382_149: "Ungültige Handels-ID"
-185_625_871: "Du bist nicht Teil dieses Handels"
-
 185_365_430: "Ungültiger Artikelindex"

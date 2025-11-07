@@ -1,6 +1,5 @@
 # stock_market_buy
 185_494_327: "Aktie nicht gefunden"
-185_677_265: "Die Aktie ist zu billig, um sie zu kaufen"
 185_039_264: "Du hast nicht genügend **{0}**, um diese Aktien zu kaufen."
 185_593_906: "Du hast nicht genügend **{0}**, um diese Aktien zu kaufen."
 185_198_793: "Du hast **{0}** für **{1}** gekauft"
@@ -11,6 +10,9 @@
 185_192_362: "Du besitzt diese Aktien nicht"
 185_563_081: "Du hast verkauft:"
 185_146_252: "Du hast verkauft:"
+
+# economy_stockmarket_remove
+185_837_494: "Aktie nicht gefunden"
 
 # stock_market_info
 185_954_227: "Aktie nicht gefunden"
@@ -23,9 +25,8 @@
 185_809_593: "Du wirst verkaufen:"
 185_384_474: "Verkaufen"
 
-# stock_market_backpack
+# backpack
 185_735_864: "Aktienrucksack"
-185_629_744: "Kaufpreis: {}Gewinn: {}"
 
 # stock_market_list
 185_614_912: "Aktienliste"

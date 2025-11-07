@@ -11,6 +11,9 @@
 185_715_020: "Ręka krupiera"
 185_093_203: "Wartość"
 
+# on_task_cancel_blackjack
+185_756_240: "Czas minął."
+
 # do_action
 185_015_403: "Anulowano."
 185_186_978: "Pass: /blackjack"

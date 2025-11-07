@@ -1,0 +1,31 @@
+# on_message_component_reminder_snooze
+185_430_111: "Drzemka"
+185_608_812: "Czas"
+185_099_713: "1h 30m"
+
+# on_message_component_reminder_snooze_modal
+185_705_314: "Niepoprawny format czasu. Użyj `1h 30m` lub `1d 2h 3m`"
+
+# send_embed
+185_992_913: "Nie ma ustawionych przypomnień. Użyj `{0}reminder set 5m tekst`, aby ustawić jedno"
+185_299_469: "#{0}: Przypomnienie {1}:
+> {2}"
+185_324_452: "Przypomnienia"
+185_445_100: "Ustaw przypomnienie używając: {0}reminder set 5m tekst"
+
+# reminder_del
+185_015_031: "Podaj #ID z komendy `{0}reminder list` lub użyj `all`, aby usunąć wszystkie przypomnienia"
+185_137_012: "Wszystkie przypomnienia usunięte"
+185_738_103: "Przypomnienie #{0} usunięte"
+
+# reminder_set
+185_194_781: "Zostaniesz powiadomiony w ciągu {0} o:"
+
+# set_reminder
+185_465_541: "<@{0}>: Ustawiono przypomnienie. Otrzymasz przypomnienie {1} na tym kanale"
+185_201_549: "<@{0}>: Ustawiono przypomnienie. Otrzymasz przypomnienie {1} na PV"
+
+# on_task_cmd_reminder
+185_271_311: "Przypomnienie <@{0}>:
+>>> {1}"
+185_615_982: "Drzemka"

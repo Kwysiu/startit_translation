@@ -11,18 +11,8 @@
 185_694_868: "Joined Discord"
 185_412_467: "Joined Server"
 185_505_613: "Roles"
-185_578_313: "Reviews ({})"
-185_375_274: "Write review to ReviewDB"
-
-# on_message_component_post_review
-185_017_006: "Post review to ReviewDB"
-185_178_820: "Review"
-185_913_187: "Spamming and writing offensive reviews will result with a ban. Please be respectful to other users."
-
-# on_message_component_post_review_submit
-185_890_920: "Review updated"
-185_686_076: "Review posted"
-185_961_539: "Error"
+185_941_999: "The user does not carry the tag of this server."
+185_617_889: "Tag seniority"
 
 # cmd_lookup_role
 185_770_494: "Yes"

@@ -11,18 +11,6 @@
 185_694_868: "Entrou no Discord"
 185_412_467: "Entrou no Servidor"
 185_505_613: "Cargos"
-185_578_313: "Reviews ({})"
-185_375_274: "Escreva uma review para ReviewDB"
-
-# on_message_component_post_review
-185_017_006: "Poste uma review para ReviewDB"
-185_178_820: "Review"
-185_913_187: "Spam e a escrita de comentários ofensivos resultarão num banimento. Respeite os outros utilizadores."
-
-# on_message_component_post_review_submit
-185_890_920: "Review atualizada"
-185_686_076: "Review postada"
-185_961_539: "Erro"
 
 # cmd_lookup_role
 185_770_494: "Sim"

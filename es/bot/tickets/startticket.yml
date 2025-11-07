@@ -1,4 +1,4 @@
-# on_message_component_ticketing_open
+# valid_limits
 185_041_583: "Has alcanzado el límite de tickets abiertos: <#{}>."
 
 # before_open_ticket

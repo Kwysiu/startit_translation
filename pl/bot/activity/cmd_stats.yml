@@ -1,0 +1,31 @@
+# stats_page
+185_642_706: "- **Liczba wiadomości:** 
+  - {0}
+- **Wiadomości w ostatnich 24 godzinach:** 
+  - {1} ({2})
+- **Wiadomości w ostatnim tygodniu:** 
+  - {3} ({4})
+- **Wiadomości w ostatnim miesiącu:** 
+  - {5} ({6})"
+185_299_535: "Strefa czasowa: {0}"
+
+# get_embed_title
+185_197_367: "Dzienny ranking wiadomości"
+185_279_945: "Tygodniowy ranking wiadomości"
+185_553_373: "Miesięczny ranking wiadomości"
+185_273_401: "Ranking wiadomości na kanale"
+185_172_530: "Ranking wiadomości użytkownika"
+185_582_011: "Ogólny ranking wiadomości"
+185_747_694: "Ranking wiadomości serwera"
+
+# stats
+185_880_308: "## Ranking wiadomości użytkowników
+- `{0}stats total` - Ranking użytkowników według liczby wiadomości
+- `{0}stats day` - Ranking użytkowników według wiadomości w ostatnich 24 godzinach
+- `{0}stats week` - Ranking użytkowników według wiadomości w ostatnim tygodniu
+- `{0}stats month` - Ranking użytkowników według wiadomości w ostatnim miesiącu
+
+## Statystyki serwera
+- `{0}stats guild` - Statystyki ze wszystkich kanałów
+- `{0}stats channel <channel>` - Statystyki kanału
+- `{0}stats user <user>` - Statystyki użytkownika"

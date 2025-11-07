@@ -2,18 +2,28 @@
 185_556_186: "item-index"
 185_848_653: "amount"
 185_571_141: "item"
+185_188_944: "Money: {0}"
+185_791_965: "Trade completed"
 185_811_335: "Trade"
 185_211_356: "Add an item to the trade"
 185_192_167: "Remove an item from the trade"
 185_768_088: "can be"
+185_760_774: "Add money to the trade"
+185_622_223: "Remove money from the trade"
 185_005_082: "Cancel the trade"
 185_064_711: "Transaction will be cancelled automatically after 15 minutes"
 
 # trade_start
+185_747_395: "You already have a trade with this user in progress - <#{}>."
 185_652_040: "You cannot trade with yourself"
+185_892_064: "You can't start a trade in a thread."
+185_884_652: "Trade started in <#{}>"
+
+# get_trade
+185_377_197: "You have to start trade first (with {0} command)"
+185_625_871: "You are not part of this trade"
 
 # cancel_trade
-185_927_078: "Invalid trade ID"
 185_504_987: "Trade cancelled"
 
 # gen_buttons
@@ -21,9 +31,13 @@
 185_206_351: "Cancel trade"
 185_115_606: "Trade accepted by"
 
+# trade_add_money
+185_322_818: "You don't have enough money."
+
+# trade_rem_money
+185_456_777: "Error: You've provided too much money"
+
 # trade_add
-185_566_412: "Invalid trade ID"
-185_442_755: "You are not part of this trade"
 185_870_060: "You have reached the maximum amount of items in a trade"
 185_775_783: "You can only remove 50 items at once"
 185_821_485: "User doesn't have enough items."
@@ -39,6 +53,4 @@
 185_601_175: "Trade completed"
 
 # trade_remove
-185_382_149: "Invalid trade ID"
-185_625_871: "You are not part of this trade"
 185_365_430: "Invalid item index"

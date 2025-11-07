@@ -1,0 +1,8 @@
+# format_value
+185_471_955: "Temporary, kick when offline"
+185_072_635: "Guest invite for a voice channel"
+
+# on_guild_audit_log_entry_create
+185_929_901: "Invite created"
+185_534_661: "Invite updated"
+185_350_302: "Invite deleted"

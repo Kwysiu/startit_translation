@@ -2,7 +2,13 @@
 185_925_288: "Dieser Benutzer hat eine höhere Rolle als du"
 185_196_213: "Dieser Benutzer ist geschützt"
 
-# modlog_send
+# modlog_embed
+185_110_356: "Benutzer wurde gekickt"
+185_495_043: "Benutzer wurde gebannt"
+185_035_707: "Benutzer wurde gemuted"
+185_258_050: "Benutzer wurde entmuted"
+185_632_395: "Benutzer wurde entbannt"
+185_601_548: "{0} Verwarnungspunkte wurden vergeben"
 185_875_745: "Benutzer"
 185_660_558: "Moderator"
 185_238_144: "Grund"
@@ -12,7 +18,7 @@
 # modlog_send_legacy
 185_673_072: "Von:"
 
-# paginate
+# __paginate
 185_224_163: "
 
 Seite: {} von {}"

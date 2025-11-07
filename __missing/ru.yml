@@ -4,103 +4,881 @@
 # We will take care of moving your translations to the correct folders and files.
 
 
-# FILE: tools/cmd_gstart.py
+# FILE: tickets/on_leave.py
 
-# send_error
-185_005_589: "This command has been removed, use the giveaway plugin in [StartIT Dashboard](<https://startit.bot/>)."
+# on_guild_member_remove
+185_268_176: "Ticket closed because the author left the server."
+
+# FILE: logs/cmd_snipe.py
+
+# snipe
+185_547_777: "To use this command you have to enable message logs channel in bot dashboard."
+185_379_550: "There are no deleted messages yet."
+
+# FILE: moderation/cmd_mass_role.py
+
+# mass_role
+185_303_884: "Mass Role Management"
+185_558_207: "This command allows you to add or remove a role from multiple users at once. 
+ - Use `{0}massrole add <existing role> <new role>` to add new role to users with the existing role. 
+ - Use `{0}massrole remove <existing role> <new role>` to remove the new role from users with the existing role. 
+ - Use `{0}massrole add everyone <role>` to add a role to all server members. 
+ - Use `{0}massrole status` to check the current status of the mass role queue."
+
+# FILE: logs/log_stage_update.py
+
+# on_guild_audit_log_entry_create
+185_174_381: "Started stage on channel"
+
+# FILE: logs/log_sticker_update.py
+
+# format_value
+185_871_267: "PNG"
+
+# FILE: tools/cmd_whoiam.py
+
+# whoiam
+185_570_175: "Text game: I’ve sent you private message with a random character. Let other people try to guess who it is by asking you yes/no questions. The game continues until someone guesses the character correctly. Good luck!"
+
+# FILE: logs/log_stage_update.py
+
+# on_guild_audit_log_entry_create
+185_901_802: "Stage has been started on channel {0}"
+
+# FILE: logs/log_sticker_update.py
+
+# format_value
+185_278_949: "APNG"
+185_451_868: "Lottie"
+
+# FILE: logs/log_sheduled_event.py
+185_677_330: "Guild Only"
+
+# FILE: logs/log_invite_update.py
+185_471_955: "Temporary, kick when offline"
+
+# FILE: logs/log_sticker_update.py
+185_991_341: "GIF"
+
+# FILE: logs/log_thread_create.py
+
+# on_guild_audit_log_entry_create
+185_737_760: "Thread created"
+
+# FILE: economy/case.py
+
+# on_task_open_case
+185_589_193: "You hit: "
+
+# FILE: automod/utils_actions/message.py
+
+# action_message
+185_256_339: "Message from {0}"
+
+# FILE: logs/log_auditlog_global.py
+
+# send_logs
+185_541_614: "None"
+
+# FILE: logs/log_thread_create.py
+
+# on_guild_audit_log_entry_create
+185_044_450: "A new thread has been created in the server."
+
+# FILE: logs/cmd_snipe.py
+
+# snipe
+185_787_566: "Reset message logs via `{0}snipe clear` command"
+
+# FILE: moderation/cmd_warns_clear.py
+
+# warns_clear
+185_234_606: "Database couldn't process the request. The warning_id is probably too big. If you are trying to clear all warnings, use command: `warns clear-all`."
+
+# FILE: logs/log_role_update.py
+
+# on_guild_audit_log_entry_create
+185_536_257: "Role created"
+
+# FILE: logs/log_stage_update.py
+185_100_859: "Updated stage on channel"
+
+# FILE: economy/case.py
+
+# on_task_open_case
+185_893_126: " - Nothing - empty slot"
+
+# FILE: automations/utils_actions/open_modal.py
+
+# open_modal
+185_739_148: "Formularz"
+
+# FILE: logs/log_member_update.py
+
+# format_value
+185_969_866: "Yes"
+
+# FILE: logs/log_role_update.py
+
+# on_guild_audit_log_entry_create
+185_705_318: "{0} role has been created"
+
+# FILE: logs/log_stage_update.py
+185_837_101: "Stage has been updated on channel {0}"
+
+# FILE: logs/log_invite_update.py
+
+# format_value
+185_072_635: "Guest invite for a voice channel"
+
+# FILE: logs/log_member_update.py
+185_862_480: "No"
+
+# FILE: logs/log_sheduled_event.py
+185_146_240: "Scheduled"
+185_639_597: "Active"
+
+# FILE: logs/log_thread_create.py
+
+# on_guild_audit_log_entry_create
+185_112_398: "Thread updated"
+
+# FILE: logs/log_sheduled_event.py
+
+# format_value
+185_996_030: "Completed"
+
+# FILE: moderation/cmd_mass_role.py
+
+# mass_role_add
+185_483_989: "Added {0} users to queue for receiving the role <@&{1}>"
+
+# FILE: logs/log_thread_create.py
+
+# on_guild_audit_log_entry_create
+185_061_467: "A thread has been updated in the server."
+
+# FILE: logs/log_sheduled_event.py
+
+# format_value
+185_687_504: "Canceled"
+
+# FILE: logs/log_emoji.py
+
+# on_guild_audit_log_entry_create
+185_193_051: "Emoji created"
+
+# FILE: logs/log_stage_update.py
+185_242_380: "Ended stage on channel"
+
+# FILE: logs/cmd_snipe.py
+
+# snipe_clear
+185_343_531: "Successfully cleared last message logs."
+
+# FILE: logs/log_pin.py
+
+# on_guild_audit_log_entry_create
+185_473_578: "Message pinned"
+
+# FILE: logs/log_role_update.py
+185_692_168: "Role updated"
+
+# FILE: core/cmd_server.py
+
+# server
+185_291_527: "Server not found"
+
+# FILE: logs/log_emoji.py
+
+# on_guild_audit_log_entry_create
+185_354_903: "Emoji {} has been created"
+
+# FILE: logs/log_stage_update.py
+185_753_710: "Stage has been ended on channel {0}"
+
+# FILE: logs/log_pin.py
+185_344_365: "Message unpinned"
+
+# FILE: logs/log_sticker_update.py
+185_951_215: "Sticker created"
+
+# FILE: logs/log_role_update.py
+185_636_216: "Role {0} has been updated"
+
+# FILE: economy/cmd_stock_market.py
+
+# check_disabled
+185_061_620: "Stock market is disabled"
+
+# FILE: logs/log_invite_update.py
+
+# on_guild_audit_log_entry_create
+185_929_901: "Invite created"
+
+# FILE: logs/log_thread_create.py
+185_094_030: "Thread deleted"
+
+# FILE: logs/log_sticker_update.py
+185_936_965: "A new sticker has been created in the server."
+
+# FILE: logs/log_sheduled_event.py
+
+# format_value
+185_353_295: "Stage Instance"
+
+# FILE: logs/log_thread_create.py
+
+# on_guild_audit_log_entry_create
+185_632_586: "A thread has been deleted in the server."
+
+# FILE: logs/log_sheduled_event.py
+
+# format_value
+185_659_976: "Voice Channel"
+185_072_318: "External"
+
+# FILE: logs/log_pin.py
+
+# on_guild_audit_log_entry_create
+185_462_209: "Message"
+
+# FILE: logs/log_emoji.py
+185_073_669: "Emoji updated"
+
+# FILE: logs/log_pin.py
+185_644_619: "ID"
+
+# FILE: logs/log_role_update.py
+185_126_155: "Role deleted"
+
+# FILE: logs/log_sticker_update.py
+185_580_482: "Sticker updated"
+
+# FILE: logs/log_member_update.py
+185_271_322: "Member updated"
+
+# FILE: logs/log_emoji.py
+185_642_915: "Emoji {} has been updated"
+
+# FILE: logs/log_invite_update.py
+185_534_661: "Invite updated"
+
+# FILE: logs/log_role_update.py
+185_867_679: "Role has been deleted"
+
+# FILE: logs/log_sticker_update.py
+185_331_095: "A sticker has been updated in the server."
+
+# FILE: logs/log_member_update.py
+185_035_921: "User {0} has been updated"
+
+# FILE: automations/utils_actions/open_modal.py
+
+# open_modal
+185_813_008: "Open form"
+
+# FILE: logs/log_pin.py
+
+# on_guild_audit_log_entry_create
+185_307_832: "Jump to message"
+
+# FILE: moderation/cmd_mass_role.py
+
+# mass_role_remove
+185_956_789: "Added {0} users to queue for revoking the role <@&{1}>"
+
+# FILE: logs/log_emoji.py
+
+# on_guild_audit_log_entry_create
+185_180_817: "Emoji deleted"
+
+# FILE: logs/log_invite_update.py
+185_350_302: "Invite deleted"
+
+# FILE: logs/log_sticker_update.py
+185_011_692: "Sticker deleted"
+
+# FILE: logs/log_member_update.py
+185_332_598: "Bot added"
+
+# FILE: logs/log_webhook_update.py
+185_048_277: "Webhook created"
+
+# FILE: logs/messageUpdate.py
+
+# on_message_update
+185_535_420: "Message was edited on {}. [Go to message]({})"
+
+# FILE: logs/log_sticker_update.py
+
+# on_guild_audit_log_entry_create
+185_621_958: "A sticker has been deleted from the server."
+
+# FILE: logs/log_member_update.py
+185_826_043: "Bot {0} has been added to the server by {1}"
+
+# FILE: moderation/cmd_mass_role.py
+
+# mass_role_action
+185_166_862: "You cannot use the everyone role in the second argument."
+
+# FILE: logs/log_webhook_update.py
+
+# on_guild_audit_log_entry_create
+185_257_694: "Webhook on channel {} has been created"
+
+# FILE: logs/log_guild_update.py
+185_249_704: "Guild updated"
+185_929_078: "Guild settings have been updated"
+
+# FILE: logs/log_webhook_update.py
+185_775_524: "Webhook updated"
+
+# FILE: levels/cmd_toplvl.py
+
+# toplvl
+185_274_612: "-# Ranking was refreshed {0}. Next {1}."
+
+# FILE: logs/log_webhook_update.py
+
+# on_guild_audit_log_entry_create
+185_817_938: "Webhook on channel {} has been updated"
+185_998_024: "Webhook deleted"
+
+# FILE: logs/log_sheduled_event.py
+185_546_865: "Scheduled event created"
+
+# FILE: giveaways/giveaway_participate.py
+
+# on_message_component_giveaway
+185_001_648: "You haven't set the server tag. Do it in the user settings -> Profiles. {0}"
+
+# FILE: moderation/utils_actions/unmute.py
+
+# unmute_user
+185_912_666: "This action had no effect. Provided invalid user or they are not muted."
+
+# FILE: tickets/on_inactive.py
+
+# on_task_ticketing_close
+185_560_509: "Ticket closed because there was no activity for {0}"
+
+# FILE: logs/log_sheduled_event.py
+
+# on_guild_audit_log_entry_create
+185_675_415: "A new scheduled event has been created in the server."
+
+# FILE: tools/cmd_reminder.py
+
+# on_message_component_reminder_snooze
+185_430_111: "Snooze"
+185_608_812: "Time"
+
+# FILE: logs/log_sheduled_event.py
+
+# on_guild_audit_log_entry_create
+185_505_695: "Scheduled event updated"
 
 # FILE: economy/cmd_trade.py
 
 # generate_embed
 185_556_186: "item-index"
+
+# FILE: logs/log_sheduled_event.py
+
+# on_guild_audit_log_entry_create
+185_348_099: "A scheduled event has been updated in the server."
+
+# FILE: tools/cmd_reminder.py
+
+# on_message_component_reminder_snooze
+185_099_713: "1h 30m"
+
+# FILE: economy/cmd_trade.py
+
+# generate_embed
 185_848_653: "amount"
 185_571_141: "item"
+
+# FILE: logs/log_sheduled_event.py
+
+# on_guild_audit_log_entry_create
+185_540_888: "Scheduled event deleted"
+185_227_666: "A scheduled event has been deleted from the server."
+
+# FILE: moderation/cmd_mass_role.py
+
+# mass_role_status
+185_958_295: "There are currently {} users in the queue for mass role changes."
+
+# FILE: economy/cmd_trade.py
+
+# generate_embed
+185_188_944: "Money: {0}"
+
+# FILE: images/cmd_nasa.py
+
+# nasa
+185_719_907: "Random NASA imaga"
+
+# FILE: giveaways/remove_tag.py
+
+# on_guild_member_update
+185_862_897: "Please restore our server tag. Failing to do so in {0} will **remove you from the giveaway** and you will never be able to join ever again."
+
+# FILE: economy/cmd_rob.py
+
+# rob
+185_593_462: "{}% chance of success robbing — Your net worth must be lower than the target's wallet."
+
+# FILE: images/cmd_nasa.py
+
+# nasa
+185_408_281: "More info"
+
+# FILE: tools/cmd_reminder.py
+
+# on_message_component_reminder_snooze_modal
+185_705_314: "Invalid time format. Use `1h 30m` or `1d 2h 3m`"
+
+# FILE: logs/log_channel_update.py
+
+# format_overwrite
+185_102_836: "Allowed"
+185_886_140: "Denied"
+
+# FILE: core/cmd_server.py
+
+# add_players_field
+185_975_092: "Players"
+
+# FILE: economy/cmd_trade.py
+
+# generate_embed
+185_791_965: "Trade completed"
+
+# FILE: logs/log_channel_update.py
+
+# format_value
+185_548_183: "NSFW Enabled"
+185_744_419: "NSFW Disabled"
+
+# FILE: economy/case.py
+
+# on_task_open_case
+185_130_725: "The chance of drawing this item has been hidden."
+
+# FILE: logs/log_channel_update.py
+
+# format_value
+185_634_585: "Text Channel"
+
+# FILE: core/cmd_server.py
+
+# set_embed_title
+185_861_239: "Map"
+
+# FILE: logs/log_channel_update.py
+
+# format_value
+185_839_797: "DM Channel"
+
+# FILE: logs/voiceState.py
+
+# on_voice_state_update
+185_117_602: "Moderator"
+
+# FILE: logs/log_channel_update.py
+
+# format_value
+185_793_567: "Voice Channel"
+185_167_220: "Group DM Channel"
+
+# FILE: core/cmd_server.py
+
+# set_embed_title
+185_921_238: "Ping"
+
+# FILE: logs/log_channel_update.py
+
+# format_value
+185_877_031: "Category"
+185_278_964: "Announcement Channel"
+185_762_148: "Announcement Thread"
+
+# FILE: tickets/archive.py
+
+# on_channel_delete
+185_554_175: "Closed by"
+
+# FILE: automations/events.py
+
+# on_message_component_automations_modal
+185_148_996: "The form you are trying to open has already been submitted or expired"
+
+# FILE: logs/log_channel_update.py
+
+# format_value
+185_116_577: "Public Thread"
+
+# FILE: core/cmd_server.py
+
+# add_player_list_fields
+185_327_709: "Players"
+
+# FILE: economy/cmd_trade.py
+
+# generate_embed
 185_811_335: "Trade"
+
+# FILE: logs/log_channel_update.py
+
+# format_value
+185_446_704: "Private Thread"
+185_153_440: "Stage Channel"
+185_868_323: "Directory Channel"
+
+# FILE: tools/cmd_reminder.py
+
+# send_embed
+185_992_913: "There are no reminders set. Use `{0}reminder set 5m text` to set one"
+
+# FILE: logs/log_channel_update.py
+
+# format_value
+185_040_912: "Forum Channel"
+185_102_931: "Media Channel"
+
+# FILE: tools/cmd_reminder.py
+
+# send_embed
+185_299_469: "#{0}: Reminder {1}:
+> {2}"
+
+# FILE: automations/events.py
+
+# on_message_component_automations_modal
+185_992_432: "Formularz"
+
+# FILE: logs/log_channel_update.py
+
+# format_value
+185_858_974: "Pinned"
+
+# FILE: economy/cmd_trade.py
+
+# generate_embed
 185_211_356: "Add an item to the trade"
+
+# FILE: logs/log_channel_update.py
+
+# format_value
+185_579_338: "Require Tag"
+185_166_924: "Hide media download option"
+
+# FILE: economy/cmd_trade.py
+
+# generate_embed
 185_192_167: "Remove an item from the trade"
+
+# FILE: tools/cmd_reminder.py
+
+# send_embed
+185_324_452: "Reminders"
+
+# FILE: economy/cmd_trade.py
+
+# generate_embed
 185_768_088: "can be"
+
+# FILE: logs/log_channel_update.py
+
+# on_guild_audit_log_entry_create
+185_048_598: "Channel created"
+
+# FILE: economy/cmd_trade.py
+
+# generate_embed
+185_760_774: "Add money to the trade"
+
+# FILE: logs/log_channel_update.py
+
+# on_guild_audit_log_entry_create
+185_763_335: "{0} channel has been created"
+
+# FILE: tools/cmd_reminder.py
+
+# send_embed
+185_445_100: "Set reminder using: {0}reminder set 5m text"
+
+# FILE: economy/cmd_trade.py
+
+# generate_embed
+185_622_223: "Remove money from the trade"
+
+# FILE: logs/log_channel_update.py
+
+# on_guild_audit_log_entry_create
+185_874_786: "Channel updated"
+185_140_337: "Channel {0} has been updated"
+
+# FILE: economy/cmd_trade.py
+
+# generate_embed
 185_005_082: "Cancel the trade"
+
+# FILE: activity/cmd_stats.py
+
+# stats_page
+185_642_706: "- **Total messages:** 
+  - {0}
+- **Messages in last 24 hours:** 
+  - {1} ({2})
+- **Messages in last week:** 
+  - {3} ({4})
+- **Messages in last month: **
+  - {5} ({6})"
+
+# FILE: tools/cmd_reminder.py
+
+# reminder_del
+185_015_031: "Please provide an #ID from `{0}reminder list` command or use `all` to delete all reminders"
+
+# FILE: economy/cmd_trade.py
+
+# generate_embed
 185_064_711: "Transaction will be cancelled automatically after 15 minutes"
+
+# FILE: logs/log_channel_update.py
+
+# on_guild_audit_log_entry_create
+185_757_035: "Channel deleted"
+
+# FILE: economy/cmd_stock_market.py
+
+# stock_market_sell
+185_804_556: "You just bought those stocks, please wait {0} before you sell them."
+
+# FILE: logs/log_channel_update.py
+
+# on_guild_audit_log_entry_create
+185_557_194: "Channel has been deleted"
+
+# FILE: tools/cmd_reminder.py
+
+# reminder_del
+185_137_012: "All reminders deleted"
+
+# FILE: economy/cmd_eco.py
+
+# economy_set
+185_515_284: "**Role:** {0}
+**Amount:** Cash: ``{1}`` | Bank: ``{2}``
+**Users:** {3}
+**Channel:** {4}
+**Reason:** {5}: /eco set command"
+
+# FILE: activity/cmd_stats.py
+
+# stats_page
+185_299_535: "Timezone: {0}"
+
+# FILE: economy/cmd_trade.py
+
+# trade_start
+185_747_395: "You already have a trade with this user in progress - <#{}>."
+
+# FILE: tools/cmd_lookup.py
+
+# cmd_lookup_user
+185_941_999: "The user does not carry the tag of this server."
+
+# FILE: logs/log_channel_update.py
+
+# on_guild_audit_log_entry_create
+185_419_392: "Restore Channel"
+
+# FILE: economy/cmd_trade.py
 
 # trade_start
 185_652_040: "You cannot trade with yourself"
 
+# FILE: tools/cmd_reminder.py
+
+# reminder_del
+185_738_103: "Reminder #{0} deleted"
+
+# FILE: automations/utils_actions/send_message.py
+
+# __post_message
+185_637_441: "Message from {0}"
+
+# FILE: tools/cmd_lookup.py
+
+# cmd_lookup_user
+185_617_889: "Tag seniority"
+
+# FILE: economy/cmd_trade.py
+
+# trade_start
+185_892_064: "You can't start a trade in a thread."
+
+# FILE: logs/log_channel_update.py
+
+# on_message_component_logs_restore
+185_230_957: "You need Administrator permission to restore a channel."
+
+# FILE: autoresponder/replies.py
+
+# action
+185_946_575: "Message from {0}"
+
+# FILE: logs/log_channel_update.py
+
+# on_message_component_logs_restore
+185_477_649: "Channel restoration data has expired."
+
+# FILE: economy/cmd_trade.py
+
+# trade_start
+185_884_652: "Trade started in <#{}>"
+
+# FILE: tools/cmd_reminder.py
+
+# reminder_set
+185_194_781: "You will be reminded in {0} about:"
+
+# FILE: logs/log_channel_update.py
+
+# on_message_component_logs_restore
+185_028_735: "Failed to restore channel: {}"
+
+# FILE: giveaways/giveaway_participate.py
+
+# on_message_component_giveaway
+185_178_362: "You are excluded from this event."
+
+# FILE: economy/cmd_trade.py
+
+# get_trade
+185_377_197: "You have to start trade first (with {0} command)"
+
+# FILE: logs/log_channel_update.py
+
+# on_message_component_logs_restore
+185_934_549: "Channel has been restored."
+
+# FILE: economy/cmd_trade.py
+
+# get_trade
+185_625_871: "You are not part of this trade"
+
+# FILE: tools/cmd_reminder.py
+
+# set_reminder
+185_465_541: "<@{0}>: Reminder set. You will be reminded in {1} on this channel"
+185_201_549: "<@{0}>: Reminder set. You will be reminded in {1} on DM"
+
+# FILE: economy/cmd_trade.py
+
 # cancel_trade
-185_927_078: "Invalid trade ID"
 185_504_987: "Trade cancelled"
 
 # gen_buttons
 185_826_323: "Accept trade"
+
+# FILE: tools/cmd_reminder.py
+
+# on_task_cmd_reminder
+185_271_311: "Reminder <@{0}>:
+>>> {1}"
+
+# FILE: economy/cmd_trade.py
+
+# gen_buttons
 185_206_351: "Cancel trade"
+
+# FILE: tools/cmd_reminder.py
+
+# on_task_cmd_reminder
+185_615_982: "Snooze"
+
+# FILE: economy/cmd_trade.py
+
+# gen_buttons
 185_115_606: "Trade accepted by"
 
+# FILE: economy/cmd_blackjack.py
+
+# on_task_cancel_blackjack
+185_756_240: "Timed out."
+
+# FILE: economy/cmd_stock_market.py
+
+# economy_stockmarket_remove
+185_368_132: "Removed {0} **{1}** from {2} account"
+
+# FILE: economy/cmd_trade.py
+
+# trade_add_money
+185_322_818: "You don't have enough money."
+
+# FILE: economy/cmd_eco.py
+
+# economy_stockmarket_clear
+185_059_093: "Stocks of user {0} has been cleared."
+
+# FILE: activity/cmd_stats.py
+
+# get_embed_title
+185_197_367: "Daily message leaderboard"
+185_279_945: "Weekly message leaderboard"
+185_553_373: "Monthly message leaderboard"
+185_273_401: "Channel message leaderboard"
+185_172_530: "User message leaderboard"
+185_582_011: "Total message leaderboard"
+185_747_694: "Guild message leaderboard"
+
+# FILE: economy/cmd_trade.py
+
+# trade_rem_money
+185_456_777: "Error: You've provided too much money"
+
 # trade_add
-185_566_412: "Invalid trade ID"
-185_442_755: "You are not part of this trade"
 185_870_060: "You have reached the maximum amount of items in a trade"
+
+# FILE: economy/cmd_stock_market.py
+
+# backpack
+185_043_983: "Purchase price: {}Market price: {}Profit: {}"
+
+# FILE: economy/cmd_trade.py
 
 # on_message_component_trade_accept
 185_987_887: "Invalid trade ID"
+185_163_101: "You are not part of this trade"
+185_823_091: "You have already accepted this trade"
 
-# FILE: economy/cmd_slots.py
+# FILE: activity/cmd_stats.py
 
-# generate_payout_table
-185_687_828: "Cost: {}
-  Minimum Payout: {}
-  Maximum Payout: {}"
+# stats
+185_880_308: "## User message leaderboards
+- `{0}stats total` - User leaderboard by total messages
+- `{0}stats day` - User leaderboard by messages in the last 24 hours
+- `{0}stats week` - User leaderboard by messages in the last week
+- `{0}stats month` - User leaderboard by messages in the last month
+
+## Server statistics
+- `{0}stats guild` - Statistics from all channels
+- `{0}stats channel <channel>` - Channel statistics
+- `{0}stats user <user>` - User statistics"
 
 # FILE: economy/cmd_trade.py
 
 # on_message_component_trade_accept
-185_163_101: "You are not part of this trade"
-185_823_091: "You have already accepted this trade"
 185_561_215: "Cannot accept an outdated trade"
 185_601_175: "Trade completed"
 
-# FILE: economy/cmd_slots.py
-
-# slots
-185_898_861: "There are no slot machines available."
-185_917_885: "Slot Machines"
-185_352_556: "Select a slot machine to play"
-
-# start_game
-185_493_278: "or"
-185_929_695: "Payout Table"
-185_969_635: "Common"
-
-# FILE: economy/cmd_trade.py
-
-# trade_remove
-185_382_149: "Invalid trade ID"
-185_625_871: "You are not part of this trade"
-
-# FILE: economy/cmd_slots.py
-
-# start_game
-185_230_073: "Pull the lever"
-
-# FILE: economy/cmd_trade.py
-
 # trade_remove
 185_365_430: "Invalid item index"
-
-# FILE: economy/cmd_slots.py
-
-# on_message_component_slots_machine_spin
-185_672_881: "You can't play this slot machine."
-185_811_452: "Your balance is too low to play this slot machine. You need {0} to play."
-185_760_620: "You can only play one slot machine at a time."
-185_086_252: "The slot machine is spinning..."
-185_608_708: "Generated in {0} ms"
-185_300_240: "Pull the lever"
-185_437_519: "Lost"
-185_608_097: "Slot machine \"{0}\": {1}"
-185_589_364: "Sorry, you didn’t win this round. Spin again?"
-185_740_601: "{0} – You won {1}!"
-185_270_500: "Generated in {0} ms"
-185_690_675: "Pull the lever"
-185_599_237: "Won the jackpot on slot machine"
-
-# start_game
-185_046_136: "JACKPOT"

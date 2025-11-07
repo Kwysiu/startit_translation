@@ -2,7 +2,13 @@
 185_925_288: "This user has a higher role than you"
 185_196_213: "This user is protected"
 
-# modlog_send
+# modlog_embed
+185_110_356: "User has been kicked"
+185_495_043: "User has been banned"
+185_035_707: "User has been muted"
+185_258_050: "User has been unmuted"
+185_632_395: "User has been unbanned"
+185_601_548: "{0} warning point has been given"
 185_875_745: "User"
 185_660_558: "Moderator"
 185_238_144: "Reason"
@@ -12,7 +18,7 @@
 # modlog_send_legacy
 185_673_072: "By:"
 
-# paginate
+# __paginate
 185_224_163: "
 
 Page: {}/{}"

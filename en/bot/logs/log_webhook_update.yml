@@ -1,0 +1,6 @@
+# on_guild_audit_log_entry_create
+185_048_277: "Webhook created"
+185_257_694: "Webhook on channel {} has been created"
+185_775_524: "Webhook updated"
+185_817_938: "Webhook on channel {} has been updated"
+185_998_024: "Webhook deleted"

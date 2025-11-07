@@ -11,18 +11,6 @@
 185_694_868: "Discord'a katıldı"
 185_412_467: "Sunucuya Katıldı"
 185_505_613: "Roller"
-185_578_313: "İncelemeler ({})"
-185_375_274: "ReviewDB'ye inceleme yaz"
-
-# on_message_component_post_review
-185_017_006: "İncelemeyi ReviewDB'ye gönder"
-185_178_820: "İnceleme"
-185_913_187: "Spam yapmak ve saldırgan yorumlar yazmak yasaklanmanıza neden olacaktır. Lütfen diğer kullanıcılara karşı saygılı olun."
-
-# on_message_component_post_review_submit
-185_890_920: "İnceleme güncellendi"
-185_686_076: "İnceleme gönderildi"
-185_961_539: "Hata"
 
 # cmd_lookup_role
 185_770_494: "Evet"

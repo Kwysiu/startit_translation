@@ -11,6 +11,9 @@
 185_715_020: "Dealer hand"
 185_093_203: "Value"
 
+# on_task_cancel_blackjack
+185_756_240: "Timed out."
+
 # do_action
 185_015_403: "Canceled."
 185_186_978: "Pass: /blackjack"

@@ -1,0 +1,17 @@
+# format_value
+185_677_330: "Guild Only"
+185_146_240: "Scheduled"
+185_639_597: "Active"
+185_996_030: "Completed"
+185_687_504: "Canceled"
+185_353_295: "Stage Instance"
+185_659_976: "Voice Channel"
+185_072_318: "External"
+
+# on_guild_audit_log_entry_create
+185_546_865: "Scheduled event created"
+185_675_415: "A new scheduled event has been created in the server."
+185_505_695: "Scheduled event updated"
+185_348_099: "A scheduled event has been updated in the server."
+185_540_888: "Scheduled event deleted"
+185_227_666: "A scheduled event has been deleted from the server."

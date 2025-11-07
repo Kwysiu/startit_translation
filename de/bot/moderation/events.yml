@@ -1,11 +1,5 @@
-# on_guild_ban_add
-185_270_439: "Benutzer wurde gebannt"
-
 # on_task_user_unmute
 185_526_477: "Temporärmute abgelaufen. Automatisch entmuted."
 
 # on_task_user_unban
 185_164_173: "Temporärbann abgelaufen. Automatisch entbannt."
-
-# on_guild_ban_remove
-185_506_825: "Benutzer wurde entbannt"

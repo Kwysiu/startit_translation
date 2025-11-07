@@ -1,11 +1,5 @@
-# on_guild_ban_add
-185_270_439: "El usuario ha sido prohibido"
-
 # on_task_user_unmute
 185_526_477: "Tempmute expirado. Desilenciado automáticamente."
 
 # on_task_user_unban
 185_164_173: "Tempban expirado. Desbloqueado automáticamente."
-
-# on_guild_ban_remove
-185_506_825: "El usuario ha sido desbloqueado"
