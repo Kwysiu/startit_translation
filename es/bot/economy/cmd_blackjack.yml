@@ -11,6 +11,9 @@
 185_715_020: "Mano del crupier"
 185_093_203: "Valor"
 
+# on_task_cancel_blackjack
+185_756_240: "Tiempo agotado."
+
 # do_action
 185_015_403: "Cancelado."
 185_186_978: "Pasar: /blackjack"

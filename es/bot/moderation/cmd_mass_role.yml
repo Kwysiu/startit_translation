@@ -1,0 +1,19 @@
+# mass_role
+185_303_884: "Gestión Masiva de Roles"
+185_558_207: "Este comando te permite añadir o quitar roles de varios usuarios a la vez. 
+ - Usa `{0}massrole add <existing role> <new role>` para añadir un rol a miembros que ya tengan otro rol. 
+ - Usa `{0}massrole remove <existing role> <new role>` para remover un rol a todos los miembros del servidor. 
+ - Usa `{0}massrole add everyone <role>` para añadir un rol a todos los miembros del servidor. 
+ - Usa `{0}massrole status` para revisar el estado actual de la cola de roles."
+
+# mass_role_add
+185_483_989: "Añadidos {0} usuarios a la cola para recibir el rol <@&{1}>"
+
+# mass_role_remove
+185_956_789: "Añadidos {0} usuarios a la cola para retirar el rol <@&{1}>"
+
+# mass_role_action
+185_166_862: "No puedes usar @everyone en el segundo argumento."
+
+# mass_role_status
+185_958_295: "Hay actualmente {} en la cola para cambios masivos de rol."

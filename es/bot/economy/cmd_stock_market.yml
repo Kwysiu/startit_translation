@@ -1,3 +1,6 @@
+# check_disabled
+185_061_620: "El mercado de valores está desactivado"
+
 # stock_market_buy
 185_494_327: "Acción no encontrada"
 185_039_264: "No tienes **{0}** para comprar estas acciones."
@@ -6,6 +9,7 @@
 
 # stock_market_sell
 185_038_441: "Acción no encontrada"
+185_804_556: "Acabas de comprar esas acciones, espera {0} antes de venderlas."
 185_024_763: "No tienes ninguna acción"
 185_192_362: "No tienes estas acciones"
 185_563_081: "No tienes suficientes acciones"
@@ -13,6 +17,7 @@
 
 # economy_stockmarket_remove
 185_837_494: "Acción no encontrada"
+185_368_132: "Se eliminaron {0} **{1}** de la cuenta de {2}"
 
 # stock_market_info
 185_954_227: "Acción no encontrada"
@@ -26,6 +31,7 @@
 185_384_474: "Vender"
 
 # backpack
+185_043_983: "Precio de compra: {} Precio de mercado: {} Ganancia: {}"
 185_735_864: "Mochila de acciones"
 
 # stock_market_list

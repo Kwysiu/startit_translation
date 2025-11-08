@@ -5,6 +5,7 @@
 185_147_408: "No puedes robar para: {0}."
 185_495_056: "Intento fallido de robar a {0}"
 185_791_926: "Has estado robando y has perdido **{0}**."
+185_593_462: "{}% de probabilidad de éxito al robar — Tu patrimonio debe ser menor que el saldo de la víctima."
 185_968_579: "Robo exitoso al usuario {0}"
 185_466_649: "Siendo robado por el usuario {0}"
 185_564_632: "Has estado robando y has robado **{0}**."

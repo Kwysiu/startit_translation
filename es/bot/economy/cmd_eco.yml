@@ -16,6 +16,7 @@
 # economy_set
 185_641_206: "El argumento de ubicación debe estar vacío, `wallet` o `bank`."
 185_646_874: "Balance actualizado"
+185_515_284: "**Rol:** {0}\n**Cantidad:** Efectivo: ``{1}`` | Banco: ``{2}``\n**Usuarios:** {3}\n**Canal:** {4}\n**Motivo:** {5}: comando /eco set"
 185_131_598: "Acción completada en **{0}** cuentas."
 185_946_315: "No pasó nada."
 185_189_710: "{0}: comando /eco set"
@@ -38,3 +39,6 @@
 
 # economy_backpack_clear
 185_417_833: "La mochila del usuario {0} ha sido vaciada."
+
+# economy_stockmarket_clear
+185_059_093: "Las acciones del usuario {0} han sido eliminadas."

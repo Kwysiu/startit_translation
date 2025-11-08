@@ -2,17 +2,25 @@
 185_556_186: "índice-del-objeto"
 185_848_653: "cantidad"
 185_571_141: "objeto"
+185_188_944: "Dinero: {0}"
+185_791_965: "Intercambio completado"
 185_811_335: "Intercambio"
 185_211_356: "Añadir un objeto al intercambio"
 185_192_167: "Eliminar un objeto del intercambio"
 185_768_088: "puede ser"
+185_760_774: "Añadir dinero al intercambio"
+185_622_223: "Quitar dinero del intercambio"
 185_005_082: "Cancelar el intercambio"
 185_064_711: "La transacción se cancelará automáticamente después de 15 minutos"
 
 # trade_start
+185_747_395: "Ya tienes un intercambio en curso con este usuario - <#{}>."
 185_652_040: "No puedes intercambiar contigo mismo"
+185_892_064: "No puedes iniciar un intercambio en un hilo."
+185_884_652: "Intercambio iniciado en <#{}>"
 
 # get_trade
+185_377_197: "Debes iniciar el intercambio primero (con el comando {0})"
 185_625_871: "No eres parte de este intercambio"
 
 # cancel_trade
@@ -22,6 +30,12 @@
 185_826_323: "Aceptar intercambio"
 185_206_351: "Cancelar intercambio"
 185_115_606: "Intercambio aceptado por"
+
+# trade_add_money
+185_322_818: "No tienes suficiente dinero."
+
+# trade_rem_money
+185_456_777: "Error: Has ingresado demasiado dinero"
 
 # trade_add
 185_870_060: "Has alcanzado la cantidad máxima de objetos en un intercambio"

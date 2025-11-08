@@ -1,0 +1,30 @@
+# on_message_component_reminder_snooze
+185_430_111: "Posponer"
+185_608_812: "Tiempo"
+185_099_713: "1h 30m"
+
+# on_message_component_reminder_snooze_modal
+185_705_314: "Formato de tiempo inválido. Usa `1h 30m` o `1d 2h 3m`"
+
+# send_embed
+185_992_913: "No hay recordatorios configurados. Usa `{0}reminder set 5m texto` para crear uno"
+185_299_469: "#{0}: Recordatorio {1}:
+> {2}"
+185_324_452: "Recordatorios"
+185_445_100: "Configura un recordatorio usando: {0}reminder set 5m text"
+
+# reminder_del
+185_015_031: "Proporciona un #ID del comando `{0}reminder list` o usa `all` para borrar todos los recordatorios"
+185_137_012: "Todos los recordatorios eliminados"
+185_738_103: "Recordatorio #{0} eliminado"
+
+# reminder_set
+185_194_781: "Se te recordará en {0} sobre:"
+
+# set_reminder
+185_465_541: "<@{0}>: Recordatorio configurado. Se te recordará en {1} en este canal"
+185_201_549: "<@{0}>: Recordatorio configurado. Se te recordará en {1} por DM"
+
+# on_task_cmd_reminder
+185_271_311: "Recordatorio <@{0}>:\n>>> {1}"
+185_615_982: "Posponer"

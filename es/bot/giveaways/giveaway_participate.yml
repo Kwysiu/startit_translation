@@ -1,4 +1,5 @@
 # on_message_component_giveaway
+185_001_648: "No has configurado la etiqueta del servidor. Hazlo en Configuración de usuario -> Perfiles. {0}"
 185_813_958: "No tienes los artículos y roles necesarios para participar en este sorteo."
 185_517_756: "No tienes el nivel requerido para participar en este sorteo."
 185_125_220: "No tienes el dinero necesario para participar en este sorteo."
@@ -7,4 +8,5 @@
 185_930_186: "Ya te has inscrito en este sorteo."
 185_766_677: "Asegúrate de tener **{0}** en tu cartera."
 185_761_193: "Has votado con éxito en esta elección."
+185_178_362: "Estás excluido de este evento."
 185_043_591: "Has entrado con éxito en el sorteo."
