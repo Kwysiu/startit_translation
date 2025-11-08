@@ -8,139 +8,139 @@
 # FILE: giveaways/remove_tag.py #
 #################################
 # on_guild_member_update
-185_862_897: "Please restore our server tag. Failing to do so in {0} will **remove you from the giveaway** and you will never be able to join ever again."
+185_862_897: "Lütfen sunucu etiketimizi geri getir. Bunu {0} içinde yapmazsan **çekilişten çıkarılacaksın** ve bir daha asla katılamayacaksın."
 
 ###########################################
 # FILE: giveaways/giveaway_participate.py #
 ###########################################
 # on_message_component_giveaway
-185_001_648: "You haven't set the server tag. Do it in the user settings -> Profiles. {0}"
-185_178_362: "You are excluded from this event."
+185_001_648: "Sunucu etiketini ayarlamadın. Kullanıcı ayarları -> Profiller kısmından yapabilirsin. {0}"
+185_178_362: "Bu etkinliğe katılamazsınız."
 
 ###############################
 # FILE: activity/cmd_stats.py #
 ###############################
 # stats_page
-185_642_706: "- **Total messages:** 
+185_642_706: "- **Toplam mesaj:** 
   - {0}
-- **Messages in last 24 hours:** 
+- **Son 24 saatteki mesajlar:** 
   - {1} ({2})
-- **Messages in last week:** 
+- **Son haftadaki mesajlar:** 
   - {3} ({4})
-- **Messages in last month: **
+- **Son aydaki mesajlar:** 
   - {5} ({6})"
-185_299_535: "Timezone: {0}"
+185_299_535: "Zaman dilimi: {0}"
 
 # get_embed_title
-185_197_367: "Daily message leaderboard"
-185_279_945: "Weekly message leaderboard"
-185_553_373: "Monthly message leaderboard"
-185_273_401: "Channel message leaderboard"
-185_172_530: "User message leaderboard"
-185_582_011: "Total message leaderboard"
-185_747_694: "Guild message leaderboard"
+185_197_367: "Günlük mesaj sıralaması"
+185_279_945: "Haftalık mesaj sıralaması"
+185_553_373: "Aylık mesaj sıralaması"
+185_273_401: "Kanal mesaj sıralaması"
+185_172_530: "Kullanıcı mesaj sıralaması"
+185_582_011: "Toplam mesaj sıralaması"
+185_747_694: "Sunucu mesaj sıralaması"
 
 # stats
-185_880_308: "## User message leaderboards
-- `{0}stats total` - User leaderboard by total messages
-- `{0}stats day` - User leaderboard by messages in the last 24 hours
-- `{0}stats week` - User leaderboard by messages in the last week
-- `{0}stats month` - User leaderboard by messages in the last month
+185_880_308: "## Kullanıcı mesaj sıralamaları
+- `{0}stats total` - Toplam mesaja göre kullanıcı sıralaması
+- `{0}stats day` - Son 24 saatteki mesajlara göre kullanıcı sıralaması
+- `{0}stats week` - Son haftadaki mesajlara göre kullanıcı sıralaması
+- `{0}stats month` - Son aydaki mesajlara göre kullanıcı sıralaması
 
 ## Server statistics
-- `{0}stats guild` - Statistics from all channels
-- `{0}stats channel <channel>` - Channel statistics
-- `{0}stats user <user>` - User statistics"
+- `{0}stats guild` - Tüm kanalların istatistikleri
+- `{0}stats channel <kanal>` - Kanal istatistikleri
+- `{0}stats user <kullanıcı>` - Kullanıcı istatistikleri"
 
 ##################################
 # FILE: autoresponder/replies.py #
 ##################################
 # action
-185_946_575: "Message from {0}"
+185_946_575: "{0}'dan gelen mesaj"
 
 ############################
 # FILE: images/cmd_nasa.py #
 ############################
 # nasa
-185_719_907: "Random NASA imaga"
-185_408_281: "More info"
+185_719_907: "Rastgele NASA görüntüsü"
+185_408_281: "Daha fazla bilgi"
 
 #################################
 # FILE: logs/log_role_update.py #
 #################################
 # on_guild_audit_log_entry_create
-185_536_257: "Role created"
-185_705_318: "{0} role has been created"
-185_692_168: "Role updated"
-185_636_216: "Role {0} has been updated"
-185_126_155: "Role deleted"
-185_867_679: "Role has been deleted"
+185_536_257: "Rol oluşturuldu"
+185_705_318: "{0} rolü oluşturuldu"
+185_692_168: "Rol güncellendi"
+185_636_216: "{0} rolü güncellendi"
+185_126_155: "Rol silindi"
+185_867_679: "Rol silindi"
 
 ###############################
 # FILE: logs/messageUpdate.py #
 ###############################
 # on_message_update
-185_535_420: "Message was edited on {}. [Go to message]({})"
+185_535_420: "{} kanalında bir mesaj düzenlendi. [Mesaja git]({})"
 
 ####################################
 # FILE: logs/log_sheduled_event.py #
 ####################################
 # format_value
-185_677_330: "Guild Only"
-185_146_240: "Scheduled"
-185_639_597: "Active"
-185_996_030: "Completed"
-185_687_504: "Canceled"
-185_353_295: "Stage Instance"
-185_659_976: "Voice Channel"
-185_072_318: "External"
+185_677_330: "Sadece Sunucu"
+185_146_240: "Planlandı"
+185_639_597: "Aktif"
+185_996_030: "Tamamlandı"
+185_687_504: "İptal edildi"
+185_353_295: "Sahne Oturumu"
+185_659_976: "Ses Kanalı"
+185_072_318: "Harici"
 
 # on_guild_audit_log_entry_create
-185_546_865: "Scheduled event created"
-185_675_415: "A new scheduled event has been created in the server."
-185_505_695: "Scheduled event updated"
-185_348_099: "A scheduled event has been updated in the server."
-185_540_888: "Scheduled event deleted"
-185_227_666: "A scheduled event has been deleted from the server."
+185_546_865: "Planlı etkinlik oluşturuldu"
+185_675_415: "Sunucuda yeni bir planlı etkinlik oluşturuldu."
+185_505_695: "Planlı etkinlik güncellendi"
+185_348_099: "Sunucuda bir planlı etkinlik güncellendi."
+185_540_888: "Planlı etkinlik silindi"
+185_227_666: "Sunucudan bir planlı etkinlik silindi."
 
 ###################################
 # FILE: logs/log_invite_update.py #
 ###################################
 # format_value
-185_471_955: "Temporary, kick when offline"
-185_072_635: "Guest invite for a voice channel"
+185_471_955: "Geçici, çevrimdışı olunca atılır"
+185_072_635: "Ses kanalı için misafir daveti"
 
 # on_guild_audit_log_entry_create
-185_929_901: "Invite created"
-185_534_661: "Invite updated"
-185_350_302: "Invite deleted"
+185_929_901: "Davet oluşturuldu"
+185_534_661: "Davet güncellendi"
+185_350_302: "Davet silindi"
 
 ####################################
 # FILE: logs/log_webhook_update.py #
 ####################################
 # on_guild_audit_log_entry_create
-185_048_277: "Webhook created"
-185_257_694: "Webhook on channel {} has been created"
-185_775_524: "Webhook updated"
-185_817_938: "Webhook on channel {} has been updated"
-185_998_024: "Webhook deleted"
+185_048_277: "Webhook oluşturuldu"
+185_257_694: "{} kanalında webhook oluşturuldu"
+185_775_524: "Webhook güncellendi"
+185_817_938: "{} kanalında webhook güncellendi"
+185_998_024: "Webhook silindi"
 
 #########################
 # FILE: logs/log_pin.py #
 #########################
 # on_guild_audit_log_entry_create
-185_473_578: "Message pinned"
-185_344_365: "Message unpinned"
-185_462_209: "Message"
-185_644_619: "ID"
-185_307_832: "Jump to message"
+185_473_578: "Mesaj sabitlendi"
+185_344_365: "Mesaj sabitlemesi kaldırıldı"
+185_462_209: "Mesaj"
+185_644_619: "Kimlik"
+185_307_832: "Mesaja git"
 
 ##################################
 # FILE: logs/log_guild_update.py #
 ##################################
 # on_guild_audit_log_entry_create
-185_249_704: "Guild updated"
-185_929_078: "Guild settings have been updated"
+185_249_704: "Sunucu güncellendi"
+185_929_078: "Sunucu ayarları güncellendi"
 
 ####################################
 # FILE: logs/log_sticker_update.py #
@@ -152,339 +152,339 @@
 185_991_341: "GIF"
 
 # on_guild_audit_log_entry_create
-185_951_215: "Sticker created"
-185_936_965: "A new sticker has been created in the server."
-185_580_482: "Sticker updated"
-185_331_095: "A sticker has been updated in the server."
-185_011_692: "Sticker deleted"
-185_621_958: "A sticker has been deleted from the server."
+185_951_215: "Çıkartma oluşturuldu"
+185_936_965: "Sunucuda yeni bir çıkartma oluşturuldu."
+185_580_482: "Çıkartma güncellendi"
+185_331_095: "Sunucuda bir çıkartma güncellendi."
+185_011_692: "Çıkartma silindi"
+185_621_958: "Sunucudan bir çıkartma silindi."
 
 ###########################
 # FILE: logs/log_emoji.py #
 ###########################
 # on_guild_audit_log_entry_create
-185_193_051: "Emoji created"
-185_354_903: "Emoji {} has been created"
-185_073_669: "Emoji updated"
-185_642_915: "Emoji {} has been updated"
-185_180_817: "Emoji deleted"
+185_193_051: "Emoji oluşturuldu"
+185_354_903: "{} emojisi oluşturuldu"
+185_073_669: "Emoji güncellendi"
+185_642_915: "{} emojisi güncellendi"
+185_180_817: "Emoji silindi"
 
 #####################################
 # FILE: logs/log_auditlog_global.py #
 #####################################
 # send_logs
-185_541_614: "None"
+185_541_614: "Hiçbiri"
 
 ####################################
 # FILE: logs/log_channel_update.py #
 ####################################
 # format_overwrite
-185_102_836: "Allowed"
-185_886_140: "Denied"
+185_102_836: "İzin Verildi"
+185_886_140: "Reddedildi"
 
 # format_value
-185_548_183: "NSFW Enabled"
-185_744_419: "NSFW Disabled"
-185_634_585: "Text Channel"
-185_839_797: "DM Channel"
-185_793_567: "Voice Channel"
-185_167_220: "Group DM Channel"
-185_877_031: "Category"
-185_278_964: "Announcement Channel"
-185_762_148: "Announcement Thread"
-185_116_577: "Public Thread"
-185_446_704: "Private Thread"
-185_153_440: "Stage Channel"
-185_868_323: "Directory Channel"
-185_040_912: "Forum Channel"
-185_102_931: "Media Channel"
-185_858_974: "Pinned"
-185_579_338: "Require Tag"
-185_166_924: "Hide media download option"
+185_548_183: "NSFW Etkin"
+185_744_419: "NSFW Devre Dışı"
+185_634_585: "Yazı Kanalı"
+185_839_797: "DM Kanalı"
+185_793_567: "Ses Kanalı"
+185_167_220: "Grup DM Kanalı"
+185_877_031: "Kategori"
+185_278_964: "Duyuru Kanalı"
+185_762_148: "Duyuru Konusu"
+185_116_577: "Genel Konu"
+185_446_704: "Özel Konu"
+185_153_440: "Sahne Kanalı"
+185_868_323: "Dizin Kanalı"
+185_040_912: "Forum Kanalı"
+185_102_931: "Medya Kanalı"
+185_858_974: "Sabitlendi"
+185_579_338: "Etiket Gerektir"
+185_166_924: "Medya indirme seçeneğini gizle"
 
 # on_guild_audit_log_entry_create
-185_048_598: "Channel created"
-185_763_335: "{0} channel has been created"
-185_874_786: "Channel updated"
-185_140_337: "Channel {0} has been updated"
-185_757_035: "Channel deleted"
-185_557_194: "Channel has been deleted"
-185_419_392: "Restore Channel"
+185_048_598: "Kanal oluşturuldu"
+185_763_335: "{0} kanalı oluşturuldu"
+185_874_786: "Kanal güncellendi"
+185_140_337: "{0} kanalı güncellendi"
+185_757_035: "Kanal silindi"
+185_557_194: "Kanal silindi"
+185_419_392: "Kanalı Geri Yükle"
 
 # on_message_component_logs_restore
-185_230_957: "You need Administrator permission to restore a channel."
-185_477_649: "Channel restoration data has expired."
-185_028_735: "Failed to restore channel: {}"
-185_934_549: "Channel has been restored."
+185_230_957: "Bir kanalı geri yüklemek için Yönetici iznine sahip olmalısın."
+185_477_649: "Kanal geri yükleme verileri süresi dolmuş."
+185_028_735: "Kanal geri yüklenemedi: {}"
+185_934_549: "Kanal geri yüklendi."
 
 ##################################
 # FILE: logs/log_stage_update.py #
 ##################################
 # on_guild_audit_log_entry_create
-185_174_381: "Started stage on channel"
-185_901_802: "Stage has been started on channel {0}"
-185_100_859: "Updated stage on channel"
-185_837_101: "Stage has been updated on channel {0}"
-185_242_380: "Ended stage on channel"
-185_753_710: "Stage has been ended on channel {0}"
+185_174_381: "Kanalda sahne başlatıldı"
+185_901_802: "{0} kanalında sahne başlatıldı"
+185_100_859: "Kanalda sahne güncellendi"
+185_837_101: "{0} kanalında sahne güncellendi"
+185_242_380: "Kanalda sahne sonlandırıldı"
+185_753_710: "{0} kanalında sahne sonlandırıldı"
 
 ############################
 # FILE: logs/voiceState.py #
 ############################
 # on_voice_state_update
-185_117_602: "Moderator"
+185_117_602: "Moderatör"
 
 ###################################
 # FILE: logs/log_member_update.py #
 ###################################
 # format_value
-185_969_866: "Yes"
-185_862_480: "No"
+185_969_866: "Evet"
+185_862_480: "Hayır"
 
 # on_guild_audit_log_entry_create
-185_271_322: "Member updated"
-185_035_921: "User {0} has been updated"
-185_332_598: "Bot added"
-185_826_043: "Bot {0} has been added to the server by {1}"
+185_271_322: "Üye güncellendi"
+185_035_921: "Kullanıcı {0} güncellendi"
+185_332_598: "Bot eklendi"
+185_826_043: "Bot {0}, {1} tarafından sunucuya eklendi"
 
 ###########################
 # FILE: logs/cmd_snipe.py #
 ###########################
 # snipe
-185_547_777: "To use this command you have to enable message logs channel in bot dashboard."
-185_379_550: "There are no deleted messages yet."
-185_787_566: "Reset message logs via `{0}snipe clear` command"
+185_547_777: "Bu komutu kullanmak için bot kontrol panelinde mesaj günlük kanalını etkinleştirmen gerekiyor."
+185_379_550: "Henüz silinmiş mesaj bulunmuyor."
+185_787_566: "Mesaj günlüklerini `{0}snipe clear` komutuyla sıfırla"
 
 # snipe_clear
-185_343_531: "Successfully cleared last message logs."
+185_343_531: "Son mesaj günlükleri başarıyla temizlendi."
 
 ###################################
 # FILE: logs/log_thread_create.py #
 ###################################
 # on_guild_audit_log_entry_create
-185_737_760: "Thread created"
-185_044_450: "A new thread has been created in the server."
-185_112_398: "Thread updated"
-185_061_467: "A thread has been updated in the server."
-185_094_030: "Thread deleted"
-185_632_586: "A thread has been deleted in the server."
+185_737_760: "Konu oluşturuldu"
+185_044_450: "Sunucuda yeni bir konu oluşturuldu."
+185_112_398: "Konu güncellendi"
+185_061_467: "Sunucuda bir konu güncellendi."
+185_094_030: "Konu silindi"
+185_632_586: "Sunucuda bir konu silindi."
 
 #######################################
 # FILE: moderation/cmd_warns_clear.py #
 #######################################
 # warns_clear
-185_234_606: "Database couldn't process the request. The warning_id is probably too big. If you are trying to clear all warnings, use command: `warns clear-all`."
+185_234_606: "Veritabanı isteği işleyemedi. warning_id muhtemelen çok büyük. Tüm uyarıları temizlemek istiyorsan şu komutu kullan: `warns clear-all`."
 
 #####################################
 # FILE: moderation/cmd_mass_role.py #
 #####################################
 # mass_role
-185_303_884: "Mass Role Management"
-185_558_207: "This command allows you to add or remove a role from multiple users at once. 
- - Use `{0}massrole add <existing role> <new role>` to add new role to users with the existing role. 
- - Use `{0}massrole remove <existing role> <new role>` to remove the new role from users with the existing role. 
- - Use `{0}massrole add everyone <role>` to add a role to all server members. 
- - Use `{0}massrole status` to check the current status of the mass role queue."
+185_303_884: "Toplu Rol Yönetimi"
+185_558_207: "Bu komut, aynı anda birden fazla kullanıcıya rol eklemeni veya kaldırmanı sağlar. 
+ - `{0}massrole add <mevcut rol> <yeni rol>` komutunu kullanarak mevcut role sahip kullanıcılara yeni bir rol ekleyebilirsin. 
+ - `{0}massrole remove <mevcut rol> <yeni rol>` komutunu kullanarak mevcut role sahip kullanıcılardan yeni rolü kaldırabilirsin. 
+ - `{0}massrole add everyone <rol>` komutuyla tüm sunucu üyelerine bir rol ekleyebilirsin. 
+ - `{0}massrole status` komutuyla toplu rol kuyruğunun mevcut durumunu kontrol edebilirsin."
 
 # mass_role_add
-185_483_989: "Added {0} users to queue for receiving the role <@&{1}>"
+185_483_989: "Rol <@&{1}> verilecek {0} kullanıcı kuyruğa eklendi"
 
 # mass_role_remove
-185_956_789: "Added {0} users to queue for revoking the role <@&{1}>"
+185_956_789: "Rol <@&{1}> alınacak {0} kullanıcı kuyruğa eklendi"
 
 # mass_role_action
-185_166_862: "You cannot use the everyone role in the second argument."
+185_166_862: "İkinci argümanda everyone rolünü kullanamazsın."
 
 # mass_role_status
-185_958_295: "There are currently {} users in the queue for mass role changes."
+185_958_295: "Şu anda toplu rol değişikliği kuyruğunda {0} kullanıcı var."
 
 ###############################
 # FILE: tools/cmd_reminder.py #
 ###############################
 # on_message_component_reminder_snooze
-185_430_111: "Snooze"
-185_608_812: "Time"
+185_430_111: "Ertele"
+185_608_812: "Süre"
 185_099_713: "1h 30m"
 
 # on_message_component_reminder_snooze_modal
-185_705_314: "Invalid time format. Use `1h 30m` or `1d 2h 3m`"
+185_705_314: "Geçersiz süre formatı. `1h 30m` veya `1d 2h 3m` şeklinde kullan."
 
 # send_embed
-185_992_913: "There are no reminders set. Use `{0}reminder set 5m text` to set one"
-185_299_469: "#{0}: Reminder {1}:
+185_992_913: "Henüz bir hatırlatıcı ayarlanmadı. `{0}reminder set 5m metin` komutunu kullanarak bir tane ayarlayabilirsin."
+185_299_469: "#{0}: Hatırlatıcı {1}:
 > {2}"
-185_324_452: "Reminders"
-185_445_100: "Set reminder using: {0}reminder set 5m text"
+185_324_452: "Hatırlatıcılar"
+185_445_100: "Şunu kullanarak hatırlatıcı ayarla: {0}reminder set 5m metin"
 
 # reminder_del
-185_015_031: "Please provide an #ID from `{0}reminder list` command or use `all` to delete all reminders"
-185_137_012: "All reminders deleted"
-185_738_103: "Reminder #{0} deleted"
+185_015_031: "`{0}reminder list` komutundan bir #ID belirt veya tümünü silmek için `all` kullan"
+185_137_012: "Tüm hatırlatıcılar silindi"
+185_738_103: "Hatırlatıcı #{0} silindi"
 
 # reminder_set
-185_194_781: "You will be reminded in {0} about:"
+185_194_781: "{0} sonra hatırlatılacaksın:"
 
 # set_reminder
-185_465_541: "<@{0}>: Reminder set. You will be reminded in {1} on this channel"
-185_201_549: "<@{0}>: Reminder set. You will be reminded in {1} on DM"
+185_465_541: "<@{0}>: Hatırlatıcı ayarlandı. {1} sonra bu kanalda hatırlatılacaksın"
+185_201_549: "<@{0}>: Hatırlatıcı ayarlandı. {1} sonra DM üzerinden hatırlatılacaksın"
 
 # on_task_cmd_reminder
-185_271_311: "Reminder <@{0}>:
+185_271_311: "Hatırlatma <@{0}>:
 >>> {1}"
-185_615_982: "Snooze"
+185_615_982: "Ertele"
 
 #############################
 # FILE: tools/cmd_whoiam.py #
 #############################
 # whoiam
-185_570_175: "Text game: I’ve sent you private message with a random character. Let other people try to guess who it is by asking you yes/no questions. The game continues until someone guesses the character correctly. Good luck!"
+185_570_175: "Metin oyunu: Sana rastgele bir karakterle özel mesaj gönderdim. Diğerleri evet/hayır soruları sorarak kim olduğunu tahmin etmeye çalışsın. Biri doğru tahmin edene kadar oyun devam eder. İyi şanslar!"
 
 #############################
 # FILE: tools/cmd_lookup.py #
 #############################
 # cmd_lookup_user
-185_941_999: "The user does not carry the tag of this server."
-185_617_889: "Tag seniority"
+185_941_999: "Kullanıcının bu sunucunun etiketine sahip değil."
+185_617_889: "Etiket kıdemi"
 
 ##############################
 # FILE: levels/cmd_toplvl.py #
 ##############################
 # toplvl
-185_274_612: "-# Ranking was refreshed {0}. Next {1}."
+185_274_612: "-# Sıralama {0} tarihinde yenilendi. Sonraki yenileme: {1}."
 
 ############################
 # FILE: core/cmd_server.py #
 ############################
 # server
-185_291_527: "Server not found"
+185_291_527: "Sunucu bulunamadı"
 
 # add_players_field
-185_975_092: "Players"
+185_975_092: "Oyuncular"
 
 # set_embed_title
-185_861_239: "Map"
-185_921_238: "Ping"
+185_861_239: "Harita"
+185_921_238: "Gecikme (Ping)"
 
 # add_player_list_fields
-185_327_709: "Players"
+185_327_709: "Oyuncular"
 
 ###############################
 # FILE: automations/events.py #
 ###############################
 # on_message_component_automations_modal
-185_148_996: "The form you are trying to open has already been submitted or expired"
-185_992_432: "Formularz"
+185_148_996: "Açmaya çalıştığın form zaten gönderilmiş veya süresi dolmuş."
+185_992_432: "Form"
 
 ############################
 # FILE: economy/cmd_rob.py #
 ############################
 # rob
-185_593_462: "{}% chance of success robbing — Your net worth must be lower than the target's wallet."
+185_593_462: "{}% başarı şansı — Net varlığın hedefin cüzdanından düşük olmalı."
 
 #####################################
 # FILE: economy/cmd_stock_market.py #
 #####################################
 # check_disabled
-185_061_620: "Stock market is disabled"
+185_061_620: "Borsa devre dışı"
 
 # stock_market_sell
-185_804_556: "You just bought those stocks, please wait {0} before you sell them."
+185_804_556: "Bu hisseleri yeni aldın, satmadan önce {0} beklemelisin."
 
 # economy_stockmarket_remove
-185_368_132: "Removed {0} **{1}** from {2} account"
+185_368_132: "{2} hesabından {0} **{1}** kaldırıldı"
 
 # backpack
-185_043_983: "Purchase price: {}Market price: {}Profit: {}"
+185_043_983: "Alış fiyatı: {}Piyasa fiyatı: {}Kâr: {}"
 
 ##############################
 # FILE: economy/cmd_trade.py #
 ##############################
 # generate_embed
-185_188_944: "Money: {0}"
-185_791_965: "Trade completed"
-185_760_774: "Add money to the trade"
-185_622_223: "Remove money from the trade"
+185_188_944: "Para: {0}"
+185_791_965: "Takas tamamlandı"
+185_760_774: "Takaşa para ekle"
+185_622_223: "Takaştan para çıkar"
 
 # trade_start
-185_747_395: "You already have a trade with this user in progress - <#{}>."
-185_892_064: "You can't start a trade in a thread."
-185_884_652: "Trade started in <#{}>"
+185_747_395: "Bu kullanıcıyla zaten bir takasın devam ediyor - <#{}>."
+185_892_064: "Bir konu (thread) içinde takas başlatamazsın."
+185_884_652: "Takas <#{}> kanalında başlatıldı"
 
 # get_trade
-185_377_197: "You have to start trade first (with {0} command)"
+185_377_197: "Önce bir takas başlatmalısın ({0} komutuyla)"
 
 # trade_add_money
-185_322_818: "You don't have enough money."
+185_322_818: "Yeterli paran yok."
 
 # trade_rem_money
-185_456_777: "Error: You've provided too much money"
+185_456_777: "Hata: Çok fazla para girdin"
 
 ##################################
 # FILE: economy/cmd_blackjack.py #
 ##################################
 # on_task_cancel_blackjack
-185_756_240: "Timed out."
+185_756_240: "Süre doldu."
 
 ############################
 # FILE: economy/cmd_eco.py #
 ############################
 # economy_set
-185_515_284: "**Role:** {0}
-**Amount:** Cash: ``{1}`` | Bank: ``{2}``
-**Users:** {3}
-**Channel:** {4}
-**Reason:** {5}: /eco set command"
+185_515_284: "**Rol:** {0}
+**Miktar:** Nakit: ``{1}`` | Banka: ``{2}``
+**Kullanıcılar:** {3}
+**Kanal:** {4}
+**Sebep:** {5}: /eco set komutu"
 
 # economy_stockmarket_clear
-185_059_093: "Stocks of user {0} has been cleared."
+185_059_093: "{0} kullanıcısının hisseleri temizlendi."
 
 #########################
 # FILE: economy/case.py #
 #########################
 # on_task_open_case
-185_589_193: "You hit: "
-185_893_126: " - Nothing - empty slot"
-185_130_725: "The chance of drawing this item has been hidden."
+185_589_193: "Kazandığın öğe: "
+185_893_126: " - Hiçbir şey - boş slot"
+185_130_725: "Bu öğeyi çekme olasılığı gizlendi."
 
 #############################
 # FILE: tickets/on_leave.py #
 #############################
 # on_guild_member_remove
-185_268_176: "Ticket closed because the author left the server."
+185_268_176: "Yazar sunucudan ayrıldığı için bilet kapatıldı."
 
 ################################
 # FILE: tickets/on_inactive.py #
 ################################
 # on_task_ticketing_close
-185_560_509: "Ticket closed because there was no activity for {0}"
+185_560_509: "{0} süredir etkinlik olmadığı için bilet kapatıldı."
 
 ############################
 # FILE: tickets/archive.py #
 ############################
 # on_channel_delete
-185_554_175: "Closed by"
+185_554_175: "Kapatan"
 
 #################################################
 # FILE: automations/utils_actions/open_modal.py #
 #################################################
 # open_modal
-185_739_148: "Formularz"
-185_813_008: "Open form"
+185_739_148: "Form"
+185_813_008: "Formu aç"
 
 ###################################################
 # FILE: automations/utils_actions/send_message.py #
 ###################################################
 # __post_message
-185_637_441: "Message from {0}"
+185_637_441: "{0}'dan mesaj"
 
 ############################################
 # FILE: moderation/utils_actions/unmute.py #
 ############################################
 # unmute_user
-185_912_666: "This action had no effect. Provided invalid user or they are not muted."
+185_912_666: "Bu işlem hiçbir etki yaratmadı. Geçersiz kullanıcı belirtilmiş veya kişi zaten susturulmamış."
 
 ##########################################
 # FILE: automod/utils_actions/message.py #
 ##########################################
 # action_message
-185_256_339: "Message from {0}"
+185_256_339: "{0}'dan mesaj"
