@@ -16,6 +16,11 @@
 # economy_set
 185_641_206: "Konum bağımsız değişkeni boş, `cüzdan` veya `banka` olmalıdır."
 185_646_874: "Bakiye güncellendi"
+185_515_284: "**Rol:** {0}
+**Miktar:** Nakit: ``{1}`` | Banka: ``{2}``
+**Kullanıcılar:** {3}
+**Kanal:** {4}
+**Sebep:** {5}: /eco set komutu"
 185_131_598: "**{0}** hesapta işlem tamamlandı."
 185_946_315: "Hiçbir şey olmadı."
 185_189_710: "{0}: /eco ayar komutu"
@@ -38,3 +43,6 @@
 
 # economy_backpack_clear
 185_417_833: "Kullanıcı {0}'ın sırt çantası temizlendi."
+
+# economy_stockmarket_clear
+185_059_093: "{0} kullanıcısının hisseleri temizlendi."

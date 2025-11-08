@@ -1,4 +1,5 @@
 # warns_clear
 185_387_836: "Geçersiz uyarı numarası."
+185_234_606: "Veritabanı isteği işleyemedi. warning_id muhtemelen çok büyük. Tüm uyarıları temizlemek istiyorsan şu komutu kullan: `warns clear-all`."
 185_976_330: "Geçersiz uyarı numarası."
 185_682_869: "#{0} uyarısı silindi"

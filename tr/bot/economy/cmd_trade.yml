@@ -2,17 +2,25 @@
 185_556_186: "öğe-dizini"
 185_848_653: "miktar"
 185_571_141: "öğe"
+185_188_944: "Para: {0}"
+185_791_965: "Takas tamamlandı"
 185_811_335: "Takas"
 185_211_356: "Takasa bir öğe ekle"
 185_192_167: "Bir öğeyi takastan kaldır"
 185_768_088: "olabilir"
+185_760_774: "Takaşa para ekle"
+185_622_223: "Takaştan para çıkar"
 185_005_082: "Takası iptal et"
 185_064_711: "Takas 15 dakika sonra otomatik olarak iptal edilecektir"
 
 # trade_start
+185_747_395: "Bu kullanıcıyla zaten bir takasın devam ediyor - <#{}>."
 185_652_040: "Kendinizle takas yapamazsınız"
+185_892_064: "Bir konu (thread) içinde takas başlatamazsın."
+185_884_652: "Takas <#{}> kanalında başlatıldı"
 
 # get_trade
+185_377_197: "Önce bir takas başlatmalısın ({0} komutuyla)"
 185_625_871: "Siz bu takasın bir parçası değilsiniz"
 
 # cancel_trade
@@ -22,6 +30,12 @@
 185_826_323: "Takası kabul et"
 185_206_351: "Takası iptal et"
 185_115_606: "Takas tarafından kabul edildi"
+
+# trade_add_money
+185_322_818: "Yeterli paran yok."
+
+# trade_rem_money
+185_456_777: "Hata: Çok fazla para girdin"
 
 # trade_add
 185_870_060: "Bir takastaki maksimum öğe miktarına ulaştınız"

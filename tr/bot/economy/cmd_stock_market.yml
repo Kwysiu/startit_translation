@@ -1,3 +1,6 @@
+# check_disabled
+185_061_620: "Borsa devre dışı"
+
 # stock_market_buy
 185_494_327: "Stok bulunamadı"
 185_039_264: "Bu hisse senetlerini satın almak için **{0}** paranız yok."
@@ -6,6 +9,7 @@
 
 # stock_market_sell
 185_038_441: "Stok bulunamadı"
+185_804_556: "Bu hisseleri yeni aldın, satmadan önce {0} beklemelisin."
 185_024_763: "Hiç hisse senediniz yok"
 185_192_362: "Bu stoklar sende yok"
 185_563_081: "Yeterli stoğunuz yok"
@@ -13,6 +17,7 @@
 
 # economy_stockmarket_remove
 185_837_494: "Stok bulunamadı"
+185_368_132: "{2} hesabından {0} **{1}** kaldırıldı"
 
 # stock_market_info
 185_954_227: "Stok bulunamadı"
@@ -26,6 +31,7 @@
 185_384_474: "Sat"
 
 # backpack
+185_043_983: "Alış fiyatı: {}Piyasa fiyatı: {}Kâr: {}"
 185_735_864: "Sırt Çantasında ki Hisse Senetleri"
 
 # stock_market_list

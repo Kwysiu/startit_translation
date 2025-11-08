@@ -11,6 +11,9 @@
 185_715_020: "Dağıtıcının sırası"
 185_093_203: "Miktar"
 
+# on_task_cancel_blackjack
+185_756_240: "Süre doldu."
+
 # do_action
 185_015_403: "İptal edildi."
 185_186_978: "Geç: /blackjack"

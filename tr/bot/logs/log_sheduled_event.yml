@@ -1,0 +1,17 @@
+# format_value
+185_677_330: "Sadece Sunucu"
+185_146_240: "Planlandı"
+185_639_597: "Aktif"
+185_996_030: "Tamamlandı"
+185_687_504: "İptal edildi"
+185_353_295: "Sahne Oturumu"
+185_659_976: "Ses Kanalı"
+185_072_318: "Harici"
+
+# on_guild_audit_log_entry_create
+185_546_865: "Planlı etkinlik oluşturuldu"
+185_675_415: "Sunucuda yeni bir planlı etkinlik oluşturuldu."
+185_505_695: "Planlı etkinlik güncellendi"
+185_348_099: "Sunucuda bir planlı etkinlik güncellendi."
+185_540_888: "Planlı etkinlik silindi"
+185_227_666: "Sunucudan bir planlı etkinlik silindi."

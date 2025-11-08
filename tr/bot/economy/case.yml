@@ -1,5 +1,7 @@
 # on_task_open_case
 185_262_034: "Kasa açıldı!"
+185_589_193: "Kazandığın öğe: "
+185_893_126: " - Hiçbir şey - boş slot"
 185_239_235: "Kasa açıldı. {}"
 185_923_333: "Rol ekleme iznim yok: {}"
 185_542_370: "Böyle bir rol mevcut değil: {}"
@@ -8,3 +10,4 @@
 185_437_037: "Bilinmeyen tip."
 185_332_799: "Vurdun: {}!"
 185_838_221: "Çekme şansınız {}% idi."
+185_130_725: "Bu öğeyi çekme olasılığı gizlendi."

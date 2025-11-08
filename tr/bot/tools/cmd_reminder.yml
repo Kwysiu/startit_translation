@@ -1,0 +1,31 @@
+# on_message_component_reminder_snooze
+185_430_111: "Ertele"
+185_608_812: "Süre"
+185_099_713: "1h 30m"
+
+# on_message_component_reminder_snooze_modal
+185_705_314: "Geçersiz süre formatı. `1h 30m` veya `1d 2h 3m` şeklinde kullan."
+
+# send_embed
+185_992_913: "Henüz bir hatırlatıcı ayarlanmadı. `{0}reminder set 5m metin` komutunu kullanarak bir tane ayarlayabilirsin."
+185_299_469: "#{0}: Hatırlatıcı {1}:
+> {2}"
+185_324_452: "Hatırlatıcılar"
+185_445_100: "Şunu kullanarak hatırlatıcı ayarla: {0}reminder set 5m metin"
+
+# reminder_del
+185_015_031: "`{0}reminder list` komutundan bir #ID belirt veya tümünü silmek için `all` kullan"
+185_137_012: "Tüm hatırlatıcılar silindi"
+185_738_103: "Hatırlatıcı #{0} silindi"
+
+# reminder_set
+185_194_781: "{0} sonra hatırlatılacaksın:"
+
+# set_reminder
+185_465_541: "<@{0}>: Hatırlatıcı ayarlandı. {1} sonra bu kanalda hatırlatılacaksın"
+185_201_549: "<@{0}>: Hatırlatıcı ayarlandı. {1} sonra DM üzerinden hatırlatılacaksın"
+
+# on_task_cmd_reminder
+185_271_311: "Hatırlatma <@{0}>:
+>>> {1}"
+185_615_982: "Ertele"

@@ -1,0 +1,38 @@
+# format_overwrite
+185_102_836: "İzin Verildi"
+185_886_140: "Reddedildi"
+
+# format_value
+185_548_183: "NSFW Etkin"
+185_744_419: "NSFW Devre Dışı"
+185_634_585: "Yazı Kanalı"
+185_839_797: "DM Kanalı"
+185_793_567: "Ses Kanalı"
+185_167_220: "Grup DM Kanalı"
+185_877_031: "Kategori"
+185_278_964: "Duyuru Kanalı"
+185_762_148: "Duyuru Konusu"
+185_116_577: "Genel Konu"
+185_446_704: "Özel Konu"
+185_153_440: "Sahne Kanalı"
+185_868_323: "Dizin Kanalı"
+185_040_912: "Forum Kanalı"
+185_102_931: "Medya Kanalı"
+185_858_974: "Sabitlendi"
+185_579_338: "Etiket Gerektir"
+185_166_924: "Medya indirme seçeneğini gizle"
+
+# on_guild_audit_log_entry_create
+185_048_598: "Kanal oluşturuldu"
+185_763_335: "{0} kanalı oluşturuldu"
+185_874_786: "Kanal güncellendi"
+185_140_337: "{0} kanalı güncellendi"
+185_757_035: "Kanal silindi"
+185_557_194: "Kanal silindi"
+185_419_392: "Kanalı Geri Yükle"
+
+# on_message_component_logs_restore
+185_230_957: "Bir kanalı geri yüklemek için Yönetici iznine sahip olmalısın."
+185_477_649: "Kanal geri yükleme verileri süresi dolmuş."
+185_028_735: "Kanal geri yüklenemedi: {}"
+185_934_549: "Kanal geri yüklendi."

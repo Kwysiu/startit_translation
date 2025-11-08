@@ -1,0 +1,19 @@
+# mass_role
+185_303_884: "Toplu Rol Yönetimi"
+185_558_207: "Bu komut, aynı anda birden fazla kullanıcıya rol eklemeni veya kaldırmanı sağlar. 
+ - `{0}massrole add <mevcut rol> <yeni rol>` komutunu kullanarak mevcut role sahip kullanıcılara yeni bir rol ekleyebilirsin. 
+ - `{0}massrole remove <mevcut rol> <yeni rol>` komutunu kullanarak mevcut role sahip kullanıcılardan yeni rolü kaldırabilirsin. 
+ - `{0}massrole add everyone <rol>` komutuyla tüm sunucu üyelerine bir rol ekleyebilirsin. 
+ - `{0}massrole status` komutuyla toplu rol kuyruğunun mevcut durumunu kontrol edebilirsin."
+
+# mass_role_add
+185_483_989: "Rol <@&{1}> verilecek {0} kullanıcı kuyruğa eklendi"
+
+# mass_role_remove
+185_956_789: "Rol <@&{1}> alınacak {0} kullanıcı kuyruğa eklendi"
+
+# mass_role_action
+185_166_862: "İkinci argümanda everyone rolünü kullanamazsın."
+
+# mass_role_status
+185_958_295: "Şu anda toplu rol değişikliği kuyruğunda {0} kullanıcı var."
