@@ -1,13 +1,13 @@
 # stats_page
 185_642_706: "- **Mensajes Totales:** 
   - {0}
-- **Mensajes en las últimas 24 hours:** 
+- **Mensajes en las últimas 24 horas:** 
   - {1} ({2})
 - **Mensajes en la última semana:** 
   - {3} ({4})
-- **Messages in last month: **
+- **Mensajes en el último mes:**
   - {5} ({6})"
-185_299_535: "Timezone: {0}"
+185_299_535: "Zona horaria: {0}"
 
 # get_embed_title
 185_197_367: "Ranking diario de mensajes"
@@ -19,13 +19,13 @@
 185_747_694: "Ranking por servidor"
 
 # stats
-185_880_308: "## User message leaderboards
-- `{0}stats total` - User leaderboard by total messages
-- `{0}stats day` - User leaderboard by messages in the last 24 hours
-- `{0}stats week` - User leaderboard by messages in the last week
-- `{0}stats month` - User leaderboard by messages in the last month
+185_880_308: "## Rankings de mensajes de usuarios
+- `{0}stats total` - Ranking de usuarios por mensajes totales
+- `{0}stats day` - Ranking de usuarios por mensajes en las últimas 24 horas
+- `{0}stats week` - Ranking de usuarios por mensajes en la última semana
+- `{0}stats month` - Ranking de usuarios por mensajes en el último mes
 
-## Server statistics
-- `{0}stats guild` - Statistics from all channels
-- `{0}stats channel <channel>` - Channel statistics
-- `{0}stats user <user>` - User statistics"
+## Estadísticas del servidor
+- `{0}stats guild` - Estadísticas de todos los canales
+- `{0}stats channel <canal>` - Estadísticas del canal
+- `{0}stats user <usuario>` - Estadísticas del usuario"
