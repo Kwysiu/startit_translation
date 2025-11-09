@@ -2,4 +2,8 @@
 185_387_836: "Nieprawidłowe ID ostrzeżenia."
 185_234_606: "Baza danych nie mogła przetworzyć żądania. Numer ostrzeżenia jest prawdopodobnie zbyt duży. Jeśli chcesz usunąć wszystkie ostrzeżenia, użyj komendy: `warns clear-all`."
 185_976_330: "Nieprawidłowe ID ostrzeżenia."
-185_682_869: "Skasowano #{0} ostrzeżenie"
+
+# unwarn_user
+185_538_744: "Numer ostrzeżenia"
+185_204_766: "Treść ostrzeżenia"
+185_331_398: "Punkty ostrzeżenia"

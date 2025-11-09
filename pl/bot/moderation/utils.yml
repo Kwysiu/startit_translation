@@ -9,11 +9,16 @@
 185_258_050: "Odciszono użytkownika"
 185_632_395: "Odbanowano użytkownika"
 185_601_548: "Został nadany {0} punkt ostrzeżeń"
+185_062_255: "Usunięto punkty ostrzeżeń"
 185_875_745: "Użytkownik"
 185_660_558: "Moderator"
 185_238_144: "Powód"
 185_559_044: "ID kary"
 185_385_995: "Czas trwania"
+
+# modlog_edit
+185_781_713: "[EDYCJA] Nieaktualne!"
+185_514_163: "{0}: Kara usunięta przez {1} z powodu: {2}"
 
 # modlog_send_legacy
 185_673_072: "Przez:"

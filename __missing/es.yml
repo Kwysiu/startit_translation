@@ -207,3 +207,10 @@
 185_061_467: "A thread has been updated in the server."
 185_094_030: "Thread deleted"
 185_632_586: "A thread has been deleted in the server."
+
+#############################
+# FILE: moderation/utils.py #
+#############################
+# modlog_edit
+185_781_713: "[EDIT] Outdated!"
+185_514_163: "{0}: Punishment removed by {1} for reason: {2}"

@@ -275,6 +275,13 @@
 # warns_clear
 185_234_606: "Database couldn't process the request. The warning_id is probably too big. If you are trying to clear all warnings, use command: `warns clear-all`."
 
+#############################
+# FILE: moderation/utils.py #
+#############################
+# modlog_edit
+185_781_713: "[EDIT] Outdated!"
+185_514_163: "{0}: Punishment removed by {1} for reason: {2}"
+
 #####################################
 # FILE: moderation/cmd_mass_role.py #
 #####################################

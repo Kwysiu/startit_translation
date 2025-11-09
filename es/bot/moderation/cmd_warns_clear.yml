@@ -2,4 +2,3 @@
 185_387_836: "ID de advertencia inválido."
 185_234_606: "La base de datos no pudo procesar la solicitud. El warning_id probablemente es demasiado grande. Si intentas borrar todas las advertencias, usa el comando: `warns clear-all`."
 185_976_330: "ID de advertencia inválido."
-185_682_869: "Advertencia #{0} eliminada"

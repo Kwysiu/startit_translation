@@ -9,11 +9,16 @@
 185_258_050: "User has been unmuted"
 185_632_395: "User has been unbanned"
 185_601_548: "{0} warning point has been given"
+185_062_255: "Warning points have been removed"
 185_875_745: "User"
 185_660_558: "Moderator"
 185_238_144: "Reason"
 185_559_044: "Punishment ID"
 185_385_995: "Duration"
+
+# modlog_edit
+185_781_713: "[EDIT] Outdated!"
+185_514_163: "{0}: Punishment removed by {1} for reason: {2}"
 
 # modlog_send_legacy
 185_673_072: "By:"

@@ -1,0 +1,12 @@
+# Dear Translator.
+# For your convenience, we have collected all missing translations here.
+# All you need to do is translate this file and upload changes to the repository.
+# We will take care of moving your translations to the correct folders and files.
+
+
+#############################
+# FILE: moderation/utils.py #
+#############################
+# modlog_edit
+185_781_713: "[EDIT] Outdated!"
+185_514_163: "{0}: Punishment removed by {1} for reason: {2}"
