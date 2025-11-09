@@ -275,9 +275,17 @@
 # warns_clear
 185_234_606: "Database couldn't process the request. The warning_id is probably too big. If you are trying to clear all warnings, use command: `warns clear-all`."
 
+# unwarn_user
+185_538_744: "Warning number"
+185_204_766: "Warning text"
+185_331_398: "Warning points"
+
 #############################
 # FILE: moderation/utils.py #
 #############################
+# modlog_embed
+185_062_255: "Warning points have been removed"
+
 # modlog_edit
 185_781_713: "[EDIT] Outdated!"
 185_514_163: "{0}: Punishment removed by {1} for reason: {2}"

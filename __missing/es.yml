@@ -208,9 +208,20 @@
 185_094_030: "Thread deleted"
 185_632_586: "A thread has been deleted in the server."
 
+#######################################
+# FILE: moderation/cmd_warns_clear.py #
+#######################################
+# unwarn_user
+185_538_744: "Warning number"
+185_204_766: "Warning text"
+185_331_398: "Warning points"
+
 #############################
 # FILE: moderation/utils.py #
 #############################
+# modlog_embed
+185_062_255: "Warning points have been removed"
+
 # modlog_edit
 185_781_713: "[EDIT] Outdated!"
 185_514_163: "{0}: Punishment removed by {1} for reason: {2}"
