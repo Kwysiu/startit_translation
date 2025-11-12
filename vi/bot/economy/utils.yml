@@ -5,11 +5,11 @@
 # custom_reply
 185_647_835: "
 
-Thử lại <t:{0}:R>  
+Thử lại {0}  
 Số dư: {1}"
 185_190_040: "
 
-Kiếm thêm <t:{0}:R>  
+Kiếm thêm {0}  
 Số dư: {1}"
 
 # modlog_send

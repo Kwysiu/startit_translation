@@ -2,7 +2,7 @@
 185_041_583: "Bạn đã đạt giới hạn vé mở: <#{}>."
 
 # before_open_ticket
-185_367_480: "Bạn không có quyền tạo vé này."
+185_367_480: "Bạn không có quyền tạo vé này. Required roles: {0}"
 185_810_724: "Bạn không thể tạo vé, vì bạn có vai trò bị cấm: <@&{0}>"
 185_419_706: "Vé"
 

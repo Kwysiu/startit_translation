@@ -361,12 +361,6 @@
 185_941_999: "The user does not carry the tag of this server."
 185_617_889: "Tag seniority"
 
-##############################
-# FILE: levels/cmd_toplvl.py #
-##############################
-# toplvl
-185_274_612: "-# Ranking was refreshed {0}. Next {1}."
-
 ############################
 # FILE: core/cmd_server.py #
 ############################
