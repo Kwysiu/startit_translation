@@ -8,139 +8,139 @@
 # FILE: giveaways/remove_tag.py #
 #################################
 # on_guild_member_update
-185_862_897: "Please restore our server tag. Failing to do so in {0} will **remove you from the giveaway** and you will never be able to join ever again."
+185_862_897: "Пожалуйста, верните тег нашего сервера. Если вы не сделаете этого в течение {0}, вы будете **исключены из розыгрыша** и больше никогда не сможете принять в нем участие"
 
 ###########################################
 # FILE: giveaways/giveaway_participate.py #
 ###########################################
 # on_message_component_giveaway
-185_001_648: "You haven't set the server tag. Do it in the user settings -> Profiles. {0}"
-185_178_362: "You are excluded from this event."
+185_001_648: "Вы не установили тег сервера. Сделайте это в настройках -> Профили {0}"
+185_178_362: "Вы исключены из этого события"
 
 ###############################
 # FILE: activity/cmd_stats.py #
 ###############################
 # stats_page
-185_642_706: "- **Total messages:** 
+185_642_706: "- **Всего сообщений:** 
   - {0}
-- **Messages in last 24 hours:** 
+- **За последние 24 часа:** 
   - {1} ({2})
-- **Messages in last week:** 
+- **За последнюю неделю:** 
   - {3} ({4})
-- **Messages in last month: **
+- **За последний месяц: **
   - {5} ({6})"
-185_299_535: "Timezone: {0}"
+185_299_535: "Часовой пояс: {0}"
 
 # get_embed_title
-185_197_367: "Daily message leaderboard"
-185_279_945: "Weekly message leaderboard"
-185_553_373: "Monthly message leaderboard"
-185_273_401: "Channel message leaderboard"
-185_172_530: "User message leaderboard"
-185_582_011: "Total message leaderboard"
-185_747_694: "Guild message leaderboard"
+185_197_367: "Ежедневная таблица лидеров"
+185_279_945: "Еженедельная таблица лидеров"
+185_553_373: "Ежемесячная таблица лидеров"
+185_273_401: "Рейтинг сообщений канала"
+185_172_530: "Рейтинг сообщений юзеров"
+185_582_011: "Общий рейтинг сообщений"
+185_747_694: "Рейтинг сообщений сервера"
 
 # stats
-185_880_308: "## User message leaderboards
-- `{0}stats total` - User leaderboard by total messages
-- `{0}stats day` - User leaderboard by messages in the last 24 hours
-- `{0}stats week` - User leaderboard by messages in the last week
-- `{0}stats month` - User leaderboard by messages in the last month
+185_880_308: "## Рейтинг сообщений юзеров
+- `{0}stats total` - Общее количество
+- `{0}stats day` - За последние 24 часа
+- `{0}stats week` - За последнюю неделю
+- `{0}stats month` - За последний месяц
 
-## Server statistics
-- `{0}stats guild` - Statistics from all channels
-- `{0}stats channel <channel>` - Channel statistics
-- `{0}stats user <user>` - User statistics"
+## Статистика сервера
+- `{0}stats guild` - Все каналы
+- `{0}stats channel <channel>` - Выбранный канал
+- `{0}stats user <user>` - Выбранный юзер"
 
 ##################################
 # FILE: autoresponder/replies.py #
 ##################################
 # action
-185_946_575: "Message from {0}"
+185_946_575: "Сообщение от {0}"
 
 ############################
 # FILE: images/cmd_nasa.py #
 ############################
 # nasa
-185_719_907: "Random NASA imaga"
-185_408_281: "More info"
+185_719_907: "Случайное изображение NASA"
+185_408_281: "Подробнее"
 
 #################################
 # FILE: logs/log_role_update.py #
 #################################
 # on_guild_audit_log_entry_create
-185_536_257: "Role created"
-185_705_318: "{0} role has been created"
-185_692_168: "Role updated"
-185_636_216: "Role {0} has been updated"
-185_126_155: "Role deleted"
-185_867_679: "Role has been deleted"
+185_536_257: "Роль создана"
+185_705_318: "Создана роль {0}"
+185_692_168: "Роль обновлена"
+185_636_216: "Обновлена роль {0}"
+185_126_155: "Роль удалена"
+185_867_679: "Роль удалена"
 
 ###############################
 # FILE: logs/messageUpdate.py #
 ###############################
 # on_message_update
-185_535_420: "Message was edited on {}. [Go to message]({})"
+185_535_420: "Сообщение изменено в {}. [Перейти к сообщению]({})"
 
 ####################################
 # FILE: logs/log_sheduled_event.py #
 ####################################
 # format_value
-185_677_330: "Guild Only"
-185_146_240: "Scheduled"
-185_639_597: "Active"
-185_996_030: "Completed"
-185_687_504: "Canceled"
+185_677_330: "Только сервер"
+185_146_240: "Запланировано"
+185_639_597: "Активно"
+185_996_030: "Завершено"
+185_687_504: "Отменено"
 185_353_295: "Stage Instance"
-185_659_976: "Voice Channel"
-185_072_318: "External"
+185_659_976: "Войс"
+185_072_318: "Внешний"
 
 # on_guild_audit_log_entry_create
-185_546_865: "Scheduled event created"
-185_675_415: "A new scheduled event has been created in the server."
-185_505_695: "Scheduled event updated"
-185_348_099: "A scheduled event has been updated in the server."
-185_540_888: "Scheduled event deleted"
-185_227_666: "A scheduled event has been deleted from the server."
+185_546_865: "Создано запланированное событие"
+185_675_415: "Создано новое запланированное событие на сервере"
+185_505_695: "Событие обновлено"
+185_348_099: "Запланированное событие обновлено"
+185_540_888: "Событие удалено"
+185_227_666: "Запланированное событие удалено"
 
 ###################################
 # FILE: logs/log_invite_update.py #
 ###################################
 # format_value
-185_471_955: "Temporary, kick when offline"
-185_072_635: "Guest invite for a voice channel"
+185_471_955: "Временное: кикнуть, когда не в сети"
+185_072_635: "Гостевое приглашение в войс"
 
 # on_guild_audit_log_entry_create
-185_929_901: "Invite created"
-185_534_661: "Invite updated"
-185_350_302: "Invite deleted"
+185_929_901: "Приглашение создано"
+185_534_661: "Приглашение обновлено"
+185_350_302: "Приглашение удалено"
 
 ####################################
 # FILE: logs/log_webhook_update.py #
 ####################################
 # on_guild_audit_log_entry_create
-185_048_277: "Webhook created"
-185_257_694: "Webhook on channel {} has been created"
-185_775_524: "Webhook updated"
-185_817_938: "Webhook on channel {} has been updated"
-185_998_024: "Webhook deleted"
+185_048_277: "Вебхук создан"
+185_257_694: "Создан вебхук на канал {}"
+185_775_524: "Вебхук обновлён"
+185_817_938: "Обновлён вебхук на канал {}"
+185_998_024: "Вебхук удалён"
 
 #########################
 # FILE: logs/log_pin.py #
 #########################
 # on_guild_audit_log_entry_create
-185_473_578: "Message pinned"
-185_344_365: "Message unpinned"
-185_462_209: "Message"
+185_473_578: "Сообщение закреплено"
+185_344_365: "Сообщение откреплено"
+185_462_209: "Сообщение"
 185_644_619: "ID"
-185_307_832: "Jump to message"
+185_307_832: "Перейти к сообщению"
 
 ##################################
 # FILE: logs/log_guild_update.py #
 ##################################
 # on_guild_audit_log_entry_create
-185_249_704: "Guild updated"
-185_929_078: "Guild settings have been updated"
+185_249_704: "Сервер обновлён"
+185_929_078: "Настройки сервера обновлены"
 
 ####################################
 # FILE: logs/log_sticker_update.py #
