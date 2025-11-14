@@ -221,12 +221,12 @@
 # FILE: logs/log_stage_update.py #
 ##################################
 # on_guild_audit_log_entry_create
-185_174_381: "Started stage on channel"
-185_901_802: "Stage has been started on channel {0}"
-185_100_859: "Updated stage on channel"
-185_837_101: "Stage has been updated on channel {0}"
-185_242_380: "Ended stage on channel"
-185_753_710: "Stage has been ended on channel {0}"
+185_174_381: "Началась трибуна"
+185_901_802: "Началась трибуна в {0}"
+185_100_859: "Трибуна обновлена"
+185_837_101: "Трибуна обновлена в {0}"
+185_242_380: "Трибуна закончилась"
+185_753_710: "Трибуна закончилась в {0}"
 
 ############################
 # FILE: logs/voiceState.py #
@@ -242,146 +242,146 @@
 185_862_480: "Нет"
 
 # on_guild_audit_log_entry_create
-185_271_322: "Member updated"
-185_035_921: "User {0} has been updated"
-185_332_598: "Bot added"
-185_826_043: "Bot {0} has been added to the server by {1}"
+185_271_322: "Участник обновлён"
+185_035_921: "Обновлён юзер {0}"
+185_332_598: "Добавлен бот"
+185_826_043: "{1} добавил бота {0} на сервер"
 
 ###########################
 # FILE: logs/cmd_snipe.py #
 ###########################
 # snipe
-185_547_777: "To use this command you have to enable message logs channel in bot dashboard."
-185_379_550: "There are no deleted messages yet."
-185_787_566: "Reset message logs via `{0}snipe clear` command"
+185_547_777: "Для использования этой команды необходимо включить лог сообщений в панели управления"
+185_379_550: "Пока нет удалённых сообщений"
+185_787_566: "Сброс логов сообщений с помощью команды `{0}snipe clear`"
 
 # snipe_clear
-185_343_531: "Successfully cleared last message logs."
+185_343_531: "Успешно очищены логи последних сообщений"
 
 ###################################
 # FILE: logs/log_thread_create.py #
 ###################################
 # on_guild_audit_log_entry_create
-185_737_760: "Thread created"
-185_044_450: "A new thread has been created in the server."
-185_112_398: "Thread updated"
-185_061_467: "A thread has been updated in the server."
-185_094_030: "Thread deleted"
-185_632_586: "A thread has been deleted in the server."
+185_737_760: "Ветка создана"
+185_044_450: "Создана новая ветка"
+185_112_398: "Ветка обновлена"
+185_061_467: "Ветка обновлена на сервере"
+185_094_030: "Ветка удалена"
+185_632_586: "Ветка удалена с сервера"
 
 #######################################
 # FILE: moderation/cmd_warns_clear.py #
 #######################################
 # warns_clear
-185_234_606: "Database couldn't process the request. The warning_id is probably too big. If you are trying to clear all warnings, use command: `warns clear-all`."
+185_234_606: "База данных не смогла обработать запрос. Возможно warning_id слишком большой. Если вы хотите удалить все предупреждения, используйте команду: `warns clear-all`"
 
 # unwarn_user
-185_538_744: "Warning number"
-185_204_766: "Warning text"
-185_331_398: "Warning points"
+185_538_744: "Номер варна"
+185_204_766: "Текст варна"
+185_331_398: "Очки варна"
 
 #############################
 # FILE: moderation/utils.py #
 #############################
 # modlog_embed
-185_062_255: "Warning points have been removed"
+185_062_255: "Очки варна сняты"
 
 # modlog_edit
-185_781_713: "[EDIT] Outdated!"
-185_514_163: "{0}: Punishment removed by {1} for reason: {2}"
+185_781_713: "[ПРАВКА] Устарело!"
+185_514_163: "{0}: Наказание снято по запросу {1} по причине: {2}"
 
 #####################################
 # FILE: moderation/cmd_mass_role.py #
 #####################################
 # mass_role
-185_303_884: "Mass Role Management"
-185_558_207: "This command allows you to add or remove a role from multiple users at once. 
- - Use `{0}massrole add <existing role> <new role>` to add new role to users with the existing role. 
- - Use `{0}massrole remove <existing role> <new role>` to remove the new role from users with the existing role. 
- - Use `{0}massrole add everyone <role>` to add a role to all server members. 
- - Use `{0}massrole status` to check the current status of the mass role queue."
+185_303_884: "Управление массролью"
+185_558_207: "Эта команда позволяет одновременно добавлять или снимать роль для нескольких пользователей
+ - Используйте `{0}massrole add <существующая роль> <новая роль>`, чтобы добавить новую роль пользователям с существующей ролью
+ - Используйте `{0}massrole remove <существующая роль> <новая роль>`, чтобы удалить новую роль у пользователей с существующей ролью 
+ - Используйте `{0}massrole add everyone <роль>`, чтобы добавить роль всем участникам сервера
+ - Используйте `{0}massrole status`, чтобы проверить текущий статус очереди массовых ролей"
 
 # mass_role_add
-185_483_989: "Added {0} users to queue for receiving the role <@&{1}>"
+185_483_989: "Добавлено {0} пользователей  в очередь для получения роли <@&{1}>"
 
 # mass_role_remove
-185_956_789: "Added {0} users to queue for revoking the role <@&{1}>"
+185_956_789: "Добавлено {0} пользователей в очередь для снятия роли <@&{1}>"
 
 # mass_role_action
-185_166_862: "You cannot use the everyone role in the second argument."
+185_166_862: "Вы не можете использовать everyone во втором аргументе"
 
 # mass_role_status
-185_958_295: "There are currently {} users in the queue for mass role changes."
+185_958_295: "В настоящее время {} пользователей находится в очереди на массовое изменение ролей"
 
 ###############################
 # FILE: tools/cmd_reminder.py #
 ###############################
 # on_message_component_reminder_snooze
-185_430_111: "Snooze"
-185_608_812: "Time"
-185_099_713: "1h 30m"
+185_430_111: "Отложить"
+185_608_812: "Время"
+185_099_713: "1ч 30м"
 
 # on_message_component_reminder_snooze_modal
-185_705_314: "Invalid time format. Use `1h 30m` or `1d 2h 3m`"
+185_705_314: "Неверный формат времени. Используйте `1h 30m` или `1d 2h 3m`"
 
 # send_embed
-185_992_913: "There are no reminders set. Use `{0}reminder set 5m text` to set one"
-185_299_469: "#{0}: Reminder {1}:
+185_992_913: "Напоминания не установлены. Используйте `{0}reminder set 5m текст`, чтобы установить одно"
+185_299_469: "#{0}: Напоминание {1}:
 > {2}"
-185_324_452: "Reminders"
-185_445_100: "Set reminder using: {0}reminder set 5m text"
+185_324_452: "Напоминания"
+185_445_100: "Установите напоминание, используя: `{0}reminder set 5m text`"
 
 # reminder_del
-185_015_031: "Please provide an #ID from `{0}reminder list` command or use `all` to delete all reminders"
-185_137_012: "All reminders deleted"
-185_738_103: "Reminder #{0} deleted"
+185_015_031: "Укажите #ID из команды `{0}reminder list` или используйте `all`, чтобы удалить все напоминания"
+185_137_012: "Все напоминания удалены"
+185_738_103: "Напоминание #{0} удалено"
 
 # reminder_set
-185_194_781: "You will be reminded in {0} about:"
+185_194_781: "В {0} вам напомнят о:"
 
 # set_reminder
-185_465_541: "<@{0}>: Reminder set. You will be reminded in {1} on this channel"
-185_201_549: "<@{0}>: Reminder set. You will be reminded in {1} on DM"
+185_465_541: "<@{0}>: Напоминание установлено. Вы будете упомянуты в {1} на этом канале"
+185_201_549: "<@{0}>: Напоминание установлено. Вы будете упомянуты в {1} в ЛС"
 
 # on_task_cmd_reminder
-185_271_311: "Reminder <@{0}>:
+185_271_311: "Напоминание <@{0}>:
 >>> {1}"
-185_615_982: "Snooze"
+185_615_982: "Отложить"
 
 #############################
 # FILE: tools/cmd_whoiam.py #
 #############################
 # whoiam
-185_570_175: "Text game: I’ve sent you private message with a random character. Let other people try to guess who it is by asking you yes/no questions. The game continues until someone guesses the character correctly. Good luck!"
+185_570_175: "Текстовая игра: я отправил вам личное сообщение со случайным персонажем. Пусть другие люди попробуют угадать, кто это, задавая вам вопросы да/нет. Игра продолжается, пока кто-нибудь не угадает персонажа. Удачи!"
 
 #############################
 # FILE: tools/cmd_lookup.py #
 #############################
 # cmd_lookup_user
-185_941_999: "The user does not carry the tag of this server."
-185_617_889: "Tag seniority"
+185_941_999: "Пользователь не имеет тега этого сервера"
+185_617_889: "Теги по стажу"
 
 ##############################
 # FILE: levels/cmd_toplvl.py #
 ##############################
 # toplvl
-185_274_612: "-# Ranking was refreshed {0}. Next {1}."
+185_274_612: "-# Рейтинг обновлен {0}. Следующий {1}"
 
 ############################
 # FILE: core/cmd_server.py #
 ############################
 # server
-185_291_527: "Server not found"
+185_291_527: "Сервер не найден"
 
 # add_players_field
-185_975_092: "Players"
+185_975_092: "Игроки"
 
 # set_embed_title
-185_861_239: "Map"
-185_921_238: "Ping"
+185_861_239: "Карта"
+185_921_238: "Пинг"
 
 # add_player_list_fields
-185_327_709: "Players"
+185_327_709: "Игроки"
 
 ###############################
 # FILE: automations/events.py #
