@@ -387,26 +387,26 @@
 # FILE: automations/events.py #
 ###############################
 # on_message_component_automations_modal
-185_148_996: "The form you are trying to open has already been submitted or expired"
-185_992_432: "Formularz"
+185_148_996: "Форма, которую вы пытаетесь открыть, уже отправлена или истекла"
+185_992_432: "Бланк"
 
 ############################
 # FILE: economy/cmd_rob.py #
 ############################
 # rob
-185_593_462: "{}% chance of success robbing — Your net worth must be lower than the target's wallet."
+185_593_462: "{}% шанс успешного ограбления — Ваша чистая стоимость должна быть меньше суммы в кошельке цели"
 
 #####################################
 # FILE: economy/cmd_stock_market.py #
 #####################################
 # check_disabled
-185_061_620: "Stock market is disabled"
+185_061_620: "Рынок акций отключен"
 
 # stock_market_sell
-185_804_556: "You just bought those stocks, please wait {0} before you sell them."
+185_804_556: "Вы только что купили эти акции, пожалуйста, подождите {0}, прежде чем продавать их"
 
 # economy_stockmarket_remove
-185_368_132: "Removed {0} **{1}** from {2} account"
+185_368_132: "Удалено {0} **{1}** с аккаунта {2}"
 
 # backpack
 185_043_983: "Purchase price: {}Market price: {}Profit: {}"
@@ -416,122 +416,122 @@
 ##############################
 # generate_embed
 185_556_186: "item-index"
-185_848_653: "amount"
-185_571_141: "item"
-185_188_944: "Money: {0}"
-185_791_965: "Trade completed"
-185_811_335: "Trade"
-185_211_356: "Add an item to the trade"
-185_192_167: "Remove an item from the trade"
-185_768_088: "can be"
-185_760_774: "Add money to the trade"
-185_622_223: "Remove money from the trade"
-185_005_082: "Cancel the trade"
-185_064_711: "Transaction will be cancelled automatically after 15 minutes"
+185_848_653: "сумма"
+185_571_141: "предмет"
+185_188_944: "Средства: {0}"
+185_791_965: "Сделка завершена"
+185_811_335: "Торговля"
+185_211_356: "Добавить товар в торговлю"
+185_192_167: "Удалить товар из торговли"
+185_768_088: "может быть"
+185_760_774: "Добавить средства в сделку"
+185_622_223: "Удалить средства из сделки"
+185_005_082: "Отменить сделку"
+185_064_711: "Транзакция будет автоматически отменена через 15 минут"
 
 # trade_start
-185_747_395: "You already have a trade with this user in progress - <#{}>."
-185_652_040: "You cannot trade with yourself"
-185_892_064: "You can't start a trade in a thread."
-185_884_652: "Trade started in <#{}>"
+185_747_395: "У вас уже есть незавершенная сделка с этим пользователем - <#{}>"
+185_652_040: "Вы не можете торговать с самим собой"
+185_892_064: "Вы не можете начать торговлю в ветке"
+185_884_652: "Сделка началась в <#{}>"
 
 # get_trade
-185_377_197: "You have to start trade first (with {0} command)"
-185_625_871: "You are not part of this trade"
+185_377_197: "Сначала нужно начать торговлю (командой {0})"
+185_625_871: "Вы не участвуете в этой сделке"
 
 # cancel_trade
-185_504_987: "Trade cancelled"
+185_504_987: "Сделка отменена"
 
 # gen_buttons
-185_826_323: "Accept trade"
-185_206_351: "Cancel trade"
-185_115_606: "Trade accepted by"
+185_826_323: "Принять сделку"
+185_206_351: "Отклонить сделку"
+185_115_606: "Сделку принял"
 
 # trade_add_money
-185_322_818: "You don't have enough money."
+185_322_818: "У вас недостаточно средств"
 
 # trade_rem_money
-185_456_777: "Error: You've provided too much money"
+185_456_777: "Ошибка: Вы указали слишком большую сумму денег"
 
 # trade_add
-185_870_060: "You have reached the maximum amount of items in a trade"
+185_870_060: "Вы достигли максимального количества предметов в сделке"
 
 # on_message_component_trade_accept
-185_987_887: "Invalid trade ID"
-185_163_101: "You are not part of this trade"
-185_823_091: "You have already accepted this trade"
-185_561_215: "Cannot accept an outdated trade"
-185_601_175: "Trade completed"
+185_987_887: "Неверный ID сделки"
+185_163_101: "Вы не участвуете в этой сделке"
+185_823_091: "Вы уже приняли эту сделку"
+185_561_215: "Невозможно принять устаревшую сделку"
+185_601_175: "Сделка завершена"
 
 # trade_remove
-185_365_430: "Invalid item index"
+185_365_430: "Неверный индекс предмета"
 
 ##################################
 # FILE: economy/cmd_blackjack.py #
 ##################################
 # on_task_cancel_blackjack
-185_756_240: "Timed out."
+185_756_240: "Время истекло"
 
 ############################
 # FILE: economy/cmd_eco.py #
 ############################
 # economy_set
-185_515_284: "**Role:** {0}
-**Amount:** Cash: ``{1}`` | Bank: ``{2}``
-**Users:** {3}
-**Channel:** {4}
-**Reason:** {5}: /eco set command"
+185_515_284: "**Роль:** {0}
+**Сумма:** Наличные: ``{1}`` | Банк: ``{2}``
+**Юзеры:** {3}
+**Канал:** {4}
+**Причина:** {5}: команда /eco set"
 
 # economy_stockmarket_clear
-185_059_093: "Stocks of user {0} has been cleared."
+185_059_093: "Акции пользователя {0} очищены"
 
 #########################
 # FILE: economy/case.py #
 #########################
 # on_task_open_case
-185_589_193: "You hit: "
-185_893_126: " - Nothing - empty slot"
-185_130_725: "The chance of drawing this item has been hidden."
+185_589_193: "Вы попали: "
+185_893_126: " - Ничего - пустой слот"
+185_130_725: "Шанс выпадения этого предмета скрыт"
 
 #############################
 # FILE: tickets/on_leave.py #
 #############################
 # on_guild_member_remove
-185_268_176: "Ticket closed because the author left the server."
+185_268_176: "Билет закрыт, так как автор покинул сервер"
 
 ################################
 # FILE: tickets/on_inactive.py #
 ################################
 # on_task_ticketing_close
-185_560_509: "Ticket closed because there was no activity for {0}"
+185_560_509: "Билет закрыт, так как в течение {0} не было никакой активности"
 
 ############################
 # FILE: tickets/archive.py #
 ############################
 # on_channel_delete
-185_554_175: "Closed by"
+185_554_175: "Закрыл"
 
 #################################################
 # FILE: automations/utils_actions/open_modal.py #
 #################################################
 # open_modal
-185_739_148: "Formularz"
-185_813_008: "Open form"
+185_739_148: "Бланк"
+185_813_008: "Открыть форму"
 
 ###################################################
 # FILE: automations/utils_actions/send_message.py #
 ###################################################
 # __post_message
-185_637_441: "Message from {0}"
+185_637_441: "Сообщение от {0}"
 
 ############################################
 # FILE: moderation/utils_actions/unmute.py #
 ############################################
 # unmute_user
-185_912_666: "This action had no effect. Provided invalid user or they are not muted."
+185_912_666: "Это действие не дало результата. Указан недействительный пользователь или он не в муте"
 
 ##########################################
 # FILE: automod/utils_actions/message.py #
 ##########################################
 # action_message
-185_256_339: "Message from {0}"
+185_256_339: "Сообщение от {0}"
