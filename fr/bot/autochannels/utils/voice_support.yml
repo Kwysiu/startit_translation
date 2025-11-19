@@ -1,4 +1,4 @@
 # create_notification
-185_793_378: "{} membre <@{}> [@{}] a rejoint <t:{}:R> dans salon <#{}>!"
+185_793_378: "{} membre <@{}> [@{}] a rejoint {} dans salon <#{}>!"
 185_960_139: "Déplacer dans mon salon vocal"
 185_759_295: "Déplacer dans un salon temporaire"
