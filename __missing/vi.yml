@@ -388,7 +388,7 @@
 ###############################
 # on_message_component_automations_modal
 185_148_996: "The form you are trying to open has already been submitted or expired"
-185_992_432: "Formularz"
+185_992_432: "Form"
 
 ############################
 # FILE: economy/cmd_rob.py #
@@ -489,7 +489,7 @@
 # FILE: automations/utils_actions/open_modal.py #
 #################################################
 # open_modal
-185_739_148: "Formularz"
+185_739_148: "Form"
 185_813_008: "Open form"
 
 ###################################################
