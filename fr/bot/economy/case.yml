@@ -1,5 +1,7 @@
 # on_task_open_case
 185_262_034: "La caisse a été ouverte!"
+185_589_193: "Tu obtient : "
+185_893_126: " - Rien - emplacement vide"
 185_239_235: "Caisse ouverte. {}"
 185_923_333: "Je n'ai pas la permission d'ajouter le rôle: {}"
 185_542_370: "Ce rôle n'existe pas: {}"
@@ -8,3 +10,4 @@
 185_437_037: "Type inconnu."
 185_332_799: "Tu as obtenu : {}!"
 185_838_221: "Tu avais {}% de chance de l'avoir."
+185_130_725: "La chance d'obtenir cet objet est secrète."

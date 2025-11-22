@@ -1,0 +1,31 @@
+# on_message_component_reminder_snooze
+185_430_111: "Répéter"
+185_608_812: "Dans"
+185_099_713: "1h 30m"
+
+# on_message_component_reminder_snooze_modal
+185_705_314: "Format de temps invalide. utilise `1h 30m` ou `1d 2h 3m`"
+
+# send_embed
+185_992_913: "Aucun rappel. Utilise `{0}reminder set 5m [texte]` pour en créer un"
+185_299_469: "#{0}: Rappel {1}:
+> {2}"
+185_324_452: "Rappels"
+185_445_100: "Créer un rappel en utilisant: {0}reminder set 5m texte"
+
+# reminder_del
+185_015_031: "Merci de mettre un #ID de `{0}reminder list` ou de mettre `all` pour supprimer tout les rappels"
+185_137_012: "Tout les rappels ont été supprimés"
+185_738_103: "Rappel #{0} supprimé"
+
+# reminder_set
+185_194_781: "Tu sera notifié dans {0} à propos de:"
+
+# set_reminder
+185_465_541: "<@{0}>: Rappel créé. Tu sera notifié dans {1} dans ce salon"
+185_201_549: "<@{0}>: Rappel créé. Tu sera notifié dans {1} en MP"
+
+# on_task_cmd_reminder
+185_271_311: "Rappel <@{0}>:
+>>> {1}"
+185_615_982: "Répéter"

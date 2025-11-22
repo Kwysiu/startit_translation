@@ -1,3 +1,4 @@
 # warns_clear
 185_387_836: "ID d'avertissement invalide."
+185_234_606: "La base de donnée n'a pas pu traiter la requête. Le warning_id est probablement trop grand. Si tu essaie de purger tout les warns, utilise : `warns clear-all`."
 185_976_330: "ID d'avertissement invalide."

@@ -11,6 +11,9 @@
 185_715_020: "Main du croupier"
 185_093_203: "Valeur"
 
+# on_task_cancel_blackjack
+185_756_240: "Annulé."
+
 # do_action
 185_015_403: "Annulé."
 185_186_978: "Passer : /blackjack"

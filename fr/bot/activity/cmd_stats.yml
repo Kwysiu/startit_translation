@@ -1,0 +1,31 @@
+# stats_page
+185_642_706: "- **Messages totaux:** 
+  - {0}
+- **Messages dans les dernières 24 heures:** 
+  - {1} ({2})
+- **Messages dans la semaine :** 
+  - {3} ({4})
+- **Messages dans le mois: **
+  - {5} ({6})"
+185_299_535: "Fuseau Horaire: {0}"
+
+# get_embed_title
+185_197_367: "Classement quotidien des messages"
+185_279_945: "Classement hebdomadaire des messages"
+185_553_373: "Classement mensuel des messages"
+185_273_401: "Classement des message dans un salon"
+185_172_530: "Classement des messages des membres"
+185_582_011: "Classement des messages totaux"
+185_747_694: "Classement des messages de serveurs"
+
+# stats
+185_880_308: "## Classement des membres par messages
+- `{0}stats total` - Classement des membres par messages totaux
+- `{0}stats day` - Classement des membres dans les dernières 24 heures
+- `{0}stats week` - Classement des membres de cette semaine
+- `{0}stats month` - Classement des membres du mois
+
+## Statistiques du serveur
+- `{0}stats guild` - Statistiques de tout les salons
+- `{0}stats channel <channel>` - Statistiques du salon
+- `{0}stats user <user>` - Statistiques du membre"

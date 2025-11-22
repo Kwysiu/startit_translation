@@ -1,0 +1,19 @@
+# mass_role
+185_303_884: "Distribution de rôles"
+185_558_207: "Cette commande te permet d'ajouter ou retirer un rôle à plusieurs membres à la fois. 
+ - Use `{0}massrole add <rôle ciblé> <rôle à ajouter>` pour ajouter un rôle aux membres qui ont déjà un rôle précis. 
+ - Use `{0}massrole remove <rôle ciblé> <rôle à retirer>` pour retirer rôle aux membres qui ont déjà un rôle précis. 
+ - Use `{0}massrole add everyone <rôle>` pour ajouter un rôle à tout les membres. 
+ - Use `{0}massrole status` pour voir le statut actuel de la file de traitement des distributions."
+
+# mass_role_add
+185_483_989: "{0} membres ajoutés dans la file pour recevoir le rôle <@&{1}>"
+
+# mass_role_remove
+185_956_789: "{0} membres ajoutés dans la file pour perdre le rôle <@&{1}>"
+
+# mass_role_action
+185_166_862: "Tu ne peux pas utiliser le rôle everyone en deuxième argument."
+
+# mass_role_status
+185_958_295: "Il y a actuellement {} membres dans la file pour la distribution de rôle."

@@ -1,3 +1,6 @@
+# check_disabled
+185_061_620: "Le marché d'actions est désactivé"
+
 # stock_market_buy
 185_494_327: "Action introuvable"
 185_039_264: "Tu n'as pas les **{0}** requis pour acheter cette action."
@@ -6,10 +9,14 @@
 
 # stock_market_sell
 185_038_441: "Action introuvable"
+185_804_556: "Tu viens juste d'acheter ces actions, attends {0} avant de les vendre."
 185_024_763: "Tu ne possède aucune action"
 185_192_362: "Tu ne possède pas cette action"
 185_563_081: "Tu n'as pas assez d'actions"
 185_146_252: "Tu as vendu :"
+
+# economy_stockmarket_remove
+185_368_132: "{0} **{1}** supprimé du compte de {2}"
 
 # stock_market_info
 185_954_227: "Action introuvable"
@@ -23,6 +30,7 @@
 185_384_474: "Vendre"
 
 # backpack
+185_043_983: "Prix d'achat: {}Prix du marché: {}Profit: {}"
 185_735_864: "Inventaire d'actions"
 
 # stock_market_list
